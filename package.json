@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-starter-default",
+  "description": "Gatsby default starter",
+  "version": "1.0.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "dependencies": {
+    "gatsby": "^1.9.110",
+    "gatsby-link": "^1.6.27",
+    "gatsby-plugin-react-helmet": "^1.0.8"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "format": "find . -name '*.js' -o -name '*.jsx' | grep -v -f .gitignore | xargs prettier es5 --single-quote --write",
+    "lint": "eslint --ext .js,.jsx --ignore-path .gitignore . --fix",
+    "test": "yarn run format && yarn run lint"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.10.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-react": "^7.4.0",
+    "prettier": "^1.8.2"
+  }
+}
