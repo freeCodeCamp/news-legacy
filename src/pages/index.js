@@ -37,7 +37,7 @@ const IndexPage = ({ data: { allMarkdownRemark: { edges: articles } }}) => {
                     <p>{excerpt}</p>
                   </div>
                   <div className='img-wrapper'>
-                  <img src={coverSrc} alt='' />
+                    <img src={coverSrc} alt='' />
                   </div>
                 </Link>
                 <hr />
