@@ -3,12 +3,17 @@ import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 
+import logo from '../../static/FCC-logo-white.png';
 import './index.css';
+
+const propTypes = {
+  children: PropTypes.func
+};
 
 const Header = () => (
   <div
     style={{
-      background: 'rebeccapurple',
+      background: '#006400',
       marginBottom: '1.45rem'
     }}
     >
@@ -16,10 +21,10 @@ const Header = () => (
       style={{
         margin: '0 auto',
         maxWidth: 960,
-        padding: '1.45rem 1.0875rem'
+        padding: '1.45rem 1.0875rem',
+        paddingBottom: '0'
       }}
       >
-      <h1 style={{ margin: 0 }}>
         <Link
           style={{
             color: 'white',
@@ -27,9 +32,8 @@ const Header = () => (
           }}
           to='/'
           >
-          Gatsby
+          <img alt='freeCodeCamp logo'className='logo' src={logo} style={{width: '28%', marginBottom: '14px' }} title='freeCodeCamp'/>
         </Link>
-      </h1>
     </div>
   </div>
 );
@@ -57,8 +61,6 @@ const TemplateWrapper = ({ children }) => (
   </div>
 );
 
-TemplateWrapper.propTypes = {
-  children: PropTypes.func
-};
+TemplateWrapper.propTypes = propTypes;
 
 export default TemplateWrapper;

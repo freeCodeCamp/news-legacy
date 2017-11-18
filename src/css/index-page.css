@@ -1,0 +1,40 @@
+ul, a {
+  color: #333;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+hr {
+  margin: 15px 0 !important;
+  background-color: hsla(120, 100%, 20%, 0.4) !important;
+}
+
+.article-meta {
+  font-size: 14px;
+  color: hsla(120, 100%, 20%, 0.6);
+}
+
+
+
+.tile {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid rgba(50,50,50,0.2);
+  padding: 10px 15px;
+  box-shadow: none;
+  transform: scale(0.98);
+  transition: all 100ms linear;
+}
+.tile:hover {
+  transform: scale(1);
+  box-shadow: 10px 10px 5px 0px rgba(153,153,153,0.29);
+}
+
+.img-wrapper {
+}
+
+.img-wrapper > img {
+}

@@ -4,9 +4,14 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "date-fns": "^1.29.0",
     "gatsby": "^1.9.110",
     "gatsby-link": "^1.6.27",
-    "gatsby-plugin-react-helmet": "^1.0.8"
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-remark-images": "^1.5.32",
+    "gatsby-source-filesystem": "^1.5.8",
+    "gatsby-source-medium": "^1.0.7",
+    "gatsby-transformer-remark": "^1.7.21"
   },
   "keywords": [
     "gatsby"
@@ -18,7 +23,8 @@
     "dev": "gatsby develop",
     "format": "find . -name '*.js' -o -name '*.jsx' | grep -v -f .gitignore | xargs prettier es5 --single-quote --write",
     "lint": "eslint --ext .js,.jsx --ignore-path .gitignore . --fix",
-    "test": "yarn run format && yarn run lint"
+    "test": "yarn run format && yarn run lint",
+    "gatsby-help": "gatsby --help"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.1",
