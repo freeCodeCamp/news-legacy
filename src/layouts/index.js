@@ -25,15 +25,21 @@ const Header = () => (
         paddingBottom: '0'
       }}
       >
-        <Link
-          style={{
-            color: 'white',
-            textDecoration: 'none'
-          }}
-          to='/'
-          >
-          <img alt='freeCodeCamp logo'className='logo' src={logo} style={{width: '28%', marginBottom: '14px' }} title='freeCodeCamp'/>
-        </Link>
+      <Link
+        style={{
+          color: 'white',
+          textDecoration: 'none'
+        }}
+        to='/'
+        >
+        <img
+          alt='freeCodeCamp logo'
+          className='logo'
+          src={logo}
+          style={{ width: '28%', marginBottom: '14px' }}
+          title='freeCodeCamp'
+        />
+      </Link>
     </div>
   </div>
 );
