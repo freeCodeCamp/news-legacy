@@ -1,8 +1,10 @@
 ---
 author: Jose Marcial Portilla
+authorTwitter: false
+authorFacebook: false
 title: "How to become a Data Scientist"
-subTitle: "Hi! I’m Jose Portilla and I’m an instructor on Udemy with over 250,000 students enrolled across various courses on Python for Data Science…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*tf44H4SujSpZJjcCm4s2hA.jpeg
+subTitle: "Hi! I’m Jose Portilla and I’m an instructor on Udemy with over 250,000 students enrolled across various courses on Python for Data Scienc..."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*tf44H4SujSpZJjcCm4s2hA.jpeg
 url: https://medium.freecodecamp.org/how-to-become-a-data-scientist-2d829fa33aba
 id: how-to-become-a-data-scientist-2d829fa33aba
 date: 2017-08-22T06:41:39.578Z
@@ -16,7 +18,11 @@ tags: [
 ---
 # How to become a Data Scientist
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*tf44H4SujSpZJjcCm4s2hA.jpeg)
+
+
 
 Hi! I’m Jose Portilla and I’m an instructor on Udemy [with over 250,000 students enrolled across various courses](https://www.udemy.com/user/joseporitlla/) on Python for Data Science and Machine Learning, R Programming for Data Science, Python for Big Data, and many more.
 
@@ -40,13 +46,33 @@ _Learn how to use the R programming language for data science and machine learni
 
 Now on to the rest of this post. I’ve broken down the steps into some key topics and discussed helpful details for each.
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 ### The Journey
 
 > “The secret of getting ahead is getting started.” — **Mark Twain**
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*qHwJav1fi5fFMyC4R2MiPg.jpeg)
+
+
 
 If you are interested in becoming a data scientist the best advice is to begin preparing for your journey now. Taking the time to understand core concepts will not only be very useful once you are interviewing, but it will also help you decide whether you are truly interested in this field.
 
@@ -65,7 +91,11 @@ The path to becoming a data scientist will most likely take you some time, depen
 
 > “Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.” — **Albert Einstein**
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*x2gUD6BhNjkF7ac4UEwg5Q.jpeg)
+
+
 
 The main topics concerning mathematics that you should familiarize yourself with if you want to go into data science are probability, statistics, and linear algebra. As you learn more about other topics such as statistical learning (machine learning) these core mathematical foundations will serve as a base for you to continue learning from. Let’s briefly describe each and give you a few resources to learn from!
 
@@ -104,7 +134,11 @@ Depending on your position and workflow, you may not need to dive very deep into
 
 > “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” — **Bill Gates**
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*KdKNPR5MsVsoVu0XxTtaNQ.jpeg)
+
+
 
 The data science community has mainly adopted R and Python as its main languages for programming. Other languages such as Julia and Matlab are used as well, but R and Python are by far the most popular in this space.
 
@@ -160,13 +194,33 @@ _Learn how to use the R programming language for data science and machine learni
 
 Now that we’ve gone over the general background of programming topics, let’s discuss the path to actually landing a data science job!
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 ### The Community
 
 > “Good company in a journey makes the way seem shorter.”—** Izaak Walton**
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*-sRXz0V1ArkwdvNfxrPibw.jpeg)
+
+
 
 The job search for data scientist positions can take a while, its best to begin building out your network!
 
@@ -182,7 +236,11 @@ It is also worth exploring general technology communities, such as Quora and Hac
 
 > “If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” — **James L. Barksdale**
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*EVRimPPrh8S645FINaE8Hw.jpeg)
+
+
 
 So you’ve learned your skills, networked, and are now ready to begin working as a data scientist!
 
@@ -192,7 +250,7 @@ The first step is to begin your search for a new job, a lot of this will vary de
 
 One of the best ways to begin your search and practice your skills at the same time is to participate in Kaggle challenges and blog about your experience with them. Some Kaggle challenges can even directly lead to interviews as part of the prize! Even if nothing comes of the prize, its still valuable experience on a real data set! Note that Kaggle also has its own job board for data scientists.
 
-Freelancing through sites like <span class="markup--quote markup--p-quote is-other" name="anon_b110224a6801" data-creator-ids="anon">UpWork</span>, contributing to open-source projects, and answering questions on StackOverflow is another great way to make your presence known to recruiters.
+Freelancing through sites like UpWork, contributing to open-source projects, and answering questions on StackOverflow is another great way to make your presence known to recruiters.
 
 You will also want to make sure that your CV, LinkedIn, and Github are all updated to reflect your new skills and projects.
 
@@ -214,4 +272,30 @@ For more specific data science questions, you’ll need to familiarize yourself 
 
 Many companies also do take home tasks, this can be a great opportunity to get some extra practice in, even if the job offer itself doesn’t pan out.
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/6e170ab4618970e9d440086ed6a284b5?postId=2d829fa33aba" data-media-id="6e170ab4618970e9d440086ed6a284b5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>![](https://cdn-images-1.medium.com/max/2000/1*wjIWp_Jmi_sFhoC14HEc4Q.jpeg)
+
+
+
+
+<iframe data-width="800" data-height="480" width="700" height="420" src="/media/6e170ab4618970e9d440086ed6a284b5?postId=2d829fa33aba" data-media-id="6e170ab4618970e9d440086ed6a284b5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*wjIWp_Jmi_sFhoC14HEc4Q.jpeg)
+
+
+
+
+
+
+
+
+
+

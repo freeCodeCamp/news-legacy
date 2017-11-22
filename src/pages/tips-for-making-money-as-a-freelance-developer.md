@@ -1,8 +1,10 @@
 ---
 author: Luke Ciciliano
+authorTwitter: false
+authorFacebook: false
 title: "How to Make Money as a Freelance Developer: Business Tips from an Expert"
-subTitle: "One common question people ask me is whether they should go the “freelance” route as opposed to getting a job or starting their own company…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*yYKGkhaIV2uT-FYqDL_Uyw.jpeg
+subTitle: "One common question people ask me is whether they should go the “freelance” route as opposed to getting a job or starting their own compa..."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*yYKGkhaIV2uT-FYqDL_Uyw.jpeg
 url: https://medium.freecodecamp.org/tips-for-making-money-as-a-freelance-developer-39fae6b76972
 id: tips-for-making-money-as-a-freelance-developer-39fae6b76972
 date: 2017-11-03T13:42:37.738Z
@@ -16,11 +18,23 @@ tags: [
 ---
 # How to Make Money as a Freelance Developer: Business Tips from an Expert
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*yYKGkhaIV2uT-FYqDL_Uyw.jpeg)
+
+
 
 One common question people ask me is whether they should go the “freelance” route as opposed to getting a job or starting their own company. If you’re like me, and prefer to learn by reading, then read on. If you prefer to learn through discussion, then here’s a video I recently did on this topic:
 
+
+
+
+
 <iframe data-width="854" data-height="480" width="700" height="393" src="/media/c21d5cad2dd05a1c6f05df977b22e6f4?postId=39fae6b76972" data-media-id="c21d5cad2dd05a1c6f05df977b22e6f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfsTzLgra5dQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 Whether you should become a freelancer will depend on your particular situation. With that said, you can make a very comfortable living if you choose to freelance. So, let’s have a discussion about whether you should go the freelance route and, assuming it is for you, how you can make money doing so.
 
@@ -33,7 +47,11 @@ In this article I’m going answer the following questions:
 
 Those who choose to go full speed ahead, and go about it the right way, have a chance to be in a situation which looks like this:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*j_jKMI2YVgyxA7kMcr9P4g.jpeg)
+
+
 
 Those who freelance, without trying to take their business to the next level, may wind up being failure. Like thirty percent of small businesses that fail within their first year. (See [this article](http://www.investopedia.com/financial-edge/1010/top-6-reasons-new-businesses-fail.aspx))
 
@@ -68,7 +86,11 @@ When answering whether you can make money as a freelancer, the answer is **_“Y
 
 If you decide to freelance it’s important that you stand out from your competition. Otherwise you might as well have a plaque on your desk which says:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*StK7B1yKbTafaCmz5WBICw.jpeg)
+
+
 
 I don’t know about you — but I think being average is no fun. Fortunately, standing out from the crowd is not difficult. This is because most developers fail to truly connect with their customers. If you choose to connect with your customers the right way then you’ll have work lined up for many moons to come.
 
@@ -86,9 +108,13 @@ Bridging the “developer disconnect” isn’t hard. You just need to speak to 
 
 ### How to sell your services as a freelance developer
 
-<span class="markup--quote markup--p-quote is-other" name="anon_81998cebf379" data-creator-ids="anon">Selling is something that a lot of people aren’t comfortable with. But, one of the biggest parts of being successful is being willing to learn about and do things which make you uncomfortable.</span> I’m sure you were nervous about learning how to code, and now you’re doing it through freeCodeCamp. You can learn how to sell your services also. Don’t worry that it makes you uncomfortable. Just remember that one’s comfort zone is where their dreams go to die. I know this is easy for me to say, since selling comes naturally to me, but you can learn to do this and after a while it will seem as easy as pushing a button.
+Selling is something that a lot of people aren’t comfortable with. But, one of the biggest parts of being successful is being willing to learn about and do things which make you uncomfortable. I’m sure you were nervous about learning how to code, and now you’re doing it through freeCodeCamp. You can learn how to sell your services also. Don’t worry that it makes you uncomfortable. Just remember that one’s comfort zone is where their dreams go to die. I know this is easy for me to say, since selling comes naturally to me, but you can learn to do this and after a while it will seem as easy as pushing a button.
+
+
 
 ![](https://cdn-images-1.medium.com/max/1600/1*PtCBBkh_mikLsUoMPqS0Xg.jpeg)
+
+
 
 Selling your services can be broken down into three parts
 
@@ -137,3 +163,11 @@ A third option for getting business is to do so through your own website. The up
 This discussion was a quick overview of “basics” for starting a freelance business. Do these things and you’ll get ahead of your competition. Are you currently freelancing? What has your experience been so far? Let me know in the comments.
 
 You may follow me through our website at [SEO For Lawyers](https://www.seo-for-lawyers.com) or on [Twitter](https://twitter.com/Luke_Ciciliano).
+
+
+
+
+
+
+
+

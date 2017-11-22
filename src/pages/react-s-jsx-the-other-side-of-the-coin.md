@@ -1,8 +1,10 @@
 ---
 author: Cory House
+authorTwitter: https://twitter.com/housecor
+authorFacebook: false
 title: "React’s JSX: The Other Side of the Coin"
-subTitle: "Stay calm. Embrace the evolution."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*-FNmTSkYCplwjBfDhQcOmQ.jpeg
+subTitle: "Stay calm. Embrace the evolution...."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*RBTfDZzW0N5TzHg_pqWmSg.png
 url: https://medium.freecodecamp.org/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98
 id: react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98
 date: 2015-08-13T16:01:13.977Z
@@ -18,17 +20,71 @@ tags: [
 
 Stay calm. Embrace the evolution.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 When React was released, many people took one look at JSX and lost their minds. What are these angle brackets doing in JavaScript?! What about separation of concerns? Has Facebook learned nothing from the community?
 
+
+
+
+
+
+
+
+
+
+
 * * *
 
-<iframe width="700" height="250" src="/media/b0419e4bccb7d3af9c0f2e09d707d0a8?postId=2ace7ab62b98" data-media-id="b0419e4bccb7d3af9c0f2e09d707d0a8" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+
+
+
+
+
+
+<iframe width="500" height="250" src="/media/b0419e4bccb7d3af9c0f2e09d707d0a8?postId=2ace7ab62b98" data-media-id="b0419e4bccb7d3af9c0f2e09d707d0a8" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 Like many, my initial reaction to [React’s JSX](https://facebook.github.io/react/docs/jsx-in-depth.html) was skeptical, to say the least. And while I’ve come to love JSX, anytime I introduce it to a new developer, I feel like I’m showing off my ugly baby.
 
-![](https://cdn-images-1.medium.com/max/1600/1*RBTfDZzW0N5TzHg_pqWmSg.png)Try to imagine an ugly baby here. My son is clearly adorable.
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*RBTfDZzW0N5TzHg_pqWmSg.png)
+
+Try to imagine an ugly baby here. My son is clearly adorable.
+
+
 
 Despite the initial drama, I’ve come to realize that **JSX isn’t such a radical idea after all. In fact, it’s simply the other side of the coin**. It’s a natural evolutionary transition. To appreciate why, a history lesson is in order.
 
@@ -38,7 +94,7 @@ Remember the good old days of jQuery? The era of [unobtrusive JavaScript](https:
 
 We’d write HTML like this:
 
-<pre name="d41e" id="d41e" class="graf graf--pre graf-after--p"><a class=”hide”>Click to hide me</a></pre>
+<pre name="d41e" id="d41e" class="graf graf--pre graf-after--p">Click to hide me</pre>
 
 Then we’d write JavaScript like this:
 
@@ -57,7 +113,7 @@ When front-end developers saw two-way binding in Knockout and Angular, it was a 
 Sure, every library and framework has a proprietary way of getting this done, but they’re all fundamentally doing the same thing. Just consider this simple example of iterating over an array in a few popular frameworks:
 
 <pre name="41f3" id="41f3" class="graf graf--pre graf-after--p">//Angular  
-<div ng-repeat=”user in users”></pre>
+</pre>
 
 <pre name="b55c" id="b55c" class="graf graf--pre graf-after--pre">//Ember  
 {{#each user in users}}</pre>
@@ -102,7 +158,13 @@ React avoids the overhead of learning yet another proprietary way to declare loo
 
 And since you’re writing your markup in the same file as the associated JavaScript data, many IDE’s will give you intellisense support as you reference your functions. Think about how often you’ve made a typo when referencing a function in HTML-oriented frameworks.
 
-![](https://cdn-images-1.medium.com/max/1600/1*Q1aeCkZFM6hB8dkbY4HHqA.png)Intellisense support as I reference JavaScript functions in JSX? Nice.
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*Q1aeCkZFM6hB8dkbY4HHqA.png)
+
+Intellisense support as I reference JavaScript functions in JSX? Nice.
+
+
 
 ### Final Thoughts
 
@@ -116,6 +178,30 @@ Want to learn more? Check out my new course “[Building Applications with React
 
 Chime in on [Reddit](https://www.reddit.com/r/javascript/comments/3gv4at/reacts_jsx_dont_freak_out_its_evolutionary/) or [Hacker News](https://news.ycombinator.com/item?id=10056366).
 
+
+
+
+
+
+
+
+
+
+
 * * *
 
+
+
+
+
+
+
 **_Cory House_** is the author of “[Building Applications with React and Flux](https://www.pluralsight.com/courses/react-flux-building-applications)”, “[Clean Code: Writing Code for Humans](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiK1pXx89nJAhUujoMKHeuWAEUQFggcMAA&url=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwriting-clean-code-humans&usg=AFQjCNEBfkBoN-IgCn_1jFUqWDAUIxcmAw&sig2=Ub9Wup4k4mrw_ffPgYu3tA)” and multiple other courses on Pluralsight. He is a Software Architect at VinSolutions and [trains software developers internationally](http://www.bitnative.com/training/) on software practices like front-end development and clean coding. Cory is a Microsoft MVP, Telerik Developer Expert, and founder of [outlierdeveloper.com](http://www.outlierdeveloper.com).
+
+
+
+
+
+
+
+

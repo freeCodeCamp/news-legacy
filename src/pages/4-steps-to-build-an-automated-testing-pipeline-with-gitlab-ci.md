@@ -1,0 +1,286 @@
+---
+author: Joyz
+authorTwitter: https://twitter.com/joyzoursky
+authorFacebook: false
+title: "Catch bugs systematically: how to build a GitLab CI testing pipeline in 4 steps"
+subTitle: "Your first app is a hit the day it’s launched. But one week later, you realize that it has no retention. You discover that this is becaus..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*A4gQU4Mtnz0YVNrl8pCwXg.png
+url: https://medium.freecodecamp.org/4-steps-to-build-an-automated-testing-pipeline-with-gitlab-ci-24ccab95535e
+id: 4-steps-to-build-an-automated-testing-pipeline-with-gitlab-ci-24ccab95535e
+date: 2017-08-14T20:05:02.530Z
+tags: [
+  "Docker",
+  "Gitlab",
+  "Testing",
+  "Web Development",
+  "Continuou"
+]
+---
+# Catch bugs systematically: how to build a GitLab CI testing pipeline in 4 steps
+
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*A4gQU4Mtnz0YVNrl8pCwXg.png)
+
+GitLab logo via [Wikipedia](https://id.wikipedia.org/wiki/Berkas:GitLab_Logo.png)
+
+
+
+
+
+
+
+Your first app is a hit the day it’s launched. But one week later, you realize that it has no retention. You discover that this is because whenever a user clicks the “send” button, their comments get posted twice.
+
+The bug was so minor, but it killed your momentum. But that’s okay. For your second app, you and your partner check more carefully. You both click, click, click your app all day and night to prevent minor bugs like that from happening again.
+
+For one app, that’s okay. But after a year, you have a company building 7 apps on different platforms, including web, iOS, and Android. Your team now does code review before any app launch. You test through the apps and do your clicking before they’re shipped. But your nightmare from app #1 returns: users drop the app and this time it’s because their posts showing strange characters when they type an emoji. You end up with 1-star ratings after launch.
+
+There are 3 types of product-making companies: those who do not test, those who test, and those who test fast, accurately and frequently.
+
+Is an automated testing system with continuous integration (CI) just a dream? CI seems like a “nice-to-have”, especially since services that run tests and generate reports like [Sauce Labs](https://saucelabs.com/), [BrowserStack](https://www.browserstack.com/), [Test Complete](https://support.smartbear.com/testcomplete/) are expensive. The good news is, there are many free and popular tools out there that you can mix and match to set up a free automated testing system. As a QA tester, I figured out a free testing pipeline setup, so I’m sharing it to save you time and money.
+
+Why did my company want to set up an automated system? Here are some reasons below:
+
+*   We hate manual repetitive jobs that are prone to human error.
+*   We want a smoother process (test it when there is a code update), and reduce the waiting time.
+*   We want to schedule the tests and make them under control.
+
+### Setting up your UI tests
+
+This post introduces a practical pipeline setup that can run **web-based** UI (User Interface) tests automatically and continuously. The later part maybe a bit technical but it’s quite fun to build!
+
+I have set up the whole system with these free and open-source tools:
+
+*   [Selenium](http://www.seleniumhq.org/) — to script and automate browsers to perform tests
+*   [Docker](https://www.docker.com/) — to build an image for test environment and ship it fast
+*   [Gitlab CI](https://about.gitlab.com/gitlab-ci/) — to trigger, build and run the test upon code updates
+*   [Skygear](https://skygear.io/) — to save test result for report on demand
+
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*3HCwOHLXPebHuA-2oe_FMA.jpeg)
+
+Setting up takes 4 steps. Here we go!
+
+
+
+
+
+
+
+### Step #1: Write the script and run it locally
+
+First of all, we write the test script, to let our original manual test run automatically. [Selenium](http://www.seleniumhq.org/) is a well-known tool for web automation. It supports different client languages including Java, Ruby, Python, etc.
+
+Here’s an example on perform a button click on a website in Python.
+
+
+
+
+
+<iframe width="700" height="250" src="/media/f483d3b38ed2f5539452966ffded1ee2?postId=24ccab95535e" data-media-id="f483d3b38ed2f5539452966ffded1ee2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12539486%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+
+> Update: Added usage of Chrome official headless mode (details [here](https://medium.com/@joyzoursky/recent-updates-6264d1e5d42f)).
+
+With the idea of a basic unit test model, we could easily identify these three major components in the script:
+
+*   Set up
+*   Run test case
+*   Tear down
+
+In this script, it will run `test_case_1` and `test_case_2` respectively, both with `setUp` before the test and `tearDown` after the test. We use [unittest](https://docs.python.org/3/library/unittest.html) as our testing framework in this example. Feel free to use what you like, such as [pytest](http://doc.pytest.org/en/latest/) or [nose](http://nose.readthedocs.io/en/latest/) in Python.
+
+You can add more test cases, such as filling in forms and clicking on elements, depending on your website's interface.
+
+### Step #2: Build an image with your testing environment
+
+Test running requires a clean environment. To create a clean environment, we definitely do not want to set up a real machine every time and wait for hours to install all the software needed. The container concept helps.
+
+[Docker](https://www.docker.com/) helps you build your testing environment into an image. The image includes all the software that needs to be pre-installed and run on that container like a virtual machine. With Docker, you can just create a new container and pull the same image every time you want to start over from your default environment.
+
+To perform our test with the Selenium Python client, we want our image to pre-install the following:
+
+*   Python
+*   Google Chrome
+*   Chrome driver
+*   [Xvfb](https://en.wikipedia.org/wiki/Xvfb)
+
+Xvfb is a virtual display server that helps you to launch a browser in [a headless mode](http://elementalselenium.com/tips/38-headless) (without display). It is necessary to run the UI tests in a container. It cannot connect to a display output to show the browser visually.
+
+Then, we will also install the Selenium package inside the container. Not all projects need the same list of packages.
+
+We create a [Dockerfile](https://docs.docker.com/engine/reference/builder/), build the image and upload to our [Docker Cloud](https://cloud.docker.com/).
+
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*6O2QhCEpjoALjK1nzo0N7g.png)
+
+
+
+You could find this image through this [link](https://hub.docker.com/r/joyzoursky/python-chromedriver/), or directly pull this image with this command:
+
+<pre name="f8c9" id="f8c9" class="graf graf--pre graf-after--p">docker pull joyzoursky/python-chromedriver:3.6-xvfb</pre>
+
+Then you will have an environment ready for performing the UI tests.
+
+> Update: Added new Docker image built with Xvfb deprecated (details [here](https://medium.com/@joyzoursky/recent-updates-6264d1e5d42f)).
+
+### Step #3: Set up GitLab CI
+
+[GitLab](https://about.gitlab.com/) provides a CI/CD Pipelines feature, to continuously build and run your projects. The setup is like other CI tools such as [Travis CI](https://travis-ci.org/) or [Jenkins.](https://jenkins.io/) This requires a `.gitlab-ci.yml`file to configure your build process.
+
+Take a look at this example:
+
+
+
+
+
+<iframe width="700" height="250" src="/media/00e10484b2a1b679b8f076921f2c870b?postId=24ccab95535e" data-media-id="00e10484b2a1b679b8f076921f2c870b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12539486%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+
+> Update: Added example with Xvfb deprecated (details [here](https://medium.com/@joyzoursky/recent-updates-6264d1e5d42f)).
+
+When new codes are pushed to the repository, GitLab will look for `.gitlab-ci.yml` from the root directory, and trigger a build according to your settings.
+
+In this script, it pulls the environment image from `joyzoursky/python-chromedriver:3.6-xvfb` in the first line. Then it installs the required packages like Selenium, sets variables needed, and then it starts the process.
+
+Note that there are 2 stages of the build process in this example: `test` and `report`. In each stage, the jobs in that stage will be run **concurrently.** You can define tests in the same stage if they could run in sync.
+
+Go to the Pipelines page to see the flow and completion here:
+
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*yEi8rtmbGz0JYottZ188oA.png)
+
+
+
+So where do we run our tests actually?
+
+GitLab hosts some shared runners which are free. By looking into the build log, we can find the container information in the first few lines:
+
+<pre name="41bb" id="41bb" class="graf graf--pre graf-after--p">Running with gitlab-ci-multi-runner 1.10.4 (b32125f)  
+Using Docker executor with image joyzoursky/python-chromedriver:3.5 ...  
+Pulling docker image joyzoursky/python-chromedriver:3.5 ...  
+Running on runner-4e4528ca-project-2749300-concurrent-0 via runner-4e4528ca-machine-1489737516-5e0de836-digital-ocean-4gb...</pre>
+
+It shows the container name running on [Digital Ocean](https://www.digitalocean.com/).
+
+Of course, you can also create your specific runners to run the test on your self-hosted machines. GitLab supports runners on different platforms including [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/). But, as GitLab is a new platform, it goes through many updates. So the specific runners may sometimes break when they are out-of-date. You should always refer to the [official repository](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/tree/master) when configuring the setup.
+
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*JZJwNUSlvVrA-mF2noJiLQ.png)
+
+
+
+
+
+
+
+### Step #4: Run and report periodically
+
+You may want to have your tests run periodically. You can achieve this by setting up [cron jobs](https://en.wikipedia.org/wiki/Cron), but you may not want to set up a server just to run a one-line cron job. My company’s open source serverless back-end is [Skygear](http://skygear.io). We can use it to write a simple cloud code function with the [@every](https://docs.skygear.io/guides/cloud-function/scheduled-tasks/python/) decorator and trigger the test pipeline on an interval of time.
+
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*yuASEuatDfLkSD3sfmKaqA.png)
+
+[Skygear](https://skygear.io/)’s developer portal. Look for your Cloud Code Git URL.
+
+
+
+
+
+
+
+*   Login to your [Skygear portal](https://portal.skygear.io)
+*   Find your Cloud Code Git URL
+*   Clone the quick start codes
+*   Edit to add the little piece of code below
+*   Push the codes and the cron job will trigger the test every hour
+
+> Update: Used GitLab 10.0 pipeline scheduler instead of cron job (details [here](https://medium.com/@joyzoursky/recent-updates-6264d1e5d42f)).
+
+
+
+
+
+<iframe width="700" height="250" src="/media/d27e0a28e6aba04e4a6ff4b695601ec4?postId=24ccab95535e" data-media-id="d27e0a28e6aba04e4a6ff4b695601ec4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12539486%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+However, there is still a problem.
+
+
+
+Assume that you have already written some code to generate test reports. Would you like to receive and read the test reports every hour? Of course not. So, we also link [Skygear’s free Cloud DB](https://docs.skygear.io/guides/cloud-db/basics/js/) service to store the test result. The system only sends alerts when a test case changes from PASS to FAIL, or FAIL to PASS. This notification approach may vary according to the project need.
+
+To save and retrieve data from the Skygear database, we could use the existing SDK. Or if you are a Python user, you may use this little [Python DB Client](https://github.com/skygear-demo/python-db-client) to help write your data handler . We use it to save test results after each test case, and retrieve the reports after running all test suites.
+
+Finally, we can have the test result alerts sent on demand.
+
+P.S. We use [Slack](https://slack.com/) [real time messaging API](https://api.slack.com/rtm) to do the reporting, so we can receive notifications in the corresponding project channels.
+
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*xHr_ezmVEBYRVZ4oOLJq3Q.png)
+
+
+
+### Conclusion
+
+Now, whenever there is a code update on the production branch, this automated UI test is triggered and tests are done automatically. Failure results will be pushed back to our Slack channel to notify our developers.
+
+The biggest barrier to setting up a free automated UI test is probably researching the tools if you are not already a professional QA tester. Since QA is my full-time job, I hope that sharing our upgraded UI Test stack will help free up your time as well!
+
+
+
+
+
+
+
+
+
+
+
+* * *
+
+
+
+
+
+
+
+If you found this useful, please click the 💚 below so other people can see it too. Thank you!
+
+
+
+
+
+
+
+

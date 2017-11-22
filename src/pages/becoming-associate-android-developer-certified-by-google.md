@@ -1,8 +1,10 @@
 ---
 author: Stefanos Vardalos
+authorTwitter: false
+authorFacebook: false
 title: "How I became an Associate Android Developer certified by Google"
-subTitle: "If you already work with Android Development, or you want to start your journey in mobile development, there is a way to certify your…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*tL4LDELZeOYC1igsxKyD9g.png
+subTitle: "If you already work with Android Development, or you want to start your journey in mobile development, there is a way to certify your ski..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*tL4LDELZeOYC1igsxKyD9g.png
 url: https://medium.freecodecamp.org/becoming-associate-android-developer-certified-by-google-26e08e6abf2f
 id: becoming-associate-android-developer-certified-by-google-26e08e6abf2f
 date: 2017-10-23T08:49:08.189Z
@@ -16,7 +18,21 @@ tags: [
 ---
 # How I became an Associate Android Developer certified by Google
 
-![](https://cdn-images-1.medium.com/max/2000/1*tL4LDELZeOYC1igsxKyD9g.png)Associate Android Developer
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*tL4LDELZeOYC1igsxKyD9g.png)
+
+Associate Android Developer
+
+
+
+
+
+
 
 If you already work with Android Development, or you want to start your journey in mobile development, there is a way to certify your skills and make yourself stand out. Google introduced the Associate Android Developer Certification back at 2016, and their aim was to “close the gap between developers launching their careers and employers.”
 
@@ -36,7 +52,21 @@ Once both the practical exam and the exit interview are finished, you will get y
 
 #### What you should learn before you take the exam
 
-![](https://cdn-images-1.medium.com/max/2000/1*KzJarCvv3H5suovPygjiAw.png)Ready to start
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*KzJarCvv3H5suovPygjiAw.png)
+
+Ready to start
+
+
+
+
+
+
 
 You can find the content of the exam on this [page](https://developers.google.com/training/certification/associate-android-developer/). I recommend having solid knowledge of each of these parts before attempting to take the exam. Most of these things will be tested in one way or another through the practical part of the certification.
 
@@ -71,7 +101,13 @@ The fact that there were projects after each part of the course helped a lot. Ea
 
 What really made the whole process something unique is the Udacity community. I think that should be a major reason for someone to participate into this program. The interactions between people studying the same stuff, and the general helpful mentality inside the community, made this course a great learning experience. It wasn’t just a simple e-learning course. Kudos to all those on the related Slack channels that made this happen.
 
-![](https://cdn-images-1.medium.com/max/1600/1*AOfyYp35edAOAjAIatHUjQ.png)You get a fitting badge when you successfuly finish the exam to show around
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*AOfyYp35edAOAjAIatHUjQ.png)
+
+You get a fitting badge when you successfuly finish the exam to show around
+
+
 
 The exam itself was moderately hard, in my opinion. I had enough time to finish all the required tasks and to take another look just to be sure — you do not get second chances on the exam phase, unlike on the course projects.
 
@@ -88,3 +124,11 @@ The AAD is a great way to show your level of expertise in Android Development. I
 Even if you are already a developer, I think there is much to gain here. The Udacity course is especially valuable. I can see it as a start of something bigger. It’s likely not the end of Google’s journey on certifications, so getting a head-start now might help later with the more advanced versions.
 
 If you enjoyed this article, please give me some claps so more people see it. Thanks!
+
+
+
+
+
+
+
+

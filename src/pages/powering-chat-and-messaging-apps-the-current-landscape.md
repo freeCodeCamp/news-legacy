@@ -1,8 +1,10 @@
 ---
 author: Joe Hanson
+authorTwitter: false
+authorFacebook: false
 title: "How much to build and how much to buy: powering chat and messaging apps"
-subTitle: "undefined"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*5pSZtT1kQVHNijWUaikmqA.png
+subTitle: "When you’re building a chat application of any kind — from mobile group messaging and multiplayer in-game chat, to customer support and c..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*OXWXXpMEqJja5J21hmD1fw.png
 url: https://medium.freecodecamp.org/powering-chat-and-messaging-apps-the-current-landscape-ad0657140b94
 id: powering-chat-and-messaging-apps-the-current-landscape-ad0657140b94
 date: 2017-11-18T16:48:20.745Z
@@ -16,7 +18,19 @@ tags: [
 ---
 # How much to build and how much to buy: powering chat and messaging apps
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*OXWXXpMEqJja5J21hmD1fw.png)
+
+
+
+
+
+
 
 When you’re building a chat application of any kind — from mobile group messaging and multiplayer in-game chat, to customer support and chatbots — choosing the right platforms, frameworks, and protocols can make or break your business.
 
@@ -36,7 +50,11 @@ In this post, we’ll discuss a number of different chat application types and l
 
 There are a wide variety of options across the build vs. buy spectrum. You have open-source on one end (build) and fully built out (SaaS) solutions on the other (buy). With hundreds of options in between, all with different pros and cons, we’ll seek to give you an idea of the landscape in a simple chart:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*5pSZtT1kQVHNijWUaikmqA.png)
+
+
 
 #### Open-source protocols
 
@@ -81,7 +99,11 @@ As with all the other parts of your critical infrastructure, the key questions s
 
 ### Choosing your chat service provider: open-source vs. hosted
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/0*FRYhZWS5NkRf-GMZ.png)
+
+
 
 When it comes to software development, everyone knows that what works in the lab is not guaranteed to work in the wild. That’s because the wild presents all those challenges you may not think about, or may not even know about yet.
 
@@ -115,7 +137,11 @@ That’s a laundry list of considerations. But if you’re choosing the open-sou
 
 For chat, security is paramount. We’re increasingly sending more confidential and mission-critical information via chat applications, from financial details to chatbot commands. Ensuring that you have full control over access and encryption is imperative.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/0*CCahFHHZJiwWZxXi.png)
+
+
 
 Every successful chat service provider offers different levels of security. Here are the most important features that must be included in any hosted-service provider:
 
@@ -173,3 +199,11 @@ Most hosted-solution providers also allow a free-forever sandbox pricing tier. T
 If you enjoyed this article, please give it a clap so more people see it. Thanks!
 
 _Originally published at_ [_www.pubnub.com_](https://www.pubnub.com/blog/building-chat-the-current-landscape/)_._
+
+
+
+
+
+
+
+

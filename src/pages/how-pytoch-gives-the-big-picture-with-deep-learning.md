@@ -1,8 +1,10 @@
 ---
 author: Déborah Mesquita
+authorTwitter: https://twitter.com/dehhmesquita
+authorFacebook: false
 title: "How Pytorch gives the big picture with deep learning"
-subTitle: "Some time ago we saw how to classify texts with neural networks. The article covered the following topics:"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*lMTOQkDLUcOOwX4WJ-7tFw.jpeg
+subTitle: "Some time ago we saw how to classify texts with neural networks. The article covered the following topics:..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*lMTOQkDLUcOOwX4WJ-7tFw.jpeg
 url: https://medium.freecodecamp.org/how-pytoch-gives-the-big-picture-with-deep-learning-e4a0f372f4b6
 id: how-pytoch-gives-the-big-picture-with-deep-learning-e4a0f372f4b6
 date: 2017-11-05T21:08:16.417Z
@@ -16,7 +18,21 @@ tags: [
 ---
 # How Pytorch gives the big picture with deep learning
 
-![](https://cdn-images-1.medium.com/max/2000/1*lMTOQkDLUcOOwX4WJ-7tFw.jpeg)Pic from [https://www.pexels.com/](https://www.pexels.com/) (they’re great and don’t even require attribution!)
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*lMTOQkDLUcOOwX4WJ-7tFw.jpeg)
+
+Pic from [https://www.pexels.com/](https://www.pexels.com/) (they’re great and don’t even require attribution!)
+
+
+
+
+
+
 
 Some time ago we saw [how to classify texts with neural networks](https://medium.freecodecamp.org/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274). The article covered the following topics:
 
@@ -36,7 +52,13 @@ We’ll create a machine learning model that classifies texts into categories. T
 
 The biggest difference between Pytorch and Tensorflow is that Pytorch can create graphs on the fly. This makes debugging so much easier (and fun!).
 
-![](https://cdn-images-1.medium.com/max/1600/0*nntIflaBvptIerl8.gif)A primer on Pytorch dynamics
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*nntIflaBvptIerl8.gif)
+
+A primer on Pytorch dynamics
+
+
 
 When you execute a line of code, it gets executed. There isn’t an asynchronous view of the world. When you drop it into a debugger, or receive error messages and stack traces, understanding them is straight forward. The stack trace points to exactly where your code was defined.
 
@@ -48,7 +70,15 @@ Ok, let’s see how things work in Pytorch.
 
 As usual, we have **tensors**, which are multi-dimensional matrices that contain elements of a single data type.
 
+
+
+
+
 <iframe width="700" height="250" src="/media/6643af164e1f00db871010887c94a04d?postId=e4a0f372f4b6" data-media-id="6643af164e1f00db871010887c94a04d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 The**torch** package contains data structures for multi-dimensional tensors and mathematical operations.
 
@@ -59,7 +89,15 @@ The**torch** package contains data structures for multi-dimensional tensors and 
 
 With TensorFlow each layer operation has to be explicitly named:
 
+
+
+
+
 <iframe width="700" height="250" src="/media/429507d3441dc512664c5795e3eaeea1?postId=e4a0f372f4b6" data-media-id="429507d3441dc512664c5795e3eaeea1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 With Pytorch we use **torch.nn**. We need to multiply each input node with a weight, and also to add a bias. The class`**torch.nn.Linear**` does the job for us.
 
@@ -67,7 +105,15 @@ With Pytorch we use **torch.nn**. We need to multiply each input node with a wei
 
 The base class for all neural network modules is **torch.nn.Module**. The `**forward**`(*input) defines the computation performed at every call, and all subclasses should override it.
 
+
+
+
+
 <iframe width="700" height="250" src="/media/cd7f2dbef2770c2cc129dbf9cfebac89?postId=e4a0f372f4b6" data-media-id="cd7f2dbef2770c2cc129dbf9cfebac89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 Cool, right?
 
@@ -79,7 +125,13 @@ The way the neural network “learns” is by updating the weight values. With P
 
 A variable is **a thin wrapper around a Tensor object that also holds the gradient** and a reference to the function that created it. This reference allows us to trace the entire chain of operations that created the data.
 
-![](https://cdn-images-1.medium.com/max/1600/0*VXak2OuzwdAUYt2c.png)Variable
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*VXak2OuzwdAUYt2c.png)
+
+Variable
+
+
 
 We didn’t specify the weight tensors like we did with TensorFlow because the `**torch.nn.Linear**` class has a variable **weight** with shape (out_features x in_features).
 
@@ -93,13 +145,29 @@ To construct an `[**optimizer**](http://pytorch.org/docs/master/optim.html#torch
 
 Let’s construct our optimizer:
 
+
+
+
+
 <iframe width="700" height="250" src="/media/1a78564b46c8c817e3b23b473b1dbbea?postId=e4a0f372f4b6" data-media-id="1a78564b46c8c817e3b23b473b1dbbea" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 The `**parameters()**` method from **torch.nn.Module** returns an iterator over the module parameters. To compute the loss we’ll use `**torch.nn.CrossEntropyLoss**`
 
 One important thing about `**torch.nn.CrossEntropyLoss**` is that input has to be a 2D tensor of size(minibatch, n)and target expects a class index (0 to nClasses-1) as the target for each value of a 1D tensor of size minibatch. For example:
 
+
+
+
+
 <iframe width="700" height="250" src="/media/194d343a4928f2c8280ba07a659bb49b?postId=e4a0f372f4b6" data-media-id="194d343a4928f2c8280ba07a659bb49b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 So we need to change the `get_batch()` function from the previous article to work like it does in the example above.
 
@@ -111,7 +179,15 @@ In the [neural network terminology](http://stackoverflow.com/questions/4752626/e
 
 Putting it all together, we get this:
 
+
+
+
+
 <iframe width="700" height="250" src="/media/33bea31b1fdc075e228344746dc40475?postId=e4a0f372f4b6" data-media-id="33bea31b1fdc075e228344746dc40475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 And that’s it.
 
@@ -121,7 +197,15 @@ Isn’t it?
 
 Now let’s test the model:
 
+
+
+
+
 <iframe width="700" height="250" src="/media/b179d481354aabcbad57002f2d01f346?postId=e4a0f372f4b6" data-media-id="b179d481354aabcbad57002f2d01f346" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 And that’s it.
 
@@ -132,3 +216,11 @@ Congratulations. 😄
 You can see the notebook with the **final code** [here](https://github.com/dmesquita/understanding_pytorch_nn).
 
 If you enjoyed this piece, please show your love and clap so that others can find it!
+
+
+
+
+
+
+
+

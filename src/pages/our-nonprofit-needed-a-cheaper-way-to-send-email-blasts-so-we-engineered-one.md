@@ -1,8 +1,10 @@
 ---
 author: Quincy Larson
+authorTwitter: https://twitter.com/ossia
+authorFacebook: https://facebook.com/10100956570023241
 title: "Our nonprofit needed a cheaper way to send email blasts. So we engineered one."
-subTitle: "Every week, I send an email blast to a million people who’ve signed up for freeCodeCamp.org."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*th13skTPFs53EtCuupOYQA.jpeg
+subTitle: "Every week, I send an email blast to a million people who’ve signed up for freeCodeCamp.org...."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*th13skTPFs53EtCuupOYQA.jpeg
 url: https://medium.freecodecamp.org/our-nonprofit-needed-a-cheaper-way-to-send-email-blasts-so-we-engineered-one-167322e3f28e
 id: our-nonprofit-needed-a-cheaper-way-to-send-email-blasts-so-we-engineered-one-167322e3f28e
 date: 2017-09-15T14:56:46.584Z
@@ -16,7 +18,19 @@ tags: [
 ---
 # Our nonprofit needed a cheaper way to send email blasts. So we engineered one.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*th13skTPFs53EtCuupOYQA.jpeg)
+
+
+
+
+
+
 
 Every week, I send an email blast to a million people who’ve signed up for freeCodeCamp.org.
 
@@ -45,7 +59,21 @@ It’s called **Mail for Good**.
 
 And today, we’re releasing it to the public. It’s going into open beta. And nonprofits around the world can start using it immediately.
 
-![](https://cdn-images-1.medium.com/max/2000/1*GZMRxCypObAcdL3AFTjBDg.png)A screenshot from Mail for Good’s browser-based interface
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*GZMRxCypObAcdL3AFTjBDg.png)
+
+A screenshot from Mail for Good’s browser-based interface
+
+
+
+
+
+
 
 ### Mail for Good is an ultra-low-cost, high-deliverability email marketing tool for nonprofits.
 
@@ -55,7 +83,7 @@ But if you’re still wondering whether something like Mail for Good is a good f
 
 ### Mail for Good is the cheapest way to send high-deliverability email.
 
-<span class="markup--quote markup--p-quote is-other" name="anon_4cd5fce60f24" data-creator-ids="anon">It’s free and open source. You just need a server to run it on. We run it on a $10 per month cloud server. You could do that, too. Or you could just run it on one of your existing servers for free.</span>
+It’s free and open source. You just need a server to run it on. We run it on a $10 per month cloud server. You could do that, too. Or you could just run it on one of your existing servers for free.
 
 Then you pay Amazon $1 per 10,000 emails sent through their Simple Email Service.
 
@@ -67,11 +95,37 @@ Let’s say you send three email blasts per week. Then you’d spend $1,200 per 
 
 For reference, here’s how much it costs to host a mailing list of one million subscribers on MailChimp — regardless of whether you even send them any emails: **$4,399 per month**.
 
-![](https://cdn-images-1.medium.com/max/2000/1*ebMNX_0lVBNvOyc0M7f1iw.png)MailChimp’s costs $4,200 + $199 each month for a mailing list of 1,000,000 subscribers.
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*ebMNX_0lVBNvOyc0M7f1iw.png)
+
+MailChimp’s costs $4,200 + $199 each month for a mailing list of 1,000,000 subscribers.
+
+
+
+
+
+
 
 And the other email campaign tools tools aren’t much cheaper. Most of them won’t even tell you their rates unless you call them.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*ka7bwxeLuKqaWlFPtKgbPw.png)
+
+
+
+
+
+
 
 ### With Mail for Good, _your_ email list data stays on your server.
 
@@ -125,3 +179,11 @@ If you want to contribute code to the project, join [the Mail for Good Gitter ch
 Mail for Good is just one of many tools the freeCodeCamp community is building to help nonprofits accomplish more with less. If you want to support our nonprofit’s efforts, you can [set up a monthly donation you can afford](https://www.freecodecamp.org/donate).
 
 Thanks for reading. Happy emailing!
+
+
+
+
+
+
+
+

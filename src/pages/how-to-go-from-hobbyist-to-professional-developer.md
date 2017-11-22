@@ -1,8 +1,10 @@
 ---
 author: Ken Rogers
+authorTwitter: https://twitter.com/KennethARogers
+authorFacebook: false
 title: "How to Go From Hobbyist to Professional Developer"
-subTitle: "A few years ago, I was bouncing back and forth between landscaping jobs and restaurant jobs. I had just left college, and didn’t know what…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*LZZ9Sr4XL7j2-LjSJ5uq9Q.jpeg
+subTitle: "A few years ago, I was bouncing back and forth between landscaping jobs and restaurant jobs. I had just left college, and didn’t know wha..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*LZZ9Sr4XL7j2-LjSJ5uq9Q.jpeg
 url: https://medium.freecodecamp.org/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f
 id: how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f
 date: 2017-05-18T17:12:18.536Z
@@ -16,9 +18,21 @@ tags: [
 ---
 # How to Go From Hobbyist to Professional Developer
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*LZZ9Sr4XL7j2-LjSJ5uq9Q.jpeg)
 
-<span class="graf-dropCap">A</span> few years ago, I was bouncing back and forth between landscaping jobs and restaurant jobs. I had just left college, and didn’t know what I was going to do with my life.
+
+
+
+
+
+
+A few years ago, I was bouncing back and forth between landscaping jobs and restaurant jobs. I had just left college, and didn’t know what I was going to do with my life.
 
 I had a lot of ideas, but no direction. During that time, I started teaching myself programming. At first it was a hobby. I thought it was cool to be able to build things using nothing but my brain and some code.
 
@@ -106,7 +120,11 @@ One of my biggest weaknesses is that I get bored and distracted. I want to jump 
 
 It feels like freedom. Being able to bounce between whatever project happens to suit your mood that day, but...
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*ZXYdFihJqlj0-mIlO1-t6g.jpeg)
+
+
 
 It’s a trap! If you take away nothing else from this article, let it be this:
 
@@ -312,8 +330,36 @@ Remember, nothing will happen unless you take action. Build a simple portfolio w
 
 The more you put yourself out there, and the more you do, the sooner you’ll make the shift from amateur to professional.
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
+
+
 
 ![](https://cdn-images-1.medium.com/max/1200/1*c_00TQORfkV5PKYJamYO0Q.jpeg)
 
+
+
 Ken is a self-taught web developer currently working at the City of Fort Collins using PHP and JavaScript. In his spare time he loves to learn everything he can about JavaScript and teach other developers what he knows. Right now he’s diving into Meteor, React, and Apollo and building useful things.
+
+
+
+
+
+
+
+

@@ -1,8 +1,10 @@
 ---
 author: Radu Raicea
+authorTwitter: https://twitter.com/radu_raicea
+authorFacebook: false
 title: "Want to know how Deep Learning works? Here’s a quick guide for everyone."
-subTitle: "Artificial Intelligence (AI) and Machine Learning (ML) are some of the hottest topics right now."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*1mpE6fsq5LNxH31xeTWi5w.jpeg
+subTitle: "Artificial Intelligence (AI) and Machine Learning (ML) are some of the hottest topics right now...."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*1mpE6fsq5LNxH31xeTWi5w.jpeg
 url: https://medium.freecodecamp.org/want-to-know-how-deep-learning-works-heres-a-quick-guide-for-everyone-1aedeca88076
 id: want-to-know-how-deep-learning-works-heres-a-quick-guide-for-everyone-1aedeca88076
 date: 2017-10-23T16:06:33.668Z
@@ -16,7 +18,21 @@ tags: [
 ---
 # Want to know how Deep Learning works? Here’s a quick guide for everyone.
 
-![](https://cdn-images-1.medium.com/max/2000/1*1mpE6fsq5LNxH31xeTWi5w.jpeg)Image credit: [Datanami](https://www.datanami.com/2017/05/10/machine-learning-deep-learning-ai-whats-difference/)
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*1mpE6fsq5LNxH31xeTWi5w.jpeg)
+
+Image credit: [Datanami](https://www.datanami.com/2017/05/10/machine-learning-deep-learning-ai-whats-difference/)
+
+
+
+
+
+
 
 [**Artificial Intelligence**](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI) and [**Machine Learning**](https://en.wikipedia.org/wiki/Machine_learning) (ML) are some of the hottest topics right now.
 
@@ -38,7 +54,7 @@ When AI research first started, researchers were trying to replicate human intel
 
 They introduced a vast number of rules that the computer needed to respect. The computer had a specific list of possible actions, and made decisions [based on those rules](https://en.wikipedia.org/wiki/Expert_system).
 
-> <span class="markup--quote markup--blockquote-quote is-other" name="anon_537cf3e95835" data-creator-ids="anon">**Machine Learning** refers to the ability of a machine to learn using large data sets instead of hard coded rules.</span>
+> **Machine Learning** refers to the ability of a machine to learn using large data sets instead of hard coded rules.
 
 ML allows computers to learn by themselves. This type of learning takes advantage of the processing power of modern computers, which can easily process large data sets.
 
@@ -81,7 +97,13 @@ Let’s look inside the brain of our AI.
 
 Like animals, our estimator AI’s brain has neurons. They are represented by circles. These neurons are inter-connected.
 
-![](https://cdn-images-1.medium.com/max/1600/1*LaEgAU-vdsR_pClMcgbikQ.jpeg)Image credit: [CS231n](http://cs231n.github.io/neural-networks-1/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*LaEgAU-vdsR_pClMcgbikQ.jpeg)
+
+Image credit: [CS231n](http://cs231n.github.io/neural-networks-1/)
+
+
 
 The neurons are grouped into three different types of layers:
 
@@ -97,7 +119,11 @@ The “**Deep**” in Deep Learning refers to having **more than one** hidden la
 
 The **output layer** returns the output data. In our case, it gives us the price prediction.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*6PjhO0kPciY_f5XbghnZsQ.png)
+
+
 
 So how does it compute the price prediction?
 
@@ -107,7 +133,13 @@ Each connection between neurons is associated with a **weight**. This weight dic
 
 When predicting the price of an airplane ticket, the departure date is one of the heavier factors. Hence, the departure date neuron connections will have a big weight.
 
-![](https://cdn-images-1.medium.com/max/1600/1*_kudSKDXEScysTpYYowqFg.jpeg)Image credit: [CodeProject](https://www.codeproject.com/Articles/1200392/Neural-Network)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*_kudSKDXEScysTpYYowqFg.jpeg)
+
+Image credit: [CodeProject](https://www.codeproject.com/Articles/1200392/Neural-Network)
+
+
 
 Each neuron has an [Activation Function](https://en.wikipedia.org/wiki/Activation_function). These functions are hard to understand without mathematical reasoning.
 
@@ -142,7 +174,13 @@ Gradient Descent is a technique that allows us to find the minimum of a function
 
 It works by **changing the weights** in small increments **after each data set iteration**. By computing the derivative (or gradient) of the cost function at a certain set of weight, we’re able to see in which direction the minimum is.
 
-![](https://cdn-images-1.medium.com/max/1600/1*HrFZV7pKPcc5dzLaWvngtQ.png)Image credit: [Sebastian Raschka](https://sebastianraschka.com/faq/docs/closed-form-vs-gd.html)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*HrFZV7pKPcc5dzLaWvngtQ.png)
+
+Image credit: [Sebastian Raschka](https://sebastianraschka.com/faq/docs/closed-form-vs-gd.html)
+
+
 
 To minimize the cost function, you need to iterate through your data set many times. This is why you need a large amount of computational power.
 
@@ -175,3 +213,11 @@ If you enjoyed this article, please give me some claps so more people see it. Th
 You can also check out my [explanation](https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-medium-be9261b924b0) of how I used Python to find interesting people to follow on Medium.
 
 For more updates, follow me on [Twitter](https://twitter.com/radu_raicea).
+
+
+
+
+
+
+
+

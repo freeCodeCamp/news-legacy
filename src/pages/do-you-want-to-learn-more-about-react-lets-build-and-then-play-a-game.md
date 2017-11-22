@@ -1,8 +1,10 @@
 ---
 author: Samer Buna
-title: "Do you want to learn more about React? Let’s build — and then play — a game."
-subTitle: "When I teach React to beginners, I start by introducing them to the React API. Then I have them build a simple browser game after that. I…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*jju0KT50kJI1xX6c6EJVsw.png
+authorTwitter: https://twitter.com/samerbuna
+authorFacebook: https://facebook.com/568190226682058
+title: "Do you want to learn more about React? Let’s build — and then play — a game."
+subTitle: "When I teach React to beginners, I start by introducing them to the React API. Then I have them build a simple browser game after that. I..."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*jju0KT50kJI1xX6c6EJVsw.png
 url: https://medium.freecodecamp.org/do-you-want-to-learn-more-about-react-lets-build-and-then-play-a-game-218e0da5be44
 id: do-you-want-to-learn-more-about-react-lets-build-and-then-play-a-game-218e0da5be44
 date: 2017-11-17T13:27:48.866Z
@@ -24,7 +26,13 @@ Learners need to like what they are building. They need to accomplish something 
 
 **Please note** that this article is not a beginner’s tutorial. I will be assuming that you know the basics of React. If you are absolutely new to React, start by [writing your first React component](https://medium.freecodecamp.org/how-to-write-your-first-react-js-component-d728d759cabc) and then [learn the fundamental concepts of React](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2).
 
-![](https://cdn-images-1.medium.com/max/1600/1*jju0KT50kJI1xX6c6EJVsw.png)The Target Sum Game: Pick the set of challenge numbers that sum to the target 42 within 10 seconds
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*jju0KT50kJI1xX6c6EJVsw.png)
+
+The Target Sum Game: Pick the set of challenge numbers that sum to the target 42 within 10 seconds
+
+
 
 I named the game we are going to build in this article **The Target Sum**. It is a simple one: you start with a random number in the header, **the target** (42 in the screenshot above), and a list of random **challenge numbers** below that target (the six numbers in the screenshot above).
 
@@ -32,7 +40,17 @@ Four of the six random numbers used above (8, 5, 13, 16) add up exactly to the t
 
 Wanna play a few rounds? Click the **Start** button below:
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/8a93f032b875ee96a0d710ef0067f1db?postId=218e0da5be44" data-media-id="8a93f032b875ee96a0d710ef0067f1db" allowfullscreen="" frameborder="0"></iframe>You will have 10 seconds to click the 4 correct numbers once you click Start
+
+
+
+
+<iframe data-width="600" data-height="400" width="600" height="400" src="/media/8a93f032b875ee96a0d710ef0067f1db?postId=218e0da5be44" data-media-id="8a93f032b875ee96a0d710ef0067f1db" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+You will have 10 seconds to click the 4 correct numbers once you click Start
+
+
 
 Were you able to win? I am SO bad at this game.
 
@@ -44,7 +62,25 @@ It is a good idea to start with any known markups and styles to get those out of
 
 To keep this article as short as possible and focused on React, I will start with some initial ready markup and CSS. Here is a jsComplete code session that you can use to start:
 
-<iframe data-width="800" data-height="250" width="1200" height="375" src="/media/998fc7667fabcc4e355da1b8b2a3e00d?postId=218e0da5be44" data-media-id="998fc7667fabcc4e355da1b8b2a3e00d" allowfullscreen="" frameborder="0"></iframe>Edit code inline here or at [https://jscomplete.com/repl/?j=HkGgHj7kM](https://jscomplete.com/repl/?j=HkGgHj7kM)
+
+
+
+
+
+
+
+
+<iframe data-width="800" data-height="250" width="1200" height="375" src="/media/998fc7667fabcc4e355da1b8b2a3e00d?postId=218e0da5be44" data-media-id="998fc7667fabcc4e355da1b8b2a3e00d" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+Edit code inline here or at [https://jscomplete.com/repl/?j=HkGgHj7kM](https://jscomplete.com/repl/?j=HkGgHj7kM)
+
+
+
+
+
+
 
 If you want to follow along with a different development environment, here is all the CSS that I used to style the markup above:
 
@@ -84,27 +120,27 @@ The new changes introduced in every code snippet below are highlighted in **bold
 
 <pre name="8f0e" id="8f0e" class="graf graf--pre graf-after--pre">**class Number extends React.Component {  
   render() {  
-    return <div className="number">{this.props.value}</div>;  
+    return {this.props.value};  
   }  
 }**</pre>
 
 <pre name="54cd" id="54cd" class="graf graf--pre graf-after--pre">class Game extends React.Component {  
   render() {  
     return (  
-      <div className="game">  
-        <div className="target">42</div>  
-        <div className="challenge-numbers">  
+        
+        42  
+          
  **<Number value={8} />  
           <Number value={5} />  
           <Number value={12} />  
           <Number value={13} />  
           <Number value={5} />  
-          <Number value={16} />**        </div>  
-        <div className="footer">  
-          <div className="timer-value">10</div>  
+          <Number value={16} />**          
+          
+          10  
           <button>Start</button>  
-        </div>  
-      </div>  
+          
+        
     );  
   }  
 }</pre>
@@ -155,17 +191,17 @@ Here are the modifications that we need so far:
 
 <pre name="b943" id="b943" class="graf graf--pre graf-after--pre">  render() {  
     return (  
-      <div className="game">  
-        <div className="target">**{this.target}**</div>          
-        <div className="challenge-numbers">  
+        
+        **{this.target}**          
+          
  **{this.challengeNumbers.map((value, index) =>  
            <Number key={index} value={value} />  
-          )}**        </div>  
-        <div className="footer">  
-          <div className="timer-value">10</div>  
+          )}**          
+          
+          10  
           <button>Start</button>  
-        </div>  
-      </div>  
+          
+        
     )  
   }</pre>
 
@@ -260,7 +296,7 @@ Computing this boolean `clickable` prop should happen in the `Game` component so
 *   A Number component does need to re-render when the `gameStatus` changes from `new` to `playing` because of the masking question marks feature at the beginning. To avoid passing down the `gameStatus` to `Number`, we can compute the value displayed in a `Number` component within the `map` function callback in the `Game` component.
 *   If we pass the `selectedIds` array down to the `Number` component, then on every click React will re-render all six challenge numbers when it only needed to re-render one number. This is why a `clickable` boolean flag is a much better choice here.
 
-<span class="markup--quote markup--p-quote is-other" name="anon_8f6b1f8a55a6" data-creator-ids="anon">With every prop you pass to a child React component comes great responsibility.</span>
+With every prop you pass to a child React component comes great responsibility.
 
 This is more important than you might think. However, React will not optimize the re-rendering of a component automatically. We will have to decide if we want it to do so. This is discussed in step #8 below.
 
@@ -270,12 +306,9 @@ Besides the `clickable` prop, what else does the `Number` component need? Since 
 
 <pre name="69e1" id="69e1" class="graf graf--pre graf-after--pre">render() {  
     return (  
-      <div   
-        className="number"   
-        **style={{ opacity: this.props.clickable ? 1 : 0.3 }}  
-        onClick={() => console.log(this.props.id)}** >  
+       console.log(this.props.id)}** >  
         {this.props.value}  
-      </div>  
+        
     );  
   }</pre>
 
@@ -294,24 +327,21 @@ One behavior you probably noticed while playing the game above is that the numbe
 
 We can use a similar ternary expression for the target number value. We can also control its background color using a lookup call to the static `bgColors` object:
 
-<pre name="edf4" id="edf4" class="graf graf--pre graf-after--p"><div  
-  className="target"  
-  **style={{ backgroundColor: Game.bgColors[gameStatus] }}**  
->  
+<pre name="edf4" id="edf4" class="graf graf--pre graf-after--p">  
   {**this.state.gameStatus === 'new' ? '?' : this.target**}  
-</div></pre>
+</pre>
 
 Finally, we should show the **Start** button only when the `gameStatus` is `new` . Otherwise we should just show the `remainingSeconds` counter. When the game is `won` or `lost`, let’s show a **Play Again** button. Here are the modifications we need for all that:
 
-<pre name="0a37" id="0a37" class="graf graf--pre graf-after--p"><div className="footer">  
+<pre name="0a37" id="0a37" class="graf graf--pre graf-after--p">  
  **{this.state.gameStatus === 'new' ? (  
     <button>Start</button>  
   ) : (  
-    <div className="timer-value">{this.state.remainingSeconds}</div>  
+    {this.state.remainingSeconds}  
   )}  
   {['won', 'lost'].includes(this.state.gameStatus) && (  
     <button>Play Again</button>  
-  )}** </div></pre>
+  )}** </pre>
 
 You can see the full code we have so far [here](https://jscomplete.com/repl/?j=HkIlnsEJG).
 
@@ -475,11 +505,23 @@ However, the code as it is now is still wastefully re-rendering most of the `Num
 
 Then, go ahead and play. On every state change in the `Game` component, you will see that we are re-rendering all 6 `Number` components. This happens when we click the **Start** button and every second after that!
 
-![](https://cdn-images-1.medium.com/max/1600/1*Gun2dDDh21wbMyBmPkJIIQ.png)The Number component was re-rendered 66 times. How many of these were necessary?
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*Gun2dDDh21wbMyBmPkJIIQ.png)
+
+The Number component was re-rendered 66 times. How many of these were necessary?
+
+
 
 The fact is, a `Number` component should not re-render itself unless the player clicks on it. The `60` re-renders that were triggered by the timer change were wasteful. Furthermore, when the player clicks a number, only that number needs to be re-rendered. Right now, React also re-renders all six numbers when the player selects any number.
 
-![](https://cdn-images-1.medium.com/max/1600/1*JB4ahRqp1hWKGr1LvbjsoQ.png)36 Number component updates happened when only 9 updates should have happened
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*JB4ahRqp1hWKGr1LvbjsoQ.png)
+
+36 Number component updates happened when only 9 updates should have happened
+
+
 
 Luckily, we have been careful enough to only pass to the `Number` component the exact props that it needs to re-render. Only the challenge number that needs to be re-rendered will receive different values in these props.
 
@@ -489,7 +531,13 @@ React’s `PureComponent` class will do exactly that. Go ahead and change the `N
 
 <pre name="f5d4" id="f5d4" class="graf graf--pre graf-after--p">class Number extends **React.PureComponent**</pre>
 
-![](https://cdn-images-1.medium.com/max/1600/1*zz5qM2QVa_7ZrRmuXC2a9A.png)Exactly ten Number components were updated (initial six + the selected four)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*zz5qM2QVa_7ZrRmuXC2a9A.png)
+
+Exactly ten Number components were updated (initial six + the selected four)
+
+
 
 However, is this optimization worth it? We cannot answer that question without measuring. Basically, you need to measure which code uses fewer resources: a component render call or the `if` statement in `React.PureComponent` that compares previous and next state/props. This completely depends on the sizes of the state/props trees and the complexity of what is being re-rendered. Do not just assume one way is better than the other.
 
@@ -503,8 +551,48 @@ The Target Sum game was featured in my **React Native Essential Training course,
 
 Thanks for reading.
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 **Pre-order the full** [**eBook**](https://jscomplete.com/learn-react-js-by-building-simple-games) **which has a few more games like this one:**
 
-[![](https://cdn-images-1.medium.com/max/1600/1*HNs-H8HXZ5WDFq7RXYMqFw.png)](https://jscomplete.com/learn-react-js-by-building-simple-games)[https://jscomplete.com/learn-react-js-by-building-simple-games](https://jscomplete.com/learn-react-js-by-building-simple-games)<iframe data-width="600" data-height="400" width="600" height="400" src="/media/f84ef192a30e1d65b1960de6d2e6c27c?postId=218e0da5be44" data-media-id="f84ef192a30e1d65b1960de6d2e6c27c" allowfullscreen="" frameborder="0"></iframe>
+
+
+[![](https://cdn-images-1.medium.com/max/1600/1*HNs-H8HXZ5WDFq7RXYMqFw.png)](https://jscomplete.com/learn-react-js-by-building-simple-games)
+
+[https://jscomplete.com/learn-react-js-by-building-simple-games](https://jscomplete.com/learn-react-js-by-building-simple-games)
+
+
+
+
+
+
+
+<iframe data-width="600" data-height="400" width="600" height="400" src="/media/f84ef192a30e1d65b1960de6d2e6c27c?postId=218e0da5be44" data-media-id="f84ef192a30e1d65b1960de6d2e6c27c" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+

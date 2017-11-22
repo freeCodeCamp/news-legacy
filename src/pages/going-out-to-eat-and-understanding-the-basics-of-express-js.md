@@ -1,8 +1,10 @@
 ---
 author: Kevin Kononenko
+authorTwitter: https://twitter.com/devmanual
+authorFacebook: https://facebook.com/10203738544564981
 title: "Going out to eat and understanding the basics of Express.js"
-subTitle: "If you have ever visited a sit-down restaurant, then you can understand the basics of Express. But if you are just starting to build your…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*iMkFu1T52fkSnlZDlCrvkQ.jpeg
+subTitle: "If you have ever visited a sit-down restaurant, then you can understand the basics of Express. But if you are just starting to build your..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*iMkFu1T52fkSnlZDlCrvkQ.jpeg
 url: https://medium.freecodecamp.org/going-out-to-eat-and-understanding-the-basics-of-express-js-f034a029fb66
 id: going-out-to-eat-and-understanding-the-basics-of-express-js-f034a029fb66
 date: 2017-11-03T17:27:55.614Z
@@ -35,7 +37,19 @@ In this analogy, you are a restaurant owner looking to hire a general manager 
 
 Here is a preview of what is next:
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*gWVqib20b1NNzB6vrM-U6w.png)
+
+
+
+
+
+
 
 By the end, you will understand the functionality of every part of a basic Express app.
 
@@ -47,7 +61,19 @@ If you want to run an efficient and safe restaurant, you need someone to keep yo
 
 The first part is pretty straightforward. Like with any other NPM package, you need to npm install the express module and then use a **require** statement to load the module.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*VjyG-yoVn9aUYJ_cdN6RYA.png)
+
+
+
+
+
+
 
 Unlike many other NPM packages, you also need to use this line:
 
@@ -75,11 +101,27 @@ This ain’t a beach bar! Similarly, in your code, you will need to validate tha
 
 This is where the concept of **middleware** comes in. Middleware functions allow you to take action on any incoming request and modify it before sending back a response.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/0*8HIzvtX-DA3C26uv.png)
+
+
 
 In your restaurant, you need a series of rules to decide if you should seat incoming people or not. Let’s say a couple walks through your door. You have one rule before giving them a table: are they wearing a shirt and shoes?
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*Gqix0p7PBNJ5htTY3sT7OQ.png)
+
+
+
+
+
+
 
 First, you start with [app.use()](http://expressjs.com/en/api.html#app.use). This means that these are simply rules that need to be applied for the routes coming up next. They are not a GET, POST, PUT or DELETE.
 
@@ -95,13 +137,37 @@ The code block above is missing one important thing: A **path**. This is the spe
 
 Can you imagine? When customers entered the restaurant… ordered food… asked for the check… employees would be forced to look up and down at them to make sure they were clothed! That is a quick way to go out of business.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*fjZKIJYmTIxQmVMURYTW9g.png)
+
+
+
+
+
+
 
 So, we change line 4 in the example above. Now, we will only run this code when a user requests along the ‘/table’ route.
 
 The full explanation:
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*d1OPYjAlr6mUWtjtMRbk6g.png)
+
+
+
+
+
+
 
 ### Step 3: executing common routines (routing)
 
@@ -113,7 +179,19 @@ In the context of a restaurant, we need to create a GET request in order to choo
 
 In this case, let’s say that you need to create a procedure to seat a party of two. The number 2 came from the customer **request.**
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*pGvgMABGA1xzrSL9EFGQmQ.png)
+
+
+
+
+
+
 
 Okay, before I explain: Yes, this is only sending a message at the end. It has not actually found a specific table to seat the customer yet. I would need to search an array for an open table, have more of a back story…that is outside of the scope of this tutorial.
 
@@ -135,7 +213,19 @@ Finally in line 14, we send a **response** back to the customer: we are looking 
 
 That is a lot at once. Here is a diagram:
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*k7DkIw1cheKYBwu_AC4SAA.png)
+
+
+
+
+
+
 
 ### Step 3.5: making your restaurant efficient (router)
 
@@ -147,13 +237,29 @@ And, in terms of serving customers, you will need to use a slightly different pr
 
 This is where the **router** comes in. The router lets you group your routes so that you can create common rules.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*6Irrxz4EmHaPgVm0JRgVLg.png)
+
+
+
+
+
+
 
 We need to create middleware to cover each of these cases. I will just cover the seating cases for now since it will overwrite the code above.
 
 Here is the full code snippet:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*Pih87WdfXU_PEXkcbsaAIw.png)
+
+
 
 I am going to cover each part individually.
 
@@ -165,11 +271,27 @@ Finally, in line 21, we add more middleware to show that every seatingRouter rou
 
 Here is that in diagram form:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*-1x9T6VvBCQihyzwqgnGIA.png)
+
+
 
 And, when you add a GET route, it goes above the last statement where you assign routes to the router.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*EPEUF9z94mMlCYXMB6HENA.png)
+
+
+
+
+
+
 
 ### Step 4: opening for business (ports)
 
@@ -177,7 +299,19 @@ Okay, last part. So far, you have hired a manager, defined what to do before acc
 
 Your server has **ports** that are kind of like the address for the restaurant itself.Since your server can handle many types of restaurants (or server-side scripts) at once, you need to tell it where each script should run.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*xGoTkrNMLnwyh7zR2wbbVA.png)
+
+
+
+
+
+
 
 In the example above, the port is 3000 and it is located on your computer. So if you type:
 
@@ -185,8 +319,36 @@ In the example above, the port is 3000 and it is located on your computer. So if
 
 into your browser, and you are running your Node app, the server knows to run the specific script. In this case, as soon as you enter the URL, you will log the message in the console and be able to use any of your **routes**. If the restaurant itself is your entire app, then it is now open for business at the address 3000.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*kl9doAbsvsaQNJdFWhc2-Q.png)
+
+
+
+
+
+
 
 Did you enjoy this? Give it a clap so others can discover it as well. And, if you want to get notified when I release future tutorials that use analogies, sign up here:
 
+
+
+
+
 <iframe data-width="800" data-height="400" width="700" height="350" src="/media/614143bb18105e1285ae4a1df769c191?postId=f034a029fb66" data-media-id="614143bb18105e1285ae4a1df769c191" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fe.enpose.co%2F%3Fkey%3DdRXnS9Gplk%26w%3D700%26h%3D425%26url%3Dhttps%253A%252F%252Fupscri.be%252F97999b%252F%253Fenpose&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+

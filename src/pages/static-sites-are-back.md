@@ -1,8 +1,10 @@
 ---
 author: Stefanos Vardalos
+authorTwitter: false
+authorFacebook: false
 title: "The best static website generators, and when you should choose them over a CMS"
-subTitle: "Back in the day, web pages were static sites, with only HTML and CSS (and later some JavaScript). Try to remember what that actually means."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*xbivs4c7SBkMAHnNFIUHuA.png
+subTitle: "Back in the day, web pages were static sites, with only HTML and CSS (and later some JavaScript). Try to remember what that actually mean..."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*-fH92NH9bTNk086efq-K7w.png
 url: https://medium.freecodecamp.org/static-sites-are-back-24d01a01f11a
 id: static-sites-are-back-24d01a01f11a
 date: 2017-08-21T08:39:26.491Z
@@ -16,7 +18,11 @@ tags: [
 ---
 # The best static website generators, and when you should choose them over a CMS
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*-fH92NH9bTNk086efq-K7w.png)
+
+
 
 Back in the day, web pages were static sites, with only HTML and CSS (and later some JavaScript). Try to remember what that actually means.
 
@@ -32,7 +38,13 @@ One of the most important factors for web development today is security. That, u
 
 Apart from security, another important factor of a modern project is performance. A CMS generates the page the user requested from scratch or uses a built-in or installable plugin. The cache system ensures the reuse of a pre-generated page whenever possible. Using some type of cache system can help a lot, but it may add quite some overhead.
 
-![](https://cdn-images-1.medium.com/max/1600/1*SNnK1-ts3IwtixbYy6aSZQ.jpeg)A screenshot of the nice graphic user interface that CMS tools offer nontechnical users.
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*SNnK1-ts3IwtixbYy6aSZQ.jpeg)
+
+A screenshot of the nice graphic user interface that CMS tools offer nontechnical users.
+
+
 
 So by creating a static site, these problems become obsolete. A static site consists only of, as the name suggests, static files. Like some HTML and CSS files, and little bit of JavaScript.
 
@@ -54,7 +66,21 @@ In the CMS world, there are countless options, but also a winner. WordPress, as 
 
 But there is no clear winner or some way to differentiate them. It seems like it might change from now on, but it remains to be seen. Some of them have gained extensive popularity and are worth noting.
 
-![](https://cdn-images-1.medium.com/max/2000/1*xbivs4c7SBkMAHnNFIUHuA.png)Stats through [StackShare](https://stackshare.io/stackups/gatsby-vs-wintersmith-vs-hugo-vs-hexo-vs-jekyll)
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*xbivs4c7SBkMAHnNFIUHuA.png)
+
+Stats through [StackShare](https://stackshare.io/stackups/gatsby-vs-wintersmith-vs-hugo-vs-hexo-vs-jekyll)
+
+
+
+
+
+
 
 [**Jekyll**](https://jekyllrb.com/) is by far the most popular one of those generators. It’s built with Ruby and integrated into GitHub Pages. So, it’s quite popular for personal projects and/or documentation. It has a huge user base and a big directory of plugins.
 
@@ -74,7 +100,21 @@ The fact that it uses React helps a lot as more developers are using React right
 
 ### Summary
 
-![](https://cdn-images-1.medium.com/max/1600/1*Sj3MViNvQvqm1PaofTbu0g.png)Downloads in the past 6 Months
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*Sj3MViNvQvqm1PaofTbu0g.png)
+
+Downloads in the past 6 Months
+
+
 
 Looking at the downloads from the last six months, we can see that Gatsby might be a winner in the making. Those numbers might not be 100% true.   
 Gatsby can also be used for more complex things than markdown-to-HTML conversion. But, as its user base expands fast, we may have found the WordPress for static site generators.
+
+
+
+
+
+
+
+

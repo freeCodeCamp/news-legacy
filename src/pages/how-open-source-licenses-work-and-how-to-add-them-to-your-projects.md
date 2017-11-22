@@ -1,8 +1,10 @@
 ---
 author: Radu Raicea
+authorTwitter: https://twitter.com/radu_raicea
+authorFacebook: false
 title: "How open source licenses work and how to add them to your projects"
-subTitle: "Recently, there was some exciting news for developers around the world. Facebook changed the license of multiple libraries they develop…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*FFYtzf28XKPFBdknfXf-jg.jpeg
+subTitle: "Recently, there was some exciting news for developers around the world. Facebook changed the license of multiple libraries they develop. ..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*FFYtzf28XKPFBdknfXf-jg.jpeg
 url: https://medium.freecodecamp.org/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94
 id: how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94
 date: 2017-10-17T07:40:05.944Z
@@ -16,11 +18,33 @@ tags: [
 ---
 # How open source licenses work and how to add them to your projects
 
-![](https://cdn-images-1.medium.com/max/2000/1*FFYtzf28XKPFBdknfXf-jg.jpeg)Image credit: GitHub
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*FFYtzf28XKPFBdknfXf-jg.jpeg)
+
+Image credit: GitHub
+
+
+
+
+
+
 
 Recently, there was some exciting news for developers around the world. Facebook changed the license of multiple libraries they develop. They switched from **BSD-3+patents** to a **MIT**.
 
+
+
+
+
 <iframe data-width="500" data-height="185" width="500" height="185" src="/media/4bced36118b0ff8efe3b3c6f1afa39ad?postId=34310c3cf94" data-media-id="4bced36118b0ff8efe3b3c6f1afa39ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F446356636710363136%2FOYIaJ1KK_400x400.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 That seems good, but what does it mean? What are the implications of different open source licenses?
 
@@ -106,7 +130,7 @@ Facebook’s [**React.js**](https://github.com/facebook/react) had a BSD-3+paten
 
 In a nutshell, if you sue Facebook or any of its subsidiaries, you lose the right to use React (or any other software under the same license).
 
-<span class="markup--quote markup--p-quote is-other" name="anon_3f3a9a826ff7" data-creator-ids="anon">React is now MIT licensed. You are now able to sue Facebook and still use React. What a relief!</span>
+React is now MIT licensed. You are now able to sue Facebook and still use React. What a relief!
 
 ### Applying a license to your open source projects
 
@@ -132,3 +156,11 @@ GitHub makes it even easier:
 **Check out my** [**explanation**](https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-medium-be9261b924b0) **of how I used Python to find interesting people to follow on Medium!**
 
 For more updates, follow me on [Twitter](https://twitter.com/radu_raicea).
+
+
+
+
+
+
+
+

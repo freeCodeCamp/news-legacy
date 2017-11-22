@@ -1,8 +1,10 @@
 ---
 author: Pierre de Wulf
+authorTwitter: https://twitter.com/PierreDeWulf
+authorFacebook: https://facebook.com/1708834585999051
 title: "Understanding git for real by exploring the .git directory"
-subTitle: "“Whoah, I’ve just read this quick tuto about git and oh my god it is cool. I feel now super comfortable using it, and I’m not afraid at all…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*e-tlWqLwbUd1UmZyC_KbGg.png
+subTitle: "Using git as a beginner is like visiting a new country for someone who can’t read/speak the local language. As soon as you know where you..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*e-tlWqLwbUd1UmZyC_KbGg.png
 url: https://medium.freecodecamp.org/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807
 id: understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807
 date: 2016-02-20T09:16:52.891Z
@@ -16,13 +18,19 @@ tags: [
 ---
 # Understanding git for real by exploring the .git directory
 
-> <span class="markup--quote markup--pullquote-quote is-other" name="anon_ae9c2ef2b1a6" data-creator-ids="anon">“Whoah, I’ve just read this quick tuto about git and oh my god it is cool. I feel now super comfortable using it, and I’m not afraid at all to break something.”— said no one ever.</span>
+> “Whoah, I’ve just read this quick tuto about git and oh my god it is cool. I feel now super comfortable using it, and I’m not afraid at all to break something.”— said no one ever.
 
 Using git as a beginner is like visiting a new country for someone who can’t read/speak the local language. As soon as you know where you are and where to go, everything is fine, but the moment you get lost, the big troubles begin (#badMetaphor).
 
 There are a lot of posts out there about learning the basic commands of git, this is not one of them. What I’m going to try here is a different approach.
 
-![](https://cdn-images-1.medium.com/max/800/1*0o9GZUzXiNnI4poEvxvy8g.png)[xkcd](https://xkcd.com/1597/)
+
+
+![](https://cdn-images-1.medium.com/max/800/1*0o9GZUzXiNnI4poEvxvy8g.png)
+
+[xkcd](https://xkcd.com/1597/)
+
+
 
 New users are usually afraid by git and really, it is hard not to be. It is a powerful tool for sure but it is not really user friendly. Lots of new concepts, commands doing completely different things if a file is passed as a parameter or not, cryptic feedback …
 
@@ -154,7 +162,23 @@ So by now you should understand that all git does when you commit is “zipping�
 
 I mean a commit isn’t really a snapshot of your working directory, it is a snapshot of the files you want to commit. And where does git store those file you want to commit before making the actual ? Well it stores them into the index file. We’re not going to dig deeper into it now, meanwhile if you’re really curious you can always take a look at [this](https://github.com/git/git/blob/master/Documentation/technical/index-format.txt).
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 ### Thanks For Reading
 
@@ -168,3 +192,11 @@ I write articles about what I think are misunderstood or unknown features of our
 Next time we’ll talk about git rebase, see you soon and have fun.
 
 If like 33,157 others you liked my posts subscribe you can subscribe [here](http://bit.ly/1Ug9Iei) if you don’t want to miss the next one.
+
+
+
+
+
+
+
+

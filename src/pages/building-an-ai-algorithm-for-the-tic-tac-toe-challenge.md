@@ -1,8 +1,10 @@
 ---
 author: Ben Carp
+authorTwitter: false
+authorFacebook: https://facebook.com/278018276026925
 title: "Building an AI algorithm for the Tic-Tac-Toe challenge"
-subTitle: "As part of the freeCodeCamp curriculum, I was challenged build a Tic-Tac-Toe web app. It was a real pleasure."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*tTQJFNpKFOOiH8dN_2tyEQ.png
+subTitle: "As part of the freeCodeCamp curriculum, I was challenged build a Tic-Tac-Toe web app. It was a real pleasure...."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*tTQJFNpKFOOiH8dN_2tyEQ.png
 url: https://medium.freecodecamp.org/building-an-ai-algorithm-for-the-tic-tac-toe-challenge-29d4d5adee07
 id: building-an-ai-algorithm-for-the-tic-tac-toe-challenge-29d4d5adee07
 date: 2017-11-08T16:57:27.088Z
@@ -16,7 +18,11 @@ tags: [
 ---
 # Building an AI algorithm for the Tic-Tac-Toe challenge
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*tTQJFNpKFOOiH8dN_2tyEQ.png)
+
+
 
 As part of the [freeCodeCamp](https://www.freecodecamp.org/) curriculum, I was challenged build a [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) web app. It was a real pleasure.
 
@@ -68,15 +74,27 @@ The `getResult` function receives a board array, iterates over all the rows, thr
 
 Here it gets more difficult. When the board is empty it is very difficult to identify the best possible move. Take a look at this board.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/0*Dsyde0AOjxdNDKcf.)
+
+
 
 Which is the best possible possible move?
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/0*i4_4_Zj1k5vL6y-M.)
+
+
 
 When the board becomes populated, the best possible move pops out to our eyes.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/0*AhY-mhauWzJUci57.)
+
+
 
 Let’s use this populated board as our starting point. Lets decide that the next move is ours, and that our symbol is an “X”.
 
@@ -88,7 +106,29 @@ We can do this by iterating over the possible moves, and for each of them:
 *   Add our symbol to the corresponding empty cell
 *   Send this board to the `getResult` function
 
-![](https://cdn-images-1.medium.com/max/1600/0*icD9gAM1qcKbp2Co.)**Move 1**![](https://cdn-images-1.medium.com/max/1600/0*W5gAvB6HADWOxeaF.)**Move 2**![](https://cdn-images-1.medium.com/max/1600/0*zae3uSQUIuWlXFM6.)**Move 3**
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*icD9gAM1qcKbp2Co.)
+
+**Move 1**
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*W5gAvB6HADWOxeaF.)
+
+**Move 2**
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*zae3uSQUIuWlXFM6.)
+
+**Move 3**
+
+
 
 From the 3 boards in the figure above, when we send the second board to the `getResult` function, we will receive our trophy.
 
@@ -104,7 +144,21 @@ You might be thinking, “But wait! Our opponent plays the next move.” That’
 
 Our opponent has only two possible moves:
 
-![](https://cdn-images-1.medium.com/max/1600/0*WGMUS4167_ub3ev-.)**Move 3–1**![](https://cdn-images-1.medium.com/max/1600/0*bUNVZCA4P7FVxeY4.)**Move 3–2**
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*WGMUS4167_ub3ev-.)
+
+**Move 3–1**
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*bUNVZCA4P7FVxeY4.)
+
+**Move 3–2**
+
+
 
 Move 3–1 will win the game in favor of our opponent. Since we are using the exact same `getBestMove` function, Move 3–1 will receive a grade of 1.
 
@@ -114,7 +168,11 @@ We must negate any grade returned to the `getBestMove` function by the `getBestM
 
 Move 3–1 receives a grade of 1\. The `getBestMove` function returns a grade of 1, and we can grade Move 3 with a -1.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/0*DrYhRWpB33bwSdPU.)
+
+
 
 In this manner, the `getBestMove` function continues to explore moves and consequent moves. This process will continue until:
 
@@ -138,3 +196,11 @@ These steps guarantee that:
 2.  I consulted [Assaf Weinberg](https://twitter.com/assafweinberg?lang=en) in the process of writing the app
 
 See [my code](https://github.com/carpben/TicTacToe/blob/master/tictactoe.js) on GitHub.
+
+
+
+
+
+
+
+

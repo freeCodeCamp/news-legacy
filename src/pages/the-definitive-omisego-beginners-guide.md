@@ -1,8 +1,10 @@
 ---
 author: Jérémie Grandsenne
+authorTwitter: https://twitter.com/jgrandsenne
+authorFacebook: https://facebook.com/10153864201596878
 title: "The Definitive OmiseGO Beginner’s Guide"
-subTitle: "As the interest for blockchain projects and cryptocurrencies is exponentially growing, OmiseGO appears to be one of the strongest and most…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*kzvOj2G61olA6bEHY98H3Q.jpeg
+subTitle: "As the interest for blockchain projects and cryptocurrencies is exponentially growing, OmiseGO appears to be one of the strongest and mos..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*kzvOj2G61olA6bEHY98H3Q.jpeg
 url: https://medium.freecodecamp.org/the-definitive-omisego-beginners-guide-f95dcdf8635c
 id: the-definitive-omisego-beginners-guide-f95dcdf8635c
 date: 2017-11-03T19:08:40.814Z
@@ -16,7 +18,19 @@ tags: [
 ---
 # The Definitive OmiseGO Beginner’s Guide
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*kzvOj2G61olA6bEHY98H3Q.jpeg)
+
+
+
+
+
+
 
 As the interest for blockchain projects and cryptocurrencies is exponentially growing, [**OmiseGO**](http://omg.omise.co/) appears to be one of the strongest and most exciting projects out there. Still, as it involves fairly complex notions, it is hard for the beginner looking for an introduction to find a **clear and complete guide**: OmiseGO’s website provides all necessary documents, and especially the “[white paper](https://cdn.omise.co/omg/whitepaper.pdf)”, an in-depth explanation of the whole system, but although being an extremely well thought and precise document, it would be a lie to pretend it’s not a hard read at first sight.
 
@@ -84,7 +98,11 @@ Will the OMG token be replaced by another token in the future?
 Where to store OMG tokens?  
 Where to buy OMG?
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*_rySePd_USd4yehzD_6UJA.png)
+
+
 
 ### **1) The company**
 
@@ -94,19 +112,33 @@ Omise is a real-world company established since 2013 in Thailand, Japan, Singapo
 
 Omise have been featured in 2016 by Forbes Thailand as « Fintech rockstars », and awarded « Digital startup of the year » by Thailand’s Prime Minister.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*98iqoHOJepLEk42mItTCOQ.jpeg)
+
+
 
 **_What is OmiseGO?_**
 
 OmiseGO is an extension of Omise, born in 2017 to leverage the blockchain technology to propose a whole system that aims to revolutionize the way people take control of their financial and valuable assets and exchange them with each other, by providing a secure and completely open way to do so without boundaries and without depending on a third-party.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*gaUuNIO7FfalE151mbqF1g.png)
+
+
 
 **_Who is the team?_**
 
 Jun Hasegawa is Omise and OmiseGO’s CEO, and Donnie Harinsut is Omise and OmiseGO’s COO. Joseph Poon, who is co-author of the Lightning Network and co-author of Plasma, is OmiseGO’s principal author, and notable members of the advisors’ team include Vitalik Buterin, founder of Ethereum, and co-author of Plasma, Gavin Wood, co-founder of Ethereum, Jae Kwon, creator of Tendermint and Cosmos Network, Vlad Zamfir, Ethereum’s Casper Research Lead, Julian Zawitowski, founder of Golem, and Thomas Greco, member of Ethereum, the Cosmos Network and Streamr.
 
-![](https://cdn-images-1.medium.com/max/1600/1*WKbzOobPkcFUEVKgB7NEUA.jpeg)Thomas Greco, Vansa Chatikavanij, Gavin Wood, Vitalik Buterin, Donnie Harinsut, Jun Hasegawa
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*WKbzOobPkcFUEVKgB7NEUA.jpeg)
+
+Thomas Greco, Vansa Chatikavanij, Gavin Wood, Vitalik Buterin, Donnie Harinsut, Jun Hasegawa
+
+
 
 **_How did Omise launch OmiseGO?_**
 
@@ -126,7 +158,13 @@ And when the user requests an action on a certain website’s interface through 
 
 In this model, the company owns a database, that is both, first, the collection of programmatic instructions that are the technical matrix of what users see on their screen, in other words the rules that define actions allowed by the website, and second, the library containing every data used by the website, for instance images used on the website, and every data users might enter in the website such as their identity information, profile picture, search and browsing history, payment information, and any information you might be giving when using a certain website.
 
-![](https://cdn-images-1.medium.com/max/1600/1*UZIkQDHIH2hLeVVD9QsehQ.gif)Image source [Infomotions.com](http://infomotions.com/musings/waves/clientservercomputing.html)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*UZIkQDHIH2hLeVVD9QsehQ.gif)
+
+Image source [Infomotions.com](http://infomotions.com/musings/waves/clientservercomputing.html)
+
+
 
 **_What are the problems with the traditional model?_**
 
@@ -152,7 +190,13 @@ And if 10 000 users connect to the same website, you still have, 10 000 clients 
 
 Now imagine that the website doesn’t own a private database, and that, instead, each of the 10 000 clients, additionally to being a client (a user), also owns an identical copy of the database.
 
-![](https://cdn-images-1.medium.com/max/1600/1*3hyWN8UhcrL7P0Opbu7IQg.jpeg)Image source [Seats2meet.com](https://magazine.seats2meet.com/more-about-blockchain/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*3hyWN8UhcrL7P0Opbu7IQg.jpeg)
+
+Image source [Seats2meet.com](https://magazine.seats2meet.com/more-about-blockchain/)
+
+
 
 Imagine that if a hacker is hiding inside this 10 000 users and want to fallaciously delete or add or edit an information in the database at his own profit (for instance: add a money transfer from a victim user’s account to his own account), his own copy will become different from the other 9999 copies, so his database copy will be automatically rejected and his fraud attempt will be rejected as well.
 
@@ -162,7 +206,13 @@ Finally, imagine that to add one new block to the chain in order to validate it,
 
 This, is **blockchain as a** **decentralized database**: the database is now identically shared by thousands of computers, and not a single line can be erased or changed in the database (ever), and not a single line can be added without providing a very specific proof and having it confirmed by these thousands of computers that will also check that it matches vertically with their previous block. The result is that the hacker that had the ability to break a centralized database’s security and steal its sensitive content, would now have to break extremely complicate cryptographic barriers but also break the doors to thousands of computers at the very same time, to modify each of the thousands of existing copies of the database: this is why the blockchain is considered virtually unbreakable. To get deeper into this matter and learn about hashes and nonces, you can watch this very clear and interesting video by Anders Brownworth [here](https://anders.com/blockchain/).
 
-![](https://cdn-images-1.medium.com/max/1600/1*flMWR1oSK--wozLYmEn8XA.png)Watch Anders Brownworth’s [video](https://anders.com/blockchain/) and give a meaning to these colourful boxes and numbers
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*flMWR1oSK--wozLYmEn8XA.png)
+
+Watch Anders Brownworth’s [video](https://anders.com/blockchain/) and give a meaning to these colourful boxes and numbers
+
+
 
 And **blockchain as a network** simply means that all these computers owning their own identical copy of the decentralized database, are also all running a certain application, thanks to which they are all linked together, and constitute a big network. Each point of this network, meaning each computer owning this database copy and running this application, is called a node, because, as in a physical net or web, it acts as the link and nodal point where several lines meet. And thanks to this nodes and lines horizontal architecture, where any node is virtually linked to any other node, the information (data) can travel, now not only in a binary way from a server to a client or a client to a server, but, as everyone is now both a client and server, from any node to any node. This data can be any type of information you can imagine, and this network structure, where any type of information can travel from any node to any other node, is blockchain as a network.
 
@@ -174,7 +224,13 @@ Above the blockchain protocol, the term Ethereum both refers to the **Ethereum b
 
 Ethereum has also popularized the concept of **smart contracts**, that define rules between 2 participants, and thanks to which a certain transaction happens when and only when the parameters accepted by both participants are met, without allowing one of the 2 participants to change the terms of the contract without the other’s agreement: which is a guarantee of technical and legal transparency. The contract can be financial, or happen on any other level. In the same time, the Ethereum protocol also includes its own token, Ether (ETH).
 
-![](https://cdn-images-1.medium.com/max/1600/1*ZPirVdiYDAF6IxQywTs2Vg.png)Image by _Maria Kuznetsov, source_ [_Coindesk.com_](https://www.coindesk.com/information/what-is-ethereum/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*ZPirVdiYDAF6IxQywTs2Vg.png)
+
+Image by _Maria Kuznetsov, source_ [_Coindesk.com_](https://www.coindesk.com/information/what-is-ethereum/)
+
+
 
 In other words, the term blockchain both refers to a certain type of **protocol** and process between computers, and to one particular existing **network** that is built based on the blockchain protocol. And to develop a blockchain application (because you want your application to leverage the benefits of the blockchain protocol such as decentralization, safety and privacy), you need to create a certain blockchain, and you need to develop an application on it. Both are complicate and costly operations, because the blockchain ecosystem and development is still a sort of **“cognitive wild wild west”**. In this wild wild west, Ethereum comes to take everyone by the hand, by providing a usable and efficient blockchain, and a certain suit of development tools to build on: a JavaScript inspired programming language called Solidity, and a development framework based on Solidity, that developers can use to develop and run their applications on the Ethereum blockchain.
 
@@ -190,7 +246,13 @@ OmiseGO is addressing 2 types of problems:
 
 OmiseGO wants to provide unbanked people with an easy, open solution allowing them to own, send, receive money on a dematerialized form, whatever currency or asset they want to send, and at a minimal cost.
 
-![](https://cdn-images-1.medium.com/max/1600/1*7_KeebuC2P_mq3OXOmyQHA.png)2016 map. Source [PaymentsCardsAndMobile.com](http://www.paymentscardsandmobile.com/addressing-unbanked-developing-countries/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*7_KeebuC2P_mq3OXOmyQHA.png)
+
+2016 map. Source [PaymentsCardsAndMobile.com](http://www.paymentscardsandmobile.com/addressing-unbanked-developing-countries/)
+
+
 
 - Second problem is what OmiseGO defines as « a fundamental **coordination problem** amongst payment processors, gateways and financial institutions »: meaning that the economical and financial world is full of closed networks, where it is possible to send money inside one very network, but much more difficult or costly to send cross-network money or values.
 
@@ -206,7 +268,13 @@ OmiseGO is targetting 2 types of customers:
 
 - Second type are merchants and wallet providers, and more generally **Electronic Payment Providers** (EPPs), allowing them to propose solutions with which their customers can seamlessly keep, send, receive and exchange any type of values from any network to any other network, giving them much more freedom than they currently have, and at a much smaller cost.
 
-![](https://cdn-images-1.medium.com/max/1600/1*dc1m99-AlLG4cSiYhwmGVA.jpeg)If you have nothing better to do on Philippines’ Panglao Island, you can use your OmiseGO wallet / Photo Reinhard Dirscherl, Getty, source [Travel + Leisure](http://www.travelandleisure.com/slideshows/best-secret-beaches-on-earth#panglao-island-phillippines)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*dc1m99-AlLG4cSiYhwmGVA.jpeg)
+
+If you have nothing better to do on Philippines’ Panglao Island, you can use your OmiseGO wallet / Photo Reinhard Dirscherl, Getty, source [Travel + Leisure](http://www.travelandleisure.com/slideshows/best-secret-beaches-on-earth#panglao-island-phillippines)
+
+
 
 **_What is OmiseGO building?_**
 
@@ -226,7 +294,13 @@ OmiseGO is building **a full decentralized system to enable value exchange in re
 
 OmiseGO is building its own network, the OmiseGO blockchain. The OmiseGO blockchain will not be owned by the OmiseGO company as its own property, but will be an open and permissionless network belonging to all those using it. The operations happening using the OmiseGO products (these products are the DEX, the OmiseGO wallet and the wallets or applications built with the OmiseGO SDK) will happen partly on the OmiseGO blockchain, and partly on the Ethereum blockchain. How the operations will be distributed between these 2 networks is explained below in « How will Ethereum and OmiseGO interact? ».
 
-![](https://cdn-images-1.medium.com/max/1600/1*CsA7WUSJTEVLrlFLFhhmgA.png)Source [OmiseGO](https://omg.omise.co/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*CsA7WUSJTEVLrlFLFhhmgA.png)
+
+Source [OmiseGO](https://omg.omise.co/)
+
+
 
 **_What is the Decentralized Exchange (DEX)?_**
 
@@ -244,7 +318,13 @@ In order to **scale** the network, and to prevent liquidity pools to create cent
 
 It must finally be pointed that the OmiseGO network is not designed with the goal to be a high-volume low-value network, to handle a very high volume of micro-transactions, but with the goal of being « **the preeminent high-value exchange and settlement platform** ».
 
-![](https://cdn-images-1.medium.com/max/1600/1*3k2cQq97D1uEwCjDUr37Qw.png)Source [OmiseGO](https://omg.omise.co/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*3k2cQq97D1uEwCjDUr37Qw.png)
+
+Source [OmiseGO](https://omg.omise.co/)
+
+
 
 **_What is the OmiseGO wallet?_**
 
@@ -258,7 +338,13 @@ A SDK is a Software Development Kit, also called a **programming framework**. If
 
 The white label wallet SDK built by OmiseGO will, as its name implies, be a framework for developers and companies to quickly and efficiently develop wallets for their own customers, and without any mandatory design or OmiseGO mention on the final product, as the SDK will just be a set of programming functions (many “do-this”). Any developer can develop and design his own product, just using the SDK to accelerate the process, save money and time, and avoid the painful process of building his own blockchain and the painful learning curve of fully understanding the complex blockchain model.
 
-![](https://cdn-images-1.medium.com/max/1600/1*vHz1i_6BD-8RrZPK9atwPw.png)Source [OmiseGO](https://omg.omise.co/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*vHz1i_6BD-8RrZPK9atwPw.png)
+
+Source [OmiseGO](https://omg.omise.co/)
+
+
 
 The OmiseGO white-label wallet SDK will be **free** to use for anyone, and every transaction happening through applications developed with the SDK, will automatically take place **on the OmiseGO blockchain**.
 
@@ -282,13 +368,25 @@ Because the OmiseGO blockchain will work through the **Proof of Stake** system (
 
 - The more coins you **stake** (the more coins you hold on your wallet), the more fees you will receive proportionally to other stakers. A staker with 2000 OMG on his wallet will receive twice the amount received by a staker with 1000 OMG.
 
-![](https://cdn-images-1.medium.com/max/1600/1*rBYcKS1YiknBcaJfvVLi-w.jpeg)Passive income / Credit Don Rosa, Disney, Glénat
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*rBYcKS1YiknBcaJfvVLi-w.jpeg)
+
+Passive income / Credit Don Rosa, Disney, Glénat
+
+
 
 - If you are caught making a bad use of the network (cheating in any way, likely for your own benefit), all the tokens you were staking are **burned**, which means destroyed, which means: you lose money. You lose the amount you had paid to acquire these OMG tokens, you lose the value they had at this moment of time, and of course you lose the ability to receive fees from the neetwork.
 
 So the reason you are paid more if you stake more coins, is because you take a bigger risk, should you would want to attack the system, and so it is considered that you will not want to attack it: the token acts as a **bond.** The more you stake, the more you can lose if you cheat, so the more you can be considered a trustful node, and the more financial compensation you receive for your blocks confirmation activity.
 
-![](https://cdn-images-1.medium.com/max/1600/1*_YbE-dX915E4r01C3e0Ljg.jpeg)Hackers got caught, tokens got slashed / Credit Don Rosa, Disney
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*_YbE-dX915E4r01C3e0Ljg.jpeg)
+
+Hackers got caught, tokens got slashed / Credit Don Rosa, Disney
+
+
 
 But if you know the Proof of Work system (PoW), which is used for Bitcoin, and currently on Ethereum too before their Proof of Stake system is ready, it is important to note that oppositely to Proof of Work, in the Proof of Stake protocol, knowing what node (what user) confirms a block, has no influence on who receives the fees. Only how much coins one stakes does matter. (Which also makes the Proof of Stake system an ecologically much less costly system than the Proof of Work system, where every machine spends huge amounts of energy competing to be the one that will confirm the transaction.)
 
@@ -308,7 +406,13 @@ While the blockchain has many very positive aspects compared to the traditional 
 
 OmiseGO will be the first project to implement the Plasma technology, but as Plasma is currently under development, it is worth noting that OmiseGO will be able to start without using Plasma at the beginning, and will use the **Cosmos Network** for the same purpose with intermediate scalability in a first phase, where the OmiseGO network will not be fully public yet (see below “What is OmiseGO’s roadmap?” for details).
 
-![](https://cdn-images-1.medium.com/max/1600/1*o8RBc2Uyi-wVdV0fdDsLXA.png)Cosmos Network’s logo. Source [Cosmos Network](https://cosmos.network/).
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*o8RBc2Uyi-wVdV0fdDsLXA.png)
+
+Cosmos Network’s logo. Source [Cosmos Network](https://cosmos.network/).
+
+
 
 ### **3) Partners and investors**
 
@@ -320,19 +424,49 @@ Omise is a strongly Thailand implanted company, and quite naturally many things 
 
 - First, it is important to stress that Thailand Finance Ministry has launched a national e-payment master plan to promote electronic payment, with the goal to **create a cashless society**. It is only speculation until now to think that this is linked to the fact that Omise and Vitalik Buterin had a meeting with the **Central Bank of Thailand**, but whether it was linked or not and how, what matters is that Omise and OmiseGO’s main implantation country has announced this goal, that OmiseGO can be an excellent solution provider in this perspective, and that Thailand’s Ministry and the company seem in very good terms.
 
+
+
+
+
 <iframe data-width="500" data-height="185" width="500" height="185" src="/media/498e402cec00243f520531ff06158eac?postId=f95dcdf8635c" data-media-id="498e402cec00243f520531ff06158eac" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDHR19dMUAAEM_Y4.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 And, on a more concrete level, the Thai Ministry of Finance successfully launched use of **Omise’s FacePay technology**, allowing payments with facial recognition.
 
+
+
+
+
 <iframe data-width="500" data-height="185" width="500" height="185" src="/media/7bceb69cf315ff10f42dfe3cc7b84e53?postId=f95dcdf8635c" data-media-id="7bceb69cf315ff10f42dfe3cc7b84e53" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDHgZ9ZSUwAEPSCd.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 - Thailand has also launched **PromptPay**, a new interbank mobile payments system “to enable money transfers” between accounts from different banks with a solution “cheaper and easier than those offered by conventional banks”. Authorization in participation to PromptPay is given by the Finance Ministry, and one of the two banks consortiums that received this authorization is the Thai Alliance Payment System, that includes the **Bank of Ayudhya** (commonly referred to as Krungsri), that recently made a **30 million dollars strategic investment in OmiseGO**.
 
+
+
+
+
 <iframe data-width="500" data-height="185" width="500" height="185" src="/media/1984090421e9eff68d58575cf11bebd9?postId=f95dcdf8635c" data-media-id="1984090421e9eff68d58575cf11bebd9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F752500236040318976%2FekbXPi5f_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 It is worth reminding that a « strategic investment » made by a company A into a company B, is different from a plain « investment ». A regular investment means that company A expects company B’s growth, and expects to receive dividends from this growth. But a strategic investment means that company A expects personal growth, as a company, from company B’s growth. Which means here that the Bank of Ayudhya invested in OmiseGO because Bank of Ayudhya expects that, thanks to OmiseGO, Bank of Ayudhya itself will grow.
 
-![](https://cdn-images-1.medium.com/max/1600/1*JCaj6msrTOz6DbBoOFQX2Q.jpeg)Omise CEO Jun Hasegawa, Krungsri Finnovate MD Sam Tanskul, Omise COO and co-founder Donnie Harinsut. Source [Digital News Asia](https://www.digitalnewsasia.com/startups/krungsri-finnovate-leads-latest-funding-round-omise)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*JCaj6msrTOz6DbBoOFQX2Q.jpeg)
+
+Omise CEO Jun Hasegawa, Krungsri Finnovate MD Sam Tanskul, Omise COO and co-founder Donnie Harinsut. Source [Digital News Asia](https://www.digitalnewsasia.com/startups/krungsri-finnovate-leads-latest-funding-round-omise)
+
+
 
 It is, by so, at this time also still speculation but meaningful speculation, to expect that the Bank of Ayudhya, who has a 7 billion dollars market cap (see Forbes review [here](https://www.forbes.com/companies/bank-of-ayudhya/)), might provide their users in the future with financial applications running on the OmiseGO network. And again, any transaction happening on the OmiseGO network, for instance through an application provided by a bank to its customers, will generate fees that will be distributed between OMG coin holders.
 
@@ -348,7 +482,13 @@ With Thailand, Japan is the other main country of implantation of Omise and now 
 
 - OmiseGO is partnering with **Credit Saison**, third largest credit card company in Japan, affiliated with **Mizuho**, the third largest bank in Japan.
 
-![](https://cdn-images-1.medium.com/max/1600/1*dzP5vJVjb6iHc_iWZWzzIw.jpeg)MUFG headquarters. Photo [Kakidai](https://commons.wikimedia.org/wiki/User:Kakidai), Source MUFG [Wikipedia](https://en.wikipedia.org/wiki/Mitsubishi_UFJ_Financial_Group)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*dzP5vJVjb6iHc_iWZWzzIw.jpeg)
+
+MUFG headquarters. Photo [Kakidai](https://commons.wikimedia.org/wiki/User:Kakidai), Source MUFG [Wikipedia](https://en.wikipedia.org/wiki/Mitsubishi_UFJ_Financial_Group)
+
+
 
 **3\. Singapore and Thailand**
 
@@ -364,7 +504,15 @@ As mentioned above, PromptPay is Thailand’s interbank mobile payments system t
 
 OmiseGO’s Crowdsale document reads: “By integrating with OmiseGO, the TrueMoney digital wallet end-customers will be able to conduct real-time low-cost money transfers, cross border remittances, retail, and bill payments. They will also be able to interact with other digital wallet providers (“brands”) that subscribe to the OmiseGO network.”
 
+
+
+
+
 <iframe data-width="500" data-height="185" width="500" height="185" src="/media/3cbc927012b5b8a0e66c2b4ad80cdf7c?postId=f95dcdf8635c" data-media-id="3cbc927012b5b8a0e66c2b4ad80cdf7c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F752500236040318976%2FekbXPi5f_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 What is TrueMoney:
 
@@ -374,7 +522,11 @@ What is TrueMoney:
 
 - Founded in 2003, TrueMoney now belongs to Thailand-based **Ascend Group**, which is a spin-off of True Corporation and belongs to also Thailand based **CP Group**, which is, in Thailand, the sole operator of over 9000 of the **7/11** stores that allow the use of TrueMoney. It is, again, still speculation but meaningful speculation, to assume that OmiseGO partner TrueMoney might, at some point, provide their very numerous users with a convenient service leveraging the OmiseGO technology and generating fees on the OmiseGO network.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*LrAAcrSDTnHzdtS3FsKapA.png)
+
+
 
 - **Ant Financial**, the Chinese company owning China’s digital payment giant **Alipay**, and belonging to the **Alibaba Group**, recently invested in Ascend Money from the Ascend Group, which is, according to OmiseGO’s CEO Jun own words, « [OmiseGO’s] investor / partner / supporter ».
 
@@ -384,13 +536,29 @@ Alipay already counts more than 500 million users, is starting to target the USA
 
 OmiseGO has announced a formal relationship with Mac Donald’s Thailand. No further details have been given yet, but it can likely mean that Mac Donald’s customers will be able to pay their orders using the OmiseGO wallet in Thai restaurants.
 
+
+
+
+
 <iframe data-width="500" data-height="185" width="500" height="185" src="/media/c809943c9f35272280fabbfb0e0e21f8?postId=f95dcdf8635c" data-media-id="c809943c9f35272280fabbfb0e0e21f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDIeME3mUEAAM150.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 **3\. Toppan Printing**
 
 OmiseGO is collaborating with Toppan Printing to start offering a new type of advertising and purchase process, thanks to which scanning a **QR code** on an advertising medium, for instance a magazine, will automatically allow the customer to order the advertised product.
 
+
+
+
+
 <iframe data-width="500" data-height="185" width="500" height="185" src="/media/17f4ebc27aa3d22319487fbf9a4a34e9?postId=f95dcdf8635c" data-media-id="17f4ebc27aa3d22319487fbf9a4a34e9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F752500236040318976%2FekbXPi5f_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 **4\. Global Brain**
 
@@ -404,7 +572,13 @@ OmiseGO recently met up with Greylock Partners, a leading venture capital Silico
 
 **Hubii Network**, a decentralized content marketplace counting 50 million users, [announced](https://medium.com/@jacobotoll/hubii-network-to-use-omisego-for-payments-81d5d7313b3e) they had chosen OmiseGO as the obvious solution for their payment system.
 
-![](https://cdn-images-1.medium.com/max/1600/1*onc9YkhHvn56b165hv2dcg.png)[hubliinetwork](http://hubii.network/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*onc9YkhHvn56b165hv2dcg.png)
+
+[hubliinetwork](http://hubii.network/)
+
+
 
 ### **4) The future**
 
@@ -418,7 +592,15 @@ Eventually, all transactions using the original off-blockchain Omise solution wi
 
 As explained all above, OmiseGO is not a single application or service but a whole project, that the team has divided into 3 layers, which will be developped through time from the most crucial one to the most sophisticated one. OmiseGO has started publishing blog posts describing their roadmap according to terms of the game of Go.
 
+
+
+
+
 <iframe data-width="500" data-height="185" width="500" height="185" src="/media/12542395a474268650463fd3b0696f6b?postId=f95dcdf8635c" data-media-id="12542395a474268650463fd3b0696f6b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDNUjalhVQAAtp4Q.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 - **Layer 1: Omise Payment Acceptance Layer.**
 
@@ -444,7 +626,13 @@ The final state of the OmiseGO network will require the release of Plasma, of wh
 
 First, it must absolutely be emphasized again that **_the author of this review is in no way entitled to give any investment advice to anyone_**. Investments are always very risky, and investments in the crypto-world are even more risky. So just like in any other project, investing in OmiseGO is a **risk**, and if you decide to take this risk, you should never invest more than what you can afford to completely lose. And not any thing written in this review refutes this fact, that you should never forget if you are considering putting money into OMG or into any other project.
 
-![](https://cdn-images-1.medium.com/max/1600/1*NmZg-mwemwcdsysMBaKUMg.jpeg)_Investment is risk_ / Donald Duck by Don Rosa, Credit Disney
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*NmZg-mwemwcdsysMBaKUMg.jpeg)
+
+_Investment is risk_ / Donald Duck by Don Rosa, Credit Disney
+
+
 
 This said, the investor’s business model is to rely on the idea that the OmiseGO network will handle a very high number of transactions, that these transactions will generate a very high amount of fees, and that, these fees being distributed to the OMG stakers, the more OMG you will hold and stake, the more amount you will receive per year, which, if the project keeps its promises, can turn into a very profitable passive income.
 
@@ -454,7 +642,13 @@ There are 2 main reasons to believe that the OmiseGO network will handle a very 
 
 The partnerships exposed below between OmiseGO and banks or private companies show that potentially millions of users or more can find themselves using financial applications running on the OmiseGO network, and generate an enormous amount of fees (although each being very low) to be shared between OMG stakers.
 
-![](https://cdn-images-1.medium.com/max/1600/1*fSEeeOYL1Ix9GDpWcO1IiQ.jpeg)Game of Go / Source OmiseGO [blog](https://blog.omisego.network/omisego-roadmap-v-1-40bfca386e25)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*fSEeeOYL1Ix9GDpWcO1IiQ.jpeg)
+
+Game of Go / Source OmiseGO [blog](https://blog.omisego.network/omisego-roadmap-v-1-40bfca386e25)
+
+
 
 **2 - The SDK**
 
@@ -464,7 +658,13 @@ In other words, the OmiseGO SDK can be seen as a **free and easy gateway to the 
 
 And so, these 10 000 or 1 million people, multiplied by the number of companies, banks or services that will use the OmiseGO SDK, generate fees on the OmiseGO network, distributed between the OmiseGO investors, named stakers or coin holders.
 
-![](https://cdn-images-1.medium.com/max/1600/1*O5aX1AQuN1h5pUkyQphxMg.jpeg)Source OmiseGO [blog](https://blog.omisego.network/omisego-roadmap-v-1-40bfca386e25)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*O5aX1AQuN1h5pUkyQphxMg.jpeg)
+
+Source OmiseGO [blog](https://blog.omisego.network/omisego-roadmap-v-1-40bfca386e25)
+
+
 
 ### **5) Frequently Asked Questions**
 
@@ -511,3 +711,11 @@ OmiseGO on Slack: [https://omisego.slack.com/](https://omisego.slack.com/)
 
 Plasma’s website: [http://plasma.io/](http://plasma.io/)  
 Cosmos Network’s website: [https://cosmos.network/](https://cosmos.network/)
+
+
+
+
+
+
+
+

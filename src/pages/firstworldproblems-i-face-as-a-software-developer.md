@@ -1,8 +1,10 @@
 ---
 author: Kartik Godawat
+authorTwitter: https://twitter.com/kartik_godawat
+authorFacebook: https://facebook.com/100000475460356
 title: "#FirstWorldProblems I face as a software developer"
-subTitle: "First world problem: A relatively trivial or minor problem or frustration (implying a contrast with serious problems such as those that may…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*uOlxCoXq1faNmKA-3ie2Bg.jpeg
+subTitle: "First world problem: A relatively trivial or minor problem or frustration (implying a contrast with serious problems such as those that m..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*uOlxCoXq1faNmKA-3ie2Bg.jpeg
 url: https://medium.freecodecamp.org/firstworldproblems-i-face-as-a-software-developer-2ff881ea1d6
 id: firstworldproblems-i-face-as-a-software-developer-2ff881ea1d6
 date: 2017-10-26T09:53:14.862Z
@@ -16,11 +18,29 @@ tags: [
 ---
 # #FirstWorldProblems I face as a software developer
 
-![](https://cdn-images-1.medium.com/max/2000/1*uOlxCoXq1faNmKA-3ie2Bg.jpeg)Photo by [Michał Parzuchowski](https://unsplash.com/photos/geNNFqfvw48?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*uOlxCoXq1faNmKA-3ie2Bg.jpeg)
+
+Photo by [Michał Parzuchowski](https://unsplash.com/photos/geNNFqfvw48?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
+
+
+
+
 
 [**First world problem:**](https://en.oxforddictionaries.com/definition/first_world_problem) A relatively trivial or minor problem or frustration (implying a contrast with serious problems such as those that may be experienced in the developing world).
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*hSCRmmZ-2sZx8ZBiW5vx0w.jpeg)
+
+
 
 More often than not we, as developers, sitting in our nice, air-conditioned cubicles, forget about the actual problems in the world. We tend to think of our trivial issues as major problems. Here’s my attempt to narrate the “first world problems” that I have faced or thought about (some exaggerations included) on a typical, imaginary Friday.
 
@@ -40,7 +60,11 @@ YouTube also refuses to buffer at 720p. I talk to my colleagues about the fact t
 
 ### 11:30AM-Apocalypse now. WiFi went down
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*_Pf1Px5NtHLFDfYc6Rqy2Q.jpeg)
+
+
 
 After committing my changes, I do a git push and the hammer strikes. The Internet is down. I immediately express my concern to my team and other teams sitting around. I’ve almost made up my mind to **pack-up my bag and work from home.**
 
@@ -66,7 +90,13 @@ I feel I shouldn’twaste a bit of time to **check if there’s something I can 
 
 I silently acknowledge the developer for publishing this and wasting my time, and move-on with my exceptionally strong search skills to find the solution.
 
-![](https://cdn-images-1.medium.com/max/1600/1*urwV4gp5gKBoesod2tst8w.jpeg)Try contributing to an existing open-source library instead of discarding it
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*urwV4gp5gKBoesod2tst8w.jpeg)
+
+Try contributing to an existing open-source library instead of discarding it
+
+
 
 ### 2:30PM-I don’t get paid enough for this
 
@@ -86,7 +116,13 @@ I’m drinking tea, pondering this million dollar question. I’ve heard many pe
 
 Anything that can go wrong will go wrong
 
-![](https://cdn-images-1.medium.com/max/1600/1*s81wBRNgkn0Hx6ZleXF6KA.jpeg)Only if this could happen!
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*s81wBRNgkn0Hx6ZleXF6KA.jpeg)
+
+Only if this could happen!
+
+
 
 I wrote my test cases, I passed my code-reviews. I did everything what was expected of me. But the production deployment, scheduled for this evening, has failed.
 
@@ -99,3 +135,11 @@ But on Monday morning, I open the Uber app and there are no cars available… An
 If you think of any of your problems are trivial, please do share in the comments.
 
 Thank you very much for your time. If you enjoyed reading, please give me some claps so more people see the article. Thank you! And, until next time, have a great day :)
+
+
+
+
+
+
+
+
