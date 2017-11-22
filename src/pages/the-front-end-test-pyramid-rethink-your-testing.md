@@ -1,8 +1,10 @@
 ---
 author: Edd Yerburgh
+authorTwitter: https://twitter.com/EddYerburgh
+authorFacebook: false
 title: "The Front-End Test Pyramid: How to Rethink Your Testing"
-subTitle: "If you’re testing front end apps, you should know about the front-end test pyramid."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*6A85taNWuTlwoqas2ei4aQ.jpeg
+subTitle: "If you’re testing front end apps, you should know about the front-end test pyramid...."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*6A85taNWuTlwoqas2ei4aQ.jpeg
 url: https://medium.freecodecamp.org/the-front-end-test-pyramid-rethink-your-testing-3b343c2bca51
 id: the-front-end-test-pyramid-rethink-your-testing-3b343c2bca51
 date: 2017-11-08T17:21:32.880Z
@@ -16,7 +18,19 @@ tags: [
 ---
 # The Front-End Test Pyramid: How to Rethink Your Testing
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*6A85taNWuTlwoqas2ei4aQ.jpeg)
+
+
+
+
+
+
 
 If you’re testing front end apps, you should know about **the front-end test pyramid**.
 
@@ -28,7 +42,13 @@ The front-end test pyramid is a representation of how a front end test suite sho
 
 The ideal test suite is comprised of unit tests, some snapshot tests, and a few end to end (e2e) tests.
 
-![](https://cdn-images-1.medium.com/max/1600/1*7nCVY7iqAiILcnRLDBIPcg.png)The front-end test pyramid
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*7nCVY7iqAiILcnRLDBIPcg.png)
+
+The front-end test pyramid
+
+
 
 This is a revamped version of the [test pyramid](https://martinfowler.com/bliki/TestPyramid.html), that’s specific to testing front-end applications.
 
@@ -40,7 +60,13 @@ To learn about the front-end test pyramid in detail, we’ll look at how to te
 
 The app is a simple modal app. Clicking a button opens a modal, and clicking an OK button on the modal closes the modal.
 
-![](https://cdn-images-1.medium.com/max/1600/1*p6I2sreZZ9GEzgJoHy4efQ.gif)The finished app
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*p6I2sreZZ9GEzgJoHy4efQ.gif)
+
+The finished app
+
+
 
 We’ll build the app from a component based framework. Don’t worry about the specifics—we’re going to keep this high-level.
 
@@ -111,7 +137,13 @@ If the code changes, Jest throws an error and warns that the markup has changed.
 
 In the test below, somebody has deleted the `modal-card-foot` class from the `<footer>`.
 
-![](https://cdn-images-1.medium.com/max/1600/1*RteTRRsAMThQ9sjCG9e-Pw.png)A failing snapshot test
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*RteTRRsAMThQ9sjCG9e-Pw.png)
+
+A failing snapshot test
+
+
 
 Snapshot tests are a way of checking nothing has changed about the style or markup of a component.
 
@@ -139,7 +171,7 @@ There are a few ways to write end to end tests for JavaScript applications. Ther
 
 There are also projects like nightwatch that let you write the tests in JavaScript. I would recommend using a library like nightwatch. It’s easy to pick up, and the tests run faster than recorded tests.
 
-That said, night1qtch tests are still relatively slow. A suite of 200 unit tests takes seconds to run, a suite of 200 end to end tests takes minutes to run.
+That said, nightwatch tests are still relatively slow. A suite of 200 unit tests takes seconds to run, a suite of 200 end to end tests takes minutes to run.
 
 The other problem with end to end tests is that they are difficult to debug. When a test fails, it’s hard to find out why it failed, because the tests cover a lot of functionality.
 
@@ -154,3 +186,11 @@ Overall unit test will make up the bulk of your tests, you’ll have some snapsh
 If you follow the front-end testing pyramid, you’ll create maintainable web apps with killer test suites.
 
 _You can see an_ [_example repository of the app with snapshot tests, unit tests, and end to end tests on GitHub_](https://github.com/eddyerburgh/example-front-end-test-pyramid-app)_._
+
+
+
+
+
+
+
+

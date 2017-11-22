@@ -1,8 +1,10 @@
 ---
 author: Samer Buna
+authorTwitter: https://twitter.com/samerbuna
+authorFacebook: https://facebook.com/568190226682058
 title: "Hard Coding Concepts Explained with Simple Real-life Analogies"
 subTitle: "How to explain coding concepts like streams, promises, linting, and declarative programming to a 5-year-old"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*_vKRQ66IBIliuqjqkQBLUQ.png
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*_vKRQ66IBIliuqjqkQBLUQ.png
 url: https://medium.freecodecamp.org/hard-coding-concepts-explained-with-simple-real-life-analogies-280635e98e37
 id: hard-coding-concepts-explained-with-simple-real-life-analogies-280635e98e37
 date: 2017-11-08T19:12:40.091Z
@@ -20,7 +22,21 @@ tags: [
 
 I love thinking about coding concepts by comparing them to familiar things we know in life. There are so many analogies out there about coding concepts. Some of them are good while others are confusing, mainly because they focus on partial aspects of a concept while ignoring many others. This article will summarize some of the analogies that I think best fit a few coding concepts in complete ways.
 
-![](https://cdn-images-1.medium.com/max/2000/1*_vKRQ66IBIliuqjqkQBLUQ.png)Warning: do not read this article on an empty stomach
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*_vKRQ66IBIliuqjqkQBLUQ.png)
+
+Warning: do not read this article on an empty stomach
+
+
+
+
+
+
 
 I will start with simple concepts and move on to harder ones. Let’s start with coding itself. Coding can be compared to writing cooking recipes. A recipe in this analogy is the program and the cook is the computer. A recipe is a list of instructions for a cook to follow and a program is a list of instructions for a computer to execute.
 
@@ -127,7 +143,7 @@ In reactive programming, the process of monitoring an event is known as listenin
 
 Now imagine a dynamic newsletter that allows you to select topics and send you only the news items that match your topics. You are basically filtering the newsletter issues to your liking and that is something we can do on event streams as well. Also, imagine that you have subscribed to several newsletters using different email addresses. You later decided that you want all issues of the newsletters to be sent to a new single email address. One easy thing you can do is to set an email rule that forwards any issues from any newsletter to the new email address. You are basically merging multiple newsletter issues into one email address, which is another thing we can do with event streams.
 
-Another way to think about event streams is to compare them to regular arrays. They are actually very similar. <span class="markup--quote markup--p-quote is-other" name="anon_36116c6f7d8f" data-creator-ids="anon">Arrays are a sequence of values in space while event streams are a sequence of values over time.</span> In reactive programming, all the functional operations that we can do on an array. Filtering, reducing, mapping, combining, piping can all be done on event streams. We can filter an event stream, reduce the values of an event stream, map an event stream to another, combine streams, and make one stream an input to another. These are all options that yield new streams of values over time.
+Another way to think about event streams is to compare them to regular arrays. They are actually very similar. Arrays are a sequence of values in space while event streams are a sequence of values over time. In reactive programming, all the functional operations that we can do on an array. Filtering, reducing, mapping, combining, piping can all be done on event streams. We can filter an event stream, reduce the values of an event stream, map an event stream to another, combine streams, and make one stream an input to another. These are all options that yield new streams of values over time.
 
 #### Callbacks and Promises
 
@@ -229,7 +245,23 @@ _What is your favorite analogy? Let me know in the responses section below._
 
 Thanks for reading!
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 I am writing a [React.js e-book](https://jscomplete.com/learn-react-js-by-building-simple-games) that will be published soon. You can [pre-order it here](https://jscomplete.com/learn-react-js-by-building-simple-games).
 
@@ -237,3 +269,11 @@ I am writing a [React.js e-book](https://jscomplete.com/learn-react-js-by-buildi
 _Learn all the fundamental and advanced concepts of React.js by building simple browser games_jscomplete.com](https://jscomplete.com/learn-react-js-by-building-simple-games "https://jscomplete.com/learn-react-js-by-building-simple-games")[](https://jscomplete.com/learn-react-js-by-building-simple-games)
 
 I create online courses for [Pluralsight](https://app.pluralsight.com/profile/author/samer-buna) and [Lynda](https://www.lynda.com/Samer-Buna/7060467-1.html). My most recent courses are [React Native Essential Training](https://www.lynda.com/React-Native-tutorials/React-Native-Essential-Training/560343-2.html), [Advanced React](https://www.pluralsight.com/courses/reactjs-advanced), and [Advanced Node](https://www.pluralsight.com/courses/nodejs-advanced). I also do training for teams covering beginner to advanced levels in JavaScript, Node, React, React Native, GraphQL, PostgreSQL, and more. Email [kyle@agilelabs.com](mailto:kyle@agilelabs.com) if you want to book a training for your team.
+
+
+
+
+
+
+
+

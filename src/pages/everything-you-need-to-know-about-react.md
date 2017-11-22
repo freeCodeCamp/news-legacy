@@ -1,8 +1,10 @@
 ---
 author: Scott Domes
+authorTwitter: https://twitter.com/scottdomes
+authorFacebook: https://facebook.com/504870381
 title: "Everything You Should Know About React: The Basics You Need to Start Building"
-subTitle: "Are you curious about React and haven’t had the chance to learn it? Or maybe you’ve tried tutorials in the past, but struggled to master…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*Ayz9rmofYhMCCC1KVuST3w.png
+subTitle: "Are you curious about React and haven’t had the chance to learn it? Or maybe you’ve tried tutorials in the past, but struggled to master ..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*Ayz9rmofYhMCCC1KVuST3w.png
 url: https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4
 id: everything-you-need-to-know-about-react-eaedf53238c4
 date: 2017-11-12T22:40:59.859Z
@@ -16,7 +18,19 @@ tags: [
 ---
 # Everything You Should Know About React: The Basics You Need to Start Building
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*Ayz9rmofYhMCCC1KVuST3w.png)
+
+
+
+
+
+
 
 Are you curious about React and haven’t had the chance to learn it? Or maybe you’ve tried tutorials in the past, but struggled to master the core concepts? Or maybe you’ve learned the basics, but want to consolidate your knowledge? Either way, this article is for you.
 
@@ -42,7 +56,15 @@ Here’s the situation: a small start-up has reached out to you for your help. T
 
 To get going, make a new project directory and add [the following three files](https://gist.github.com/scottdomes/aae01cce0fdb69cea49aa5b3b75f3313).
 
+
+
+
+
 <iframe width="700" height="250" src="/media/d0dbebf4e1ad2399383f2ba84f0891de?postId=eaedf53238c4" data-media-id="d0dbebf4e1ad2399383f2ba84f0891de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13612785%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 **Make sure you’re using an up-to-date version of** [**Chrome**](https://www.google.com/intl/en/chrome/browser/desktop/index.html) **with this tutorial, otherwise the animations in the code above won’t work.**
 
@@ -56,7 +78,11 @@ React is a way to build user interfaces. It is only concerned with what you see 
 
 Here is an example of cutting a page into components:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*bvQNHjZOXcl-ds9A4AWYVg.png)
+
+
 
 Each section highlighted above is considered a component. But what does this mean for a developer?
 
@@ -113,7 +139,11 @@ When we call the `OurFirstComponent()` function, we get back a bit of JSX. We ca
 
 Now our `<h1>` tag will be put inside the element with the ID of `hook.` It should look like this when you refresh your browser:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*X3sGgAtXyBDFEcgtbR3tOw.png)
+
+
 
 We can also write our component in JSX like so:
 
@@ -134,10 +164,9 @@ We can put React components inside other components.
 
 <pre name="fdc9" id="fdc9" class="graf graf--pre graf-after--pre"> **function Container() {  
     return (  
-      <div>  
-        <h1>I am the parent!</h1>  
+      I am the parent!</h1>  
         <OurFirstComponent />  
-      </div>  
+        
     );  
   }**</pre>
 
@@ -145,7 +174,11 @@ We can put React components inside other components.
   ReactDOM.render(**<Container />**, placeWeWantToPutComponent);  
 </script></pre>
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*p8ZNTE0_mnYkt-5Zq2fRtA.png)
+
+
 
 This is how we build our page out of pieces of React — by nesting components inside of each other.
 
@@ -158,10 +191,9 @@ But you can write components another way, as JavaScript classes. These are calle
 <pre name="a104" id="a104" class="graf graf--pre graf-after--p">class Container extends React.Component {  
   render() {  
     return (  
-      <div>  
-        <h1>I am the parent!</h1>  
+      I am the parent!</h1>  
         <OurFirstComponent />  
-      </div>  
+        
     );  
   }  
 }</pre>
@@ -181,10 +213,9 @@ You can put JavaScript variables inside of your JSX like this:
   render() {  
     **const greeting = 'I am a string!';**  
     return (  
-      <div>  
-        **<h1>{ greeting }</h1>**  
+      { greeting }</h1>**  
         <OurFirstComponent />  
-      </div>  
+        
     );  
   }  
 }</pre>
@@ -199,37 +230,35 @@ You can also do more difficult stuff, like call a function:
       return num1 + num2;  
     };**  
     return (  
-      <div>  
-        **<h1>The sum is: { addNumbers(1, 2) }</h1>**  
+      The sum is: { addNumbers(1, 2) }</h1>**  
         <OurFirstComponent />  
-      </div>  
+        
     );  
   }  
 }</pre>
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*ZwlZclRrqtIriczWzPP9-g.png)
+
+
 
 ### JSX Gotchas
 
 Rename `OurFirstComponent()` to `PlayButton`. We want it to return the following:
 
-<pre name="3127" id="3127" class="graf graf--pre graf-after--p"><a href="#" title="Play video" class="play" /></pre>
+<pre name="3127" id="3127" class="graf graf--pre graf-after--p"></pre>
 
-But there’s a problem: `class` is a keyword in JavaScript, so we can’t use it. So how do we give our `<a>` a class of `play`?
-
-Use a property called `className` instead:
-
-<pre name="0c74" id="0c74" class="graf graf--pre graf-after--p"><script type="text/babel">  
+But there’s a problem: `class` is a keyword in JavaScript, so we can’t use it. So how do we give our `<script type="text/babel">  
  **function PlayButton() {  
-    return <a href="#" title="Play video" className="play" />;  
+    return ;  
   }**</pre>
 
 <pre name="fcdf" id="fcdf" class="graf graf--pre graf-after--pre">  class Container extends React.Component {  
     render() {  
       return (  
-        <div>  
-          **<PlayButton />**  
-        </div>  
+        **  
+          
       );  
     }  
   }</pre>
@@ -252,9 +281,8 @@ In the code below, we have an object representing our components state. It has a
 
   render() {  
     return (  
-      <div>  
-        <PlayButton />  
-      </div>  
+        
+        
     );  
   }  
 }</pre>
@@ -282,17 +310,20 @@ Here’s how we get started. We can look at the component state with `this.state
 <pre name="08b2" id="08b2" class="graf graf--pre graf-after--pre">  render() {  
     **const status = this.state.isMusicPlaying ? 'Playing' : 'Not playing';**  
     return (  
-      <div>  
-        **<h1>{ status }</h1>**  
+      { status }</h1>**  
         <PlayButton />  
-      </div>  
+        
     );  
   }  
 }</pre>
 
 In the render function, `this` is always referring to the component it is within.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*eKhrsYzeEH-eoJbDtrVNpA.png)
+
+
 
 But that’s not very useful unless we have a way to change `this.state.isMusicPlaying`.
 
@@ -317,10 +348,9 @@ We do that through functions that take care of events. We call these _event hand
     ? 'Playing :)'   
     : 'Not playing :(';  
     return (  
-      <div>  
-        <h1 **onClick={this.handleClick.bind(this)}**>{ status }</h1>  
+      { status }</h1>  
         <PlayButton />  
-      </div>  
+        
     );  
   }  
 }</pre>
@@ -373,8 +403,7 @@ We give `PlayButton` a prop called `isMusicPlaying`, which is the same as the `i
 
 <pre name="eded" id="eded" class="graf graf--pre graf-after--pre">  render() {  
     return (  
-      <div>  
- **<PlayButton isMusicPlaying={this.state.isMusicPlaying} />**      </div>  
+      **        
     );  
   }  
 }</pre>
@@ -384,12 +413,16 @@ When the state of `Container` changes, `PlayButton` prop will change too, and th
 Inside `PlayButton`, we can react to the change, because `PlayButton` gets the props as an argument:
 
 <pre name="bac0" id="bac0" class="graf graf--pre graf-after--p">function PlayButton(**props**) {  
- **const className = props.isMusicPlaying ? 'play active' : 'play';**  return <a href="#" title="Play video" **className={className}** />;  
+ **const className = props.isMusicPlaying ? 'play active' : 'play';**  return ;  
 }</pre>
 
 If we change our state to `this.state = { isMusicPlaying: true };` and reload the page, you should see the pause button:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*TmAo51JtJI-5pUiqUoQyVA.png)
+
+
 
 ### Events as Props
 
@@ -397,7 +430,7 @@ Your props don’t have to be just information. They can be functions.
 
 <pre name="36c5" id="36c5" class="graf graf--pre graf-after--p">function PlayButton(props) {  
   const className = props.isMusicPlaying ? 'play active' : 'play';  
-  return <a **onClick={props.onClick}** href="#" title="Play video" className={className} />;  
+  return ;  
 }</pre>
 
 <pre name="b756" id="b756" class="graf graf--pre graf-after--pre">class Container extends React.Component {  
@@ -416,19 +449,15 @@ Your props don’t have to be just information. They can be functions.
 
 <pre name="564c" id="564c" class="graf graf--pre graf-after--pre">  render() {  
     return (  
-      <div>  
-        <PlayButton   
-          **onClick={this.handleClick.bind(this)}**   
-          isMusicPlaying={this.state.isMusicPlaying}   
-        />  
-      </div>  
+        
+        
     );  
   }  
 }</pre>
 
 Now, when we click on the `PlayButton`, it’ll change the state of `Container`, which will change the `props` of `PlayButton`, which will cause it to update on the page.
 
-### <span class="markup--quote markup--h3-quote is-other" name="anon_136e5c231a2" data-creator-ids="anon">The Bad Thing About setState</span>
+### The Bad Thing About setState
 
 `setState` is bad because it doesn’t do stuff right away. React waits a bit to see if there are more changes to make, then it does the state changes.
 
@@ -460,7 +489,7 @@ It is more difficult, but only needed when you are using the old state to make t
 
 Let’s make some music happen.
 
-First, we add an `<audio>` tag:
+First, we add an `` tag:
 
 <pre name="466d" id="466d" class="graf graf--pre graf-after--p">class Container extends React.Component {  
   constructor(props) {  
@@ -478,23 +507,19 @@ First, we add an `<audio>` tag:
 
 <pre name="7eeb" id="7eeb" class="graf graf--pre graf-after--pre">  render() {  
     return (  
-      <div>  
-        <PlayButton   
-          onClick={this.handleClick.bind(this)}   
-          isMusicPlaying={this.state.isMusicPlaying}   
-        />  
- **<audio id="audio" />**      </div>  
+        
+ ****        
     );  
   }  
 }</pre>
 
-We need a way to get that `<audio>` tag and call either `play()` or `pause()` on it. We could do it with `document.getElementById('audio').play()` but there’s a better React way.
+We need a way to get that `` tag and call either `play()` or `pause()` on it. We could do it with `document.getElementById('audio').play()` but there’s a better React way.
 
-We give it a prop called `ref`, which gets called with the `<audio>` element as the first argument. It takes that `<audio>` element and assigns it to `this.audio`.
+We give it a prop called `ref`, which gets called with the `` element as the first argument. It takes that `` element and assigns it to `this.audio`.
 
-<pre name="24a3" id="24a3" class="graf graf--pre graf-after--p"><audio id="audio" **ref={(audioTag) => { this.audio = audioTag }}** /></pre>
+<pre name="24a3" id="24a3" class="graf graf--pre graf-after--p"> { this.audio = audioTag }}** /></pre>
 
-This function will be called every time the `Container` renders, which means `this.audio` will always be up to date, and equal the `<audio>` tag.
+This function will be called every time the `Container` renders, which means `this.audio` will always be up to date, and equal the `` tag.
 
 We then can play and pause the music:
 
@@ -530,3 +555,11 @@ Next, check out a couple of articles for more information. One is about [React b
 If you learned something from this article, please click those clappin’ hands, and share it with your friends.
 
 You can also follow me on [Medium](https://medium.com/@scottdomes) and [Twitter](https://twitter.com/scottdomes).
+
+
+
+
+
+
+
+

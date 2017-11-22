@@ -1,8 +1,10 @@
 ---
 author: Daniel Deutsch
+authorTwitter: https://twitter.com/DDCreationStudi
+authorFacebook: https://facebook.com/1259823787399135
 title: "How I built an app that follows the Stock Market for a freeCodeCamp challenge."
-subTitle: "I was working on an app from the FreeCodeCamp curriculum, and thought others might find it interesting. In this article, you can read the…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/0*ztwOJDHFao9iHsFv.
+subTitle: "I was working on an app from the FreeCodeCamp curriculum, and thought others might find it interesting. In this article, you can read the..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/0*ztwOJDHFao9iHsFv.
 url: https://medium.freecodecamp.org/chart-the-stock-market-with-react-redux-react-vis-and-socket-io-18caf312693c
 id: chart-the-stock-market-with-react-redux-react-vis-and-socket-io-18caf312693c
 date: 2017-10-13T07:27:45.523Z
@@ -16,7 +18,33 @@ tags: [
 ---
 # How I built an app that follows the Stock Market for a freeCodeCamp challenge.
 
-![](https://cdn-images-1.medium.com/max/2000/0*ztwOJDHFao9iHsFv.)Photo by peggy pardo on Unsplash — [https://unsplash.com/photos/a6z2tYFEjR8](https://unsplash.com/photos/a6z2tYFEjR8)
+
+
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/freeze/max/60/0*ztwOJDHFao9iHsFv.?q=20)
+
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
+
+![](https://cdn-images-1.medium.com/max/2000/0*ztwOJDHFao9iHsFv.)
+
+<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*ztwOJDHFao9iHsFv."&gt;</noscript>
+
+
+
+
+
+Photo by peggy pardo on Unsplash — [https://unsplash.com/photos/a6z2tYFEjR8](https://unsplash.com/photos/a6z2tYFEjR8)
+
+
+
+
+
+
 
 I was working on an app from the [FreeCodeCamp curriculum](https://www.freecodecamp.org/challenges/chart-the-stock-market), and thought others might find it interesting. In this article, you can read the full documentation for the building process. Enjoy!
 
@@ -37,7 +65,31 @@ The user stories are pretty simple:
 
 It looks like this:
 
-![](https://cdn-images-1.medium.com/max/2000/1*hlgmfwpKNkFmt6VTaFor3A.gif)Charting the Stock Market in real-timewith websockets
+
+
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/freeze/max/60/1*hlgmfwpKNkFmt6VTaFor3A.gif?q=20)
+
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
+
+<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*hlgmfwpKNkFmt6VTaFor3A.gif"&gt;</noscript>
+
+
+
+
+
+Charting the Stock Market in real-timewith websockets
+
+
+
+
+
+
 
 ### Roadmap
 
@@ -108,7 +160,23 @@ For the data, I used the open API from [Quandl](https://www.quandl.com/).
 
 Server: index.js:
 
-<iframe width="700" height="250" src="/media/e2e602ab503618293d559982590c5670?postId=18caf312693c" data-media-id="e2e602ab503618293d559982590c5670" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
+
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
+
+<iframe width="700" height="250" data-src="/media/e2e602ab503618293d559982590c5670?postId=18caf312693c" data-media-id="e2e602ab503618293d559982590c5670" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+
+<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/e2e602ab503618293d559982590c5670?postId=18caf312693c" data-media-id="e2e602ab503618293d559982590c5670" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
+
+
+
+
+
+
 
 #### Setting up the database (MongoDB hosted with mLab)
 
@@ -254,7 +322,23 @@ export function checkDB(stocks) {
 
 #### Collapsible Container — CollapsibleCon.js
 
-<iframe width="700" height="250" src="/media/c86305475de03a11653ad2d9f923c505?postId=18caf312693c" data-media-id="c86305475de03a11653ad2d9f923c505" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
+
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
+
+<iframe width="700" height="250" data-src="/media/c86305475de03a11653ad2d9f923c505?postId=18caf312693c" data-media-id="c86305475de03a11653ad2d9f923c505" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+
+<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/c86305475de03a11653ad2d9f923c505?postId=18caf312693c" data-media-id="c86305475de03a11653ad2d9f923c505" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
+
+
+
+
+
+
 
 ### Deploy to Heroku
 
@@ -271,8 +355,72 @@ For the deployment to Heroku it’s important:
 *   **See 5min timelapse** [**here.**](https://www.youtube.com/watch?v=iPnyrrWJpLU)
 *   **See 1hour relaxing coding session** [**here.**](https://www.youtube.com/watch?v=8d6829bIxYg)
 
-![](https://cdn-images-1.medium.com/max/2000/1*hlgmfwpKNkFmt6VTaFor3A.gif)![](https://cdn-images-1.medium.com/max/2000/0*mmxgFfkpPzjEdnuS.png)See the whole building process on Youtube
+
+
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/freeze/max/60/1*hlgmfwpKNkFmt6VTaFor3A.gif?q=20)
+
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
+
+<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*hlgmfwpKNkFmt6VTaFor3A.gif"&gt;</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/freeze/max/60/0*mmxgFfkpPzjEdnuS.png?q=20)
+
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
+
+<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*mmxgFfkpPzjEdnuS.png"&gt;</noscript>
+
+
+
+
+
+See the whole building process on Youtube
+
+
+
+
+
+
+
+
+
+
+
+
 
 * * *
 
+
+
+
+
+
+
 Thanks for reading my article! If you enjoyed it, please give me some claps so more people see it. And feel free to leave any feedback.
+
+
+
+
+
+
+
+

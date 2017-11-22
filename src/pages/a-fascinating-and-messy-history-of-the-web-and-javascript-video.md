@@ -1,8 +1,10 @@
 ---
 author: rajaraodv
+authorTwitter: https://twitter.com/rajaraodv
+authorFacebook: false
 title: "A Fascinating And Messy History of the Web and JavaScript, Explained with Video"
-subTitle: "The history of the web and JavaScript is truly fascinating. 😲"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*DP-EDtA_Ii80f2RaqO9H9Q.png
+subTitle: "The history of the web and JavaScript is truly fascinating. 😲..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*DP-EDtA_Ii80f2RaqO9H9Q.png
 url: https://medium.freecodecamp.org/a-fascinating-and-messy-history-of-the-web-and-javascript-video-8978dc7bda75
 id: a-fascinating-and-messy-history-of-the-web-and-javascript-video-8978dc7bda75
 date: 2017-11-11T18:50:47.865Z
@@ -20,7 +22,15 @@ The history of the web and JavaScript is truly fascinating. 😲
 
 So I created this 19-minute video to help web developers understand it and learn from it.
 
+
+
+
+
 <iframe data-width="640" data-height="480" width="640" height="480" src="/media/e78c0020ef2f274378a6b2e63c5c8adf?postId=8978dc7bda75" data-media-id="e78c0020ef2f274378a6b2e63c5c8adf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fa2e3cAc4Ux4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 In summary, you’ll learn the following:
 
@@ -42,3 +52,11 @@ Note that this talk mainly focuses on the perspective of the creators of browser
 Thank you for watching! 🙏🏼
 
 You can [follow me on Twitter](https://www.twitter.com/rajaraodv) and tweet any questions you may have about this to me.
+
+
+
+
+
+
+
+

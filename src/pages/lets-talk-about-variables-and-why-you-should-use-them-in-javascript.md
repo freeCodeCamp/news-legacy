@@ -1,8 +1,10 @@
 ---
 author: Zell Liew
-title: "Let’s talk about variables — and why you should use them in JavaScript."
-subTitle: "The main purpose of coding is to solve problems. For example, what happens when you click on a button? That’s a problem for us to solve."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*OrxTL4xEQZ5um_8gxoddbQ.jpeg
+authorTwitter: https://twitter.com/zellwk
+authorFacebook: false
+title: "Let’s talk about variables — and why you should use them in JavaScript."
+subTitle: "The main purpose of coding is to solve problems. For example, what happens when you click on a button? That’s a problem for us to solve...."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*OrxTL4xEQZ5um_8gxoddbQ.jpeg
 url: https://medium.freecodecamp.org/lets-talk-about-variables-and-why-you-should-use-them-in-javascript-92d8c661a5b
 id: lets-talk-about-variables-and-why-you-should-use-them-in-javascript-92d8c661a5b
 date: 2017-11-16T09:00:00.626Z
@@ -16,7 +18,19 @@ tags: [
 ---
 # Let’s talk about variables — and why you should use them in JavaScript.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*OrxTL4xEQZ5um_8gxoddbQ.jpeg)
+
+
+
+
+
+
 
 The main purpose of coding is to solve problems. For example, what happens when you click on a button? That’s a problem for us to solve.
 
@@ -122,13 +136,21 @@ If you declare a variable with `const`, **you cannot reassign** **it** with a ne
 
     // Reassigning to a variable declared with const results in an error applesToBuy = 27
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/0*SIGc62Xw1_bStmTn.png)
+
+
 
 If you declare a variable with `let`, **you can reassign it with a new value.**
 
     let applesToBuy = 22 applesToBuy = 27 console.log(applesToBuy)
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/0*pki1SxTy5JOvAJqa.png)
+
+
 
 ### Should you use const or let?
 
@@ -140,7 +162,7 @@ However, as you write more programs, you’ll slowly realize that you want to re
 
 Since you’re going to use `const` over `let` anyway when you write more advanced programs, it’s better to get into the habit of preferring `const` over `let` when you’re starting out.
 
-<span class="markup--quote markup--p-quote is-other" name="anon_6344dc8e1c01" data-creator-ids="anon">In case you’re wondering, don’t use `var` anymore — there’s no need for it. `let` and `const` are much better than `var`.</span>
+In case you’re wondering, don’t use `var` anymore — there’s no need for it. `let` and `const` are much better than `var`.
 
 ### Wrapping up
 
@@ -157,3 +179,11 @@ You can declare variables with either `const`, `let` or `var`. As much as possib
 (Oh, by the way, if you liked this article, I’d appreciate it if you could [share it](http://twitter.com/share?text=Use%20const%20over%20let%20when%20declaring%20variables.%20No%20need%20to%20use%20var%20anymore%20👉%20&url=https://zellwk.com/blog/javascript-variables/&hashtags=). 🤗)
 
 _Originally published at_ [_zellwk.com_](https://zellwk.com/blog/javascript-variables/)_._
+
+
+
+
+
+
+
+

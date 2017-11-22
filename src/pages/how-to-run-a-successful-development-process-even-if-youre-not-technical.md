@@ -1,8 +1,10 @@
 ---
 author: Jonathan Solórzano-Hamilton
+authorTwitter: https://twitter.com/jhsolor
+authorFacebook: false
 title: "How to run a successful development process (even if you’re not technical)"
-subTitle: "Don’t rise to the level of your incompetence. Learn how to be an effective software development leader even without tech or coding skills."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*SbbrnjE8bpHcyPXXx-9iKw.png
+subTitle: "Laurence Peter formulated the principle that “managers rise to the level of their incompetence” in 1969. In particular, non-technical lea..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*SbbrnjE8bpHcyPXXx-9iKw.png
 url: https://medium.freecodecamp.org/how-to-run-a-successful-development-process-even-if-youre-not-technical-185d0558c89a
 id: how-to-run-a-successful-development-process-even-if-youre-not-technical-185d0558c89a
 date: 2017-10-12T14:54:04.997Z
@@ -16,7 +18,21 @@ tags: [
 ---
 # How to run a successful development process (even if you’re not technical)
 
-![](https://cdn-images-1.medium.com/max/2000/1*SbbrnjE8bpHcyPXXx-9iKw.png)Wouldn’t that be greeeeeat… (Office Space, 1999)
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*SbbrnjE8bpHcyPXXx-9iKw.png)
+
+Wouldn’t that be greeeeeat… (Office Space, 1999)
+
+
+
+
+
+
 
 Laurence Peter formulated the principle that “[managers rise to the level of their incompetence](https://en.wikipedia.org/wiki/Peter_principle)” in 1969\. In particular, non-technical leaders have earned a poor reputation with software developers.
 
@@ -36,7 +52,13 @@ For the purpose of this article, we’ll assume you’ve already agreed to start
 
 Your team needs to assemble a clear roadmap for their code. Architects and manufacturers use blueprints. You should too.
 
-![](https://cdn-images-1.medium.com/max/1600/1*SVV-3UmH0oTg-8RZAc-aow.jpeg)Should I use these plans or just wing it? Hmm… ([source](http://www.energepic.com/manager-processing-his-new-project/))
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*SVV-3UmH0oTg-8RZAc-aow.jpeg)
+
+Should I use these plans or just wing it? Hmm… ([source](http://www.energepic.com/manager-processing-his-new-project/))
+
+
 
 Your roadmap should include a set of schematics which each fulfill a different purpose. These schematics differ for individual applications. A user-interface mock-up, application architecture diagram, and business process model are common. More detailed component diagrams such as [Unified Modeling Language (UML) diagrams](https://en.wikipedia.org/wiki/Unified_Modeling_Language) and flow models are often useful as well.
 
@@ -56,7 +78,13 @@ The schematics you should now have will be helpful here. Does your application i
 
 Tesla provides a great illustration of this concept. Their first key differentiator was to use a lithium-ion battery to make electric cars competitive with gas. Lithium-ion achieved this by reducing battery weight and increasing range.
 
-![](https://cdn-images-1.medium.com/max/1600/1*E1_FcZisPh6RgKNb0-sgwQ.jpeg)Eventually Tesla moved on to building out whole infrastructures to support their cars, like this “Supercharger” station… but not before they perfected their differentiating initial product ([source](https://pixabay.com/en/tesla-supercharger-battery-eco-1724773/))
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*E1_FcZisPh6RgKNb0-sgwQ.jpeg)
+
+Eventually Tesla moved on to building out whole infrastructures to support their cars, like this “Supercharger” station… but not before they perfected their differentiating initial product ([source](https://pixabay.com/en/tesla-supercharger-battery-eco-1724773/))
+
+
 
 The first Tesla prototype simply converted a pre-existing electric sports car from lead-acid to lithium batteries. Their first production run was mostly a Lotus Elise roadster (a pre-existing sports car) that had a Tesla battery and motor.
 
@@ -70,7 +98,13 @@ If it sounds like something that already exists, and it’s not the core focus o
 
 #### Don’t just throw it over the wall
 
-![](https://cdn-images-1.medium.com/max/1600/1*hVlFP0f2N_2Gpd96H3n1pw.jpeg)Too often, development teams “throw the release over the wall” when their work is done and walk away. Post-release bugs are for the support team to deal with. ([source](https://pixabay.com/en/brick-wall-clinker-bricks-1747314/))
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*hVlFP0f2N_2Gpd96H3n1pw.jpeg)
+
+Too often, development teams “throw the release over the wall” when their work is done and walk away. Post-release bugs are for the support team to deal with. ([source](https://pixabay.com/en/brick-wall-clinker-bricks-1747314/))
+
+
 
 Once you have identified what pre-built technologies you’ll use, make sure to review these with your production support group.
 
@@ -90,7 +124,13 @@ Lead your team into an equitable distribution of work. Challenge everyone to gro
 
 One more technical aspect of the implementation is that the code must include sufficient automated tests. These are code-defined tests that a test system can execute.
 
-![](https://cdn-images-1.medium.com/max/1600/1*InN1fj_L0x5rCqLbQUcE6w.jpeg)If the code’s going to crash, don’t you want these guys’ resumes to be on the line instead of your own? (public domain: US Government photo)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*InN1fj_L0x5rCqLbQUcE6w.jpeg)
+
+If the code’s going to crash, don’t you want these guys’ resumes to be on the line instead of your own? (public domain: US Government photo)
+
+
 
 Manual “test scripts” where a human interacts with the code to see if it works are insufficient and reflect [technical debt](https://guide.freecodecamp.org/agile/technical-debt). Your technical team should at least include [unit tests](https://guide.freecodecamp.org/software-engineering/unit-tests/). [Test-driven development](https://guide.freecodecamp.org/agile/test-driven-development/) is a popular approach for ensuring that critical code is always tested.
 
@@ -112,7 +152,13 @@ Once you’ve accumulated enough tested code to constitute a sufficient product 
 
 #### Looking for bugs in all the right places
 
-![](https://cdn-images-1.medium.com/max/1600/1*yHBuv15Bk40zSKxZmglH-g.jpeg)The bug has to be in here somewhere… ([source](https://pixabay.com/en/manuscript-magnify-glass-glass-1614234/))
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*yHBuv15Bk40zSKxZmglH-g.jpeg)
+
+The bug has to be in here somewhere… ([source](https://pixabay.com/en/manuscript-magnify-glass-glass-1614234/))
+
+
 
 Your developer or team has reached a point where they believe the code is done. Acceptance testers are satisfied with the way the product is working. The **next checkpoint** in the process is to validate the belief that you have code ready to become a product. Let’s start reviewing the code!
 
@@ -142,7 +188,13 @@ The **last checkpoint** to clear is deployment readiness. Is your code in a stat
 
 It also means you need to have a plan for reverting the change in case the code doesn’t work as planned. This is called a “rollback plan.”
 
-![](https://cdn-images-1.medium.com/max/1600/1*WZQwvdS85BVrCX9xhpLalg.jpeg)Not all production code stays in production… ([source](https://en.wikipedia.org/wiki/Lockheed_S-3_Viking#/media/File:S-3A_escape_sys_China_Lake_NAN1-72jpg.jpg))
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*WZQwvdS85BVrCX9xhpLalg.jpeg)
+
+Not all production code stays in production… ([source](https://en.wikipedia.org/wiki/Lockheed_S-3_Viking#/media/File:S-3A_escape_sys_China_Lake_NAN1-72jpg.jpg))
+
+
 
 If you have a separate software operations team, this is where they come back into the picture. They should review the deployment and rollback documentation and let you know if it’s sufficient.
 
@@ -186,13 +238,53 @@ And remember to brush your hair. You don’t want it looking…pointy.
 
 If you liked this article and would like to read more like it, please 👏 to let me know! If there’s more you want to know about enterprise application development processes, please respond below. I’m happy to share what I’ve learned on my team’s journey!
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 You may also enjoy my other articles on the business process of software development:
 
 *   [What you’re missing by skipping the checklist](https://medium.freecodecamp.org/what-you-missed-because-you-were-too-cocky-to-use-a-checklist-c30c3ad663c2)
 *   [How we re-organized ourselves into a more professional development shop when we lost our lone wolf guru](https://medium.com/@peachpie/life-after-rick-our-team-reborn-after-the-fiery-departure-of-our-misanthropic-guru-b1fbaf3b8621)
 
+
+
+
+
+
+
+
+
+
+
 * * *
 
+
+
+
+
+
+
 Jonathan is the Assistant Director of Architecture and Operations at UCLA’s department of Research Information Systems. He earned a Physics degree from Stanford University and has since spent over 10 years working in information systems architecture, data-driven business process improvement, and organizational management.
+
+
+
+
+
+
+
+

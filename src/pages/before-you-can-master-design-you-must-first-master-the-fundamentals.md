@@ -1,8 +1,10 @@
 ---
 author: Jonathan Z. White
+authorTwitter: https://twitter.com/JonathanZWhite
+authorFacebook: false
 title: "Before you can master design, you must first master the fundamentals"
-subTitle: "Last week, one of my readers sent in a question: How do I become a better visual designer?"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*CL91MC3Ou2BnxeMzDBZ4uQ.png
+subTitle: "Last week, one of my readers sent in a question: How do I become a better visual designer?..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*CL91MC3Ou2BnxeMzDBZ4uQ.png
 url: https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda
 id: before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda
 date: 2017-04-04T11:41:03.250Z
@@ -22,7 +24,7 @@ As I was thinking about how to answer this question, my mind wandered to my expe
 
 Language is a way that people communicate concepts to one another. **Visual design is a visual language.** And learning visual design is no different from learning a new language.
 
-<span class="markup--quote markup--p-quote is-other" name="anon_7a35948c034b e7a5a5a9e63f" data-creator-ids="anon 1bb0136d50f5">**Good visual designs aren’t born. They are made.**</span>The key to becoming a better visual designer is rigor. You will only improve as a visual designer if you make a conscious effort.
+**Good visual designs aren’t born. They are made.**The key to becoming a better visual designer is rigor. You will only improve as a visual designer if you make a conscious effort.
 
 Here are some fundamentals you should master so you can take your visual design to the next level.
 
@@ -30,7 +32,13 @@ Here are some fundamentals you should master so you can take your visual design 
 
 You can tell a lot about a designer by looking at their typography. **This is because type is a fundamental basis for design.**
 
-![](https://cdn-images-1.medium.com/max/1600/1*JS9qoaHxjQDrOzMevwT64g.png)[Type as imagery](https://dribbble.com/shots/1829402-Discount-Logotype)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*JS9qoaHxjQDrOzMevwT64g.png)
+
+[Type as imagery](https://dribbble.com/shots/1829402-Discount-Logotype)
+
+
 
 You can create entire designs with just type. You can also base designs on type, taking subtle queues from the fonts that you choose. In order to improve the typography in your designs, first start by learning the basics.
 
@@ -38,7 +46,21 @@ Develop a vocabulary for describing type. Learn about what terms like tracking, 
 
 Then, if you want a comprehensive understanding of how to apply typography to the web, read [Web Typography: The Elements _of_ Typographic Style Applied to the Web](https://webtypography.net/toc/).
 
-![](https://cdn-images-1.medium.com/max/2000/1*vpYtKQ-Dpf74I697FrWTZQ.png)[Font pairing can make or break a design](https://www.behance.net/gallery/35768979/Typography-Google-Fonts-Combinations)
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*vpYtKQ-Dpf74I697FrWTZQ.png)
+
+[Font pairing can make or break a design](https://www.behance.net/gallery/35768979/Typography-Google-Fonts-Combinations)
+
+
+
+
+
+
 
 Finally, learn how to pair fonts together. A great resource for this is [FontWolf](https://www.typewolf.com/site-of-the-day/fonts/circular) and [FontPair](http://fontpair.co/). Being able to pair fonts together will dramatically change the dynamics of your design.
 
@@ -48,13 +70,25 @@ For a more in depth exploration of typography, you can read my article: [Typogra
 
 Spacing helps establish vertical and horizontal motion in your designs. It’s pivotal for creating visual hierarchy and forming association between elements.
 
-![](https://cdn-images-1.medium.com/max/1600/1*Go7ZCGcIMD8t4W-XQ9M8fA.jpeg)[Create balance and visual harmony](https://dribbble.com/shots/3318361-Weekly-Mixtape-08-Margin)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*Go7ZCGcIMD8t4W-XQ9M8fA.jpeg)
+
+[Create balance and visual harmony](https://dribbble.com/shots/3318361-Weekly-Mixtape-08-Margin)
+
+
 
 You can always look at sites like [Behance](https://www.behance.net/) and [Dribbble](https://dribbble.com/) for inspiration on how to space elements. But **it’s important to develop your own intuition for using space to create balance and visual harmony.**
 
 When studying typography, you may have noticed the importance of spacing in type. Adjusting the kerning and leading for fonts is a great exercise for developing your eye for spacing. For this reason, I recommend you try [KernType](http://type.method.ac/#), a game where you compare your kerning solution to a typographer’s solution.
 
-![](https://cdn-images-1.medium.com/max/1600/1*8BkonUnCDEgfhmwxESTI7g.png)[Simplification of award winning poster by Craig Welsh](http://www.howdesign.com/design-competition-galleries/poster-design-awards/poster-design-winners/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*8BkonUnCDEgfhmwxESTI7g.png)
+
+[Simplification of award winning poster by Craig Welsh](http://www.howdesign.com/design-competition-galleries/poster-design-awards/poster-design-winners/)
+
+
 
 Another exercise that will help develop your eye is the following: Take an existing design, draw an x and y axis, simplify the design into basic shapes, analyze how the design is balanced, and then rearrange the elements. Pay close attention to how negative space affects the balance of the elements.
 
@@ -62,13 +96,25 @@ Another exercise that will help develop your eye is the following: Take an exist
 
 When it comes to creating visual hierarchy, sizing is second to none. **By using size to convey visual relationships between elements, you can establish flow.**
 
-![](https://cdn-images-1.medium.com/max/1600/1*vzUuGyuZAkjNL01dUxKj0Q.png)Sizing is one of the reasons why grids are useful
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*vzUuGyuZAkjNL01dUxKj0Q.png)
+
+Sizing is one of the reasons why grids are useful
+
+
 
 Sizing is one of the reasons why grids are useful. You can use grids to help you size elements using ratios to convey importance.
 
 Once you have determined a size for an element, keep it the same across all instances of it. **In design, consistency is king.**
 
-![](https://cdn-images-1.medium.com/max/1600/1*De1u6HLHDzrq1Y_uosNguQ.png)[Use size to establish visual hierarchy](https://dribbble.com/shots/2475367-Intercom-s-Developer-Hub)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*De1u6HLHDzrq1Y_uosNguQ.png)
+
+[Use size to establish visual hierarchy](https://dribbble.com/shots/2475367-Intercom-s-Developer-Hub)
+
+
 
 #### **Here’s an exercise that will help develop your eye for sizing.**
 
@@ -86,17 +132,29 @@ When doing this exercise, keep the following questions in mind:
 
 Color plays many roles. It conveys meaning, creates emotional resonance, and brings unity to designs.
 
-![](https://cdn-images-1.medium.com/max/1600/1*BzRqDemAU1GJnv-IZQ46jQ.png)[Color helps convey meaning in design](https://dribbble.com/shots/3302492-Desktop-Search-Results)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*BzRqDemAU1GJnv-IZQ46jQ.png)
+
+[Color helps convey meaning in design](https://dribbble.com/shots/3302492-Desktop-Search-Results)
+
+
 
 For a deep dive into color, you can read my article [Designing in Color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b). Here are a few key points from the article.
 
 *   Identify the purpose of your design before choosing a color palette. **Good design align its color palette with its purpose.**
-*   <span class="markup--quote markup--li-quote is-other" name="d1d353607401" data-creator-ids="1bb0136d50f5">Identify your audience. People perceive colors differently. Colors have different effects on people based on their personal preference, cultural upbringing, and experiences.</span>
+*   Identify your audience. People perceive colors differently. Colors have different effects on people based on their personal preference, cultural upbringing, and experiences.
 *   **When choosing a color palette, simplicity is key.** Choose a neutral background color. Then choose a primary and secondary accent color. Finally based on your other colors, choose an error and success color for your different UI states.
 
 Once you have a good grasp on the basics of color theory, color comes down to experimentation and iteration. **Actively try break out of your comfort zone and try new color palettes.**
 
-![](https://cdn-images-1.medium.com/max/1600/1*mNh06wbZh_pWx55ZHb0C7g.png)Movies and shows are a great source of color inspiration
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*mNh06wbZh_pWx55ZHb0C7g.png)
+
+Movies and shows are a great source of color inspiration
+
+
 
 #### **Here’s an exercise that will help develop your eye for color.**
 
@@ -104,7 +162,23 @@ Spend time compiling color palettes for things around you like photographs, maga
 
 Take note of how it changes the mood and tone of the design. Does it change the meaning as well?
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 Treat your work as a craft, in that there is always something that you can improve. **Rely on yourself to be the motivation to become a better designer.**
 
@@ -119,4 +193,26 @@ You can find me on Medium where I publish every week. Or you can follow me on [T
 
 _P.S. If you enjoyed this article, it would mean a lot if you click the 💚 and share with friends._
 
-[![](https://cdn-images-1.medium.com/max/1200/1*mxQhZLqG7l5dMLvxYAklgw.png)](http://mrwhite.space/signup)[![](https://cdn-images-1.medium.com/max/1200/1*UOsjAdUZ9O0QSyfXOpQPbA.png)](https://twitter.com/JonathanZWhite)
+
+
+
+
+
+
+[![](https://cdn-images-1.medium.com/max/1200/1*mxQhZLqG7l5dMLvxYAklgw.png)](http://mrwhite.space/signup)
+
+
+
+
+
+[![](https://cdn-images-1.medium.com/max/1200/1*UOsjAdUZ9O0QSyfXOpQPbA.png)](https://twitter.com/JonathanZWhite)
+
+
+
+
+
+
+
+
+
+

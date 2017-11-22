@@ -1,8 +1,10 @@
 ---
 author: Karlijn Willems
+authorTwitter: false
+authorFacebook: false
 title: "How Machines Learn: A Practical Guide"
-subTitle: "You may have heard about machine learning from interesting applications like spam filtering, optical character recognition, and computer…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*MxSBSJIqK19z2qhfspPL-g.png
+subTitle: "You may have heard about machine learning from interesting applications like spam filtering, optical character recognition, and computer ..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*MxSBSJIqK19z2qhfspPL-g.png
 url: https://medium.freecodecamp.org/how-machines-learn-a-practical-guide-203aae23cafb
 id: how-machines-learn-a-practical-guide-203aae23cafb
 date: 2017-08-23T04:35:21.821Z
@@ -16,7 +18,19 @@ tags: [
 ---
 # How Machines Learn: A Practical Guide
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*MxSBSJIqK19z2qhfspPL-g.png)
+
+
+
+
+
+
 
 You may have heard about machine learning from interesting applications like spam filtering, optical character recognition, and computer vision.
 
@@ -26,7 +40,7 @@ So in today’s post, I’ll list seven steps (and 50+ resources) that can help 
 
 Note that this list of resources is not exhaustive and is meant to get you started. There are many more resources around.
 
-### 1\. <span class="markup--quote markup--h3-quote is-other" name="8a7004a475e9" data-creator-ids="b9a4f6da81ed">Get</span> the necessary background knowledge
+### 1\. Get the necessary background knowledge
 
 You might remember from DataCamp’s [Learn Data Science](https://www.datacamp.com/community/tutorials/learn-data-science-infographic) infographic that mathematics and statistics are key to starting machine learning (ML). The foundations might seem quite easy because it’s just three topics. But don’t forget that these are in fact three broad topics.
 
@@ -43,7 +57,13 @@ Here are some pointers on where to get started if you are starting from zero:
 *   Go to [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) and take the [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) course.
 *   Take [this Coursera course](https://www.coursera.org/learn/basic-statistics) for an introduction to descriptive statistics, probability theory, and inferential statistics.
 
-![](https://cdn-images-1.medium.com/max/1600/1*Uw8YXNlt5VGKTXFDbtFEig.png)Statistics is one of the keys to learning ML
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*Uw8YXNlt5VGKTXFDbtFEig.png)
+
+Statistics is one of the keys to learning ML
+
+
 
 If you’re more into books, consider the following:
 
@@ -89,7 +109,13 @@ Additionally, the theory doesn’t need to be boring. As you read in the introdu
 *   Also check out the [_Data Mining for the Masses_](https://www.amazon.com/Data-Mining-Masses-Matthew-North/dp/0615684378) by Matthew North. You’ll find that this book guides you through some of the most difficult topics.
 *   [_Introduction to Machine Learning_](http://alex.smola.org/drafts/thebook.pdf) by Alex Smola and S.V.N. Vishwanathan.
 
-![](https://cdn-images-1.medium.com/max/1600/1*TpLLAIKIRVHq6VQs3Q9IJA.png)Take your time to read books and to study the material covered in them
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*TpLLAIKIRVHq6VQs3Q9IJA.png)
+
+Take your time to read books and to study the material covered in them
+
+
 
 **Videos / MOOCs** are awesome for those who learn by watching and listening. There are a lot of MOOCs and videos out there, but it can also be hard to find your way through all those materials. Below is a list of the most notable ones:
 
@@ -121,7 +147,13 @@ Besides the tutorials, there are also courses. Taking courses will help you appl
 *   [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python): you’ll gain hands-on, practical knowledge of how to use deep learning with Keras 2.0, the latest version of a cutting-edge library for deep learning in Python.
 *   [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning): introduces the learner to applied ML and focuses more on the techniques and methods than on the statistics behind these methods.
 
-![](https://cdn-images-1.medium.com/max/1600/1*xYFavqTjvPDUCfMVrfPr-A.png)After the theory, take your time to apply the knowledge you have gained.
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*xYFavqTjvPDUCfMVrfPr-A.png)
+
+After the theory, take your time to apply the knowledge you have gained.
+
+
 
 For those who are learning ML with R, there are also these interactive courses:
 
@@ -144,7 +176,13 @@ One of the most straightforward ways is to see the exercises a tiny bit bigger. 
 *   Start with [Kaggle](http://www.kaggle.com/). If you need additional help to conquer the so-called “data fear,” check out the [Kaggle Python Tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning) and [Kaggle R Tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-tutorial-on-machine-learing-the-sinking-of-the-titanic). These will bring you up to speed in no time.
 *   Afterwards, you can also start doing challenges by yourself. Check out these sites, where you can find lots of ML datasets: [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/), [Public datasets for machine learning](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mldat.htm), and [data.world](https://data.world/).
 
-![](https://cdn-images-1.medium.com/max/1600/1*ZbZrcoYWENMQuKLbDkdG4A.png)Practice makes perfect.
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*ZbZrcoYWENMQuKLbDkdG4A.png)
+
+Practice makes perfect.
+
+
 
 ### 5\. Projects
 
@@ -162,7 +200,13 @@ Next, you can check out the following posts and repositories. They’ll give you
 *   [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 *   [Machine Learning Algorithms From Scratch](https://github.com/madhug-nadig/Machine-Learning-Algorithms-from-Scratch)
 
-![](https://cdn-images-1.medium.com/max/1600/1*k0vqKBz-LwnMElA0o2FhOg.png)Projects can be hard at start, but they’ll increase your understanding even more.
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*k0vqKBz-LwnMElA0o2FhOg.png)
+
+Projects can be hard at start, but they’ll increase your understanding even more.
+
+
 
 ### 6\. Don’t stop
 
@@ -195,7 +239,13 @@ Other programming languages, such as Java, JavaScript, C, and C++ are gaining im
 *   [Most Popular Programming Languages for Machine Learning and Data Science](https://fossbytes.com/popular-top-programming-languages-machine-learning-data-science/)
 *   [The Most Popular Language For Machine Learning And Data Science Is…](http://www.kdnuggets.com/2017/01/most-popular-language-machine-learning-data-science.html)
 
-![](https://cdn-images-1.medium.com/max/1600/1*6J6tjlMIi0OcNdm7tyJQ4Q.png)You’re never done learning.
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*6J6tjlMIi0OcNdm7tyJQ4Q.png)
+
+You’re never done learning.
+
+
 
 ### 7\. Make use of all the material that is out there
 
@@ -224,10 +274,24 @@ There are, of course, many more podcasts.
 *   [Tensorflow — Neural Network Playground](http://playground.tensorflow.org/) if you’re looking to play around with neural network architectures.
 *   More here: [What are the best visualizations of machine learning algorithms?](https://www.quora.com/What-are-the-best-visualizations-of-machine-learning-algorithms)
 
-![](https://cdn-images-1.medium.com/max/1600/1*nCt9ZsXRksdOMown4vuxJA.png)Some variety in your learning can and will motivate you even more.
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*nCt9ZsXRksdOMown4vuxJA.png)
+
+Some variety in your learning can and will motivate you even more.
+
+
 
 ### You Can Get Started Now
 
 Now it’s up to you. Learning ML is something that’s a continuous process, so the sooner you get started, the better. You have all of the tools in your hands now to get started. Good luck and make sure to let us know how you’re progressing.
 
 _This post is based on an answer I gave to the Quora question_ [_How Does A Total Beginner Start To Learn Machine Learning_](https://www.quora.com/How-does-a-total-beginner-start-to-learn-machine-learning/answer/Karlijn-Willems-1)_._
+
+
+
+
+
+
+
+

@@ -1,8 +1,10 @@
 ---
 author: Per Harald Borgen
+authorTwitter: https://twitter.com/perborgen
+authorFacebook: https://facebook.com/10156392389390183
 title: "How to create a Neural Network in JavaScript in only 30 lines of code"
-subTitle: "In this article I’ll show you how to create and train a neural network using Synaptic.js, which allows you to do deep learning in Node.js…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*Z6kowWUGajls6aYusTy4oA.jpeg
+subTitle: "In this article I’ll show you how to create and train a neural network using Synaptic.js, which allows you to do deep learning in Node.js..."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*Z6kowWUGajls6aYusTy4oA.jpeg
 url: https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49
 id: how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49
 date: 2017-08-17T12:55:27.187Z
@@ -16,7 +18,21 @@ tags: [
 ---
 # How to create a Neural Network in JavaScript in only 30 lines of code
 
-![](https://cdn-images-1.medium.com/max/2000/1*Z6kowWUGajls6aYusTy4oA.jpeg)A strange visual created by the Google Dream neural network.
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*Z6kowWUGajls6aYusTy4oA.jpeg)
+
+A strange visual created by the Google Dream neural network.
+
+
+
+
+
+
 
 In this article I’ll show you how to create and train a neural network using [Synaptic.js](https://synaptic.juancazala.com/#/), which allows you to do deep learning in Node.js and the browser.
 
@@ -24,7 +40,21 @@ We’ll be creating the simplest neural network possible: one that manages to so
 
 I’ve also created an interactive Scrimba tutorial on this example, so check that out as well.
 
-[![](https://cdn-images-1.medium.com/max/2000/1*RcK-DD5atXLQ6C4Q-K3yyg.png)](https://scrimba.com/casts/cast-1980)In the Scrimba tutorial, you’ll be able to play around with the code whenever you want.
+
+
+
+
+
+
+[![](https://cdn-images-1.medium.com/max/2000/1*RcK-DD5atXLQ6C4Q-K3yyg.png)](https://scrimba.com/casts/cast-1980)
+
+In the Scrimba tutorial, you’ll be able to play around with the code whenever you want.
+
+
+
+
+
+
 
 But before we look at the code, let’s go through the very basics of neural networks.
 
@@ -38,7 +68,11 @@ There are many different types of neurons. Our network is going to use [sigmoid 
 
 The circle below illustrates a sigmoid neuron. Its input is `5` and its output is `1`. The arrows are called synapses, which connects the neuron to other layers in the network.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*TGn24UaXx1LNcyuiySa0NQ.png)
+
+
 
 So **why** is the red number `5`? Because it’s the sum of the three synapses that’s connecting to the neuron as shown by the three arrows at the left. Let’s unpack that.
 
@@ -48,13 +82,21 @@ First, the two inputs are multiplied with their **weights**, which are `7` and `
 
 Finally we add it up with the bias and end up with `5` or the red number. This is the input for our artificial neuron.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*CjCW6wYx4zYF_X6OnaDCNQ.png)
+
+
 
 As this is a sigmoid neuron which squashes any value to between 0 and 1, the output gets squeezed down to `1`.
 
 If you connect a network of these neurons together, you have a neural network. This propagates forward from input to output, via neurons which are connected to each other through synapses. Like on the image below:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*9dt933ts_01LH25ERAM8mw.png)
+
+
 
 The goal of a neural network is to train it to do generalizations, such as recognize hand written digits or email spam. And being a good at generalizing is a matter of having the right **weights** and **bias** values across the network. Like with the blue and brown numbers in our example above.
 
@@ -93,7 +135,11 @@ hiddenLayer.project(outputLayer);</pre>
 
 So this is a 2–3–1 network, which can be visualized like this:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*IjY3wFF24sK9UhiOlf36Bw.png)
+
+
 
 Now let’s train the network:
 
@@ -148,3 +194,11 @@ If we round these values to the closest integer, we’ll get the correct answers
 And that’s about it. Even though we’ve just scratched the surface of neural networks, this should give you enough to start playing with Synaptic for yourself, and continue learning on your own. [Their wiki](https://github.com/cazala/synaptic/wiki) contains a lot of good tutorials.
 
 Finally, be sure to share your knowledge by creating a [Scrimba](http://scrimba.com) screencast or writing an article when you learn something new! :)
+
+
+
+
+
+
+
+

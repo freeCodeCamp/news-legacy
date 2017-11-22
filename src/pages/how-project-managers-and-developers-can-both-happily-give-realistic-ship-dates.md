@@ -1,8 +1,10 @@
 ---
 author: Roy Yuen
+authorTwitter: false
+authorFacebook: https://facebook.com/10158040998555099
 title: "How project managers and developers can both (happily!) give realistic ship dates"
-subTitle: "Project managers (PMs) are deadline chasers. They think clients want the earliest possible ship date to reduce costs. But that’s a common…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*I0MCeRgbNi2aHiuxUtD-cg.png
+subTitle: "Project managers (PMs) are deadline chasers. They think clients want the earliest possible ship date to reduce costs. But that’s a common..."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*I0MCeRgbNi2aHiuxUtD-cg.png
 url: https://medium.freecodecamp.org/how-project-managers-and-developers-can-both-happily-give-realistic-ship-dates-2d5e4ec42df7
 id: how-project-managers-and-developers-can-both-happily-give-realistic-ship-dates-2d5e4ec42df7
 date: 2017-11-14T15:40:50.696Z
@@ -16,9 +18,15 @@ tags: [
 ---
 # How project managers and developers can both (happily!) give realistic ship dates
 
-![](https://cdn-images-1.medium.com/max/1600/1*I0MCeRgbNi2aHiuxUtD-cg.png)Source: Fog Creek
 
-Project managers (PMs) are deadline chasers. They think clients want the earliest possible ship date to reduce costs. But that’s a common misconception. <span class="markup--quote markup--p-quote is-other" name="anon_14a686afeadc" data-creator-ids="anon">What clients really want is **the best possible product** with the earliest possible ship date.</span>   
+
+![](https://cdn-images-1.medium.com/max/1600/1*I0MCeRgbNi2aHiuxUtD-cg.png)
+
+Source: Fog Creek
+
+
+
+Project managers (PMs) are deadline chasers. They think clients want the earliest possible ship date to reduce costs. But that’s a common misconception. What clients really want is **the best possible product** with the earliest possible ship date.   
 
 Quality products need well-written code. Developers should [use the 12 development approaches on the Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) to ensure good source control, encourage daily builds, and make use of QA testers.  
 
@@ -34,7 +42,21 @@ Besides what Fog Creek mentions in their [EBS blog post](https://www.joelonsoftw
 
 ### Break down projects into less than 2-day tasks
 
-![](https://cdn-images-1.medium.com/max/2000/1*TxxywwfK1JHtF7uLOSoKyw.png)A template for our Google spreadsheet for EBS
+
+
+
+
+
+
+![](https://cdn-images-1.medium.com/max/2000/1*TxxywwfK1JHtF7uLOSoKyw.png)
+
+A template for our Google spreadsheet for EBS
+
+
+
+
+
+
 
 As I mentioned above, our EBS tracks estimates vs time spent for user stories and features. The individual features are broken down into tasks (GitHub Issues) that should be completed within two days.
 
@@ -50,7 +72,13 @@ Our PMs help find the sweet spot: they give their developers enough time to arch
 
 ### Tracking elapsed time
 
-![](https://cdn-images-1.medium.com/max/1600/1*EmFTOYBD2bZZdqnNQ3FOpg.png)Credit: [Toggl](https://toggl.com/team-time-tracking/)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*EmFTOYBD2bZZdqnNQ3FOpg.png)
+
+Credit: [Toggl](https://toggl.com/team-time-tracking/)
+
+
 
 Since our company has casual working hours, many colleagues may take coffee breaks or go for a chat. For EBS, these breaks are counted in the time spent for that feature. Some developers may take frequent breaks and work in quick sprints, while others may work continuously for four hours.
 
@@ -64,7 +92,19 @@ The goal with tracking is not to become faster for the sake of it. **The goal of
 
 ### Factoring developer estimates into project estimates
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*MxXAC_xuOcuYr2ROY8amRQ.png)
+
+
+
+
+
+
 
 When a client comes to us with a project, our PMs break down the features and then estimate how much time is needed for each feature. By adding up all the features, including code reviews and QA, we can give a standard project estimate.   
 
@@ -76,7 +116,13 @@ It just goes to show that evidence is even better than experience.
 
 ### Other EBS observations and learnings
 
-![](https://cdn-images-1.medium.com/max/1600/1*RR8oubeQOm63YN90Uth0CA.jpeg)Photo by [NeONBRAND](https://unsplash.com/@neonbrand) via Unsplash
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*RR8oubeQOm63YN90Uth0CA.jpeg)
+
+Photo by [NeONBRAND](https://unsplash.com/@neonbrand) via Unsplash
+
+
 
 We did learn something else interesting: more experienced developers don’t necessarily estimate better. One possible reason is because we delegate complex features to them. Even with detailed planning, there is a high level of uncertainty. Issues need to be addressed as development progresses.
 
@@ -94,7 +140,13 @@ EBS has confirmed that software development is a probability.
 
 ### Final thoughts
 
-![](https://cdn-images-1.medium.com/max/1600/1*UAxIYFZyxxfhOwscbRcgCg.jpeg)Photo by [Felix Plakolb](https://unsplash.com/@felix_plakolb) via Unsplash
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*UAxIYFZyxxfhOwscbRcgCg.jpeg)
+
+Photo by [Felix Plakolb](https://unsplash.com/@felix_plakolb) via Unsplash
+
+
 
 For practical reasons, we still give clients an estimated delivery date for a project. We also invite our clients into a Basecamp projects so they know what we are working on each week.   
 
@@ -103,3 +155,11 @@ When a company or developer (colleagues included!) gives you a project estimatio
 Did you enjoy this post? If so, please hit the clap button so more people see it. Thank you!
 
 😻 At [Oursky](https://oursky.com) we’re all about helping brands and entrepreneurs make their ideas happen. Get in touch if you’re looking for a partner to help build your next digital product.
+
+
+
+
+
+
+
+

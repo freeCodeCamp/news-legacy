@@ -1,8 +1,10 @@
 ---
 author: Quincy Larson
+authorTwitter: https://twitter.com/ossia
+authorFacebook: https://facebook.com/10100956570023241
 title: "The freeCodeCamp Podcast is live. Here are 6 episodes you can binge-listen now."
-subTitle: "The freeCodeCamp Podcast is now live. You can go binge-listen to the first 6 episodes in Apple iTunes, Google Play, or wherever you want."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*hPsvxpyUc_l40TW4eO8oNg.jpeg
+subTitle: "The freeCodeCamp Podcast is now live. You can go binge-listen to the first 6 episodes in Apple iTunes, Google Play, or wherever you want...."
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*hPsvxpyUc_l40TW4eO8oNg.jpeg
 url: https://medium.freecodecamp.org/the-first-6-episodes-of-the-new-freecodecamp-podcast-ready-for-you-to-binge-on-e9391055edc0
 id: the-first-6-episodes-of-the-new-freecodecamp-podcast-ready-for-you-to-binge-on-e9391055edc0
 date: 2017-11-17T06:29:27.642Z
@@ -16,7 +18,19 @@ tags: [
 ---
 # The freeCodeCamp Podcast is live. Here are 6 episodes you can binge-listen now.
 
+
+
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/2000/1*hPsvxpyUc_l40TW4eO8oNg.jpeg)
+
+
+
+
+
+
 
 The freeCodeCamp Podcast is now live. You can go binge-listen to the first 6 episodes in [Apple iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#), [Google Play](https://play.google.com/music/m/Dlihoa2pxggmrdbosa24kddqu2u?t=How_I_went_from_Selling_Food_in_the_Street_to_Working_as_a_Developer_at_Companies_Like_Apple_Part_1_), or [wherever you want](http://freecodecamp.libsyn.com/).
 
@@ -28,51 +42,183 @@ You can help our podcast get up to 88 miles-per-hour by leaving us a 5-star revi
 
 #### Episode 1: How I went from Selling Food in the Street to Working as a Developer at Companies, Part 1 — Learning to Code
 
-![](https://cdn-images-1.medium.com/max/1600/1*H3jokXWR3VMNV8slFx51Ug.jpeg)Art by [Sebastian Navas](https://twitter.com/SebastianNavasF)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*H3jokXWR3VMNV8slFx51Ug.jpeg)
+
+Art by [Sebastian Navas](https://twitter.com/SebastianNavasF)
+
+
 
 [Listen on Apple iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#) | [Listen on Google Play](https://play.google.com/music/m/Dlihoa2pxggmrdbosa24kddqu2u?t=How_I_went_from_Selling_Food_in_the_Street_to_Working_as_a_Developer_at_Companies_Like_Apple_Part_1_) | [Listen in browser](http://freecodecamp.libsyn.com/episode-1-how-i-went-from-selling-food-in-the-street-to-working-as-a-developer-at-companies-like-apple-part-1-learning-to-code)
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 #### Episode 2: How I went from Selling Food in the Street to Working as a Developer for Top Tech Companies, Part 2 — The Interview
 
-![](https://cdn-images-1.medium.com/max/1600/1*oinHoUFakkAjUN5Yn6inSg.jpeg)Art by [Sebastian Navas](https://twitter.com/SebastianNavasF)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*oinHoUFakkAjUN5Yn6inSg.jpeg)
+
+Art by [Sebastian Navas](https://twitter.com/SebastianNavasF)
+
+
 
 [Listen on Apple iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#) | [Listen on Google Play](https://play.google.com/music/m/D43e3dd5ov2z4dmb2dnonzjqeli?t=How_I_Went_From_Selling_Food_in_the_Street_to_Working_for_Top_Firms_in_Tech_Part_2_-_The_Interview-T) | [Listen in browser](http://freecodecamp.libsyn.com/how-i-went-from-selling-food-in-the-street-to-working-for-top-firms-in-tech-part-2-the-interview)
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 #### Episode 3: How I went from Selling Food in the Street to Working as a Developer for Top Tech Companies, Part 3 — First Week on the Job
 
-![](https://cdn-images-1.medium.com/max/1600/1*qXlxncZkeY7ACgdhP8UI1A.jpeg)Art by [Sebastian Navas](https://twitter.com/SebastianNavasF)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*qXlxncZkeY7ACgdhP8UI1A.jpeg)
+
+Art by [Sebastian Navas](https://twitter.com/SebastianNavasF)
+
+
 
 [Listen on Apple iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#) | [Listen on Google Play](https://play.google.com/music/m/Dhdxcun7vucjsj3xnmrg43hwjn4?t=How_I_Went_From_Selling_Food_in_the_Street_to_Working_for_Top_Firms_in_Tech_Part_3_-_First_Week_on_t) | [Listen in browser](http://freecodecamp.libsyn.com/how-i-went-from-selling-food-in-the-street-to-working-for-top-firms-in-tech-part-3-first-week-on-the-job)
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 #### Episode 4: Things I Wish Someone Had Told Me When I was Learning How to Code
 
-![](https://cdn-images-1.medium.com/max/1600/1*jQMNPGNVZpW6ffLtYYh1xg.jpeg)Source: [freeCodeCamp’s Instagram account](https://www.instagram.com/p/BbkAdPnlqsl/?taken-by=freecodecamp)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*jQMNPGNVZpW6ffLtYYh1xg.jpeg)
+
+Source: [freeCodeCamp’s Instagram account](https://www.instagram.com/p/BbkAdPnlqsl/?taken-by=freecodecamp)
+
+
 
 [Listen on Apple iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#) | [Listen on Google Play](https://play.google.com/music/m/Drgjdanbmi5mztu47urekf55ria?t=Things_I_Wish_Someone_Had_Told_Me_When_I_was_Learning_How_to_Code-The_freeCodeCamp_Podcast) | [Listen in browser](http://freecodecamp.libsyn.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code)
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 #### Episode 5: How I Got a Second Degree and Earned 5 Developer Certifications in Just One Year, While Working and Raising Two Kids
 
-![](https://cdn-images-1.medium.com/max/1600/1*H51iw4YGYVOpxu_6eX1seg.jpeg)Photo credit: [Beau Carnes](https://twitter.com/carnesbeau)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*H51iw4YGYVOpxu_6eX1seg.jpeg)
+
+Photo credit: [Beau Carnes](https://twitter.com/carnesbeau)
+
+
 
 [Listen on Apple iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#) | [Listen on Google Play](https://play.google.com/music/m/D32wps57ewd7kdsigvr6sgtcyga?t=How_I_got_a_second_degree_and_earned_5_developer_certifications_in_just_one_year_while_working_and_r) | [Listen in browser](http://freecodecamp.libsyn.com/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-raising-two-kids)
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 #### Episode 6: Which Programming Language Should You Learn First?
 
-![](https://cdn-images-1.medium.com/max/1600/1*1SeaZ5ceDWT_L6KesFAXiQ.png)[Image credit](http://carlcheo.com/startcoding)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*1SeaZ5ceDWT_L6KesFAXiQ.png)
+
+[Image credit](http://carlcheo.com/startcoding)
+
+
 
 [Listen on Apple iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#) | [Listen on Google Play](https://play.google.com/music/m/D3a4cr2bd4bzeonaazoynvxxjfq?t=Which_Programming_Language_Should_You_Learn_First-The_freeCodeCamp_Podcast) | [Listen in browser](http://freecodecamp.libsyn.com/which-programming-language-should-you-learn-first)
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 ### I love Podcasts and I think you’ll love them, too.
 
@@ -82,8 +228,22 @@ There’s so much idle time every day when I’m commuting, or trying to rock my
 
 This Venn Diagram shows all the situations where listening to podcasts can complement your other learning:
 
-![](https://cdn-images-1.medium.com/max/1600/1*rsFcw7YpJVo3HGsLgXYqKA.png)Image credit: [Jeff Meyerson](https://twitter.com/the_prion)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*rsFcw7YpJVo3HGsLgXYqKA.png)
+
+Image credit: [Jeff Meyerson](https://twitter.com/the_prion)
+
+
 
 If you’re new to podcasts, be sure to [check out our podcast guide](https://medium.freecodecamp.org/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc). It covers tons of great coding podcasts, and the best tools for listening to them.
 
 Enjoy the freeCodeCamp podcast, and let me know what you think :)
+
+
+
+
+
+
+
+

@@ -1,8 +1,10 @@
 ---
 author: Jedidiah Yueh
+authorTwitter: false
+authorFacebook: false
 title: "Where to find top talent: the systems map of Silicon Valley"
-subTitle: "When I started my second software company, one of my venture capitalists asked if I really planned to build another technology company in a…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*Yb9ZYTTGkgUD5smMEWaFxA.png
+subTitle: "When I started my second software company, one of my venture capitalists asked if I really planned to build another technology company in..."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*Yb9ZYTTGkgUD5smMEWaFxA.png
 url: https://medium.freecodecamp.org/where-to-find-top-talent-the-systems-map-of-silicon-valley-4bb14b98da4a
 id: where-to-find-top-talent-the-systems-map-of-silicon-valley-4bb14b98da4a
 date: 2017-11-08T10:51:03.833Z
@@ -16,7 +18,11 @@ tags: [
 ---
 # **Where to find top talent: the systems map of Silicon Valley**
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*Yb9ZYTTGkgUD5smMEWaFxA.png)
+
+
 
 When I started my second software company, one of my venture capitalists asked if I really planned to build another technology company in a “wasteland” like Orange County.
 
@@ -74,7 +80,13 @@ As I canvassed the valley, I came to a fascinating conclusion: Silicon Valley is
 
 A basic application systems map looks like this:
 
-![](https://cdn-images-1.medium.com/max/1600/0*WuXKbjyYjteIYia9.)[disruptordie.net](http://disruptordie.net)
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*WuXKbjyYjteIYia9.)
+
+[disruptordie.net](http://disruptordie.net)
+
+
 
 At the bottom, you have hardware platforms, including items such as computer processors, network routers, and storage arrays. As you move up the stack, you have software platforms, such as Apple’s Mac OS or iOS operating systems, which mask the complexity of disparate hardware components.
 
@@ -86,7 +98,13 @@ As the computer hardware industry matured, it gave rise to the next level in the
 
 San Francisco drew the new layers toward itself like a magnet, which resulted in a funny thing: Silicon Valley laid itself out like a systems map.
 
-![](https://cdn-images-1.medium.com/max/1600/0*CSyWAMQImsy4Kzxv.)[disruptordie.net](http://disruptordie.net)
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*CSyWAMQImsy4Kzxv.)
+
+[disruptordie.net](http://disruptordie.net)
+
+
 
 Hardware companies such as Intel, Cisco, and Apple sit at the bottom. Software platforms such as VMware, Facebook, and Google sit one layer above them. The world’s greatest database company, Oracle, comes next, between San Francisco and the South Bay.
 
@@ -110,13 +128,45 @@ If you need to hire the world’s top software engineers, they’re probably in 
 
 Just make sure you’re looking for them in the exact right place.
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 Thanks for reading!
 
 If you enjoyed this article, please hold down the clap button below 👏 to help others find it. The longer you hold it, the more claps you give!
 
+
+
+
+
+
+
+
+
+
+
 * * *
+
+
+
+
+
+
 
 #### About Me
 
@@ -126,4 +176,20 @@ Parts of this article are excerpted from _Disrupt or Die._
 
 Sign up below to get periodic updates, notes on innovation, and a little frivolity along the way. You’ll also get the first five chapters of my book free.
 
+
+
+
+
 <iframe data-width="800" data-height="400" width="700" height="350" src="/media/abd8b47cb5088d2cebccc6f8cae3ea8c?postId=4bb14b98da4a" data-media-id="abd8b47cb5088d2cebccc6f8cae3ea8c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fe.enpose.co%2F%3Fkey%3DdRXnS9Gplk%26w%3D700%26h%3D425%26url%3Dhttps%253A%252F%252Fupscri.be%252Fc75446%252F%253Fenpose&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+

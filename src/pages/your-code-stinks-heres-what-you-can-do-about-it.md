@@ -1,8 +1,10 @@
 ---
 author: Jonathan Solórzano-Hamilton
+authorTwitter: https://twitter.com/jhsolor
+authorFacebook: false
 title: "Your code stinks. Here’s what you can do about it."
-subTitle: "Humans stink. It’s nothing to be ashamed of: it is the inevitable consequence of our animal nature."
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*edw-nKvDvMKNpTxE3Y5_8Q.jpeg
+subTitle: "Humans stink. It’s nothing to be ashamed of: it is the inevitable consequence of our animal nature...."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*BZSZytmK-78-xGeK-P0_fw.jpeg
 url: https://medium.freecodecamp.org/your-code-stinks-heres-what-you-can-do-about-it-3f9650653447
 id: your-code-stinks-heres-what-you-can-do-about-it-3f9650653447
 date: 2017-11-16T09:22:12.717Z
@@ -24,7 +26,13 @@ Humanity’s singular endeavor throughout history has been the journey to elimin
 
 We have iterated for thousands of years to reach a stink-free world. From the invention of soap and toothpaste to the Yankee Doodle Candle Co. and Febreze — our soaps, candles, and sprays now give us a way to make food waste and industrial garbage smell like mountain raindrops and sugar cookies.
 
-![](https://cdn-images-1.medium.com/max/1600/1*edw-nKvDvMKNpTxE3Y5_8Q.jpeg)Mmmm! Pumpkin spice! (Photo by [NeONBRAND](https://unsplash.com/photos/8Yk4T-tDSYY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*edw-nKvDvMKNpTxE3Y5_8Q.jpeg)
+
+Mmmm! Pumpkin spice! (Photo by [NeONBRAND](https://unsplash.com/photos/8Yk4T-tDSYY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
+
+
 
 And yet with each innovation, we find a new way to stink.
 
@@ -48,7 +56,13 @@ Woof.
 
 A simpler version is that smelly code causes you to say “that doesn’t seem right” when you glance at it. Code that has begun to smell resembles milk on the cusp of spoiling. It looks like it **might** be okay, but it seems to be “off” just a bit.
 
-![](https://cdn-images-1.medium.com/max/1600/1*0ViDoBn7nMsPuXg_y4P2KA.jpeg)That’s… awfully foamy. ([source](https://www.pexels.com/photo/healthy-drink-glass-milk-46520/))
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*0ViDoBn7nMsPuXg_y4P2KA.jpeg)
+
+That’s… awfully foamy. ([source](https://www.pexels.com/photo/healthy-drink-glass-milk-46520/))
+
+
 
 And — just like with smelly milk — if you want to be sure you’ll be at work the next day, you may not want to settle for smelly code. So are you ready to come to grips with your code smell?
 
@@ -58,7 +72,13 @@ Acceptance is the first step to killing code stink. I know your code stinks. May
 
 You have to accept that your code isn’t always going to smell like roses. Especially your first draft. Your first draft is never going to be your best.
 
-![](https://cdn-images-1.medium.com/max/1600/1*Y1zZK3fLQN54kseJEnowUw.jpeg)Photo by [Thought Catalog](https://unsplash.com/photos/RdmLSJR-tq8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*Y1zZK3fLQN54kseJEnowUw.jpeg)
+
+Photo by [Thought Catalog](https://unsplash.com/photos/RdmLSJR-tq8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
 
 That’s right, your “draft.” You need to start treating coding the way we treat other endeavors. You need to plan to iterate from the beginning.
 
@@ -70,7 +90,13 @@ Like all smells, you’ll get better at detecting code smells once you’re sens
 
 Technology can also help save you from smells. Do you have deodorant? Your IDE may not have a plug-in deodorizer today. But it could! [Static code analysis](https://www.sonarqube.org/) and [linting](https://guide.freecodecamp.org/javascript/code-linting-in-javascript/) [tools](https://medium.freecodecamp.org/how-to-set-up-eslint-in-atom-to-contribute-to-freecodecamp-3467dee86e2c) give your code a shower to help keep it from getting too smelly.
 
-![](https://cdn-images-1.medium.com/max/1600/1*FntCclZjLFE_wRbh71akig.png)([source](https://www.pexels.com/photo/black-and-white-blue-bottles-close-up-339835/))
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*FntCclZjLFE_wRbh71akig.png)
+
+([source](https://www.pexels.com/photo/black-and-white-blue-bottles-close-up-339835/))
+
+
 
 If you’re not already habitually unit testing, this is a good reason to start. Writing unit tests forces you to go back over your code to figure out where and what to test. This is a much harder task if you’re holding your nose at the same time. Reviewing code for testing provides you with both an opportunity and an incentive for better (and less smelly) coding.
 
@@ -80,7 +106,13 @@ Let’s face it. Other people are going to notice your stink long before you do.
 
 The best way to find and fix the stinky spots in your code is to review it with other people. Peer code review has a lot of benefits. The first benefit is that you get to aggravate your co-workers. You’ll immediately find out how poorly written your first effort was by the groans of dismay wafting across the office after you click “submit pull request.”
 
-![](https://cdn-images-1.medium.com/max/1600/1*8c333d_YNEHG4q3UDb1wTA.jpeg)Photo by [Helloquence](https://unsplash.com/photos/5fNmWej4tAA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*8c333d_YNEHG4q3UDb1wTA.jpeg)
+
+Photo by [Helloquence](https://unsplash.com/photos/5fNmWej4tAA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
 
 Another great way to reduce stink is to review other people’s code. Take delight in pointing out their failings and flaws! Then quietly realize that you make the same mistakes all the time. The back-and-forth of a good peer review system will help you become a better developer faster than just about anything else.
 
@@ -90,7 +122,13 @@ But what if you don’t have co-workers or friends and spend your days writing c
 
 Nobody wants to stink. And you don’t have to. Coding stink is like all others: with a little hygiene it can be managed.
 
-![](https://cdn-images-1.medium.com/max/1600/1*MJKQTcoms33CWn0yL_nETA.jpeg)([source](https://www.pexels.com/photo/blur-close-up-focus-indoors-78931/))
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*MJKQTcoms33CWn0yL_nETA.jpeg)
+
+([source](https://www.pexels.com/photo/blur-close-up-focus-indoors-78931/))
+
+
 
 It’s time to examine your coding process. Is it iterative? Do you seek feedback from others? Are you using free tools to check your code for “grammatical” mistakes? Are you testing?
 
@@ -103,3 +141,11 @@ Finally, keep practicing to hone your skills. Do side projects and open source t
 Your nose will thank you.
 
 Please 👏 to let me know if you enjoyed this article!
+
+
+
+
+
+
+
+

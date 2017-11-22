@@ -3,7 +3,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 import format from 'date-fns/format';
+import Helmet from 'react-helmet';
 
+import placeHolder from '../../static/placeholder.png';
 import '../css/index-page.css';
 
 const articleShape = {
@@ -33,6 +35,9 @@ const propTypes = {
 const IndexPage = ({ data: { allMarkdownRemark: { edges: articles } } }) => {
   return (
     <div>
+      <Helmet>
+        <title>freeCodeCamp News | What do you like to know today?</title>
+      </Helmet>
       <h2>Latest news...</h2>
       <div className='article-container'>
         <ul>
@@ -51,14 +56,17 @@ const IndexPage = ({ data: { allMarkdownRemark: { edges: articles } } }) => {
                     <p className='article-meta'>
                       By {author} -{' '}
                       <span>
-                        Published: {format(new Date(date), 'MM-DD-YYYY')} -{' '}
-                        {timeToRead} min read
+                        Published:{' '}
+                        <time dateTime={date}>
+                          {format(Date(date), 'MM-DD-YYYY')}
+                        </time>{' '}
+                        - {timeToRead} min read
                       </span>
                     </p>
                     <p>{excerpt}</p>
                   </div>
                   <div className='img-wrapper'>
-                    <img alt='' src={coverSrc} />
+                    <img alt='' src={coverSrc || placeHolder} />
                   </div>
                 </Link>
                 <hr />
@@ -76,7 +84,10 @@ IndexPage.propTypes = propTypes;
 
 export const query = graphql`
   query IndexQuery {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      limit: 100
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       totalCount
       edges {
         node {

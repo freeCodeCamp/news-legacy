@@ -1,8 +1,10 @@
 ---
 author: Jannes Klaas
+authorTwitter: false
+authorFacebook: https://facebook.com/985657368122537
 title: "Deep reinforcement learning: where to start"
-subTitle: "Last year, DeepMind’s AlphaGo beat Go world champion Lee Sedol 4–1. More than 200 million people watched as reinforcement learning (RL…"
-coverSrc: https://cdn-images-1.medium.com/max/1000/1*dsH8QHWSeAOFMuCrwkmWiw.png
+subTitle: "Last year, DeepMind’s AlphaGo beat Go world champion Lee Sedol 4–1. More than 200 million people watched as reinforcement learning (RL) t..."
+coverSrc: https://cdn-images-1.medium.com/max/1600/1*dsH8QHWSeAOFMuCrwkmWiw.png
 url: https://medium.freecodecamp.org/deep-reinforcement-learning-where-to-start-291fb0058c01
 id: deep-reinforcement-learning-where-to-start-291fb0058c01
 date: 2017-11-08T17:17:20.833Z
@@ -24,13 +26,25 @@ Although it can appear challenging at first, getting started in RL is actually n
 
 ### The game
 
-![](https://cdn-images-1.medium.com/max/1600/1*dsH8QHWSeAOFMuCrwkmWiw.png)A prettier version of the game we will actually train on
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*dsH8QHWSeAOFMuCrwkmWiw.png)
+
+A prettier version of the game we will actually train on
+
+
 
 Catch is a very simple arcade game, which you might have played as a child. Fruits fall from the top of the screen, and the player has to catch them with a basket. For every fruit caught, the player scores a point. For every fruit lost, the player loses a point.
 
 The goal here is to let the computer play Catch by itself. But we will not use the pretty game above. Instead, we will use a simplified version to make the task easier:
 
-![](https://cdn-images-1.medium.com/max/1600/1*b4414av3RDXVcXBhbIJSnA.png)Our simplified catch game
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*b4414av3RDXVcXBhbIJSnA.png)
+
+Our simplified catch game
+
+
 
 While playing Catch, the player decides between three possible actions. They can move the basket to the left, to the right, or stay put.
 
@@ -50,7 +64,11 @@ Reinforcement learning is inspired by behavioral psychology.
 
 Instead of providing the model with ‘correct’ actions, we provide it with rewards and punishments. The model receives information about the current state of the environment (e.g. the computer game screen). It then outputs an action, like a joystick movement. The environment reacts to this action and provides the next state, alongside with any rewards.
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*uq1GGg_NOi-Z4pVhOOYFTA.jpeg)
+
+
 
 The model then learns to find actions that lead to maximum rewards.
 
@@ -120,7 +138,15 @@ Given a batch of experiences `< S, A, R, S’ >`, the training process then look
 
 During gameplay, all the experiences are stored in a **replay memory**. This acts like a simple buffer in which we store `< S, A, R, S’ >` pairs. The experience replay class also handles preparing the data for training. Check out the code below:
 
+
+
+
+
 <iframe width="700" height="250" src="/media/69f950d0b34cbd71362aac009bae5653?postId=291fb0058c01" data-media-id="69f950d0b34cbd71362aac009bae5653" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 ### Defining the model
 
@@ -130,7 +156,15 @@ We are using [Keras](https://keras.io/) as a front end to [Tensorflow](https://w
 
 Already, this model performs quite well on this simple version of Catch. Head over to GitHub for the [full implementation](https://github.com/JannesKlaas/sometimes_deep_sometimes_learning/blob/master/reinforcement.ipynb). You can experiment with more complex models to see if you can get better performance.
 
+
+
+
+
 <iframe width="700" height="250" src="/media/68b7ff5d5ddfb7fb783b6b6d299a280a?postId=291fb0058c01" data-media-id="68b7ff5d5ddfb7fb783b6b6d299a280a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16643917%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 ### Exploration
 
@@ -142,17 +176,35 @@ The same goes for Q-Learning. Always choosing the best option means you might mi
 
 Now we can define the training method:
 
+
+
+
+
 <iframe width="700" height="250" src="/media/465c39e1f78d2591d0492a57ad39da57?postId=291fb0058c01" data-media-id="465c39e1f78d2591d0492a57ad39da57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16643917%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+
+
+
+
 
 I let the game train for 5,000 epochs, and it does quite well now!
 
-![](https://cdn-images-1.medium.com/max/1600/1*GzxoQUnU2ZPOKF2qmcdRwQ.gif)Our Catch player in action
+
+
+![](https://cdn-images-1.medium.com/max/1600/1*GzxoQUnU2ZPOKF2qmcdRwQ.gif)
+
+Our Catch player in action
+
+
 
 As you can see in the animation, the computer catches the apples falling from the sky.
 
 To visualize how the model learned, I plotted the [moving average](https://en.wikipedia.org/wiki/Moving_average) of victories over the epochs:
 
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*HEtvd7a1TBqPOaGQNulAQw.png)
+
+
 
 ### Where to go from here
 
@@ -173,3 +225,11 @@ This text is part of the [Machine Learning in Financial Context course material]
 I spent a decade building software and am now on the journey bring ML to the financial world. I study at the Rotterdam School of Management and have done research with the Institute for Housing and Urban development studies.
 
 You can follow me on [Twitter](https://twitter.com/jannesklaas). If you have any questions or suggestions please leave a comment or ping me on [Medium](https://medium.com/@jannesklaas).
+
+
+
+
+
+
+
+
