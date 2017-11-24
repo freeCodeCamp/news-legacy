@@ -1,110 +1,94 @@
 /* global graphql */
-import React from 'react';
-import PropTypes from 'prop-types';
-import Link from 'gatsby-link';
-import format from 'date-fns/format';
+import React, { PureComponent } from 'react';
 import Helmet from 'react-helmet';
-
-import placeHolder from '../../static/placeholder.png';
+import Tiles from '../components/Tiles.jsx';
+import { indexPropTypes as propTypes } from '../propTypes';
 import '../css/index-page.css';
 
-const articleShape = {
-  node: PropTypes.shape({
-    excerpt: PropTypes.string,
-    timeToRead: PropTypes.number,
-    fields: PropTypes.shape({
-      slug: PropTypes.string
-    }),
-    frontmatter: PropTypes.shape({
-      title: PropTypes.string.isRequired,
-      author: PropTypes.string.isRequired,
-      date: PropTypes.date,
-      coverSrc: PropTypes.string
-    })
-  })
-};
+class IndexPage extends PureComponent {
+  constructor(props) {
+    super(props);
+    const { edges } = props.data.allMarkdownRemark;
+    this.state = {
+      allArticles: edges,
+      articlesToRender: edges.slice(0, 8),
+      buttonActive: true,
+      increment: 8
+    };
+    this.loadMoreArticles = this.loadMoreArticles.bind(this);
+    this.handleLoadClick = this.handleLoadClick.bind(this);
+  }
 
-const propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.arrayOf(PropTypes.shape(articleShape))
-    })
-  })
-};
+  loadMoreArticles() {
+    this.setState(prevState => {
+      const { allArticles, increment, articlesToRender } = prevState;
+      const additionalArticles = allArticles.slice(increment, increment + 8);
+      return {
+        articlesToRender: articlesToRender.concat(additionalArticles),
+        increment: increment + 8,
+        buttonActive: true
+      };
+    });
+  }
 
-const IndexPage = ({ data: { allMarkdownRemark: { edges: articles } } }) => {
-  return (
-    <div>
-      <Helmet>
-        <title>freeCodeCamp News | What do you like to know today?</title>
-      </Helmet>
-      <h2>Latest news...</h2>
-      <div className='article-container'>
-        <ul>
-          {articles.map(article => {
-            const {
-              excerpt,
-              timeToRead,
-              fields: { slug },
-              frontmatter: { title, author, date, coverSrc }
-            } = article.node;
-            return (
-              <li key={slug} title={title}>
-                <Link className='tile' to={slug}>
-                  <div>
-                    <h4>{title}</h4>
-                    <p className='article-meta'>
-                      By {author} -{' '}
-                      <span>
-                        Published:{' '}
-                        <time dateTime={date}>
-                          {format(Date(date), 'MM-DD-YYYY')}
-                        </time>{' '}
-                        - {timeToRead} min read
-                      </span>
-                    </p>
-                    <p>{excerpt}</p>
-                  </div>
-                  <div className='img-wrapper'>
-                    <img alt='' src={coverSrc || placeHolder} />
-                  </div>
-                </Link>
-                <hr />
-              </li>
-            );
-          })}
-        </ul>
+  handleLoadClick(e) {
+    e.preventDefault();
+    this.setState(() => ({ buttonActive: false }));
+    this.loadMoreArticles();
+  }
+
+  render() {
+    const { allArticles, articlesToRender } = this.state;
+    const showLoadMore = allArticles.length > articlesToRender.length;
+    return (
+      <div>
+        <Helmet>
+          <title>freeCodeCamp News | What do you like to know today?</title>
+        </Helmet>
+        <h2>Latest news...</h2>
+        <div className='article-container'>
+          <Tiles articles={articlesToRender} />
+          <div className='load-wrapper'>
+            <button
+              className='load-more'
+              disabled={!showLoadMore}
+              onClick={this.handleLoadClick}
+              >
+              Load More
+            </button>
+          </div>
+        </div>
       </div>
-    </div>
-  );
-};
+    );
+  }
+}
 
 IndexPage.displayName = 'IndexPage';
 IndexPage.propTypes = propTypes;
 
 export const query = graphql`
-query IndexQuery {
-  allMarkdownRemark(
-    limit: 48
-    sort: { fields: [frontmatter___date], order: DESC }
-  ) {
-    edges {
-      node {
-        excerpt
-        timeToRead
-        frontmatter {
-          title
-          author
-          date
-          coverSrc
-        }
-        fields {
-          slug
+  query SiteIndexQuery {
+    allMarkdownRemark(
+      limit: 48
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      edges {
+        node {
+          excerpt
+          timeToRead
+          frontmatter {
+            title
+            author
+            date
+            coverSrc
+          }
+          fields {
+            slug
+          }
         }
       }
     }
   }
-}
 `;
 
 export default IndexPage;

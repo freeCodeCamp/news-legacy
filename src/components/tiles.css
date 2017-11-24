@@ -1,0 +1,45 @@
+ul, a {
+  color: #333;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+hr {
+  margin: 15px 0 !important;
+  background-color: hsla(120, 100%, 20%, 0.4) !important;
+}
+
+.center-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.article-meta {
+  font-size: 14px;
+  color: hsla(120, 100%, 20%, 0.6);
+}
+
+.excerpt {
+  max-width: 80%;
+  padding-bottom: 2rem;
+}
+
+.excerpt-wrap {
+  flex-direction: row;
+}
+
+.tile {
+  display: flex;
+  border: none;
+  padding: 10px 15px;
+  box-shadow: none;
+}
+
+.img-wrap {
+  max-height: 50vh;
+  overflow: hidden;
+}

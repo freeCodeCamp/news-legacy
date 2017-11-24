@@ -1,34 +1,16 @@
-ul, a {
-  color: #333;
-  text-decoration: none;
-}
-
-ul {
-  list-style: none;
-}
-
-hr {
-  margin: 15px 0 !important;
-  background-color: hsla(120, 100%, 20%, 0.4) !important;
-}
-
-.article-meta {
-  font-size: 14px;
-  color: hsla(120, 100%, 20%, 0.6);
-}
-
-
-
-.tile {
+.load-wrapper {
   display: flex;
-  flex-direction: row;
-  border: 1px solid rgba(50,50,50,0.2);
-  padding: 10px 15px;
-  box-shadow: none;
-  transform: scale(0.98);
-  transition: all 100ms linear;
+  justify-content: space-around;
 }
-.tile:hover {
-  transform: scale(1);
-  box-shadow: 10px 10px 5px 0px rgba(153,153,153,0.29);
+
+.load-more {
+  color: #006400;
+  background: #fff;
+  border: #006400 1px solid;
+  padding: 10px 20px;
+}
+
+.load-more:disabled {
+  color: #999;
+  border-color: #999;
 }

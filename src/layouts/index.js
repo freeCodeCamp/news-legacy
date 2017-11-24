@@ -1,14 +1,13 @@
-import React from 'react';
+/* global graphql */
+import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
+import unique from 'lodash/uniq';
 
+import { layoutPropTypes } from '../propTypes';
 import logo from '../../static/FCC-logo-white.png';
 import './index.css';
-
-const propTypes = {
-  children: PropTypes.func
-};
 
 const Header = () => (
   <div
@@ -44,29 +43,85 @@ const Header = () => (
   </div>
 );
 
-const TemplateWrapper = ({ children }) => (
-  <div>
-    <Helmet
-      meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' }
-      ]}
-      title='Gatsby Default Starter'
-    />
-    <Header />
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '0px 1.0875rem 1.45rem',
-        paddingTop: 0
-      }}
-      >
-      {children()}
+const TemplateWrapper = ({ children, keywords }) => {
+  return (
+    <div>
+      <Helmet
+        meta={[
+          { name: 'description', content: 'Sample' },
+          { name: 'keywords', content: keywords.join(', ') }
+        ]}
+        title='Gatsby Default Starter'
+      />
+      <Header />
+      <div
+        style={{
+          margin: '0 auto',
+          maxWidth: 960,
+          padding: '0px 1.0875rem 1.45rem',
+          paddingTop: 0
+        }}
+        >
+        {children()}
+      </div>
     </div>
-  </div>
-);
+  );
+};
 
-TemplateWrapper.propTypes = propTypes;
+TemplateWrapper.propTypes = {
+  children: PropTypes.func,
+  keywords: PropTypes.arrayOf(PropTypes.string)
+};
 
-export default TemplateWrapper;
+class Layout extends PureComponent {
+  constructor(props) {
+    super(props);
+    const { edges } = props.data.allMarkdownRemark;
+    const uniqueTags = unique(
+      edges.reduce(
+        (accu, current) => [...accu, ...current.node.frontmatter.tags],
+        []
+      )
+    );
+    this.state = {
+      pages: edges.map(page => page.node),
+      keywords: uniqueTags
+    };
+  }
+
+  render() {
+    const { children } = this.props;
+    const { keywords } = this.state;
+    return (
+      <main>
+        <TemplateWrapper children={children} keywords={keywords} />
+      </main>
+    );
+  }
+}
+
+Layout.displayName = 'Layout';
+Layout.propTypes = layoutPropTypes;
+
+export default Layout;
+
+export const query = graphql`
+  query LayoutQuery {
+    allMarkdownRemark {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            author
+            subTitle
+            tags
+          }
+          html
+        }
+      }
+    }
+  }
+`;

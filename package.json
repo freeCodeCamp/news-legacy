@@ -11,6 +11,7 @@
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-source-filesystem": "^1.5.8",
     "gatsby-transformer-remark": "^1.7.21",
+    "lodash": "^4.17.4",
     "puppeteer": "^0.13.0",
     "rx": "^4.1.0",
     "slugg": "^1.2.1",
@@ -22,7 +23,7 @@
   "license": "BSD-3-Clause",
   "main": "n/a",
   "scripts": {
-    "build": "yarn slugsafe && gatsby build",
+    "build": "yarn slugsafe && node --max-old-space-size=7168 ./node_modules/gatsby/dist/bin/gatsby build",
     "dev": "yarn slugsafe && gatsby develop",
     "format": "find . -name '*.js' -o -name '*.jsx' | grep -v -f .gitignore | xargs prettier es5 --single-quote --write",
     "lint": "eslint --ext .js,.jsx --ignore-path .gitignore . --fix",
