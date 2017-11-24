@@ -24,7 +24,7 @@
   "main": "n/a",
   "scripts": {
     "build": "yarn slugsafe && node --max-old-space-size=7168 ./node_modules/gatsby/dist/bin/gatsby build",
-    "dev": "yarn slugsafe && gatsby develop",
+    "dev": "yarn slugsafe && node --max-old-space-size=7168 ./node_modules/gatsby/dist/bin/gatsby develop",
     "format": "find . -name '*.js' -o -name '*.jsx' | grep -v -f .gitignore | xargs prettier es5 --single-quote --write",
     "lint": "eslint --ext .js,.jsx --ignore-path .gitignore . --fix",
     "slugsafe": "node slugSafe.js",

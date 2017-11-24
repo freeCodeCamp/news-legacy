@@ -106,8 +106,22 @@ Layout.propTypes = layoutPropTypes;
 export default Layout;
 
 export const query = graphql`
-  query LayoutQuery {
-    allMarkdownRemark {
+fragment singleStory_frag on MarkdownRemark {
+  fields {
+    slug
+  }
+  frontmatter {
+    title
+    author
+    subTitle
+    tags
+    date
+  }
+  html
+}
+
+fragment all_articles on RootQueryType{
+  allMarkdownRemark {
       edges {
         node {
           fields {
@@ -123,5 +137,30 @@ export const query = graphql`
         }
       }
     }
-  }
-`;
+}
+
+fragment first_48_articles on RootQueryType{
+  allMarkdownRemark(
+    limit: 48
+    sort: { fields: [frontmatter___date], order: DESC }
+  ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            author
+            subTitle
+            tags
+          }
+          html
+        }
+      }
+    }
+}
+
+query LayoutQuery {
+  ...all_articles
+}`;

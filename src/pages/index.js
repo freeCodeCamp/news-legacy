@@ -68,26 +68,7 @@ IndexPage.propTypes = propTypes;
 
 export const query = graphql`
   query SiteIndexQuery {
-    allMarkdownRemark(
-      limit: 48
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
-      edges {
-        node {
-          excerpt
-          timeToRead
-          frontmatter {
-            title
-            author
-            date
-            coverSrc
-          }
-          fields {
-            slug
-          }
-        }
-      }
-    }
+    ...first_48_articles
   }
 `;
 
