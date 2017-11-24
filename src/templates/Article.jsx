@@ -42,7 +42,7 @@ TimeAfterPublish.propTypes = {
 const Author = ({ author, authorTwitter, date }) => (
   <header className='author-block'>
     <div className='author-img'>
-      <img src='https://placehold.it/50x50' />
+      <img src='https://placehold.it/100x100' />
     </div>
     <div className='author-name'>
       <h4>{author}</h4>

@@ -1,5 +1,5 @@
 ---
-author: @Puppybits
+author: Puppybits
 authorTwitter: https://twitter.com/puppybits
 authorFacebook: false
 title: "Functional Programming is taking over UIs with Pure Views."
@@ -66,29 +66,29 @@ Pure Views are simple transforms with no side-effects.
 
 This is an incredibly powerful concept. Instead of having to propagate through functions, events and network stacks and mutations everywhere, just take a snapshot of the data and render to a view. The view will have all the layout, event handlers and access points for the user to interact with the underlying data. This means to get to any location in the application, the only dependency is a static data model. Generally these Pure Views are coupled with lifecycle methods to better understand when, why and how the data changes. For example, take a look at some actual code of a Pure View:
 
-<pre name="68a3" id="68a3" class="graf graf--pre graf-after--p">createView({  
-  getDefaultProps(){  
-    return {  
-      selectedIds: [1, 10],  
-      banks: [/* bank data here */]  
-    };  
-  }   
-  render(){   
-    let selectedBanks = this.props.banks.filter(function(bank){  
-      return this.props.selectedIds.indexOf(bank.id) > -1;  
-    });  
-    let bankItems = [];  
-    for (let i=0; i < selectedBanks.length; i++){  
-      bankItems.push(  
-        el("BankItem", {key:i, bank:selectedBanks[i]})  
-      );  
-    }  
-    return el("div", null,  
-             el("h1", null, "Selected Banks"),  
-             bankItems,  
-             el("a", {href:"/install", "Next")  
-           );  
-  }  
+<pre name="68a3" id="68a3" class="graf graf--pre graf-after--p">createView({
+  getDefaultProps(){
+    return {
+      selectedIds: [1, 10],
+      banks: [/* bank data here */]
+    };
+  }
+  render(){
+    let selectedBanks = this.props.banks.filter(function(bank){
+      return this.props.selectedIds.indexOf(bank.id) > -1;
+    });
+    let bankItems = [];
+    for (let i=0; i < selectedBanks.length; i++){
+      bankItems.push(
+        el("BankItem", {key:i, bank:selectedBanks[i]})
+      );
+    }
+    return el("div", null,
+             el("h1", null, "Selected Banks"),
+             bankItems,
+             el("a", {href:"/install", "Next")
+           );
+  }
 })</pre>
 
 This view encapsulates properties that are passed in by it’s parent. When the render function is called, it doesn’t require anything outside of the view’s own scope. Everything that can affect the output is all in a single function. Until the render function is finished the props and state can not be changed either. This makes it easy to reason about what will happen on each run. Whenever the parent send it new data, it will trigger the render function to run again.
@@ -111,7 +111,7 @@ To take advantage of some of the extended capabilities Pure Views offer there ar
 
 On last note is for all those who get stuck scrutinizing syntax (like Lisps or JSX): don’t judge a book by it’s cover. If you don’t look deeper, you can completely ignore the possibilities and power that can come from something different. Look again at the code above for a real-world Pure View above. It’s all valid code with no need for transpilation, package managers or any additional build steps. The only thing that’s missing is the top 3 lines:
 
-<pre name="82e0" id="82e0" class="graf graf--pre graf-after--p">let el = React.createElement;  
+<pre name="82e0" id="82e0" class="graf graf--pre graf-after--p">let el = React.createElement;
 let createView = React.createClass;</pre>
 
 _More details on our architecture are at_ [_bit.ly/fluxless_](http://bit.ly/fluxless) _&_ [_bit.ly/triforce-of-power_](http://bit.ly/triforce-of-power)_._

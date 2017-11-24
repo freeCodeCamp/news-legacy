@@ -1,17 +1,19 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "name": "freecodecamp-news",
+  "description": "A place to host articles about software and technology",
+  "version": "0.0.0",
+  "author": "freeCodeCamp",
   "dependencies": {
+    "chalk": "^2.3.0",
     "date-fns": "^1.29.0",
-    "gatsby": "1.9.114",
+    "gatsby": "bouncey/temp-gatsby-fork#master",
     "gatsby-link": "^1.6.27",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-source-filesystem": "^1.5.8",
     "gatsby-transformer-remark": "^1.7.21",
     "puppeteer": "^0.13.0",
     "rx": "^4.1.0",
+    "slugg": "^1.2.1",
     "to-markdown": "^3.1.0"
   },
   "keywords": [
@@ -20,11 +22,12 @@
   "license": "BSD-3-Clause",
   "main": "n/a",
   "scripts": {
-    "build": "gatsby build",
-    "dev": "gatsby develop",
+    "build": "yarn slugsafe && gatsby build",
+    "dev": "yarn slugsafe && gatsby develop",
     "format": "find . -name '*.js' -o -name '*.jsx' | grep -v -f .gitignore | xargs prettier es5 --single-quote --write",
     "lint": "eslint --ext .js,.jsx --ignore-path .gitignore . --fix",
-    "test": "yarn run format && yarn run lint",
+    "slugsafe": "node slugSafe.js",
+    "test": "yarn slugsafe && yarn run format && yarn run lint",
     "gatsby-help": "gatsby --help"
   },
   "devDependencies": {
