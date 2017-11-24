@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "name": "freecodecamp-news",
+  "description": "A place to host articles about software and technology",
+  "version": "0.0.0",
+  "author": "freeCodeCamp",
   "dependencies": {
     "date-fns": "^1.29.0",
-    "gatsby": "1.9.114",
+    "gatsby": "bouncey/temp-gatsby-fork#master",
     "gatsby-link": "^1.6.27",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-source-filesystem": "^1.5.8",
