@@ -1,4 +1,6 @@
 import React from 'react';
+import preloads from './head/preloads';
+import metaAndStyleSheets from './head';
 
 let stylesStr;
 if (process.env.NODE_ENV === 'production') {
@@ -25,12 +27,8 @@ class HTML extends React.Component {
     return (
       <html {...this.props.htmlAttributes}>
         <head>
-          <meta charSet='utf-8' />
-          <meta content='ie=edge' httpEquiv='x-ua-compatible' />
-          <meta
-            content='width=device-width, initial-scale=1, shrink-to-fit=no'
-            name='viewport'
-          />
+          {preloads}
+          {metaAndStyleSheets}
           {this.props.headComponents}
           {css}
         </head>
