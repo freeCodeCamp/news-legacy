@@ -1,27 +1,38 @@
-import React, { PureComponent } from 'react';
+import React, { Component } from 'react';
 import Link from 'gatsby-link';
 import Navbar from 'react-bootstrap/lib/Navbar';
-import NavbarBrand from 'react-bootstrap/lib/NavbarBrand';
 import NavDropdown from 'react-bootstrap/lib/NavDropdown';
 import NavItem from 'react-bootstrap/lib/NavItem';
 import MenuItem from 'react-bootstrap/lib/MenuItem';
 import Nav from 'react-bootstrap/lib/Nav';
-
+import SearchBar from './SearchBar.jsx';
 import navLinks from './links.json';
 import { NavPropTypes as propTypes } from '../../../propTypes';
 import fCClogo from '../../../../static/FCC-logo-white.png';
 import './nav.less';
 
-class NewsNav extends PureComponent {
+class NewsNav extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      isDropdownOpen: false
+      isDropdownOpen: false,
+      searchText: ''
     };
     this.openDropdown = this.openDropdown.bind(this);
     this.closeDropdown = this.closeDropdown.bind(this);
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
   }
 
+  handleChange(e) {
+    e.persist();
+    e.preventDefault();
+    this.setState(() => ({searchText: e.target.value }));
+  }
+  handleSubmit(e) {
+    e.preventDefault();
+    console.log(e);
+  }
   openDropdown() {
     this.setState(() => ({ isDropdownOpen: true }));
   }
@@ -33,7 +44,6 @@ class NewsNav extends PureComponent {
     isNavItem,
     { isReact, isDropdown, content, link, links, target, rel }
   ) {
-    console.log('RENDER LINK');
     const Component = isNavItem ? NavItem : MenuItem;
     const { isDropdownOpen } = this.state;
     const { openDropdown, closeDropdown } = this;
@@ -78,20 +88,19 @@ class NewsNav extends PureComponent {
   }
 
   render() {
+    const { searchText } = this.state;
     return (
+      <div>
       <Navbar className='nav-height' id='navbar' staticTop={true}>
         <Navbar.Header className='brand-header'>
           <Navbar.Toggle children={'Menu'} />
-            <Link
-              className='brand-logo-wrap'
-              to='/'
-              >
-              <img
-                alt='learn to code javascript at freeCodeCamp logo'
-                className='img-responsive nav-logo'
-                src={fCClogo}
-              />
-            </Link>
+          <Link className='brand-logo-wrap' to='/'>
+            <img
+              alt='learn to code javascript at freeCodeCamp logo'
+              className='img-responsive nav-logo'
+              src={fCClogo}
+            />
+          </Link>
         </Navbar.Header>
         <Navbar.Collapse>
           <Nav navbar={true} pullRight={true}>
@@ -99,6 +108,14 @@ class NewsNav extends PureComponent {
           </Nav>
         </Navbar.Collapse>
       </Navbar>
+      <Navbar id='searchNav'>
+        <div className="row">
+        <div className="col-xs-12">
+      <SearchBar handleChange={this.handleChange} handleSubmit={this.handleSubmit} value={searchText} />
+      </div>
+      </div>
+      </Navbar>
+      </div>
     );
   }
 }

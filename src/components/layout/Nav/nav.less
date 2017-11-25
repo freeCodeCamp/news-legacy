@@ -1,9 +1,17 @@
 @import (less) '../../../css/globals.less';
 
+#searchNav{
+  border-radius: 0;
+
+  form {
+    margin-bottom: 0;
+  }
+}
 
 .navbar {
   background-color: @brand-primary;
   font-size: 14px;
+  margin-bottom: 0;
 }
 
 .navbar-nav > li > a {
@@ -13,7 +21,9 @@
     color: @brand-primary !important;
   }
 }
-
+button.navbar-toggle {
+  line-height: 0px;
+}
 .brand-header {
   height: @navbar-height;
   display: flex;
