@@ -8,11 +8,13 @@
     "date-fns": "^1.29.0",
     "gatsby": "bouncey/temp-gatsby-fork#master",
     "gatsby-link": "^1.6.27",
+    "gatsby-plugin-less": "^1.0.6",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-source-filesystem": "^1.5.8",
     "gatsby-transformer-remark": "^1.7.21",
     "lodash": "^4.17.4",
     "puppeteer": "^0.13.0",
+    "react-bootstrap": "^0.31.5",
     "rx": "^4.1.0",
     "slugg": "^1.2.1",
     "to-markdown": "^3.1.0"

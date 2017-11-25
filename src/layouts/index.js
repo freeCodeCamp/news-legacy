@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import unique from 'lodash/uniq';
 
-import Nav from '../components/layout/Nav.jsx';
+import Nav from '../components/layout/Nav/Nav.jsx';
 import { layoutPropTypes } from '../propTypes';
 
 import './index.css';
@@ -72,22 +72,22 @@ Layout.propTypes = layoutPropTypes;
 export default Layout;
 
 export const query = graphql`
-fragment singleStory_frag on MarkdownRemark {
-  fields {
-    slug
+  fragment singleStory_frag on MarkdownRemark {
+    fields {
+      slug
+    }
+    frontmatter {
+      title
+      author
+      subTitle
+      tags
+      date
+    }
+    html
   }
-  frontmatter {
-    title
-    author
-    subTitle
-    tags
-    date
-  }
-  html
-}
 
-fragment all_articles on RootQueryType{
-  allMarkdownRemark {
+  fragment all_articles on RootQueryType {
+    allMarkdownRemark {
       edges {
         node {
           fields {
@@ -104,31 +104,34 @@ fragment all_articles on RootQueryType{
         }
       }
     }
-}
+  }
 
-fragment first_48_articles on RootQueryType {
-  allMarkdownRemark(limit: 48, sort: {fields: [frontmatter___date], order: DESC}) {
-    edges {
-      node {
-        fields {
-          slug
+  fragment first_48_articles on RootQueryType {
+    allMarkdownRemark(
+      limit: 48
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            author
+            subTitle
+            tags
+            date
+            coverSrc
+          }
+          html
+          excerpt
         }
-        frontmatter {
-          title
-          author
-          subTitle
-          tags
-          date
-          coverSrc
-        }
-        html
-        excerpt
       }
     }
   }
-}
 
-
-query LayoutQuery {
-  ...all_articles
-}`;
+  query LayoutQuery {
+    ...all_articles
+  }
+`;

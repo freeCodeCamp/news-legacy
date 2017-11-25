@@ -46,11 +46,11 @@ Article.displayName = 'Article';
 Article.propTypes = propTypes;
 
 export const query = graphql`
-query StoryQuery($slug: String!) {
-  markdownRemark(fields: { slug: { eq: $slug } }) {
-    ...singleStory_frag
+  query StoryQuery($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      ...singleStory_frag
+    }
   }
-}
 `;
 
 export default Article;
