@@ -32,15 +32,6 @@ const data = PropTypes.shape({
   })
 });
 
-export const layoutPropTypes = {
-  children: PropTypes.func,
-  data
-};
-
-export const indexPropTypes = {
-  data
-};
-
 export const articlePropTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
@@ -50,6 +41,17 @@ export const articlePropTypes = {
     })
   })
 };
+
+export const indexPropTypes = {
+  data
+};
+
+export const layoutPropTypes = {
+  children: PropTypes.func,
+  data
+};
+
+export const NavPropTypes = {};
 
 export const TilesPropTypes = {
   articles: articleArray

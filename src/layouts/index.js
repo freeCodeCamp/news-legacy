@@ -1,47 +1,13 @@
 /* global graphql */
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 import unique from 'lodash/uniq';
 
+import Nav from '../components/layout/Nav.jsx';
 import { layoutPropTypes } from '../propTypes';
-import logo from '../../static/FCC-logo-white.png';
-import './index.css';
 
-const Header = () => (
-  <div
-    style={{
-      background: '#006400',
-      marginBottom: '1.45rem'
-    }}
-    >
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem',
-        paddingBottom: '0'
-      }}
-      >
-      <Link
-        style={{
-          color: 'white',
-          textDecoration: 'none'
-        }}
-        to='/'
-        >
-        <img
-          alt='freeCodeCamp logo'
-          className='logo'
-          src={logo}
-          style={{ width: '28%', marginBottom: '14px' }}
-          title='freeCodeCamp'
-        />
-      </Link>
-    </div>
-  </div>
-);
+import './index.css';
 
 const TemplateWrapper = ({ children, keywords }) => {
   return (
@@ -53,7 +19,7 @@ const TemplateWrapper = ({ children, keywords }) => {
         ]}
         title='Gatsby Default Starter'
       />
-      <Header />
+      <Nav />
       <div
         style={{
           margin: '0 auto',
@@ -132,6 +98,7 @@ fragment all_articles on RootQueryType{
             author
             subTitle
             tags
+            date
           }
           html
         }
@@ -139,27 +106,28 @@ fragment all_articles on RootQueryType{
     }
 }
 
-fragment first_48_articles on RootQueryType{
-  allMarkdownRemark(
-    limit: 48
-    sort: { fields: [frontmatter___date], order: DESC }
-  ) {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            author
-            subTitle
-            tags
-          }
-          html
+fragment first_48_articles on RootQueryType {
+  allMarkdownRemark(limit: 48, sort: {fields: [frontmatter___date], order: DESC}) {
+    edges {
+      node {
+        fields {
+          slug
         }
+        frontmatter {
+          title
+          author
+          subTitle
+          tags
+          date
+          coverSrc
+        }
+        html
+        excerpt
       }
     }
+  }
 }
+
 
 query LayoutQuery {
   ...all_articles

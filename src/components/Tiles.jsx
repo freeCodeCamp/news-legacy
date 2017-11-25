@@ -27,11 +27,11 @@ function Tiles({ articles }) {
                     By {author} - <TimeAfterPublish date={date} /> -{' '}
                     {timeToRead} min read
                   </p>
-                  <div className='center-wrap excerpt-wrap'>
+                  <div className='center-wrap direction-row'>
                     <p className='excerpt'>{excerpt}</p>
                   </div>
                 </div>
-                <div className='center-wrap img-wrap'>
+                <div className='center-wrap img-wrap direction-row'>
                   <img
                     alt={`${title} cover image. `}
                     src={coverSrc || placeHolder}

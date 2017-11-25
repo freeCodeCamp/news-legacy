@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter'
+    title: 'freeCodeCamp News'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -13,6 +13,9 @@ module.exports = {
     },
     {
       resolve: 'gatsby-transformer-remark'
+    },
+    {
+      resolve: 'fcc-no-sourcemaps'
     }
   ]
 };
