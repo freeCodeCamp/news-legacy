@@ -7,8 +7,29 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'posts',
+        name: 'jsPages',
         path: `${__dirname}/src/pages`
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'audio',
+        path: `${__dirname}/src/resource/audio`
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'text',
+        path: `${__dirname}/src/resource/text`
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'video',
+        path: `${__dirname}/src/resource/video`
       }
     },
     {

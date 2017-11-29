@@ -1,11 +1,13 @@
-import { Observable } from 'rx';
-import { combineEpics } from 'redux-epic';
+import { Observable } from 'rxjs';
+import { combineEpics } from 'redux-observable';
+import axios from 'axios';
 
 import {
   fetchSearchResults,
   types,
   updateSearchResults
 } from './';
+import { normaliser } from './resultNormaliser';
 
 let previousSearchTerm = '';
 const requestUrl = 'https://search.freecodecamp.org';
@@ -17,8 +19,8 @@ function searchTermEpic(actions$, { getState }) {
     .filter(({ type }) => type === types.updateSearchTerm);
 
   return Observable.merge(
-    source$.debounce(Xms),
-    source$.throttle(Xms).distinctUntilChanged()
+    source$.debounceTime(Xms),
+    source$.throttleTime(Xms).distinctUntilChanged()
     )
     .flatMap(() => {
       const { searchTerm } = getState().search;
@@ -36,17 +38,27 @@ function searchTermEpic(actions$, { getState }) {
     });
 }
 
-function truncate(text) {
-  return text.slice(0, 141) + '...';
-}
-
 function searchEpic(actions$, { getState }) {
   return actions$
     .filter(({ type }) => type === types.fetchSearchResults)
     .flatMap(() => {
-      const { searchTerm, articles } = getState().search;
+      if (typeof window !== 'undefined' && !('Promise' in window)) {
+        return Observable.of(nullAction);
+      }
+      const { searchTerm } = getState().search;
+      return axios.get(`${requestUrl}/search?q=${searchTerm}`)
+        .then(response => {
+          return response.data;
+        })
+        .then(data => {
+          const results = normaliser(data);
+          return updateSearchResults(results);
+        })
+        .catch(err => {
+          console.error(err);
+          return updateSearchResults([]);
+        });
     });
-
 }
 
 export default combineEpics(searchEpic, searchTermEpic);

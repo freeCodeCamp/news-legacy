@@ -2,17 +2,15 @@ import { createTypes } from 'redux-create-types';
 import { createAction, handleActions } from 'redux-actions';
 
 const initialState = {
-  isFetching: false,
+  isSearching: false,
   lastPage: '/',
   results: [],
-  searchData: [],
   searchTerm: ''
 };
 
 export const types = createTypes(
   [
-    'fetchSearchData',
-    'dataFetched',
+    'fetchSearchResults',
     'resetSearch',
     'updateLastPage',
     'updateSearchResults',
@@ -21,8 +19,7 @@ export const types = createTypes(
   'search'
 );
 
-export const fetchSearchData = createAction(types.fetchSearchData);
-export const dataFetched = createAction(types.dataFetched);
+export const fetchSearchResults = createAction(types.fetchSearchResults);
 export const resetSearch = createAction(types.resetSearch);
 export const updateLastPage = createAction(types.updateLastPage);
 export const updateSearchResults = createAction(types.updateSearchResults);
@@ -30,13 +27,9 @@ export const updateSearchTerm = createAction(types.updateSearchTerm);
 
 export const reducer = handleActions(
   {
-    [types.fetchSearchData]: state => ({
+    [types.fetchSearchResults]: state => ({
       ...state,
-      isFetching: true
-    }),
-    [types.dataFetched]: (state, { payload }) => ({
-      ...state,
-      searchData: payload
+      isSearching: true
     }),
     [types.resetSearch]: state => ({
       ...state,
@@ -49,6 +42,7 @@ export const reducer = handleActions(
     }),
     [types.updateSearchResults]: (state, { payload = [] }) => ({
       ...state,
+      isSearching: false,
       results: payload
     }),
     [types.updateSearchTerm]: (state, { payload }) => ({

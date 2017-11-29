@@ -11,6 +11,12 @@ exports.onCreateNode = async({ node, getNode, boundActionCreators }) => {
       name: 'slug',
       value: slug
     });
+    const views = await getViewCount(node.frontmatter.id);
+    createNodeField({
+      node,
+      name: 'viewCount',
+      value: views
+    });
   }
 };
 
@@ -19,7 +25,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return new Promise(resolve => {
     graphql(`
       {
-        allMarkdownRemark {
+        allMarkdownRemark(filter: { fields: { slug: { ne: "/LICENSE/" } } }) {
           edges {
             node {
               fields {
@@ -30,7 +36,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         }
       }
     `).then(result => {
-      result.data.allMarkdownRemark.edges.slice(0,2).map(({ node }) => {
+      result.data.allMarkdownRemark.edges.map(({ node }) => {
         createPage({
           path: node.fields.slug,
           component: path.resolve('./src/templates/Article.jsx'),

@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
-import TimeAfterPublish from '../components/TimeAfterPublish.jsx';
+import ArticleMeta from '../components/ArticleMeta.jsx';
 import placeHolder from '../../static/placeholder.png';
 import { TilesPropTypes as propTypes } from '../propTypes';
 
@@ -14,7 +14,7 @@ function Tiles({ articles }) {
         const {
           excerpt,
           timeToRead,
-          fields: { slug },
+          fields: { slug, viewCount },
           frontmatter: { title, author, date, coverSrc }
         } = article.node;
         return (
@@ -23,10 +23,13 @@ function Tiles({ articles }) {
               <div className='center-wrap'>
                 <div className='article-details'>
                   <h4>{title}</h4>
-                  <p className='article-meta'>
-                    By {author} - <TimeAfterPublish date={date} /> -{' '}
-                    {timeToRead} min read
-                  </p>
+                  <ArticleMeta
+                    author={author}
+                    date={date}
+                    showSocial={false}
+                    time={timeToRead}
+                    views={viewCount}
+                  />
                   <div className='center-wrap direction-row'>
                     <p className='excerpt'>{excerpt}</p>
                   </div>

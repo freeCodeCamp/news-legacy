@@ -21,8 +21,11 @@
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1",
     "redux-create-types": "^0.0.1",
-    "rx": "^4.1.0",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-observable": "^0.17.0",
+    "rxjs": "^5.5.2",
     "slugg": "^1.2.1",
+    "store": "^2.0.12",
     "to-markdown": "^3.1.0"
   },
   "keywords": [
@@ -33,11 +36,12 @@
   "scripts": {
     "build": "yarn slugsafe && node --max-old-space-size=7168 ./node_modules/gatsby/dist/bin/gatsby build",
     "dev": "yarn slugsafe && node --max-old-space-size=7168 ./node_modules/gatsby/dist/bin/gatsby develop",
-    "format": "find . -name '*.js' -o -name '*.jsx' | grep -v -f .gitignore | xargs prettier es5 --single-quote --write",
+    "format": "yarn format-js && yarn format-jsx",
+    "format-js": "prettier es5 --single-quote --write './**/*.js'",
+    "format-jsx": "prettier es5 --single-quote --write './**/*.jsx'",
     "lint": "eslint --ext .js,.jsx --ignore-path .gitignore . --fix",
     "slugsafe": "node slugSafe.js",
-    "test": "yarn slugsafe && yarn run format && yarn run lint",
-    "gatsby-help": "gatsby --help"
+    "test": "yarn slugsafe && yarn format && yarn lint"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.1",

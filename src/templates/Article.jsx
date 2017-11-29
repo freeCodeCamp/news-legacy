@@ -1,97 +1,77 @@
 /* global graphql */
-import React from 'react';
+import React, { PureComponent } from 'react';
 import Helmet from 'react-helmet';
-import TimeAfterPublish from '../components/TimeAfterPublish.jsx';
-import { articlePropTypes as propTypes } from '../propTypes';
-import FontAwesome from 'react-fontawesome';
+import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux';
 
+import ArticleMeta from '../components/ArticleMeta.jsx';
+import { articlePropTypes as propTypes } from '../propTypes';
 import './article.less';
 
-function Social({ twitter, facebook}) {
-  const twit = twitter !== 'none' ?
-    (
-    <a href={twitter} title='Visit the author on twitter. '>
-      <FontAwesome name={'twitter'} />
-    </a>
-    ) :
-    null;
-  const face = facebook !== 'none' ?
-  (
-    <a href={facebook} title='Visit the author on facebook. '>
-      <FontAwesome name={'facebook'} />
-    </a>
-  ) :
-  null;
-  return twit || face ?
-    (
-      <span className='author-social'>
-        { twit }
-        { face }
-      </span>
-    ) :
-    null;
+import { trackResourceView } from '../redux';
+
+function mapStateToProps() {
+  return {};
 }
 
-Social.displayName = 'AuthorSocial';
-Social.propTypes = {
-  ...propTypes.data.frontmatter
-};
-
-const Author = ({
-  author,
-  authorTwitter,
-  authorFacebook,
-  date,
-  timeToRead
-}) => (
-  <header className='author-block'>
-    <div className='author-name'>
-      <h4>
-        {author}
-        <Social facebook={authorFacebook} twitter={authorTwitter} />
-      </h4>
-    </div>
-    <p><TimeAfterPublish date={date} /> - {timeToRead}min</p>
-  </header>
-);
-
-Author.displayName = 'Author';
-Author.propTypes = {
-  ...propTypes.data.frontmatter
-};
-
-function Article({ data }) {
-  const {
-    frontmatter,
-    html,
-    timeToRead
-  } = data.markdownRemark;
-  const {
-    author,
-    authorTwitter,
-    authorFacebook,
-    date,
-    title
-  } = frontmatter;
-  return (
-    <article>
-      <Helmet>
-        <title>{title} | freeCodeCamp News</title>
-      </Helmet>
-      <Author
-        author={author}
-        authorFacebook={authorFacebook}
-        authorTwitter={authorTwitter}
-        date={date}
-        timeToRead={timeToRead}
-      />
-      <div dangerouslySetInnerHTML={{ __html: html }} />
-    </article>
+function mapDispatchToProps(dispatch) {
+  return bindActionCreators(
+    {
+      trackResourceView
+    },
+    dispatch
   );
+}
+
+class Article extends PureComponent {
+  constructor(props) {
+    super(props);
+  }
+
+  componentDidMount() {
+    const { id } = this.props.data.markdownRemark.frontmatter;
+    const { trackResourceView } = this.props;
+    trackResourceView(id);
+  }
+  componentDidUpdate() {
+    const { id } = this.props.data.markdownRemark.frontmatter;
+    const { trackResourceView } = this.props;
+    trackResourceView(id);
+  }
+  render() {
+    const {
+      frontmatter,
+      fields: { viewCount },
+      html,
+      timeToRead
+    } = this.props.data.markdownRemark;
+    const { author, authorTwitter, authorFacebook, date, title } = frontmatter;
+    return (
+      <article>
+        <Helmet>
+          <title>{title} | freeCodeCamp News</title>
+        </Helmet>
+        <header>
+          <ArticleMeta
+            author={author}
+            authorFacebook={authorFacebook}
+            authorTwitter={authorTwitter}
+            date={date}
+            showSocial={true}
+            time={timeToRead}
+            views={viewCount}
+          />
+        </header>
+        <div dangerouslySetInnerHTML={{ __html: html }} />
+      </article>
+    );
+  }
 }
 
 Article.displayName = 'Article';
 Article.propTypes = propTypes;
+
+export default connect(mapStateToProps, mapDispatchToProps)(Article);
 
 export const query = graphql`
   query StoryQuery($slug: String!) {
@@ -100,6 +80,7 @@ export const query = graphql`
       timeToRead
       fields {
         slug
+        viewCount
       }
       frontmatter {
         id
@@ -112,5 +93,3 @@ export const query = graphql`
     }
   }
 `;
-
-export default Article;

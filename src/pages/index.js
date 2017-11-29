@@ -3,7 +3,7 @@ import React, { PureComponent } from 'react';
 import Helmet from 'react-helmet';
 import Tiles from '../components/Tiles.jsx';
 import { indexPropTypes as propTypes } from '../propTypes';
-import '../css/index-page.css';
+import '../css/index-page.less';
 
 class IndexPage extends PureComponent {
   constructor(props) {
@@ -70,29 +70,32 @@ IndexPage.propTypes = propTypes;
 export default IndexPage;
 
 export const query = graphql`
-query IndexPageQuery {
-  allMarkdownRemark(
-    limit: 48
-    sort: {fields: [frontmatter___date], order: DESC}
-  ) {
-    edges {
-      node {
-        fields {
-          slug
+  query IndexPageQuery {
+    allMarkdownRemark(
+      filter: { fields: { slug: { ne: "/LICENSE/" } } }
+      limit: 48
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+            viewCount
+          }
+          frontmatter {
+            author
+            coverSrc
+            date
+            id
+            subTitle
+            tags
+            title
+          }
+          html
+          excerpt(pruneLength: 250)
+          timeToRead
         }
-        frontmatter {
-          title
-          author
-          subTitle
-          tags
-          date
-          coverSrc
-        }
-        html
-        excerpt(pruneLength: 250)
-        timeToRead
       }
     }
   }
-}
 `;

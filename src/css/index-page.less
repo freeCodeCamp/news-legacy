@@ -1,0 +1,23 @@
+@import (less) './globals.less';
+
+.load-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.load-more {
+  color: @brand-primary;
+  background: @body-bg;
+  border: @brand-primary 1px solid;
+  padding: 10px 20px;
+
+  &:hover {
+    color: @body-bg;
+    background: @brand-primary
+  }
+
+  &:disabled {
+    color: #999;
+    border-color: #999;
+  }
+}

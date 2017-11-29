@@ -6,16 +6,15 @@ import { Provider } from 'react-redux';
 import createStore from './src/redux/store';
 
 const propTypes = {
-    children: PropTypes.node.isRequired
-  };
+  children: PropTypes.node.isRequired
+};
 
 const store = createStore();
 
 exports.replaceRouterComponent = ({ history }) => {
-
   const ConnectedRouterWrapper = ({ children }) => (
-    <Provider store={ store }>
-      <BrowserRouter history={ history }>{ children }</BrowserRouter>
+    <Provider store={store}>
+      <BrowserRouter history={history}>{children}</BrowserRouter>
     </Provider>
   );
   ConnectedRouterWrapper.displayName = 'ConnectRouterWrapper';

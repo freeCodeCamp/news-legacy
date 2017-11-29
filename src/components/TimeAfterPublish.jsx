@@ -3,8 +3,6 @@ import differenceInMinutes from 'date-fns/difference_in_minutes';
 import format from 'date-fns/format';
 import { TimeAfterPublishPropTypes as propTypes } from '../propTypes';
 
-import './time-after-publish.less';
-
 function pluralise(num, unit) {
   return num !== 1 ? `${unit}s` : unit;
 }

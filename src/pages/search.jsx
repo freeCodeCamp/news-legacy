@@ -9,9 +9,9 @@ import NoSupport from '../components/search/NoSupport.jsx';
 import Results from '../components/search/Results.jsx';
 import ResultsSkeleton from '../components/search/ResultsSkeleton.jsx';
 
-import {
-  resetSearch
-} from '../components/search/redux';
+import { resetSearch } from '../components/search/redux';
+
+import '../css/search-page.less';
 
 const propTypes = {
   isSearching: PropTypes.bool,
@@ -30,23 +30,25 @@ function mapStateToProps(state) {
 }
 
 function mapDispatchToProps(dispatch) {
-  return bindActionCreators({
-    resetSearch
-  }, dispatch);
+  return bindActionCreators(
+    {
+      resetSearch
+    },
+    dispatch
+  );
 }
 
 function shouldShowResults(conditions) {
   const { lastPage, results, searchTerm } = conditions;
-  return results.length ?
-    <Results /> :
-    <NoResults page={ lastPage } searchTerm={ searchTerm } />;
+  return results.length ? (
+    <Results />
+  ) : (
+    <NoResults page={lastPage} searchTerm={searchTerm} />
+  );
 }
 
 function SearchPage(props) {
-  if (
-    typeof window !== 'undefined' &&
-    !('Promise' in window)
-  ) {
+  if (typeof window !== 'undefined' && !('Promise' in window)) {
     return <NoSupport />;
   }
   const { isSearching, lastPage, results, searchTerm } = props;
@@ -56,11 +58,11 @@ function SearchPage(props) {
         <title>Search | freeCodeCamp News</title>
       </Helmet>
       <h2 className='colourDarkGrey'>Search Results</h2>
-      {
-        (isSearching && !results.length) ?
-          <ResultsSkeleton /> :
-          shouldShowResults({ results, lastPage, searchTerm })
-      }
+      {isSearching && !results.length ? (
+        <ResultsSkeleton />
+      ) : (
+        shouldShowResults({ results, lastPage, searchTerm })
+      )}
     </div>
   );
 }

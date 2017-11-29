@@ -48,10 +48,21 @@ export const indexPropTypes = {
 
 export const layoutPropTypes = {
   children: PropTypes.func,
-  data
+  data,
+  getStoredViews: PropTypes.func.isRequired
 };
 
 export const NavPropTypes = {};
+
+export const NavContextTypes = {
+  router: PropTypes.object.isRequired
+};
+
+export const SearchBarPropTypes = {
+  handleChange: PropTypes.func.isRequired,
+  handleSubmit: PropTypes.func.isRequired,
+  value: PropTypes.string
+};
 
 export const TilesPropTypes = {
   articles: articleArray
@@ -61,8 +72,3 @@ export const TimeAfterPublishPropTypes = {
   date: PropTypes.string.isRequired
 };
 
-export const SearchBarPropTypes = {
-  handleChange: PropTypes.func.isRequired,
-  handleSubmit: PropTypes.func.isRequired,
-  value: PropTypes.string
-};
