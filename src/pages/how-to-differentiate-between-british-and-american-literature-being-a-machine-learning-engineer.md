@@ -1,6 +1,6 @@
 ---
 author: Sofia Godovykh
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1189268917795676
 title: "How I used machine learning to explore the differences between British and American literature"
 subTitle: "As I delved further into English literature to further my own language gains, my interest was piqued: how do American and British English..."
@@ -124,7 +124,7 @@ I was inspired to do this work by @TragicAllyHere tweet:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/0e95c84b9ed878fb3a3f701f59fe6cdb?postId=ac842662da1c" data-media-id="0e95c84b9ed878fb3a3f701f59fe6cdb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F813401352164384773%2F_Gp8OvvD_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/0e95c84b9ed878fb3a3f701f59fe6cdb?postId=ac842662da1c" data-media-id="0e95c84b9ed878fb3a3f701f59fe6cdb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F813401352164384773%2F_Gp8OvvD_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

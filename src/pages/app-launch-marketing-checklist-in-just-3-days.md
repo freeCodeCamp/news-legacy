@@ -1,7 +1,7 @@
 ---
 author: Gabriel Machuret
 authorTwitter: https://twitter.com/gabrielmachuret
-authorFacebook: false
+authorFacebook: none
 title: "App Launch Marketing Checklist in just 3 Days"
 subTitle: "I’ve broken down the launch marketing tactics according to the day. Some of these tactics require preparation in advance. if you want to ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*vVveGELf9OcnaAR6.

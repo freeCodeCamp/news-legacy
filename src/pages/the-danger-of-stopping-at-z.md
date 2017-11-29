@@ -1,7 +1,7 @@
 ---
 author: William Cabell
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "The Danger of Stopping at Z: Why Kids Should Code, in the Words of Dr. Seuss"
 subTitle: "So begins the journey of Conrad Cornelius o’Donald o’Dell into the world of code, the alphabet beyond the alphabet. Written in 1955, ther..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*xjyk8AeOjwyunKu6vQ9-Qg.jpeg

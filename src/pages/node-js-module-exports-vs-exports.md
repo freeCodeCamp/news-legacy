@@ -1,7 +1,7 @@
 ---
 author: lazlojuly
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Node.js module.exports vs. exports"
 subTitle: "What are they, how to use them and how not to use them"
 coverSrc: placeholder
@@ -41,7 +41,7 @@ First, we need an example codebase. Let’s start with a simple calculator:
 
 
 
-<iframe width="700" height="250" src="/media/77bc88b1573c553fb5887f91b6b372b5?postId=ec7e254d63ac" data-media-id="77bc88b1573c553fb5887f91b6b372b5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/77bc88b1573c553fb5887f91b6b372b5?postId=ec7e254d63ac" data-media-id="77bc88b1573c553fb5887f91b6b372b5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -55,7 +55,7 @@ Usage:
 
 
 
-<iframe width="700" height="250" src="/media/db11ad63880aef8cc0cdd7d7336e12e2?postId=ec7e254d63ac" data-media-id="db11ad63880aef8cc0cdd7d7336e12e2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/db11ad63880aef8cc0cdd7d7336e12e2?postId=ec7e254d63ac" data-media-id="db11ad63880aef8cc0cdd7d7336e12e2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -71,7 +71,7 @@ Node.js **internally wraps** all require()-ed modules in a function wrapper:
 
 
 
-<iframe width="700" height="250" src="/media/191cf8acb9284af7c7806cc9ff00ae25?postId=ec7e254d63ac" data-media-id="191cf8acb9284af7c7806cc9ff00ae25" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/191cf8acb9284af7c7806cc9ff00ae25?postId=ec7e254d63ac" data-media-id="191cf8acb9284af7c7806cc9ff00ae25" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -87,7 +87,7 @@ Variable “**module**” is an object representing the current module. It **is*
 
 
 
-<iframe width="700" height="250" src="/media/c530c1ba33693232f5d5ec29b43a09c9?postId=ec7e254d63ac" data-media-id="c530c1ba33693232f5d5ec29b43a09c9" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c530c1ba33693232f5d5ec29b43a09c9?postId=ec7e254d63ac" data-media-id="c530c1ba33693232f5d5ec29b43a09c9" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -113,7 +113,7 @@ Why replace it? When replacing, we can return any arbitrary instance of some oth
 
 
 
-<iframe width="700" height="250" src="/media/36e9d6b514a9489160cbdd9523ac9200?postId=ec7e254d63ac" data-media-id="36e9d6b514a9489160cbdd9523ac9200" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/36e9d6b514a9489160cbdd9523ac9200?postId=ec7e254d63ac" data-media-id="36e9d6b514a9489160cbdd9523ac9200" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ Let’s extend “Calculator” class and export an instance this time:
 
 
 
-<iframe width="700" height="250" src="/media/86cbb9755f96bc374574cccd87ca105c?postId=ec7e254d63ac" data-media-id="86cbb9755f96bc374574cccd87ca105c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/86cbb9755f96bc374574cccd87ca105c?postId=ec7e254d63ac" data-media-id="86cbb9755f96bc374574cccd87ca105c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -142,7 +142,7 @@ Usage:
 
 
 
-<iframe width="700" height="250" src="/media/3fc3b5edca1e852848ec129d928a30ef?postId=ec7e254d63ac" data-media-id="3fc3b5edca1e852848ec129d928a30ef" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3fc3b5edca1e852848ec129d928a30ef?postId=ec7e254d63ac" data-media-id="3fc3b5edca1e852848ec129d928a30ef" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -163,7 +163,7 @@ Here are some good and some bad examples:
 
 
 
-<iframe width="700" height="250" src="/media/6bc43289e911e7da5394f28da64a3f73?postId=ec7e254d63ac" data-media-id="6bc43289e911e7da5394f28da64a3f73" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6bc43289e911e7da5394f28da64a3f73?postId=ec7e254d63ac" data-media-id="6bc43289e911e7da5394f28da64a3f73" allowfullscreen="" frameborder="0"></iframe>
 
 
 

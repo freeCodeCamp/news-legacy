@@ -5,7 +5,7 @@ import TimeAfterPublish from '../components/TimeAfterPublish.jsx';
 import placeHolder from '../../static/placeholder.png';
 import { TilesPropTypes as propTypes } from '../propTypes';
 
-import './tiles.css';
+import './tiles.less';
 
 function Tiles({ articles }) {
   return (

@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "Why I Left Gulp and Grunt for npm Scripts"
 subTitle: "I know what you’re thinking. WAT?! Didn’t Gulp just kill Grunt? Why can’t we just be content for a few minutes here in JavaScript land? I..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*DnSo0yGbkLsYscYR4sWOnA.png
@@ -116,7 +116,7 @@ npm scripts are surprisingly powerful on their own. There are convention-based [
 
 
 
-<iframe width="700" height="250" src="/media/cf13ea55c1041743ca49ddd6b46b668d?postId=3d6853dd22b8" data-media-id="cf13ea55c1041743ca49ddd6b46b668d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cf13ea55c1041743ca49ddd6b46b668d?postId=3d6853dd22b8" data-media-id="cf13ea55c1041743ca49ddd6b46b668d" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ You can also decompose big problems by calling one script from another:
 
 
 
-<iframe width="700" height="250" src="/media/5b58ee0625720944a56197f07e46b02f?postId=3d6853dd22b8" data-media-id="5b58ee0625720944a56197f07e46b02f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5b58ee0625720944a56197f07e46b02f?postId=3d6853dd22b8" data-media-id="5b58ee0625720944a56197f07e46b02f" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -146,7 +146,7 @@ And if a command gets too complicated, you can always call a separate file:
 
 
 
-<iframe width="700" height="250" src="/media/6dd561d5d8a3ae331219e8ec043443e5?postId=3d6853dd22b8" data-media-id="6dd561d5d8a3ae331219e8ec043443e5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6dd561d5d8a3ae331219e8ec043443e5?postId=3d6853dd22b8" data-media-id="6dd561d5d8a3ae331219e8ec043443e5" allowfullscreen="" frameborder="0"></iframe>
 
 
 

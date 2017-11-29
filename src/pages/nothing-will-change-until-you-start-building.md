@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "Nothing will change until you start building."
 subTitle: "This past week, I was in a Lyft. My driver was telling me about all of her ideas for side projects. She had ideas for a children’s book, ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*EwHpnCZ70FtJMi-lNSl-9Q.png

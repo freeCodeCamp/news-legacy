@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "Browserify vs Webpack"
 subTitle: "If you need a cabin, why start<br>with a mere pile of logs?"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*E_cgh1eE6GAtWWMkQRc-3Q.jpeg
@@ -97,7 +97,7 @@ Finally, if you want to enjoy rapid application development without browser refr
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/13b373517ecb49243036ffefb9c20f7f?postId=b3d7ca08a0a9" data-media-id="13b373517ecb49243036ffefb9c20f7f" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/13b373517ecb49243036ffefb9c20f7f?postId=b3d7ca08a0a9" data-media-id="13b373517ecb49243036ffefb9c20f7f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

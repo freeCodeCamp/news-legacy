@@ -56,7 +56,7 @@ To add recipes to the list I had to wrap my simple actionCreator of addRecipe in
 
 
 
-<iframe width="700" height="250" src="/media/34cdcb1adf73a87264a17d7de86d53b7?postId=6906a1b4ca6f" data-media-id="34cdcb1adf73a87264a17d7de86d53b7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/34cdcb1adf73a87264a17d7de86d53b7?postId=6906a1b4ca6f" data-media-id="34cdcb1adf73a87264a17d7de86d53b7" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -84,7 +84,7 @@ Now while reading through the [Redux](https://redux.js.org/%22) documentation I 
 
 
 
-<iframe width="700" height="250" src="/media/edbba385780891506d7db9a618c40d53?postId=6906a1b4ca6f" data-media-id="edbba385780891506d7db9a618c40d53" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/edbba385780891506d7db9a618c40d53?postId=6906a1b4ca6f" data-media-id="edbba385780891506d7db9a618c40d53" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ This allowed me to immediately dispatch the simple actionCreators to the store b
 
 
 
-<iframe width="700" height="250" src="/media/d0079c763271477064660cb4162b553e?postId=6906a1b4ca6f" data-media-id="d0079c763271477064660cb4162b553e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d0079c763271477064660cb4162b553e?postId=6906a1b4ca6f" data-media-id="d0079c763271477064660cb4162b553e" allowfullscreen="" frameborder="0"></iframe>
 
 
 

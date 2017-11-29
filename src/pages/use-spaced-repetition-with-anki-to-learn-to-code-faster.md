@@ -1,7 +1,7 @@
 ---
 author: Gilbert
 authorTwitter: https://twitter.com/gilbertginsberg
-authorFacebook: false
+authorFacebook: none
 title: "How to use spaced repetition with Anki to learn to code faster"
 subTitle: "Imagine you could speed up your learning and better remember programming fundamentals, techniques, and commands...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Nhu0oiFBy4jJLlpJpRWGtA.jpeg

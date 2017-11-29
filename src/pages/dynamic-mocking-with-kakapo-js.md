@@ -1,7 +1,7 @@
 ---
 author: zzarcon
 authorTwitter: https://twitter.com/zzarcon
-authorFacebook: false
+authorFacebook: none
 title: "Dynamic mocking with Kakapo.js"
 subTitle: "3 months after the first commit, Kakapo.js reaches the first release and we are proud to announce that now it is ready to use. Let us int..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*AWc9hdd-JQUromU-wYWeDA.jpeg
@@ -66,7 +66,7 @@ Let’s see a basic example to get an idea of how it works:
 
 
 
-<iframe width="700" height="250" src="/media/f97d85c50e526140f6af5ccb3e9eb2c5?postId=bdbd3d7b58e2" data-media-id="f97d85c50e526140f6af5ccb3e9eb2c5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f97d85c50e526140f6af5ccb3e9eb2c5?postId=bdbd3d7b58e2" data-media-id="f97d85c50e526140f6af5ccb3e9eb2c5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -90,7 +90,7 @@ As an example, let’s try to make a CRUD
 
 
 
-<iframe width="700" height="250" src="/media/f13279dcfcfa1fdc984820639be0ade0?postId=bdbd3d7b58e2" data-media-id="f13279dcfcfa1fdc984820639be0ade0" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f13279dcfcfa1fdc984820639be0ade0?postId=bdbd3d7b58e2" data-media-id="f13279dcfcfa1fdc984820639be0ade0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ This is a talk from React Europe 2016 in which [Christopher Chedeau](https://twi
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/00de8aa1deb89b776e02461a8286f97b?postId=bdbd3d7b58e2" data-media-id="00de8aa1deb89b776e02461a8286f97b" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/00de8aa1deb89b776e02461a8286f97b?postId=bdbd3d7b58e2" data-media-id="00de8aa1deb89b776e02461a8286f97b" allowfullscreen="" frameborder="0"></iframe>
 
 
 

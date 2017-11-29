@@ -1,6 +1,6 @@
 ---
 author: Chet Corcos
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1165511785
 title: "How to hack your friends"
 subTitle: "My friends often leave their computers open and unlocked. I tell them they should probably get in the habit of locking their computers, b..."

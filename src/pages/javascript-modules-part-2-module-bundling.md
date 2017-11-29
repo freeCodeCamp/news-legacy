@@ -80,7 +80,7 @@ For example, let’s say you have this main.js file that imports a module to cal
 
 
 
-<iframe width="700" height="250" src="/media/5f754145153f26483ff0ebcd5d5cd3ef?postId=5020383cf306" data-media-id="5f754145153f26483ff0ebcd5d5cd3ef" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5f754145153f26483ff0ebcd5d5cd3ef?postId=5020383cf306" data-media-id="5f754145153f26483ff0ebcd5d5cd3ef" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ So in this case, we have one dependency (myDependency). Using the command below,
 
 
 
-<iframe width="700" height="250" src="/media/25322d1eaca04c36d6e53d660e12ef25?postId=5020383cf306" data-media-id="25322d1eaca04c36d6e53d660e12ef25" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/25322d1eaca04c36d6e53d660e12ef25?postId=5020383cf306" data-media-id="25322d1eaca04c36d6e53d660e12ef25" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -150,7 +150,7 @@ Let’s say we have a utils.js file with the functions below, each of which we e
 
 
 
-<iframe width="700" height="250" src="/media/ec77b878169ee96b082bc64749970084?postId=5020383cf306" data-media-id="ec77b878169ee96b082bc64749970084" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ec77b878169ee96b082bc64749970084?postId=5020383cf306" data-media-id="ec77b878169ee96b082bc64749970084" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -162,7 +162,7 @@ Next, let’s say we don’t know what utils functions we want to use in our pro
 
 
 
-<iframe width="700" height="250" src="/media/b0138adcd916f39c39c679b522fdc458?postId=5020383cf306" data-media-id="b0138adcd916f39c39c679b522fdc458" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b0138adcd916f39c39c679b522fdc458?postId=5020383cf306" data-media-id="b0138adcd916f39c39c679b522fdc458" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -174,7 +174,7 @@ And then we later end up only using the each function:
 
 
 
-<iframe width="700" height="250" src="/media/ee8d734f183d29fca8febcc6b1480364?postId=5020383cf306" data-media-id="ee8d734f183d29fca8febcc6b1480364" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ee8d734f183d29fca8febcc6b1480364?postId=5020383cf306" data-media-id="ee8d734f183d29fca8febcc6b1480364" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -186,7 +186,7 @@ The “tree shaken” version of our main.js file would look like this once the 
 
 
 
-<iframe width="700" height="250" src="/media/b85b72e8d19ad13b09cc39339fde7905?postId=5020383cf306" data-media-id="b85b72e8d19ad13b09cc39339fde7905" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b85b72e8d19ad13b09cc39339fde7905?postId=5020383cf306" data-media-id="b85b72e8d19ad13b09cc39339fde7905" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ Meanwhile, if we decide to use the filter function instead of the each function,
 
 
 
-<iframe width="700" height="250" src="/media/6eab3a110307068b35f9697c02d5a6ec?postId=5020383cf306" data-media-id="6eab3a110307068b35f9697c02d5a6ec" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6eab3a110307068b35f9697c02d5a6ec?postId=5020383cf306" data-media-id="6eab3a110307068b35f9697c02d5a6ec" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -212,7 +212,7 @@ The tree shaken version looks like:
 
 
 
-<iframe width="700" height="250" src="/media/b5019f0164f18c7fc6e8b8712a8466f3?postId=5020383cf306" data-media-id="b5019f0164f18c7fc6e8b8712a8466f3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b5019f0164f18c7fc6e8b8712a8466f3?postId=5020383cf306" data-media-id="b5019f0164f18c7fc6e8b8712a8466f3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -261,7 +261,7 @@ It’ll look something like this:
 
 
 
-<iframe width="700" height="250" src="/media/76214289358850ffc4e1024ae9960f2e?postId=5020383cf306" data-media-id="76214289358850ffc4e1024ae9960f2e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/76214289358850ffc4e1024ae9960f2e?postId=5020383cf306" data-media-id="76214289358850ffc4e1024ae9960f2e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -273,7 +273,7 @@ It’ll look something like this:
 
 
 
-<iframe width="700" height="250" src="/media/552a1d073d7c047b7797039a9881b62b?postId=5020383cf306" data-media-id="552a1d073d7c047b7797039a9881b62b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/552a1d073d7c047b7797039a9881b62b?postId=5020383cf306" data-media-id="552a1d073d7c047b7797039a9881b62b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -285,7 +285,7 @@ Alternately, you could also define modules by specifying “type=module” direc
 
 
 
-<iframe width="700" height="250" src="/media/121a6ee0064027770d88aecee972ec5f?postId=5020383cf306" data-media-id="121a6ee0064027770d88aecee972ec5f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/121a6ee0064027770d88aecee972ec5f?postId=5020383cf306" data-media-id="121a6ee0064027770d88aecee972ec5f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

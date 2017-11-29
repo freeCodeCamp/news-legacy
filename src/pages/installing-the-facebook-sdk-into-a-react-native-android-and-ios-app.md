@@ -38,7 +38,7 @@ So I made this snarky tweet at 4 a.m. This is my peace offering.
 
 
 
-<iframe width="500" height="250" src="/media/56da17a76b6689b9d4562dc345124fcf?postId=69439bd97a99" data-media-id="56da17a76b6689b9d4562dc345124fcf" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/56da17a76b6689b9d4562dc345124fcf?postId=69439bd97a99" data-media-id="56da17a76b6689b9d4562dc345124fcf" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Ewa Mitulska-Wójcik
 authorTwitter: https://twitter.com/thedoerdoes
-authorFacebook: false
+authorFacebook: none
 title: "Give your Front End a Health Check"
 subTitle: "You’ve built out all your user stories and your app is working. Now’s it’s ready to submit as done, so you can move on with your life...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*6g5YyCI8qhLbQP5QVdJ3Dw.jpeg

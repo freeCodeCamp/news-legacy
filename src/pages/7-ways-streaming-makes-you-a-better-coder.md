@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "7 Ways Streaming Makes you a Better Coder"
 subTitle: "After coding live on twitch.tv for dozens of hours, I’m convinced that streaming makes you a better coder. Here’s why...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0xABBCOcEIRgaeMuMoNc0A.jpeg
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/7-ways-streaming-makes-you-a-better-coder-b
 id: 7-ways-streaming-makes-you-a-better-coder-b1be71ce7c7e
 date: 2015-10-11T23:30:40.522Z
 tags: [
-  "Programming",
-  "Women In Tech",
-  "Self Improvement",
-  "Productivity",
-  "Design"
+	"Programming",
+	"Women In Tech",
+	"Self Improvement",
+	"Productivity",
+	"Design"
 ]
 ---
 # 7 Ways Streaming Makes you a Better Coder
@@ -26,13 +26,10 @@ After coding live on twitch.tv for dozens of hours, I’m convinced that streami
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*mlJHSW_zVRVEntYp70TKng.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*mlJHSW_zVRVEntYp70TKng.gif)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*mlJHSW_zVRVEntYp70TKng.gif"&gt;</noscript>
 
 
 
@@ -54,11 +51,8 @@ Why is streaming more convenient than pairing? You don’t need to play the sche
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ApEMq5fghd-g7vFfj-uRBQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="56" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ApEMq5fghd-g7vFfj-uRBQ.gif"&gt;</noscript>
 
 
 
@@ -80,11 +74,8 @@ Be honest about your strengths and weaknesses so your viewers can feel comfortab
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cZq2NsGMdunPw_Abvq9QgA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*cZq2NsGMdunPw_Abvq9QgA.gif"&gt;</noscript>
 
 
 
@@ -104,11 +95,8 @@ Just like going to the gym, streaming requires initial motivation. But you alway
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IWxOuXB3csN4_na6SSm_Rg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*IWxOuXB3csN4_na6SSm_Rg.gif"&gt;</noscript>
 
 
 
@@ -128,11 +116,8 @@ You’re not the only person on earth who’s learning to code, and streaming ca
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sG3JzxDfObx3eIb5SB0uvg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="62"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sG3JzxDfObx3eIb5SB0uvg.gif"&gt;</noscript>
 
 
 
@@ -150,11 +135,8 @@ Streaming gives you a chance to practice talking about your code with fast, low-
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*unaXQnxGlbbi3U5HqmQrAw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*unaXQnxGlbbi3U5HqmQrAw.gif"&gt;</noscript>
 
 
 
@@ -174,11 +156,8 @@ Watching you will also reinforce the fact that it’s normal to look things up a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ADkh0QF36zmMaDH28kdBGQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ADkh0QF36zmMaDH28kdBGQ.gif"&gt;</noscript>
 
 
 

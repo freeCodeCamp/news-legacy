@@ -92,7 +92,7 @@ The files were in MKV containers, so I was able to use [MKVToolNix](https://mkvt
 
 
 
-<iframe width="700" height="250" src="/media/2f8f03a9cd6aae6476d6f0363c745324?postId=9369a75fdd" data-media-id="2f8f03a9cd6aae6476d6f0363c745324" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2f8f03a9cd6aae6476d6f0363c745324?postId=9369a75fdd" data-media-id="2f8f03a9cd6aae6476d6f0363c745324" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ It’s a little hard to read, but the track that we’re interested in is Track 
 
 
 
-<iframe width="700" height="250" src="/media/dd206ff5e1cde4a1719d783583d70fe2?postId=9369a75fdd" data-media-id="dd206ff5e1cde4a1719d783583d70fe2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dd206ff5e1cde4a1719d783583d70fe2?postId=9369a75fdd" data-media-id="dd206ff5e1cde4a1719d783583d70fe2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -122,7 +122,7 @@ Here’s a script that I adapted for the purposes of this processing step:
 
 
 
-<iframe width="700" height="250" src="/media/094f5cd94a8f194cdcd2e4093ad499bf?postId=9369a75fdd" data-media-id="094f5cd94a8f194cdcd2e4093ad499bf" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/094f5cd94a8f194cdcd2e4093ad499bf?postId=9369a75fdd" data-media-id="094f5cd94a8f194cdcd2e4093ad499bf" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -134,7 +134,7 @@ Here’s a script that I adapted for the purposes of this processing step:
 
 
 
-<iframe width="700" height="250" src="/media/522fb67b6a8d4bb68ffa298c4befaf18?postId=9369a75fdd" data-media-id="522fb67b6a8d4bb68ffa298c4befaf18" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/522fb67b6a8d4bb68ffa298c4befaf18?postId=9369a75fdd" data-media-id="522fb67b6a8d4bb68ffa298c4befaf18" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ Here’s a script that I adapted for the purposes of this processing step:
 
 
 
-<iframe width="700" height="250" src="/media/188caed046453d2abc36275eddb1ffa3?postId=9369a75fdd" data-media-id="188caed046453d2abc36275eddb1ffa3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/188caed046453d2abc36275eddb1ffa3?postId=9369a75fdd" data-media-id="188caed046453d2abc36275eddb1ffa3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ But I wanted to display the subtitle text at the bottom of the GIF and after dig
 
 
 
-<iframe width="700" height="250" src="/media/8c36064e37f2bd719ac51712037a3c3f?postId=9369a75fdd" data-media-id="8c36064e37f2bd719ac51712037a3c3f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8c36064e37f2bd719ac51712037a3c3f?postId=9369a75fdd" data-media-id="8c36064e37f2bd719ac51712037a3c3f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

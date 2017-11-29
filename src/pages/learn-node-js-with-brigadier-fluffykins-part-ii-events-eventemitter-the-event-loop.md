@@ -1,7 +1,7 @@
 ---
 author: Mariya Diminsky
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Learn Node.js with Brigadier Fluffykins Part II: Events, EventEmitter and the Event Loop"
 subTitle: "Welcome to Part II of Learn Node.js With Brigadier Fluffykins, a series created to help you easily understand Node.js ❤..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*4E7_DswXy8rFF2Dzrq1H3A.jpeg
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/learn-node-js-with-brigadier-fluffykins-par
 id: learn-node-js-with-brigadier-fluffykins-part-ii-events-eventemitter-the-event-loop-6d4c139694fb
 date: 2016-07-20T16:32:38.089Z
 tags: [
-  "JavaScript",
-  "Nodejs",
-  "Web Development",
-  "Programming",
-  "Learning To Code"
+	"JavaScript",
+	"Nodejs",
+	"Web Development",
+	"Programming",
+	"Learning To Code"
 ]
 ---
 # Learn Node.js with Brigadier Fluffykins Part II: Events, EventEmitter and the Event Loop
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4E7_DswXy8rFF2Dzrq1H3A.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*4E7_DswXy8rFF2Dzrq1H3A.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*4E7_DswXy8rFF2Dzrq1H3A.jpeg"&gt;</noscript>
 
 
 
@@ -54,11 +51,8 @@ It was glorious:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ZiX_YkLaq2EHqJTVEBX9ng.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ZiX_YkLaq2EHqJTVEBX9ng.gif"&gt;</noscript>
 
 
 
@@ -105,11 +99,9 @@ In your _index.html_ file:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/511fec1d8b7c56293bc3c34184459227?postId=6d4c139694fb" data-media-id="511fec1d8b7c56293bc3c34184459227" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/511fec1d8b7c56293bc3c34184459227?postId=6d4c139694fb" data-media-id="511fec1d8b7c56293bc3c34184459227" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/511fec1d8b7c56293bc3c34184459227?postId=6d4c139694fb" data-media-id="511fec1d8b7c56293bc3c34184459227" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -125,11 +117,9 @@ In your _main.js file_:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/2933f15dff3e9fc526e663baecd22831?postId=6d4c139694fb" data-media-id="2933f15dff3e9fc526e663baecd22831" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/2933f15dff3e9fc526e663baecd22831?postId=6d4c139694fb" data-media-id="2933f15dff3e9fc526e663baecd22831" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/2933f15dff3e9fc526e663baecd22831?postId=6d4c139694fb" data-media-id="2933f15dff3e9fc526e663baecd22831" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -145,11 +135,9 @@ And, if you want to test this out in your own browser here’s some CSS. This sh
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/3d2d1070643acf6dc645db069715f59c?postId=6d4c139694fb" data-media-id="3d2d1070643acf6dc645db069715f59c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/3d2d1070643acf6dc645db069715f59c?postId=6d4c139694fb" data-media-id="3d2d1070643acf6dc645db069715f59c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/3d2d1070643acf6dc645db069715f59c?postId=6d4c139694fb" data-media-id="3d2d1070643acf6dc645db069715f59c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -179,11 +167,9 @@ Here it is again for reference:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/d9bf3cb379e76ce8cfaccab0fff008fc?postId=6d4c139694fb" data-media-id="d9bf3cb379e76ce8cfaccab0fff008fc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/d9bf3cb379e76ce8cfaccab0fff008fc?postId=6d4c139694fb" data-media-id="d9bf3cb379e76ce8cfaccab0fff008fc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/d9bf3cb379e76ce8cfaccab0fff008fc?postId=6d4c139694fb" data-media-id="d9bf3cb379e76ce8cfaccab0fff008fc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -213,11 +199,8 @@ For example, in the server we previously created above, it’s only listening fo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*V-TXRhsZRaB6L4KAhauBbA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*V-TXRhsZRaB6L4KAhauBbA.png"&gt;</noscript>
 
 
 
@@ -241,11 +224,8 @@ So when we say JavaScript is single-threaded we are saying it has only one [_Cal
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*2payUr3yb8fWKfaruK5p7g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*2payUr3yb8fWKfaruK5p7g.gif"&gt;</noscript>
 
 
 
@@ -263,11 +243,8 @@ Once the results are retrieved, the first request “pops off,” and only then 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3e8V0aT6qNsHs3WfbexskA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3e8V0aT6qNsHs3WfbexskA.gif"&gt;</noscript>
 
 
 
@@ -301,11 +278,8 @@ Here’s a visual demonstration of everything we just explained:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*MNowbF50tQ6K8HnFG8rfDA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*MNowbF50tQ6K8HnFG8rfDA.gif"&gt;</noscript>
 
 
 
@@ -329,11 +303,9 @@ Copy and paste this into a file called _bunnyEmitter.js_:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/efdc435ab411f76d66b2ccdaea075e52?postId=6d4c139694fb" data-media-id="efdc435ab411f76d66b2ccdaea075e52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/efdc435ab411f76d66b2ccdaea075e52?postId=6d4c139694fb" data-media-id="efdc435ab411f76d66b2ccdaea075e52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/efdc435ab411f76d66b2ccdaea075e52?postId=6d4c139694fb" data-media-id="efdc435ab411f76d66b2ccdaea075e52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -357,11 +329,8 @@ Assuming the file is on your Desktop, type _node bunnyEmitter.js_ in your shell:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Y0Ls412hP4YI572tVa0liQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="20"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Y0Ls412hP4YI572tVa0liQ.png"&gt;</noscript>
 
 
 

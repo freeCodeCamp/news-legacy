@@ -1,7 +1,7 @@
 ---
 author: Jonathan Solórzano-Hamilton
 authorTwitter: https://twitter.com/jhsolor
-authorFacebook: false
+authorFacebook: none
 title: "Those things you missed — all because you were too cocky to use a checklist"
 subTitle: "Thirty-six seconds after launch, lightning struck the Apollo 12 and its six million pounds of high explosive fuel...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*wpUW_EgCXs2pA7Xdm-cmuQ.jpeg

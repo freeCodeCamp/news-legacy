@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/inside-the-invisible-war-for-the-open-inter
 id: inside-the-invisible-war-for-the-open-internet-dd31a29a3f08
 date: 2017-03-16T18:10:37.296Z
 tags: [
-  "Tech",
-  "Technology",
-  "Startup",
-  "Business",
-  "Entrepreneurship"
+	"Tech",
+	"Technology",
+	"Startup",
+	"Business",
+	"Entrepreneurship"
 ]
 ---
 # The future of the open internet — and our way of life — is in your hands
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qqUzr_C06yElbc1NfiqBpA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*qqUzr_C06yElbc1NfiqBpA.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*qqUzr_C06yElbc1NfiqBpA.jpeg"&gt;</noscript>
 
 
 
@@ -52,11 +49,8 @@ There are a lot of scary things happening these days, but here’s what keeps me
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ickvszselsWAGDvfIYYvww.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="66" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ickvszselsWAGDvfIYYvww.png"&gt;</noscript>
 
 
 
@@ -124,11 +118,8 @@ This is a long read. So grab a hot beverage and get ready to download a massive 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*RJiuB_tmmN2rWhuR0mzDGw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*RJiuB_tmmN2rWhuR0mzDGw.jpeg"&gt;</noscript>
 
 
 
@@ -166,11 +157,8 @@ Here’s a brief history of the information technologies that came before the in
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*eb27CiEc3orb0hk6.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*eb27CiEc3orb0hk6."&gt;</noscript>
 
 
 
@@ -196,11 +184,8 @@ Western Union’s dominance — and monopoly pricing — would last for 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*N-iK2nY4nfbenqfd.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*N-iK2nY4nfbenqfd."&gt;</noscript>
 
 
 
@@ -244,11 +229,8 @@ I thought this was just my grandmother, but it’s everyone’s grandmother. Ent
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*bHNECUSCagertm4i.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*bHNECUSCagertm4i."&gt;</noscript>
 
 
 
@@ -268,11 +250,8 @@ This took away theater owners’ status as local tastemakers, and removed their 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*3H32YV7o0zoTOzxv.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="51" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*3H32YV7o0zoTOzxv."&gt;</noscript>
 
 
 
@@ -302,11 +281,8 @@ Sarnoff had talked with the inventors of TV, and knew that it would eventually d
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*enSdNSEgwUtJoHOq.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*enSdNSEgwUtJoHOq."&gt;</noscript>
 
 
 
@@ -342,11 +318,8 @@ But the question remains: can we break with the tragic history that has befallen
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*y4dWprGLwfpzXpY6TI8qPg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*y4dWprGLwfpzXpY6TI8qPg.jpeg"&gt;</noscript>
 
 
 
@@ -374,11 +347,8 @@ The internet is a series of copper and fiber optic cables that burrow through th
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*2qNjZy6LDCur2mTbQyAulw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*2qNjZy6LDCur2mTbQyAulw.png"&gt;</noscript>
 
 
 
@@ -396,11 +366,8 @@ The internet is then further distributed through regional backbones. Here’s al
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sue1t1USRxSQne6WvS1sYA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sue1t1USRxSQne6WvS1sYA.jpeg"&gt;</noscript>
 
 
 
@@ -540,11 +507,8 @@ Former FCC Chairman Tom Wheeler did his best to reach out to Chairman Pai and co
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*e7mEeEYDuKXow0kiVbRGYw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*e7mEeEYDuKXow0kiVbRGYw.jpeg"&gt;</noscript>
 
 
 
@@ -572,11 +536,8 @@ Most of the remaining $20 billion goes to just a small handful of mobile gaming 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*oPJzQBAc3TBR5tEeIT0qew.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*oPJzQBAc3TBR5tEeIT0qew.jpeg"&gt;</noscript>
 
 
 
@@ -594,11 +555,8 @@ Most iPhone users download zero apps per month.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-nYSgZMW76IfAnJ7YT6Hog.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*-nYSgZMW76IfAnJ7YT6Hog.png"&gt;</noscript>
 
 
 
@@ -618,11 +576,8 @@ And all 8 of the top apps in the app store are [owned by just two corporations](
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*z8oy_wsJPrdk1PRD.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*z8oy_wsJPrdk1PRD."&gt;</noscript>
 
 
 
@@ -650,11 +605,8 @@ First there was the original walled garden of the internet, AOL.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*ZigvOTQyCrOX3S3j.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*ZigvOTQyCrOX3S3j."&gt;</noscript>
 
 
 
@@ -670,11 +622,8 @@ Then came Yahoo, which wasn’t a walled garden by design, but became one anyway
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*SNypPuPL9TuPK1wU.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*SNypPuPL9TuPK1wU."&gt;</noscript>
 
 
 
@@ -690,11 +639,8 @@ But Yahoo was a candle in the sun compared to the ultimate walled garden: Facebo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*r1hvO-OxGfgwBRHM.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="54" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*r1hvO-OxGfgwBRHM."&gt;</noscript>
 
 
 
@@ -712,11 +658,8 @@ The insidiously-named Internet.org was famously [rejected in India](https://www.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*tFRxnmAck6Z1x0ua.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="55"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*tFRxnmAck6Z1x0ua."&gt;</noscript>
 
 
 
@@ -761,11 +704,8 @@ If you’re familiar with the concept of [a long tail distribution](http://amzn.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*T88g4Pd1PzKZ8t_I.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="55"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*T88g4Pd1PzKZ8t_I."&gt;</noscript>
 
 
 
@@ -811,11 +751,8 @@ And here’s what happens when a small nonprofit like [freeCodeCamp](https://www
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*I0Tn_NPPShIHduZhbqgE2A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*I0Tn_NPPShIHduZhbqgE2A.png"&gt;</noscript>
 
 
 
@@ -831,11 +768,8 @@ And these ads will gradually look less and less like ads. Here’s how Google ad
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*L16W9sX0YMGZ3DBXBbQFwg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="71"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*L16W9sX0YMGZ3DBXBbQFwg.png"&gt;</noscript>
 
 
 
@@ -889,11 +823,8 @@ If the ISPs succeed and the open internet falls, corporations and governments wo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ed7kKG0Xa17iJrWQDtiVdQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Ed7kKG0Xa17iJrWQDtiVdQ.jpeg"&gt;</noscript>
 
 
 

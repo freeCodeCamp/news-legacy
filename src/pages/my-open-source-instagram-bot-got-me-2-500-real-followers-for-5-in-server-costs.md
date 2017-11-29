@@ -159,7 +159,7 @@ As you can see in the image below, the newly won followers are actively contribu
 
 
 
-<iframe data-width="640" data-height="571" width="640" height="571" src="/media/7d9d3b4af59fd5b3b74742c37a2580d1?postId=e40491358340" data-media-id="7d9d3b4af59fd5b3b74742c37a2580d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14099445_575990149256285_1612949171_n.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="571" width="640" height="571" src="https://medium.freecodecamp.org/media/7d9d3b4af59fd5b3b74742c37a2580d1?postId=e40491358340" data-media-id="7d9d3b4af59fd5b3b74742c37a2580d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14099445_575990149256285_1612949171_n.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -345,7 +345,7 @@ Since I hit 2,000 followers this month, I hosted a small **giveaway**. This not 
 
 
 
-<iframe data-width="640" data-height="640" width="640" height="640" src="/media/beac822feb7eefe02e3d15fc6c49e8f5?postId=e40491358340" data-media-id="beac822feb7eefe02e3d15fc6c49e8f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F16908779_1061604300612315_997964642254848000_n.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="640" width="640" height="640" src="https://medium.freecodecamp.org/media/beac822feb7eefe02e3d15fc6c49e8f5?postId=e40491358340" data-media-id="beac822feb7eefe02e3d15fc6c49e8f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F16908779_1061604300612315_997964642254848000_n.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -479,7 +479,7 @@ Since I’m, at the time of writing this part, an Intern at Bosch Engineering, I
 
 
 
-<iframe data-width="640" data-height="425" width="640" height="425" src="/media/98b2d44027a1d7942229578568d7f256?postId=e40491358340" data-media-id="98b2d44027a1d7942229578568d7f256" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14134598_983647255079085_1397856919_n.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="425" width="640" height="425" src="https://medium.freecodecamp.org/media/98b2d44027a1d7942229578568d7f256?postId=e40491358340" data-media-id="98b2d44027a1d7942229578568d7f256" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14134598_983647255079085_1397856919_n.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

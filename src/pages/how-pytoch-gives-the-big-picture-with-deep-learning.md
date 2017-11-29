@@ -1,7 +1,7 @@
 ---
 author: Déborah Mesquita
 authorTwitter: https://twitter.com/dehhmesquita
-authorFacebook: false
+authorFacebook: none
 title: "How Pytorch gives the big picture with deep learning"
 subTitle: "Some time ago we saw how to classify texts with neural networks. The article covered the following topics:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*lMTOQkDLUcOOwX4WJ-7tFw.jpeg
@@ -74,7 +74,7 @@ As usual, we have **tensors**, which are multi-dimensional matrices that contain
 
 
 
-<iframe width="700" height="250" src="/media/6643af164e1f00db871010887c94a04d?postId=e4a0f372f4b6" data-media-id="6643af164e1f00db871010887c94a04d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6643af164e1f00db871010887c94a04d?postId=e4a0f372f4b6" data-media-id="6643af164e1f00db871010887c94a04d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -93,7 +93,7 @@ With TensorFlow each layer operation has to be explicitly named:
 
 
 
-<iframe width="700" height="250" src="/media/429507d3441dc512664c5795e3eaeea1?postId=e4a0f372f4b6" data-media-id="429507d3441dc512664c5795e3eaeea1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/429507d3441dc512664c5795e3eaeea1?postId=e4a0f372f4b6" data-media-id="429507d3441dc512664c5795e3eaeea1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -109,7 +109,7 @@ The base class for all neural network modules is **torch.nn.Module**. The `**for
 
 
 
-<iframe width="700" height="250" src="/media/cd7f2dbef2770c2cc129dbf9cfebac89?postId=e4a0f372f4b6" data-media-id="cd7f2dbef2770c2cc129dbf9cfebac89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cd7f2dbef2770c2cc129dbf9cfebac89?postId=e4a0f372f4b6" data-media-id="cd7f2dbef2770c2cc129dbf9cfebac89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -149,7 +149,7 @@ Let’s construct our optimizer:
 
 
 
-<iframe width="700" height="250" src="/media/1a78564b46c8c817e3b23b473b1dbbea?postId=e4a0f372f4b6" data-media-id="1a78564b46c8c817e3b23b473b1dbbea" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1a78564b46c8c817e3b23b473b1dbbea?postId=e4a0f372f4b6" data-media-id="1a78564b46c8c817e3b23b473b1dbbea" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -163,7 +163,7 @@ One important thing about `**torch.nn.CrossEntropyLoss**` is that input has to b
 
 
 
-<iframe width="700" height="250" src="/media/194d343a4928f2c8280ba07a659bb49b?postId=e4a0f372f4b6" data-media-id="194d343a4928f2c8280ba07a659bb49b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/194d343a4928f2c8280ba07a659bb49b?postId=e4a0f372f4b6" data-media-id="194d343a4928f2c8280ba07a659bb49b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -183,7 +183,7 @@ Putting it all together, we get this:
 
 
 
-<iframe width="700" height="250" src="/media/33bea31b1fdc075e228344746dc40475?postId=e4a0f372f4b6" data-media-id="33bea31b1fdc075e228344746dc40475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/33bea31b1fdc075e228344746dc40475?postId=e4a0f372f4b6" data-media-id="33bea31b1fdc075e228344746dc40475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -201,7 +201,7 @@ Now let’s test the model:
 
 
 
-<iframe width="700" height="250" src="/media/b179d481354aabcbad57002f2d01f346?postId=e4a0f372f4b6" data-media-id="b179d481354aabcbad57002f2d01f346" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b179d481354aabcbad57002f2d01f346?postId=e4a0f372f4b6" data-media-id="b179d481354aabcbad57002f2d01f346" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2621484%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

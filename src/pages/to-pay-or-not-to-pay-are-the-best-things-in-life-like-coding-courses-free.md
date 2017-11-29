@@ -1,7 +1,7 @@
 ---
 author: Rick West
 authorTwitter: https://twitter.com/rick_west8
-authorFacebook: false
+authorFacebook: none
 title: "To pay or not to pay: are the best things in life — like coding courses — free?"
 subTitle: "Recently, I’ve been working on a project that implements a React/Redux UI. I’m very much a React/Redux (and Javascript!) novice, so I rea..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QH4RGlNwXUFnJSytytvb6A.jpeg

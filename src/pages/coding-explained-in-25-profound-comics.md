@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Coding Explained in 25 Profound Comics"
 subTitle: "We asked our open source community to share the comics they found most profoundly described coding, via our news site. Here are their 25 ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*zkeySR69oPO-PlQ5_dZ_0g.png

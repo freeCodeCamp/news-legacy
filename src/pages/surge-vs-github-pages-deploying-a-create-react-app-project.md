@@ -1,7 +1,7 @@
 ---
 author: Jake Wiesler
 authorTwitter: https://twitter.com/jakewies
-authorFacebook: false
+authorFacebook: none
 title: "Surge VS GitHub Pages: How to deploy a create-react-app project"
 subTitle: "As a developer, there are several ways you can show off your skills to peers and prospective employers. Open source contributions are gre..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*hCctQRV_ZZl-2Kc2eLQ0zA.jpeg

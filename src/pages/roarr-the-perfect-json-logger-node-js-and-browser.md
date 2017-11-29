@@ -1,7 +1,7 @@
 ---
 author: Gajus Kuizinas
 authorTwitter: https://twitter.com/kuizinas
-authorFacebook: false
+authorFacebook: none
 title: "Roarr! the perfect JSON logger for Node.js and browser"
 subTitle: "Zero-configuration, out of process transports and adheres to the Twelve Factors"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*6-JjFMqX_EJF8CsjZMfdiQ.jpeg

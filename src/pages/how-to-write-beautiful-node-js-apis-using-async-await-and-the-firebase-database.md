@@ -1,7 +1,7 @@
 ---
 author: Paul Breslin
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to write beautiful Node.js APIs using async/await and the Firebase Database"
 subTitle: "This tutorial will cover the typical use cases you’ll come across when writing RESTful API endpoints to read and write to a Firebase Data..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*6wZYofh0czXf3SO8Ubw2xg.png
@@ -42,7 +42,7 @@ First off, let’s create an example `POST` endpoint which will save words to ou
 
 
 
-<iframe width="700" height="250" src="/media/c4f1beeacf8045dc4cf3087c8b6dca96?postId=befdf3a5ffee" data-media-id="c4f1beeacf8045dc4cf3087c8b6dca96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c4f1beeacf8045dc4cf3087c8b6dca96?postId=befdf3a5ffee" data-media-id="c4f1beeacf8045dc4cf3087c8b6dca96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -58,7 +58,7 @@ So, let’s add some error handling:
 
 
 
-<iframe width="700" height="250" src="/media/82420bc1e7231f5a52fbebf12dd0ccce?postId=befdf3a5ffee" data-media-id="82420bc1e7231f5a52fbebf12dd0ccce" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/82420bc1e7231f5a52fbebf12dd0ccce?postId=befdf3a5ffee" data-media-id="82420bc1e7231f5a52fbebf12dd0ccce" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -78,7 +78,7 @@ First, let’s see what a `GET` endpoint looks like using the original promise-b
 
 
 
-<iframe width="700" height="250" src="/media/a0646a20311e4ec342f3d5f24ef0a343?postId=befdf3a5ffee" data-media-id="a0646a20311e4ec342f3d5f24ef0a343" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a0646a20311e4ec342f3d5f24ef0a343?postId=befdf3a5ffee" data-media-id="a0646a20311e4ec342f3d5f24ef0a343" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ Again, simple enough. Now let’s compare it with an `async/await` version of th
 
 
 
-<iframe width="700" height="250" src="/media/f1c7ee01ef88c9aee739a5e29b967228?postId=befdf3a5ffee" data-media-id="f1c7ee01ef88c9aee739a5e29b967228" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f1c7ee01ef88c9aee739a5e29b967228?postId=befdf3a5ffee" data-media-id="f1c7ee01ef88c9aee739a5e29b967228" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ Let’s say you had to run a number of asynchronous functions sequentially:
 
 
 
-<iframe width="700" height="250" src="/media/ae4f21304b8d63c773b5938f965e789c?postId=befdf3a5ffee" data-media-id="ae4f21304b8d63c773b5938f965e789c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ae4f21304b8d63c773b5938f965e789c?postId=befdf3a5ffee" data-media-id="ae4f21304b8d63c773b5938f965e789c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ Now take a look at the above snippet rewritten to use `async/await`:
 
 
 
-<iframe width="700" height="250" src="/media/5dc2379110177401134846882d17cfa8?postId=befdf3a5ffee" data-media-id="5dc2379110177401134846882d17cfa8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5dc2379110177401134846882d17cfa8?postId=befdf3a5ffee" data-media-id="5dc2379110177401134846882d17cfa8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -140,7 +140,7 @@ No more pyramid of doom! What’s more, all of the `await` statements can be wra
 
 
 
-<iframe width="700" height="250" src="/media/2942d2ef5834115f295d5d3b8bf19d5c?postId=befdf3a5ffee" data-media-id="2942d2ef5834115f295d5d3b8bf19d5c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2942d2ef5834115f295d5d3b8bf19d5c?postId=befdf3a5ffee" data-media-id="2942d2ef5834115f295d5d3b8bf19d5c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -158,7 +158,7 @@ Easy. Just use the `Promise.all()` method to run Firebase Database requests in p
 
 
 
-<iframe width="700" height="250" src="/media/084eb4870d4c43577d4bfae2abe722c4?postId=befdf3a5ffee" data-media-id="084eb4870d4c43577d4bfae2abe722c4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/084eb4870d4c43577d4bfae2abe722c4?postId=befdf3a5ffee" data-media-id="084eb4870d4c43577d4bfae2abe722c4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -174,7 +174,7 @@ For example, say your client has the following code:
 
 
 
-<iframe width="700" height="250" src="/media/2d3f7aaeb2eec5f8dabe21b3a0952f4c?postId=befdf3a5ffee" data-media-id="2d3f7aaeb2eec5f8dabe21b3a0952f4c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2d3f7aaeb2eec5f8dabe21b3a0952f4c?postId=befdf3a5ffee" data-media-id="2d3f7aaeb2eec5f8dabe21b3a0952f4c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -190,7 +190,7 @@ To protect yourself from this, you can use `Object.assign()` to always return an
 
 
 
-<iframe width="700" height="250" src="/media/c7c96fc1d74b9676ed2cc715acb9ac03?postId=befdf3a5ffee" data-media-id="c7c96fc1d74b9676ed2cc715acb9ac03" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c7c96fc1d74b9676ed2cc715acb9ac03?postId=befdf3a5ffee" data-media-id="c7c96fc1d74b9676ed2cc715acb9ac03" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6935585%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Robert Williams
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to package your service like a product"
 subTitle: "Top freelancers and other service providers have switched to a new business model...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*rYynopkd1OUu7TxzLzyGiw.png

@@ -1,7 +1,7 @@
 ---
 author: Ayo Isaiah
 authorTwitter: https://twitter.com/AyIsaiah
-authorFacebook: false
+authorFacebook: none
 title: "Building a Weather App with Geolocation and APIs"
 subTitle: "Last week I tackled Free Code Camp’s Show the Local Weather project, which involved building an app that displayed the weather wherever t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*59ubn1l9M0KjGGe2Bd9Sxw.jpeg

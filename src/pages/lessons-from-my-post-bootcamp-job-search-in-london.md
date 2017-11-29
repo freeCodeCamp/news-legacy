@@ -1,6 +1,6 @@
 ---
 author: Aleks Gorbenko
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10209244903668261
 title: "Lessons From My Post-bootcamp Job Search in London"
 subTitle: "Coding bootcamps are hard. And finding the job after one is often even harder...."

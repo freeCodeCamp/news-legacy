@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "How I got into Mozilla’s Outreachy open source internship program"
 subTitle: "I recently joined Mozilla’s Outreachy program as an intern. If you haven’t heard of this program before, let me start by answering some b..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*4p3xb9__LY2feOIZWfKHxg.jpeg

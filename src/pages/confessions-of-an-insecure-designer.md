@@ -1,7 +1,7 @@
 ---
 author: Juhi Chitra
 authorTwitter: https://twitter.com/JuhiChitra
-authorFacebook: false
+authorFacebook: none
 title: "Confessions of an Insecure Designer"
 subTitle: "or how I learned to stop worrying and love the crazy."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*x0cSkI_fVY2gg1AHkEMAnw.jpeg

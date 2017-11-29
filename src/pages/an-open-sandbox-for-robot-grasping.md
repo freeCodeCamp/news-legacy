@@ -1,7 +1,7 @@
 ---
 author: Ugo Cupcic
 authorTwitter: https://twitter.com/ugocupcic
-authorFacebook: false
+authorFacebook: none
 title: "We built an open sandbox for training robotic hands to grasp things"
 subTitle: "Getting started with robotics is probably a lot easier than you think. Here’s a simulation sandbox that’s cross-platform and provides a s..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*z4z_pGa-kSvjO-kgvwOetA.jpeg
@@ -55,7 +55,7 @@ If you don’t want to read through the specifics but just want to get your hand
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/5713681036b539743a2ff7efa7758c35?postId=cee467a3fabb" data-media-id="5713681036b539743a2ff7efa7758c35" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQjrrIr6oSgw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/5713681036b539743a2ff7efa7758c35?postId=cee467a3fabb" data-media-id="5713681036b539743a2ff7efa7758c35" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQjrrIr6oSgw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Ash Connolly
 authorTwitter: https://twitter.com/AshConnnolly
-authorFacebook: false
+authorFacebook: none
 title: "A more seamless workflow — style guides for better design and development"
 subTitle: "Style guides can give many benefits to the entire workflow, from design right through to build...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*cVX2sUbGosHSJkq8Ax2FiA.png
@@ -62,7 +62,7 @@ When interfaces aren't thought of as a design system we can end up with messy an
 
 
 
-<iframe width="500" height="250" src="/media/492b36a969b15fe7636c3139c3dbadb3?postId=639fc55be28c" data-media-id="492b36a969b15fe7636c3139c3dbadb3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/492b36a969b15fe7636c3139c3dbadb3?postId=639fc55be28c" data-media-id="492b36a969b15fe7636c3139c3dbadb3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -103,7 +103,7 @@ Atomic Design in one GIF:
 
 
 
-<iframe width="500" height="250" src="/media/2a333780240b992f10a41a87eb0d4f9a?postId=639fc55be28c" data-media-id="2a333780240b992f10a41a87eb0d4f9a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/2a333780240b992f10a41a87eb0d4f9a?postId=639fc55be28c" data-media-id="2a333780240b992f10a41a87eb0d4f9a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -203,7 +203,7 @@ As a bonus, front end style guides can sometimes help non-code savvy designers b
 
 
 
-<iframe width="500" height="250" src="/media/e8231b1183645fd2af54c12859cae919?postId=639fc55be28c" data-media-id="e8231b1183645fd2af54c12859cae919" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/e8231b1183645fd2af54c12859cae919?postId=639fc55be28c" data-media-id="e8231b1183645fd2af54c12859cae919" allowfullscreen="" frameborder="0"></iframe>
 
 
 

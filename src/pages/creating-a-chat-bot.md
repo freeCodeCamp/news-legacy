@@ -1,7 +1,7 @@
 ---
 author: Rob Ellis
 authorTwitter: https://twitter.com/rob_ellis
-authorFacebook: false
+authorFacebook: none
 title: "Creating a Chat Bot"
 subTitle: "Human interaction has always fascinated me: social awkwardness, communication style, how knowledge is transferred, how relationships are ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*eKThzb_Z8ve2O_NSH2WuoA.jpeg

@@ -1,7 +1,7 @@
 ---
 author: kelleytmnguyen
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "My friends hate SoundCloud iOS so I redesigned it for them"
 subTitle: "What started out as a casual conversation with my friends turned into a serious exploration. This was partially because I love SoundCloud..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*pGIr42haQHsmxo9BXZl3JA.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/my-friends-hate-soundcloud-ios-so-i-redesig
 id: my-friends-hate-soundcloud-ios-so-i-redesigned-it-for-them-d3038cdd020b
 date: 2017-06-22T02:35:54.729Z
 tags: [
-  "Design",
-  "Music",
-  "UX",
-  "Tech",
-  "Startup"
+	"Design",
+	"Music",
+	"UX",
+	"Tech",
+	"Startup"
 ]
 ---
 # My friends hate SoundCloud iOS so I redesigned it for them
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pGIr42haQHsmxo9BXZl3JA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*pGIr42haQHsmxo9BXZl3JA.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*pGIr42haQHsmxo9BXZl3JA.png"&gt;</noscript>
 
 
 
@@ -64,11 +61,8 @@ So, I became more and more curious… 🤔
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ygvPM41iCItSt0Z-cmFQtg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ygvPM41iCItSt0Z-cmFQtg.jpeg"&gt;</noscript>
 
 
 
@@ -88,11 +82,6 @@ What made other mobile streaming applications stronger or weaker than SoundCloud
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*msby4H3G6H3dpjsRRFhHZg.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*msby4H3G6H3dpjsRRFhHZg.png"&gt;</noscript>
 
 
 
@@ -104,11 +93,6 @@ What made other mobile streaming applications stronger or weaker than SoundCloud
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*o2AkeIiH8Kxhqk0_IHvcMA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*o2AkeIiH8Kxhqk0_IHvcMA.png"&gt;</noscript>
 
 
 
@@ -120,11 +104,12 @@ What made other mobile streaming applications stronger or weaker than SoundCloud
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qns6uVBca4-WUyAOPZN5cw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*qns6uVBca4-WUyAOPZN5cw.png"&gt;</noscript>
+
+
+
+
 
 
 
@@ -154,11 +139,8 @@ In 2016, global recorded music market grew by 5.9% due to streaming ([IFPI Facts
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*remGKRnyaDGhjV1xBymQHg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*remGKRnyaDGhjV1xBymQHg.png"&gt;</noscript>
 
 
 
@@ -188,11 +170,8 @@ Globally, the highest shares of electronic music are held in Europe and Asia, an
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6kwnSIt30OBeRXdDEOunFg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="72"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6kwnSIt30OBeRXdDEOunFg.png"&gt;</noscript>
 
 
 
@@ -218,11 +197,8 @@ In effect, I focused my questions around the habits of listeners and streamers. 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*F3cExDPsdrnmzIN-KaiJmg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*F3cExDPsdrnmzIN-KaiJmg.png"&gt;</noscript>
 
 
 
@@ -248,11 +224,8 @@ I had 5 interviews, each of which lasted about 30 minutes. I asked over 20 quest
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tWvmbsA4M32H09NEtSmcrA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*tWvmbsA4M32H09NEtSmcrA.png"&gt;</noscript>
 
 
 
@@ -274,11 +247,8 @@ From my gathered data, I could paint a better picture. I illustrated the type of
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8g49a5mnPS40nxt2tcCKCw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*8g49a5mnPS40nxt2tcCKCw.png"&gt;</noscript>
 
 
 
@@ -292,11 +262,6 @@ Primary Persona
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*eiiasVHlxN06ZoxdYo36zQ.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*eiiasVHlxN06ZoxdYo36zQ.png"&gt;</noscript>
 
 
 
@@ -308,11 +273,10 @@ Primary Persona
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_nsA2HgHYlDztAPFU7xb0w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*_nsA2HgHYlDztAPFU7xb0w.png"&gt;</noscript>
+
+
 
 
 
@@ -366,11 +330,6 @@ Taking the information organized through sitemaps and user flows, I created low-
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jX3KMHRFKldd7I-QlEEDLQ.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*jX3KMHRFKldd7I-QlEEDLQ.jpeg"&gt;</noscript>
 
 
 
@@ -382,11 +341,10 @@ Taking the information organized through sitemaps and user flows, I created low-
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*C55MdezJWjPjCTid6wT6uA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*C55MdezJWjPjCTid6wT6uA.jpeg"&gt;</noscript>
+
+
 
 
 
@@ -410,27 +368,6 @@ From low-fidelity, I took note of the significance and purpose of each element a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JcpcFPgLWl4vRnjeuPwF_w.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*JcpcFPgLWl4vRnjeuPwF_w.png"&gt;</noscript>
-
-
-
-
-
-
-
-
-
-
-
-![](https://cdn-images-1.medium.com/freeze/max/60/1*J06_aPxHxozznCcbWOhU0g.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*J06_aPxHxozznCcbWOhU0g.png"&gt;</noscript>
 
 
 
@@ -446,11 +383,23 @@ From low-fidelity, I took note of the significance and purpose of each element a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*fO2Hau8NAq95Ntm0sLjzUg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="70"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*fO2Hau8NAq95Ntm0sLjzUg.jpeg"&gt;</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -464,11 +413,8 @@ From low-fidelity, I took note of the significance and purpose of each element a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Yx4wB9bJOvV7T3UDej4rew.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="70"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*Yx4wB9bJOvV7T3UDej4rew.jpeg"&gt;</noscript>
 
 
 
@@ -506,27 +452,6 @@ Press — magazines and PR premiering music
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kTEfPeB6JKpk8s0lO7mBpg.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*kTEfPeB6JKpk8s0lO7mBpg.png"&gt;</noscript>
-
-
-
-
-
-
-
-
-
-
-
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Sh3hdEj1bDVrzPwvnj_VYw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Sh3hdEj1bDVrzPwvnj_VYw.png"&gt;</noscript>
 
 
 
@@ -542,11 +467,23 @@ Press — magazines and PR premiering music
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8l4aAx3sRD50zP-ITfccdg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="51" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*8l4aAx3sRD50zP-ITfccdg.gif"&gt;</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -594,11 +531,6 @@ Let me know your thoughts about how the infrastructure works for you, what could
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-_cOYW2VOQA4hKcOreIsng.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*-_cOYW2VOQA4hKcOreIsng.gif"&gt;</noscript>
 
 
 
@@ -610,11 +542,10 @@ Let me know your thoughts about how the infrastructure works for you, what could
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*a8Ct4GLNBJDC1aylKvqvLA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*a8Ct4GLNBJDC1aylKvqvLA.gif"&gt;</noscript>
+
+
 
 
 
@@ -642,11 +573,8 @@ Compiled through a series of articles, press releases, and research from [NYTime
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nfERvbKX5OCdwMSP49r58A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nfERvbKX5OCdwMSP49r58A.png"&gt;</noscript>
 
 
 
@@ -664,11 +592,8 @@ I made another survey that was more concise and focused on quantitative data. Co
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AzOYsMMqy7Z6JamnOVwI-Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*AzOYsMMqy7Z6JamnOVwI-Q.png"&gt;</noscript>
 
 
 
@@ -682,11 +607,8 @@ Q1: What is your age?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*e-fsHSuQSLl2gFdjUmeOGQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*e-fsHSuQSLl2gFdjUmeOGQ.png"&gt;</noscript>
 
 
 
@@ -700,11 +622,8 @@ Q2: What genre(s) do you listen to the most?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_Z5iluKqTCbNuvXsWnx4VA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_Z5iluKqTCbNuvXsWnx4VA.png"&gt;</noscript>
 
 
 
@@ -718,11 +637,8 @@ Q3: What streaming application(s) do you use on your phone?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0r0txM4SBp-jOY3o9kT8og.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0r0txM4SBp-jOY3o9kT8og.png"&gt;</noscript>
 
 
 
@@ -762,11 +678,6 @@ I tried a hand at making icons to get a feel for perfecting pixels. Granted this
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*RHnm0iuBAiIIA1kMj2hsRA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*RHnm0iuBAiIIA1kMj2hsRA.png"&gt;</noscript>
 
 
 
@@ -778,11 +689,10 @@ I tried a hand at making icons to get a feel for perfecting pixels. Granted this
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AprlswXl1s5hdeclFOZ8CQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*AprlswXl1s5hdeclFOZ8CQ.png"&gt;</noscript>
+
+
 
 
 
@@ -808,11 +718,8 @@ For SoundCloud iOS, Home’s purpose (and only purpose) is to show the activity 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Vj9pRMszAowlWr1YPZeqMw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Vj9pRMszAowlWr1YPZeqMw.png"&gt;</noscript>
 
 
 
@@ -836,11 +743,6 @@ SoundCloud vs Iteration 2: Home
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*g1pV9OCbgaNY5spg4IOqpw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="48" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*g1pV9OCbgaNY5spg4IOqpw.png"&gt;</noscript>
 
 
 
@@ -852,11 +754,10 @@ SoundCloud vs Iteration 2: Home
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nth0kAyi7U3_03NigyBhEA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nth0kAyi7U3_03NigyBhEA.gif"&gt;</noscript>
+
+
 
 
 
@@ -878,11 +779,8 @@ I took away the like and repost counts to lessen judgment and bias. The icons on
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*00Yu8QgrFj2qUN33UcQL6A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*00Yu8QgrFj2qUN33UcQL6A.png"&gt;</noscript>
 
 
 
@@ -898,11 +796,8 @@ Iteration 2: Your Feed
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*HMSQrlYXYtJtIAkEZIvpLg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="69" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*HMSQrlYXYtJtIAkEZIvpLg.gif"&gt;</noscript>
 
 
 
@@ -926,11 +821,8 @@ I took away the filter bar that horizontally scrolled, using only a single verti
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6JSgr6pheG-PkZj1B0x8Kw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="73"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*6JSgr6pheG-PkZj1B0x8Kw.png"&gt;</noscript>
 
 
 
@@ -950,11 +842,8 @@ To apply genres to tracks, SoundCloud allows users to label their uploads using 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YO0sxxUOUS-FylXVwtV2PA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*YO0sxxUOUS-FylXVwtV2PA.gif"&gt;</noscript>
 
 
 
@@ -976,11 +865,8 @@ The Discover page of the first iteration focused more on breaking down SoundClou
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VhFQlfaJOL0fDq9ofvUDHw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*VhFQlfaJOL0fDq9ofvUDHw.png"&gt;</noscript>
 
 
 
@@ -1004,11 +890,8 @@ To make the menu items less arbitrary, I revised the sitemap of **Discover** to 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nkGx7msqxRr-E6JuyG2pPA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*nkGx7msqxRr-E6JuyG2pPA.png"&gt;</noscript>
 
 
 
@@ -1022,11 +905,8 @@ Revised Discover sitemap
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*B9ybH61bdLvDmq81D12DxA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="54" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*B9ybH61bdLvDmq81D12DxA.png"&gt;</noscript>
 
 
 
@@ -1050,11 +930,8 @@ _Discover > Featured_ SoundCloud’s newest addition to Discover is [The Upload]
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cNxDq-cMmZoEGta4TLEeAw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*cNxDq-cMmZoEGta4TLEeAw.gif"&gt;</noscript>
 
 
 
@@ -1079,11 +956,8 @@ Your Following and Followers make up **Your Cloud**, which is where your taste i
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Fi0zss-vt7nk-Cj0SFtk3g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="58"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Fi0zss-vt7nk-Cj0SFtk3g.png"&gt;</noscript>
 
 
 
@@ -1108,11 +982,8 @@ As a global platform for independent artists in so many different parts of the w
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BoMfpxhO1yrXouND0SWzdA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*BoMfpxhO1yrXouND0SWzdA.png"&gt;</noscript>
 
 
 
@@ -1130,11 +1001,8 @@ Artwork for ‘Live Events’ and ‘Cities
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*TWX_8SFK6000Vcn62KPhgQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*TWX_8SFK6000Vcn62KPhgQ.png"&gt;</noscript>
 
 
 
@@ -1159,11 +1027,8 @@ Since humans are lazy by nature, **Curated** is SoundCloud’s way of giving bac
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*2ggl4BgHpLt9N7OxDeD31g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*2ggl4BgHpLt9N7OxDeD31g.png"&gt;</noscript>
 
 
 
@@ -1189,11 +1054,8 @@ I kept SoundCloud’s navigation tab and waveform for Now Playing, but made cont
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ksDtJNAR56OC8IjLT_csvA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*ksDtJNAR56OC8IjLT_csvA.gif"&gt;</noscript>
 
 
 
@@ -1219,11 +1081,8 @@ If SoundCloud was catered more to vinyl collectors and spinners, I could see how
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Q4Jx4EcPlYq7VFYIgDqQYg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Q4Jx4EcPlYq7VFYIgDqQYg.png"&gt;</noscript>
 
 
 
@@ -1243,11 +1102,8 @@ I put in a feature that could filter tracks not just by when they were liked, bu
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4zufGF0MYiwJ5iY5KN9Fqw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4zufGF0MYiwJ5iY5KN9Fqw.gif"&gt;</noscript>
 
 
 
@@ -1263,11 +1119,8 @@ On SoundCloud, liking something will bump the like count and add it to the Libra
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jayenRvphnFFGr6-v7zlwA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jayenRvphnFFGr6-v7zlwA.gif"&gt;</noscript>
 
 
 
@@ -1285,11 +1138,8 @@ Last but not least, the profile! Some of the suggestions that my interviewees as
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*NC9a7CjwnmJ0v4HT6EJOOw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*NC9a7CjwnmJ0v4HT6EJOOw.gif"&gt;</noscript>
 
 
 
@@ -1305,11 +1155,8 @@ Anything description related comes from the top down. For more options like foll
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*X0kpMRAlxdpyocgn6B-jXA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*X0kpMRAlxdpyocgn6B-jXA.gif"&gt;</noscript>
 
 
 

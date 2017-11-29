@@ -1,7 +1,7 @@
 ---
 author: Peter Gleeson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "The Curse of Dimensionality"
 subTitle: "And how we can save Big Data from itself"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*MfHhYAaXHcdiAi9rCCmWdw.png

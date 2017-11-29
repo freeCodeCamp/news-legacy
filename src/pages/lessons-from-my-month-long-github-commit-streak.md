@@ -1,7 +1,7 @@
 ---
 author: JS
 authorTwitter: https://twitter.com/j_speda
-authorFacebook: false
+authorFacebook: none
 title: "Lessons from my month-long GitHub commit streak"
 subTitle: "A lofty goal, for sure. Especially for someone who’s only been programming for about six months, decidedly in not-JavaScript (Ruby, if yo..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*rOsLmv15-FG_g0InyWLfuQ.png

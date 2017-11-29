@@ -1,7 +1,7 @@
 ---
 author: E. Wilson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "What I learned from #100DaysOfCode"
 subTitle: "I made it up to Day 95 before officially ending my #100DaysOfCode challenge. Check out my GitHub repo and see for yourself...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*YeOjk5wvk_MKwhQZYlyaTw.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Vlad Wetzel
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How my side project satisfied my curiosity — and made me $3,000"
 subTitle: "I was curious what books were most commonly recommended on Stack Overflow. So I analyzed a database dump, counted the mentions, then buil..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*SIkYbXQ5Ccj9GP6bIba2uQ.jpeg

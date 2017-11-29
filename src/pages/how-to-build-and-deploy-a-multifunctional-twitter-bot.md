@@ -1,7 +1,7 @@
 ---
 author: Scott Spence
 authorTwitter: https://twitter.com/ScottDevTweets
-authorFacebook: false
+authorFacebook: none
 title: "How to build and deploy a multifunctional Twitter bot"
 subTitle: "I’ve been busy building Twitter bots again!..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*dSTTYRDbaLqRHvFMPbVPxg.jpeg
@@ -56,7 +56,7 @@ Bot example 1: tweeting media with the NASA picture of the day
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/48d8455b0c20b1d85f73e51f38c0782b?postId=49e941bb3092" data-media-id="48d8455b0c20b1d85f73e51f38c0782b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC_zrDYRXgAAFJC8.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/48d8455b0c20b1d85f73e51f38c0782b?postId=49e941bb3092" data-media-id="48d8455b0c20b1d85f73e51f38c0782b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC_zrDYRXgAAFJC8.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -68,7 +68,7 @@ Bot example 2: using RiTa to make a Markov bot that will use your Twitter archiv
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/6747d6179daf289a971ded0c2fffb1b4?postId=49e941bb3092" data-media-id="6747d6179daf289a971ded0c2fffb1b4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F827819465408704512%2FHKaZs10S_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/6747d6179daf289a971ded0c2fffb1b4?postId=49e941bb3092" data-media-id="6747d6179daf289a971ded0c2fffb1b4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F827819465408704512%2FHKaZs10S_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -80,7 +80,7 @@ Bot example 3: posting links (or other data) from a spreadsheet.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/8afa5229c81f6cb869340a7f93e408a7?postId=49e941bb3092" data-media-id="8afa5229c81f6cb869340a7f93e408a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F827819465408704512%2FHKaZs10S_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/8afa5229c81f6cb869340a7f93e408a7?postId=49e941bb3092" data-media-id="8afa5229c81f6cb869340a7f93e408a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F827819465408704512%2FHKaZs10S_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

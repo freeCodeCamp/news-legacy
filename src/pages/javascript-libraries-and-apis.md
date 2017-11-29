@@ -1,7 +1,7 @@
 ---
 author: Adam Recvlohe
 authorTwitter: https://twitter.com/adamrecvlohe
-authorFacebook: false
+authorFacebook: none
 title: "APIs are like a box of chocolates"
 subTitle: "If you have written JavaScript for the DOM before, then you probably know how unwieldy it can get. I mean getElementById is seven syllabl..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Co2qNTU1Es6kAf3b9MSOqw.jpeg
@@ -223,7 +223,7 @@ Here it is on codepen:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/4f05a8c820ff7d8730acaf4511e0fcbc?postId=e9d674dc5690" data-media-id="4f05a8c820ff7d8730acaf4511e0fcbc" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/4f05a8c820ff7d8730acaf4511e0fcbc?postId=e9d674dc5690" data-media-id="4f05a8c820ff7d8730acaf4511e0fcbc" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -318,7 +318,7 @@ The completed projected now looks something likes this:
 
 
 
-<iframe width="700" height="250" src="/media/a32625898118504b974736dc70a8b766?postId=e9d674dc5690" data-media-id="a32625898118504b974736dc70a8b766" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a32625898118504b974736dc70a8b766?postId=e9d674dc5690" data-media-id="a32625898118504b974736dc70a8b766" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -330,7 +330,7 @@ And here it is on CodePen:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/06d8d4c81918806a5f4bb323715b40b6?postId=e9d674dc5690" data-media-id="06d8d4c81918806a5f4bb323715b40b6" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/06d8d4c81918806a5f4bb323715b40b6?postId=e9d674dc5690" data-media-id="06d8d4c81918806a5f4bb323715b40b6" allowfullscreen="" frameborder="0"></iframe>
 
 
 

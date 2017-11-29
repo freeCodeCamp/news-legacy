@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "If you want to learn Data Science, start with one of these programming classes"
 subTitle: "A year ago, I was a numbers geek with no coding background. After trying an online programming course, I was so inspired that I enrolled ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*EMTsMs0U6QcJ0bJOfoJ5_Q.jpeg

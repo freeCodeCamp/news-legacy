@@ -1,7 +1,7 @@
 ---
 author: Claus Höfele
 authorTwitter: https://twitter.com/claushoefele
-authorFacebook: false
+authorFacebook: none
 title: "Building Alexa Skills in Swift"
 subTitle: "How to use Swift to develop custom skills for the Amazon Echo"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*1uxPyAsM7gCUf0YsWGYYgw.png

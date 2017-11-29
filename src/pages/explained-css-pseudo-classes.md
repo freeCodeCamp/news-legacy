@@ -1,7 +1,7 @@
 ---
 author: Nash Vail
 authorTwitter: https://twitter.com/NashVail
-authorFacebook: false
+authorFacebook: none
 title: "How CSS pseudo-classes work, explained with code and lots of diagrams"
 subTitle: "Let’s be honest — there are times when CSS can really hurt your brain. It’s hard enough to center an element inside its parents...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*FypLaInuQOolvpO95NtBIQ.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/explained-css-pseudo-classes-cef3c3177361
 id: explained-css-pseudo-classes-cef3c3177361
 date: 2016-11-06T06:24:33.269Z
 tags: [
-  "CSS",
-  "Web Development",
-  "Web Design",
-  "Design",
-  "Programming"
+	"CSS",
+	"Web Development",
+	"Web Design",
+	"Design",
+	"Programming"
 ]
 ---
 # How CSS pseudo-classes work, explained with code and lots of diagrams
@@ -22,13 +22,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*FypLaInuQOolvpO95NtBIQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FypLaInuQOolvpO95NtBIQ.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*FypLaInuQOolvpO95NtBIQ.png"&gt;</noscript>
 
 
 
@@ -44,13 +41,10 @@ Today, we’re going to make sense of an even more challenging aspect of CSS: ps
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ZPlE0Td0GCO2mt3Ivrmp5g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*ZPlE0Td0GCO2mt3Ivrmp5g.gif)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ZPlE0Td0GCO2mt3Ivrmp5g.gif"&gt;</noscript>
 
 
 
@@ -110,11 +104,8 @@ Here’s what the relation between _body_ and its three children looks like when
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0J4m0pNfNUUe-JE9dPIbHw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0J4m0pNfNUUe-JE9dPIbHw.png"&gt;</noscript>
 
 
 
@@ -143,11 +134,8 @@ Next, let’s look at the _.main_ div:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*b1bt8tsEPJ7L1jJNkSB1WQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*b1bt8tsEPJ7L1jJNkSB1WQ.png"&gt;</noscript>
 
 
 
@@ -163,11 +151,8 @@ Similarly, we step down each level of nesting and draw the complete tree out of 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*xn3NJH7ajQ0t-nSQWkr2HA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*xn3NJH7ajQ0t-nSQWkr2HA.png"&gt;</noscript>
 
 
 
@@ -205,11 +190,8 @@ Here’s me doing my part, explaining the code shown above. We’ll start by sel
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*uBjIeeXnjBgkB2GApFiiGQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*uBjIeeXnjBgkB2GApFiiGQ.png"&gt;</noscript>
 
 
 
@@ -227,11 +209,8 @@ Next, since anchor elements are _what-you-want-to-selec_t, we’ll do just that:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bxFbXy1QDeGf-84KSJNxDg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*bxFbXy1QDeGf-84KSJNxDg.png"&gt;</noscript>
 
 
 
@@ -249,11 +228,8 @@ This is where _what-you-want-to-select_ partends and the filtering begins.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*WwCVWx4UKJ5bdPUV1e4vXQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*WwCVWx4UKJ5bdPUV1e4vXQ.png"&gt;</noscript>
 
 
 
@@ -273,11 +249,8 @@ Let’s fast forward to the part where we end selecting all the “_what-you-wan
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bxFbXy1QDeGf-84KSJNxDg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*bxFbXy1QDeGf-84KSJNxDg.png"&gt;</noscript>
 
 
 
@@ -293,11 +266,8 @@ The filter _first-of-type_ translates to selecting in each of the sections only 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PJExtAelKm7-Xdt31Dw6cA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PJExtAelKm7-Xdt31Dw6cA.png"&gt;</noscript>
 
 
 
@@ -323,11 +293,8 @@ If you can’t tell by the name, _last-of-type_ is the exact opposite of _first-
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*dWlzrEMXkZueTDY52sGLzg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*dWlzrEMXkZueTDY52sGLzg.png"&gt;</noscript>
 
 
 
@@ -357,11 +324,9 @@ It looks a little cryptic but is quite simple really. To read the selector simpl
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F745987781436989440%2FKIacsdeB_bigger.jpg&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/40fbccfd489ffc3b8b05ae2ebf8a6619?postId=cef3c3177361" data-media-id="40fbccfd489ffc3b8b05ae2ebf8a6619" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F745987781436989440%2FKIacsdeB_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/40fbccfd489ffc3b8b05ae2ebf8a6619?postId=cef3c3177361" data-media-id="40fbccfd489ffc3b8b05ae2ebf8a6619" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F745987781436989440%2FKIacsdeB_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/40fbccfd489ffc3b8b05ae2ebf8a6619?postId=cef3c3177361" data-media-id="40fbccfd489ffc3b8b05ae2ebf8a6619" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F745987781436989440%2FKIacsdeB_bigger.jpg&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -375,11 +340,8 @@ Alright coming back, _a:nth-of-type(1)_ can be therefore read as _a:first-of-typ
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PJExtAelKm7-Xdt31Dw6cA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PJExtAelKm7-Xdt31Dw6cA.png"&gt;</noscript>
 
 
 
@@ -409,11 +371,8 @@ But if we went ahead and used…
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*o7aTc-EJF53N7bAHs2Ssxg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*o7aTc-EJF53N7bAHs2Ssxg.png"&gt;</noscript>
 
 
 
@@ -435,11 +394,8 @@ it will select the third anchor elements in the second section as section 2is th
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ob0gZ_tJhflq73RCzbyFkw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Ob0gZ_tJhflq73RCzbyFkw.png"&gt;</noscript>
 
 
 
@@ -486,11 +442,8 @@ a:nth-of-type(5) { border: 2px solid black; }...</pre>
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*QrQj3hZlegF3D-kv7yB0gA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*QrQj3hZlegF3D-kv7yB0gA.png"&gt;</noscript>
 
 
 
@@ -512,11 +465,8 @@ This selector functions exactly like the previous one, but with one little diffe
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8iEbmV82IuBJ7jyYiyx_AA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*8iEbmV82IuBJ7jyYiyx_AA.png"&gt;</noscript>
 
 
 
@@ -554,11 +504,9 @@ With that we come to an end of *_-of-type_ selectors. Hope it was a fun ride for
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.VKkXLB.small.143ddc2c-1f6e-43d0-b5c5-11620f69cafe.png&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe data-width="800" data-height="600" width="700" height="525" data-src="/media/f224bd71092de99f3ec8ac17ce628840?postId=cef3c3177361" data-media-id="f224bd71092de99f3ec8ac17ce628840" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.VKkXLB.small.143ddc2c-1f6e-43d0-b5c5-11620f69cafe.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" data-src="https://medium.freecodecamp.org/media/f224bd71092de99f3ec8ac17ce628840?postId=cef3c3177361" data-media-id="f224bd71092de99f3ec8ac17ce628840" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.VKkXLB.small.143ddc2c-1f6e-43d0-b5c5-11620f69cafe.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="800" data-height="600" width="700" height="525" src="/media/f224bd71092de99f3ec8ac17ce628840?postId=cef3c3177361" data-media-id="f224bd71092de99f3ec8ac17ce628840" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.VKkXLB.small.143ddc2c-1f6e-43d0-b5c5-11620f69cafe.png&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -600,11 +548,8 @@ Now that’s the very definition of self explanatory and straightforward. The se
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bNZeHcGUOqswsJDMQFszzw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*bNZeHcGUOqswsJDMQFszzw.png"&gt;</noscript>
 
 
 
@@ -630,11 +575,8 @@ It simply says, select all the anchor element, but with one condition in mind, t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qLx7ELzLcCUWHY9xakrsfg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*qLx7ELzLcCUWHY9xakrsfg.png"&gt;</noscript>
 
 
 
@@ -660,11 +602,8 @@ _what-you-want-to-select_ ? “Anchor elements.” And the _filter_ you want to
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PfU4UZ2kZvgWZlG-Pav05w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PfU4UZ2kZvgWZlG-Pav05w.png"&gt;</noscript>
 
 
 
@@ -711,11 +650,8 @@ As it is, if the selector gets numbers out of bounds (like -1, 5, 6… in the ca
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*aXGTeApzv5e1c7CJdk-pvg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*aXGTeApzv5e1c7CJdk-pvg.png"&gt;</noscript>
 
 
 
@@ -737,11 +673,8 @@ This selector works exactly like _:nth-child_ except that it starts selecting e
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*2ChjMydCcmDb9TgFrY4htg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*2ChjMydCcmDb9TgFrY4htg.png"&gt;</noscript>
 
 
 
@@ -761,11 +694,8 @@ the anchor elements will get selected as shown below.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*XBmBun1e7jY0aaHsBlZHlg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*XBmBun1e7jY0aaHsBlZHlg.png"&gt;</noscript>
 
 
 

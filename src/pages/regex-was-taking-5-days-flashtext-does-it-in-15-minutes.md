@@ -117,7 +117,7 @@ Here is what one happy user had to say about the library:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/ee3ccc8f84e06b857c0db001c200a203?postId=55f04411025f" data-media-id="ee3ccc8f84e06b857c0db001c200a203" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F430457427444506624%2FBGtVG44p_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/ee3ccc8f84e06b857c0db001c200a203?postId=55f04411025f" data-media-id="ee3ccc8f84e06b857c0db001c200a203" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F430457427444506624%2FBGtVG44p_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -196,7 +196,7 @@ So it’s no good if you want to match partial words like ``word\dvec``. But it 
 
 
 
-<iframe width="700" height="250" src="/media/606710959e67fc221f40ef3e01f44f77?postId=55f04411025f" data-media-id="606710959e67fc221f40ef3e01f44f77" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3116482%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/606710959e67fc221f40ef3e01f44f77?postId=55f04411025f" data-media-id="606710959e67fc221f40ef3e01f44f77" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3116482%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -212,7 +212,7 @@ Instead of extracting keywords you can also replace keywords in sentences. We us
 
 
 
-<iframe width="700" height="250" src="/media/9f3f986634798e40ede57237355de5d1?postId=55f04411025f" data-media-id="9f3f986634798e40ede57237355de5d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3116482%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9f3f986634798e40ede57237355de5d1?postId=55f04411025f" data-media-id="9f3f986634798e40ede57237355de5d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3116482%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

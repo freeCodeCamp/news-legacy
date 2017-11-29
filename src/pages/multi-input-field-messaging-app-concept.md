@@ -1,7 +1,7 @@
 ---
 author: Dawid Woldu
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "A multi-input field messaging app concept"
 subTitle: "Some time ago I shared in a Medium article the idea for context aware messenger app. The idea challenged the design limitation behind all..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*YCv5mOQvmmNsyZf1769nww.gif
@@ -72,7 +72,7 @@ I ditched the context aware part and allowed for saving as many drafts as you ne
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/d7df67a77005882c8f7d9eb78510e9dd?postId=911096778de3" data-media-id="d7df67a77005882c8f7d9eb78510e9dd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMtTGNjTen1g%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/d7df67a77005882c8f7d9eb78510e9dd?postId=911096778de3" data-media-id="d7df67a77005882c8f7d9eb78510e9dd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMtTGNjTen1g%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Luca Matteis
 authorTwitter: https://twitter.com/lmatteis
-authorFacebook: false
+authorFacebook: none
 title: "How to make your React app fully functional, fully reactive, and able to handle all those crazy side effects"
 subTitle: "Functional reactive programming (FRP) is a paradigm that has gained lots of attention lately, especially in the JavaScript front end worl..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*lD7IVk_sCcOcgVDOJPn7cA.jpeg

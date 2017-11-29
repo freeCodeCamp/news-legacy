@@ -1,7 +1,7 @@
 ---
 author: Thomas Noe
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Applying JavaScript: User Scripts"
 subTitle: "Writing a Userscript is a fun way to use your JavaScript skills. It takes you out of the editor into the browser with real time feedback ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*ec0HoiWFiji_XNA4OXk29w.jpeg

@@ -49,7 +49,7 @@ When you create a function with the async keyword that function will always retu
 
 
 
-<iframe width="700" height="250" src="/media/62c9b9b9810ed34059768f87c76fc0e5?postId=b66385983875" data-media-id="62c9b9b9810ed34059768f87c76fc0e5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/62c9b9b9810ed34059768f87c76fc0e5?postId=b66385983875" data-media-id="62c9b9b9810ed34059768f87c76fc0e5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -69,7 +69,7 @@ What is the **await** keyword? Await lets you pause the execution of an async fu
 
 
 
-<iframe width="700" height="250" src="/media/500c446699a160c9b11736af6b93c05a?postId=b66385983875" data-media-id="500c446699a160c9b11736af6b93c05a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/500c446699a160c9b11736af6b93c05a?postId=b66385983875" data-media-id="500c446699a160c9b11736af6b93c05a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -85,7 +85,7 @@ Because an async function is a **Promise**, when you **throw** inside of an asyn
 
 
 
-<iframe width="700" height="250" src="/media/ab85d0460c9d62bd549204278a5649da?postId=b66385983875" data-media-id="ab85d0460c9d62bd549204278a5649da" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ab85d0460c9d62bd549204278a5649da?postId=b66385983875" data-media-id="ab85d0460c9d62bd549204278a5649da" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -97,7 +97,7 @@ If you are using **await** to call the **Promise** you can wrap it in **try/catc
 
 
 
-<iframe width="700" height="250" src="/media/4b4230490e5e29ff26cee17e45329aa8?postId=b66385983875" data-media-id="4b4230490e5e29ff26cee17e45329aa8" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4b4230490e5e29ff26cee17e45329aa8?postId=b66385983875" data-media-id="4b4230490e5e29ff26cee17e45329aa8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -115,7 +115,7 @@ In this simplified example you can see how one might take advantage of the inher
 
 
 
-<iframe width="700" height="250" src="/media/8508c3d934bea7d71e48a6a3b9627761?postId=b66385983875" data-media-id="8508c3d934bea7d71e48a6a3b9627761" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8508c3d934bea7d71e48a6a3b9627761?postId=b66385983875" data-media-id="8508c3d934bea7d71e48a6a3b9627761" allowfullscreen="" frameborder="0"></iframe>
 
 
 

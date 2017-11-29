@@ -1,7 +1,7 @@
 ---
 author: Tiago Lopes Ferreira
 authorTwitter: https://twitter.com/ferreiratiago_
-authorFacebook: false
+authorFacebook: none
 title: "Let’s explore ES6 Generators"
 subTitle: "Generators are an implementation of iterables...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*clLJU6akoeiZuw0Vw9DC8w.png
@@ -48,7 +48,7 @@ The syntax for generators starts with it’s `function*` declaration (please not
 
 
 
-<iframe width="700" height="250" src="/media/ae99277530dbd72eea82c15ee46b8dd5?postId=5e58ed23b0f1" data-media-id="ae99277530dbd72eea82c15ee46b8dd5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ae99277530dbd72eea82c15ee46b8dd5?postId=5e58ed23b0f1" data-media-id="ae99277530dbd72eea82c15ee46b8dd5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -64,7 +64,7 @@ At this point the value on `yield` is emitted and the `generator`’s execution 
 
 
 
-<iframe width="700" height="250" src="/media/eaad29611562050d3d3c6c11523d0e76?postId=5e58ed23b0f1" data-media-id="eaad29611562050d3d3c6c11523d0e76" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/eaad29611562050d3d3c6c11523d0e76?postId=5e58ed23b0f1" data-media-id="eaad29611562050d3d3c6c11523d0e76" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -80,7 +80,7 @@ If we try to `yield` a value on a callback, for instance, even if declared insid
 
 
 
-<iframe width="700" height="250" src="/media/a2f60449f8e049ff77d7e3f04b8e758b?postId=5e58ed23b0f1" data-media-id="a2f60449f8e049ff77d7e3f04b8e758b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a2f60449f8e049ff77d7e3f04b8e758b?postId=5e58ed23b0f1" data-media-id="a2f60449f8e049ff77d7e3f04b8e758b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ If we try to `yield` a value on a callback, for instance, even if declared insid
 
 
 
-<iframe width="700" height="250" src="/media/7bc8337ae0b2a6eef5f37995622a39d5?postId=5e58ed23b0f1" data-media-id="7bc8337ae0b2a6eef5f37995622a39d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7bc8337ae0b2a6eef5f37995622a39d5?postId=5e58ed23b0f1" data-media-id="7bc8337ae0b2a6eef5f37995622a39d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ That’s why ES6 brought the operator `yield*`.
 
 
 
-<iframe width="700" height="250" src="/media/e1bc3a10a11f0192f100995493cc5b78?postId=5e58ed23b0f1" data-media-id="e1bc3a10a11f0192f100995493cc5b78" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e1bc3a10a11f0192f100995493cc5b78?postId=5e58ed23b0f1" data-media-id="e1bc3a10a11f0192f100995493cc5b78" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -122,7 +122,7 @@ This works perfectly with data consumers.
 
 
 
-<iframe width="700" height="250" src="/media/6fe7af2f1757875376aea1a020c78b09?postId=5e58ed23b0f1" data-media-id="6fe7af2f1757875376aea1a020c78b09" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6fe7af2f1757875376aea1a020c78b09?postId=5e58ed23b0f1" data-media-id="6fe7af2f1757875376aea1a020c78b09" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -134,7 +134,7 @@ Internally `yield*` goes over every element on the generator and `yield` it.
 
 
 
-<iframe width="700" height="250" src="/media/d78c6a88f1fa0bed610e03c54d15574d?postId=5e58ed23b0f1" data-media-id="d78c6a88f1fa0bed610e03c54d15574d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d78c6a88f1fa0bed610e03c54d15574d?postId=5e58ed23b0f1" data-media-id="d78c6a88f1fa0bed610e03c54d15574d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ Internally `yield*` goes over every element on the generator and `yield` it.
 
 
 
-<iframe width="700" height="250" src="/media/1c52f63eff7fb087f004e3d6a4187e83?postId=5e58ed23b0f1" data-media-id="1c52f63eff7fb087f004e3d6a4187e83" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1c52f63eff7fb087f004e3d6a4187e83?postId=5e58ed23b0f1" data-media-id="1c52f63eff7fb087f004e3d6a4187e83" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -168,7 +168,7 @@ Internally `yield*` goes over every element on the generator and `yield` it.
 
 
 
-<iframe width="700" height="250" src="/media/3589a102c26328bde6b0294bd041fb7d?postId=5e58ed23b0f1" data-media-id="3589a102c26328bde6b0294bd041fb7d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3589a102c26328bde6b0294bd041fb7d?postId=5e58ed23b0f1" data-media-id="3589a102c26328bde6b0294bd041fb7d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -180,7 +180,7 @@ Because generators are iterables then we can use a data consumer, e.g. `for-of`,
 
 
 
-<iframe width="700" height="250" src="/media/188a264d1f55d46df077c744a460f6fe?postId=5e58ed23b0f1" data-media-id="188a264d1f55d46df077c744a460f6fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/188a264d1f55d46df077c744a460f6fe?postId=5e58ed23b0f1" data-media-id="188a264d1f55d46df077c744a460f6fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -194,7 +194,7 @@ We can add a `return` statement to our generator, however `return` will behave d
 
 
 
-<iframe width="700" height="250" src="/media/948e2fe930435e080d08fb395ccd8978?postId=5e58ed23b0f1" data-media-id="948e2fe930435e080d08fb395ccd8978" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/948e2fe930435e080d08fb395ccd8978?postId=5e58ed23b0f1" data-media-id="948e2fe930435e080d08fb395ccd8978" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -208,7 +208,7 @@ On the side, when using a defined data consumer such as `for-of` or `destructuri
 
 
 
-<iframe width="700" height="250" src="/media/2de7cb5aed71be1c2f65448e52efbcc3?postId=5e58ed23b0f1" data-media-id="2de7cb5aed71be1c2f65448e52efbcc3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2de7cb5aed71be1c2f65448e52efbcc3?postId=5e58ed23b0f1" data-media-id="2de7cb5aed71be1c2f65448e52efbcc3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -224,7 +224,7 @@ It also allow us to store the value returned by the executed generator.
 
 
 
-<iframe width="700" height="250" src="/media/0f07dae204fc4aaf1c5407a37ef161e3?postId=5e58ed23b0f1" data-media-id="0f07dae204fc4aaf1c5407a37ef161e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0f07dae204fc4aaf1c5407a37ef161e3?postId=5e58ed23b0f1" data-media-id="0f07dae204fc4aaf1c5407a37ef161e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -240,7 +240,7 @@ As soon as an exception is thrown the iterator flow breaks and it’s state is s
 
 
 
-<iframe width="700" height="250" src="/media/092369d6c05269007e3c367b8869247d?postId=5e58ed23b0f1" data-media-id="092369d6c05269007e3c367b8869247d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/092369d6c05269007e3c367b8869247d?postId=5e58ed23b0f1" data-media-id="092369d6c05269007e3c367b8869247d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -254,7 +254,7 @@ Besides generators being data producers, through `yield`, they also have the abi
 
 
 
-<iframe width="700" height="250" src="/media/6e17bfd9de2b0a54a613ca6144be2a8a?postId=5e58ed23b0f1" data-media-id="6e17bfd9de2b0a54a613ca6144be2a8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6e17bfd9de2b0a54a613ca6144be2a8a?postId=5e58ed23b0f1" data-media-id="6e17bfd9de2b0a54a613ca6144be2a8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -266,7 +266,7 @@ There’s some interesting points to explore here.
 
 
 
-<iframe width="700" height="250" src="/media/bf01a69441a754506df374810fddc738?postId=5e58ed23b0f1" data-media-id="bf01a69441a754506df374810fddc738" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bf01a69441a754506df374810fddc738?postId=5e58ed23b0f1" data-media-id="bf01a69441a754506df374810fddc738" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -312,7 +312,7 @@ It’s useful to remember that `yield` pauses the generator’s execution, and o
 
 
 
-<iframe width="700" height="250" src="/media/184b2592bac41a02c1f8ceae245f78b3?postId=5e58ed23b0f1" data-media-id="184b2592bac41a02c1f8ceae245f78b3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/184b2592bac41a02c1f8ceae245f78b3?postId=5e58ed23b0f1" data-media-id="184b2592bac41a02c1f8ceae245f78b3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -330,7 +330,7 @@ Next is an example of fetching a JSON file with `promises` as we know it. We wil
 
 
 
-<iframe width="700" height="250" src="/media/473b0191b7409e33976b601165894578?postId=5e58ed23b0f1" data-media-id="473b0191b7409e33976b601165894578" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/473b0191b7409e33976b601165894578?postId=5e58ed23b0f1" data-media-id="473b0191b7409e33976b601165894578" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -342,7 +342,7 @@ Using [co library](https://github.com/tj/co) and a generator our code will look 
 
 
 
-<iframe width="700" height="250" src="/media/192a910da7d165cf0be05303426bf929?postId=5e58ed23b0f1" data-media-id="192a910da7d165cf0be05303426bf929" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/192a910da7d165cf0be05303426bf929?postId=5e58ed23b0f1" data-media-id="192a910da7d165cf0be05303426bf929" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -354,7 +354,7 @@ As for the new `async/await` our code will look a lot like our previous version.
 
 
 
-<iframe width="700" height="250" src="/media/e57a325b974aec852c1ba62b0b459079?postId=5e58ed23b0f1" data-media-id="e57a325b974aec852c1ba62b0b459079" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e57a325b974aec852c1ba62b0b459079?postId=5e58ed23b0f1" data-media-id="e57a325b974aec852c1ba62b0b459079" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "The 10 best free online courses of 2016 according to the data"
 subTitle: "Last year, for the first time ever, I published a list of Class Central’s best online courses for the year. And now we’re back with a lis..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*iRuQyhpE53KEsizt3Cxedg.jpeg
@@ -34,7 +34,7 @@ _“Coding in your Classroom, Now!_” is taught by the University of Urbino.
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/56ea9a72508c8663a52d9d36c0a5803b?postId=c479b55ed851" data-media-id="56ea9a72508c8663a52d9d36c0a5803b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fy8jGOi-pHM0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/56ea9a72508c8663a52d9d36c0a5803b?postId=c479b55ed851" data-media-id="56ea9a72508c8663a52d9d36c0a5803b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fy8jGOi-pHM0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -61,7 +61,7 @@ _Tsinghua University via edX_
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/af213bd5f1c373d2584f66119670775e?postId=c479b55ed851" data-media-id="af213bd5f1c373d2584f66119670775e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6qhB2y7MVtY%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/af213bd5f1c373d2584f66119670775e?postId=c479b55ed851" data-media-id="af213bd5f1c373d2584f66119670775e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6qhB2y7MVtY%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -79,7 +79,7 @@ _Processing Foundation via Kadenze_
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a4cd4285b0fe43a4739c55ef2ad23880?postId=c479b55ed851" data-media-id="a4cd4285b0fe43a4739c55ef2ad23880" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfS2629-8bnw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a4cd4285b0fe43a4739c55ef2ad23880?postId=c479b55ed851" data-media-id="a4cd4285b0fe43a4739c55ef2ad23880" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfS2629-8bnw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -101,7 +101,7 @@ _University of Illinois at Urbana-Champaign via Coursera_
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/e8f8dcb19f7beafef666c8cb01e3a481?postId=c479b55ed851" data-media-id="e8f8dcb19f7beafef666c8cb01e3a481" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRIoFWTddMzM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/e8f8dcb19f7beafef666c8cb01e3a481?postId=c479b55ed851" data-media-id="e8f8dcb19f7beafef666c8cb01e3a481" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRIoFWTddMzM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -119,7 +119,7 @@ _University of Cape Town via Coursera_
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/29168da0b39d1627182e60f384f0b3e2?postId=c479b55ed851" data-media-id="29168da0b39d1627182e60f384f0b3e2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTcWYG64WO20%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/29168da0b39d1627182e60f384f0b3e2?postId=c479b55ed851" data-media-id="29168da0b39d1627182e60f384f0b3e2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTcWYG64WO20%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -137,7 +137,7 @@ _University of Minnesota via Coursera_
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/e06cfe4a5f652a1b986665e6c005af19?postId=c479b55ed851" data-media-id="e06cfe4a5f652a1b986665e6c005af19" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHlbKr-q83OQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/e06cfe4a5f652a1b986665e6c005af19?postId=c479b55ed851" data-media-id="e06cfe4a5f652a1b986665e6c005af19" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHlbKr-q83OQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -155,7 +155,7 @@ _via Kadenze_
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ac48772806999283de23fe916ed40543?postId=c479b55ed851" data-media-id="ac48772806999283de23fe916ed40543" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9YVSZJ3mkic%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ac48772806999283de23fe916ed40543?postId=c479b55ed851" data-media-id="ac48772806999283de23fe916ed40543" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9YVSZJ3mkic%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -173,7 +173,7 @@ _Stellenbosch University via FutureLearn_
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/5fdf13138a46e375184c12fcfbabc05b?postId=c479b55ed851" data-media-id="5fdf13138a46e375184c12fcfbabc05b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBELOUHNpg0I%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/5fdf13138a46e375184c12fcfbabc05b?postId=c479b55ed851" data-media-id="5fdf13138a46e375184c12fcfbabc05b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBELOUHNpg0I%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -191,7 +191,7 @@ _Stanford University via Coursera_
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/2d036bd96255716fd6837365e402ac11?postId=c479b55ed851" data-media-id="2d036bd96255716fd6837365e402ac11" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ffhz8qOWHSr0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/2d036bd96255716fd6837365e402ac11?postId=c479b55ed851" data-media-id="2d036bd96255716fd6837365e402ac11" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ffhz8qOWHSr0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

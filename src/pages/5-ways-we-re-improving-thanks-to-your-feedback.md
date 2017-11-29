@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "5 Ways We’re Improving Thanks to Your Feedback"
 subTitle: "This was originally published on our now-defunct blog on September 17, 2015...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*O_iKA7pAKU6JZcFm.png

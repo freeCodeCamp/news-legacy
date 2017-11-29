@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "Get a front-row seat in Harvard’s largest class, thanks to virtual reality"
 subTitle: "With an acceptance rate of 6%, Harvard University is one of toughest universities to get into...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*LxaI9UMALMvSgt4j.jpg
@@ -48,7 +48,7 @@ But now, with the magic of virtual reality, you can pretend to be a student in H
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/db07c5541bd42a36679ec447dbd23f2a?postId=16970919ebb2" data-media-id="db07c5541bd42a36679ec447dbd23f2a" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/db07c5541bd42a36679ec447dbd23f2a?postId=16970919ebb2" data-media-id="db07c5541bd42a36679ec447dbd23f2a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ You can still watch it, if you don’t have the appropriate hardware. Just click
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c79ec0cb35f6ab9fa048ca204fee3b4f?postId=16970919ebb2" data-media-id="c79ec0cb35f6ab9fa048ca204fee3b4f" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c79ec0cb35f6ab9fa048ca204fee3b4f?postId=16970919ebb2" data-media-id="c79ec0cb35f6ab9fa048ca204fee3b4f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

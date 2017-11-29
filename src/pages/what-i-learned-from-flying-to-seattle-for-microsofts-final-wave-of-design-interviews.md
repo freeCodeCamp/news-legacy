@@ -1,7 +1,7 @@
 ---
 author: tif.wang
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "What I learned from flying to Seattle for Microsoft’s final wave of design interviews"
 subTitle: "Before I tell you about my onsite interview with Microsoft, I applied for the UX design intern position. My experience may differ from ot..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*6gTP1ZkTCSFHy7BMsV0vJw.jpeg

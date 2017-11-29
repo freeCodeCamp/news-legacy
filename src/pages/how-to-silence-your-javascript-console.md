@@ -42,7 +42,7 @@ First you need some basic setup code:
 
 
 
-<iframe width="700" height="250" src="/media/5289a6999f495acb5f0ad7fd61af0bff?postId=8fcdd96997f7" data-media-id="5289a6999f495acb5f0ad7fd61af0bff" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5289a6999f495acb5f0ad7fd61af0bff?postId=8fcdd96997f7" data-media-id="5289a6999f495acb5f0ad7fd61af0bff" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -54,7 +54,7 @@ Then, you can write code using **mute()** and **unmute()** like so:
 
 
 
-<iframe width="700" height="250" src="/media/75ba505763bafb874998423114bc4c34?postId=8fcdd96997f7" data-media-id="75ba505763bafb874998423114bc4c34" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/75ba505763bafb874998423114bc4c34?postId=8fcdd96997f7" data-media-id="75ba505763bafb874998423114bc4c34" allowfullscreen="" frameborder="0"></iframe>
 
 
 

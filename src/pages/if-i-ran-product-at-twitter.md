@@ -57,7 +57,7 @@ A tweet can be divided into four basic elements:
 
 
 
-<iframe width="700" height="250" src="/media/31edb76511cd8f201319c912e22b4ee2?postId=b8dc1e3458cd" data-media-id="31edb76511cd8f201319c912e22b4ee2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/31edb76511cd8f201319c912e22b4ee2?postId=b8dc1e3458cd" data-media-id="31edb76511cd8f201319c912e22b4ee2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -81,7 +81,7 @@ If nothing else, it seems a little bit ridiculous that the best way the former C
 
 
 
-<iframe width="500" height="250" src="/media/a690a9bd0a70a3c9e95968e5fb03199d?postId=b8dc1e3458cd" data-media-id="a690a9bd0a70a3c9e95968e5fb03199d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/a690a9bd0a70a3c9e95968e5fb03199d?postId=b8dc1e3458cd" data-media-id="a690a9bd0a70a3c9e95968e5fb03199d" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -173,7 +173,7 @@ At the core of Twitter’s Wall Street woes is the slowing growth. Spending a fe
 
 
 
-<iframe width="500" height="250" src="/media/582227dd33c2941bfd39ba6d1aa2962a?postId=b8dc1e3458cd" data-media-id="582227dd33c2941bfd39ba6d1aa2962a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/582227dd33c2941bfd39ba6d1aa2962a?postId=b8dc1e3458cd" data-media-id="582227dd33c2941bfd39ba6d1aa2962a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -343,7 +343,7 @@ But I also think Twitter missed an _enormous_ opportunity, specifically because 
 
 
 
-<iframe width="500" height="250" src="/media/a9482c41f93030e15e458b0072df9bf4?postId=b8dc1e3458cd" data-media-id="a9482c41f93030e15e458b0072df9bf4" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/a9482c41f93030e15e458b0072df9bf4?postId=b8dc1e3458cd" data-media-id="a9482c41f93030e15e458b0072df9bf4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -462,7 +462,7 @@ Here’s to Twitter in 2016.
 
 
 
-<iframe width="500" height="250" src="/media/1eb81208fa7946eba6fa722ae729c206?postId=b8dc1e3458cd" data-media-id="1eb81208fa7946eba6fa722ae729c206" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/1eb81208fa7946eba6fa722ae729c206?postId=b8dc1e3458cd" data-media-id="1eb81208fa7946eba6fa722ae729c206" allowfullscreen="" frameborder="0"></iframe>
 
 
 

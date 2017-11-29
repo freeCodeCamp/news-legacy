@@ -1,7 +1,7 @@
 ---
 author: Gwendolyn Faraday
 authorTwitter: https://twitter.com/gwen_faraday
-authorFacebook: false
+authorFacebook: none
 title: "How going to coding events helped me get an awesome job"
 subTitle: "Everyone kept telling me about the importance of networking, but it was always something I blew off. I’m pretty quiet and introverted, pa..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*uFINNsYNbYuPIC3sUMyy6w.jpeg

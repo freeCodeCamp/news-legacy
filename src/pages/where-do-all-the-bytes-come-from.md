@@ -1,7 +1,7 @@
 ---
 author: Colt McAnlis
 authorTwitter: https://twitter.com/duhroach
-authorFacebook: false
+authorFacebook: none
 title: "Where do all the bytes come from?"
 subTitle: "Great question Dion! I will answer it, and not just because you’re my new boss, but because it’s a good question. (but also because you’r..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*DBN4XJyIGy7gnrNl.

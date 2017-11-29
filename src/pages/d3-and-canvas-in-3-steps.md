@@ -1,7 +1,7 @@
 ---
 author: lars verspohl
 authorTwitter: https://twitter.com/lars_vers
-authorFacebook: false
+authorFacebook: none
 title: "D3 and Canvas in 3 steps"
 subTitle: "The bind, the draw and the interactivity"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KCOutWkXvU7YhGY2f76kfQ.jpeg

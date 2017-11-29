@@ -142,7 +142,7 @@ Here’s a demo of Facebook Social VR, built on top of Oculus, a company he acqu
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/001fdc7a22e3e309dc0388f57588de13?postId=5fbcaeb29ee1" data-media-id="001fdc7a22e3e309dc0388f57588de13" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FYuIgyKLPt3s%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/001fdc7a22e3e309dc0388f57588de13?postId=5fbcaeb29ee1" data-media-id="001fdc7a22e3e309dc0388f57588de13" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FYuIgyKLPt3s%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

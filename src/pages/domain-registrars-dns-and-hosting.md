@@ -1,7 +1,7 @@
 ---
 author: ᴋɪʀʙʏ ᴋᴏʜʟᴍᴏʀɢᴇɴ
 authorTwitter: https://twitter.com/_kirbyk
-authorFacebook: false
+authorFacebook: none
 title: "Domain registrars, DNS, and hosting"
 subTitle: "It took me a while to set up the infrastructure that runs my website and email in a way that made me happy. There are a lot of crappy dom..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KBhZGtrJX3Xiq6P28mkXMw.jpeg

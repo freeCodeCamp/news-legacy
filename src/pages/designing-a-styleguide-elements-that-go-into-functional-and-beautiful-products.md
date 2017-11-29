@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "Designing a styleguide: elements that go into building compelling products"
 subTitle: "If you look at companies like Dropbox, Google, and Twitter you’ll notice that they each have their own unique aesthetic. Across all their..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*4yR_gp-2nsOLTDKcvVFYTQ.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/designing-a-styleguide-elements-that-go-int
 id: designing-a-styleguide-elements-that-go-into-functional-and-beautiful-products-ff1621e00a0e
 date: 2016-07-19T15:26:45.699Z
 tags: [
-  "Design",
-  "UX",
-  "User Experience",
-  "Tech",
-  "Web Development"
+	"Design",
+	"UX",
+	"User Experience",
+	"Tech",
+	"Web Development"
 ]
 ---
 # Designing a styleguide: elements that go into building compelling products
@@ -36,11 +36,8 @@ Here are a few suggestions for when you’re designing styleguides.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*RU8Uez05S3uH9Z2Dem95Jw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*RU8Uez05S3uH9Z2Dem95Jw.png"&gt;</noscript>
 
 
 
@@ -62,11 +59,8 @@ Styleguides should always have a page on design principles. Design principles ar
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_Mro6NEPE37bgCI4lAf9UQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_Mro6NEPE37bgCI4lAf9UQ.png"&gt;</noscript>
 
 
 
@@ -98,11 +92,8 @@ It’s important to limit the number of typefaces and sizes you use in order to 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*a0mAayMeVdnS91fCmqzcHA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*a0mAayMeVdnS91fCmqzcHA.png"&gt;</noscript>
 
 
 
@@ -118,11 +109,8 @@ Also, include example use cases of typography to help other designers and develo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*uBpePqxw3lx1qbFuVqxAgA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*uBpePqxw3lx1qbFuVqxAgA.png"&gt;</noscript>
 
 
 
@@ -146,11 +134,8 @@ If you have have the assets, consider including a section that details what kind
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hl--cmHv67TqFa8CH3iOiQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*hl--cmHv67TqFa8CH3iOiQ.png"&gt;</noscript>
 
 
 
@@ -166,11 +151,8 @@ Imagery isn’t only limited to photographs. Companies like Dropbox rarely use p
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VUHIPQWqpg3viiZqKVSP4A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*VUHIPQWqpg3viiZqKVSP4A.png"&gt;</noscript>
 
 
 
@@ -186,11 +168,8 @@ Here is an example of Hubspot’s imagery styleguide.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*27mA2Zmzoy6Wgy_6vm_1Ew.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*27mA2Zmzoy6Wgy_6vm_1Ew.png"&gt;</noscript>
 
 
 
@@ -232,11 +211,8 @@ For reading on grids, see [A guide to creating grid systems that are built aroun
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pyqsEE_67yOrCE11zTIgfw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*pyqsEE_67yOrCE11zTIgfw.png"&gt;</noscript>
 
 
 
@@ -252,11 +228,8 @@ Spacing should have its own section. Consistent spacing across a product creates
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*K_2-AAgbhI8umPIkW1BruQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*K_2-AAgbhI8umPIkW1BruQ.png"&gt;</noscript>
 
 
 
@@ -291,11 +264,8 @@ As Buffer puts it in their styleguide:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*rykDfsBH4CLdSSL1SSRBeQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*rykDfsBH4CLdSSL1SSRBeQ.png"&gt;</noscript>
 
 
 
@@ -326,11 +296,8 @@ A lot of designers and developers think about UIs as collections of components. 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*oelOzqIHwp84GiA0qYb8vw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*oelOzqIHwp84GiA0qYb8vw.png"&gt;</noscript>
 
 
 
@@ -348,11 +315,8 @@ Component-based thinking also helps engineers. Design components can translate n
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*HlnTaAOtCY2O8w2miiaigQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*HlnTaAOtCY2O8w2miiaigQ.png"&gt;</noscript>
 
 
 
@@ -368,11 +332,8 @@ While you’ll often see components in UI and pattern libraries, it’s also use
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nl4FeP6UKtLQxZmZHKwVow.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nl4FeP6UKtLQxZmZHKwVow.png"&gt;</noscript>
 
 
 
@@ -423,11 +384,8 @@ _P.S. If you enjoyed this article, it would mean a lot if you click the 💚 and
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*BsY0zLcwT-yX4ws2NPLWYQ.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*BsY0zLcwT-yX4ws2NPLWYQ.png"&gt;</noscript>
 
 ](https://atomspace.co/) 
 
@@ -435,11 +393,8 @@ _P.S. If you enjoyed this article, it would mean a lot if you click the 💚 and
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*FvxlEd29saoFNox80f3D5A.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*FvxlEd29saoFNox80f3D5A.png"&gt;</noscript>
 
 ](https://twitter.com/JonathanZWhite) 
 

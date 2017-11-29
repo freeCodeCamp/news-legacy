@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/how-you-can-build-a-strong-coding-community
 id: how-you-can-build-a-strong-coding-community-in-your-city-and-how-i-did-it-7606c81c3822
 date: 2017-09-28T22:01:43.209Z
 tags: [
-  "Tech",
-  "Technology",
-  "Startup",
-  "Self Improvement",
-  "Life"
+	"Tech",
+	"Technology",
+	"Startup",
+	"Self Improvement",
+	"Life"
 ]
 ---
 # How you can build a strong coding community in your city — and how I did it
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tJetdMFlvYp7UpaqL7qq-w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*tJetdMFlvYp7UpaqL7qq-w.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*tJetdMFlvYp7UpaqL7qq-w.jpeg"&gt;</noscript>
 
 
 
@@ -60,11 +57,8 @@ In this article, I’ll share some tips for running a community. I’ll elaborat
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*rQSp-0GU7jtPbQA3joYMNw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*rQSp-0GU7jtPbQA3joYMNw.jpeg"&gt;</noscript>
 
 
 
@@ -100,11 +94,8 @@ For the quiet types, I often try to engage them in conversations. Sometimes in t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*zsTHhejwPh7Cnry_nfGg-g.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*zsTHhejwPh7Cnry_nfGg-g.jpeg"&gt;</noscript>
 
 
 
@@ -130,11 +121,8 @@ If you’re not good at remembering names, try to employ techniques like repeati
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*dHQqzT5j7bDIupuk3-UQhg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="56" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*dHQqzT5j7bDIupuk3-UQhg.jpeg"&gt;</noscript>
 
 
 
@@ -158,11 +146,8 @@ By learning a few facts about them, I can do one of the following things: direct
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0rP1iq5sd3YYWzfoShII9A.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0rP1iq5sd3YYWzfoShII9A.jpeg"&gt;</noscript>
 
 
 
@@ -190,11 +175,8 @@ The environment is organic and gives members an opportunity to develop friendshi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-rg56IuYZPn9KDifs1zsCg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*-rg56IuYZPn9KDifs1zsCg.jpeg"&gt;</noscript>
 
 
 
@@ -224,11 +206,8 @@ If you can’t schedule events two weeks in advance, then try to schedule an eve
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*c4exznCETpQFaUmC2o3S3w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*c4exznCETpQFaUmC2o3S3w.jpeg"&gt;</noscript>
 
 
 
@@ -258,11 +237,8 @@ When you put up a sign, you’re openly advertising as well. There have been tim
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*V2sB6VLe_1c6k9Df_DLfyQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*V2sB6VLe_1c6k9Df_DLfyQ.jpeg"&gt;</noscript>
 
 
 
@@ -304,11 +280,8 @@ And for my “talks, workshops, or hack nights”, I often schedule it on Saturd
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*aLj-ySMnOlzXzbwR1bI_dQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*aLj-ySMnOlzXzbwR1bI_dQ.jpeg"&gt;</noscript>
 
 
 
@@ -342,11 +315,8 @@ New events breathe life into your community and keeps things fun and refreshing.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Z46m1h5HSDq_sNRFCaLs_w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Z46m1h5HSDq_sNRFCaLs_w.jpeg"&gt;</noscript>
 
 
 
@@ -380,11 +350,8 @@ As the event organizer, if I have time, I may hang out for a few extra hours if 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*SRRUxcThehoWOXQqs0H2eA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*SRRUxcThehoWOXQqs0H2eA.jpeg"&gt;</noscript>
 
 
 
@@ -412,11 +379,8 @@ Lastly, I ask people what they want to see from the community. I run a poll to g
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*y9JdwIA0u1jLrWv1N7kfTw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*y9JdwIA0u1jLrWv1N7kfTw.jpeg"&gt;</noscript>
 
 
 
@@ -438,11 +402,8 @@ So if you’re willing to build your community and see it grow, be prepared to p
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qSlMu7b5s-57XLIeNw6vtA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="56" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*qSlMu7b5s-57XLIeNw6vtA.jpeg"&gt;</noscript>
 
 
 
@@ -456,11 +417,8 @@ The 25-pound slow-cooked pulled pork we ate. 🍖🤤
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*M3sRDdCBlhrghaSbwepNqg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="56" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*M3sRDdCBlhrghaSbwepNqg.jpeg"&gt;</noscript>
 
 
 
@@ -474,11 +432,8 @@ On top of the roof of Google San Francisco with the beautiful Oakland Bay Bridge
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6D3-qYh3uI7xbW16PXElaw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6D3-qYh3uI7xbW16PXElaw.jpeg"&gt;</noscript>
 
 
 
@@ -492,11 +447,8 @@ Enjoying a refreshing cup of Philz coffee on another field trip to SFHTML5.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4ZUwC4qGQ0gPGXw1K23AYw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4ZUwC4qGQ0gPGXw1K23AYw.jpeg"&gt;</noscript>
 
 
 
@@ -520,11 +472,8 @@ If you want to find out more about me and my involvement in the community, you c
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*LsUfm8T5-rWlXvykDcdTPw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*LsUfm8T5-rWlXvykDcdTPw.jpeg"&gt;</noscript>
 
 
 

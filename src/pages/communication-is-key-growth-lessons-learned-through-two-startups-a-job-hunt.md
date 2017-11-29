@@ -1,7 +1,7 @@
 ---
 author: Niki Agrawal
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Communication is key: growth lessons learned through two startups + a job hunt"
 subTitle: "It’s been a crazy two years. I founded two startups and went through a job search. And wow, do I have some stories to tell! And more impo..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0kTzlSToNun1C8a5HDBB1g.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Beau Carnes
 authorTwitter: https://twitter.com/CarnesBeau
-authorFacebook: false
+authorFacebook: none
 title: "How Recursion Works — explained with flowcharts and a video"
 subTitle: "Recursion can be tough to understand — especially for new programmers. In it’s simplest form, a recursive function is one that calls itse..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*FVSUmSQEEsagXaKa_ajtvA.png
@@ -212,7 +212,7 @@ You can also watch this 5-minute video I made about recursion. It should reinfor
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/77bb51a862ca6869bff642edb26b4ecc?postId=de61f40cb7f9" data-media-id="77bb51a862ca6869bff642edb26b4ecc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvPEJSJMg4jY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/77bb51a862ca6869bff642edb26b4ecc?postId=de61f40cb7f9" data-media-id="77bb51a862ca6869bff642edb26b4ecc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvPEJSJMg4jY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

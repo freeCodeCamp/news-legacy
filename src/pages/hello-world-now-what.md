@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Hello world! Now what?"
 subTitle: "Almost every programmer I know started out coding by building a simple Hello, World! app. I did the same, but wasn’t really sure where to..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*S9xlhocRLXNt7oOL.png

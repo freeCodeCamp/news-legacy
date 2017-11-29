@@ -1,7 +1,7 @@
 ---
 author: Zell Liew
 authorTwitter: https://twitter.com/zellwk
-authorFacebook: false
+authorFacebook: none
 title: "How to choose and pair typefaces"
 subTitle: "The act of choosing two typefaces is probably the first (and often most difficult) task you do when creating a new design. Many people ge..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*CugOEud0tfSYwOwmJo8oXw.jpeg

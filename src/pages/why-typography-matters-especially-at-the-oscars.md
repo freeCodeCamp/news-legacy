@@ -1,7 +1,7 @@
 ---
 author: benjamin bannister
 authorTwitter: https://twitter.com/mrbenbannister
-authorFacebook: false
+authorFacebook: none
 title: "Why Typography Matters — Especially At The Oscars"
 subTitle: "There was a major twist ending and a major snafu at the very end of the 2017 Academy Awards for the category of Best Picture. The wrong w..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QZbMZH9PNKkEujjUaGOWKQ.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Rick West
 authorTwitter: https://twitter.com/rick_west8
-authorFacebook: false
+authorFacebook: none
 title: "Why one mentor just isn’t enough"
 subTitle: "A mentor can give career guidance and help with learning. They can teach you how to solve problems, network, and the list goes on...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*EdRdsBdJ3YAAoF09wVjUfA.jpeg

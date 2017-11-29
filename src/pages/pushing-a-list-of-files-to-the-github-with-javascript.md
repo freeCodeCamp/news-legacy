@@ -1,7 +1,7 @@
 ---
 author: Illia Kolodiazhnyi
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to commit entire directories to GitHub directly from your browser using GitHub.js"
 subTitle: "Did you know you can parse a movie database website, then store its data in your own GitHub repository — without ever leaving your browse..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ixeHa7nfJp7CPSZ2HjSywg.jpeg

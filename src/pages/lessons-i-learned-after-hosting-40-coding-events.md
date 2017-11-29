@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/lessons-i-learned-after-hosting-40-coding-e
 id: lessons-i-learned-after-hosting-40-coding-events-e949ecc157f
 date: 2017-03-29T05:50:36.883Z
 tags: [
-  "Web Development",
-  "Technology",
-  "Life Lessons",
-  "Tech",
-  "Self Improvement"
+	"Web Development",
+	"Technology",
+	"Life Lessons",
+	"Tech",
+	"Self Improvement"
 ]
 ---
 # I helped host 40 coding events last year. Here’s what I learned.
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*wY39RD2O9DrSxqdcq9vVtg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*wY39RD2O9DrSxqdcq9vVtg.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*wY39RD2O9DrSxqdcq9vVtg.jpeg"&gt;</noscript>
 
 
 
@@ -54,13 +51,10 @@ Our local freeCodeCamp study group in [Brasov, Romania](https://www.facebook.com
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ZkuuXVoHQCLSwBIr723FLw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1200/1*ZkuuXVoHQCLSwBIr723FLw.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*ZkuuXVoHQCLSwBIr723FLw.jpeg"&gt;</noscript>
 
 
 
@@ -72,13 +66,10 @@ Our local freeCodeCamp study group in [Brasov, Romania](https://www.facebook.com
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*WCt2I_ZxZooNbJsHu65qOA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1200/1*WCt2I_ZxZooNbJsHu65qOA.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*WCt2I_ZxZooNbJsHu65qOA.jpeg"&gt;</noscript>
 
 
 
@@ -100,11 +91,6 @@ Over the past year, we’ve hosted weekly meetings every Tuesday like clockwork.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*68Wvx9A31B5md-Xia1E5QA.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*68Wvx9A31B5md-Xia1E5QA.jpeg"&gt;</noscript>
 
 
 
@@ -120,27 +106,6 @@ Over the past year, we’ve hosted weekly meetings every Tuesday like clockwork.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tLGDVOThrSTG1_SdXwhBJA.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="56" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*tLGDVOThrSTG1_SdXwhBJA.jpeg"&gt;</noscript>
-
-
-
-
-
-
-
-
-
-
-
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tf7REZDVd39Qi-Nzpg0ZPg.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="56" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*tf7REZDVd39Qi-Nzpg0ZPg.jpeg"&gt;</noscript>
 
 
 
@@ -156,11 +121,25 @@ Over the past year, we’ve hosted weekly meetings every Tuesday like clockwork.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*fwE2xg9elER53Wr1N0-vAA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*fwE2xg9elER53Wr1N0-vAA.jpeg"&gt;</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -178,11 +157,6 @@ We also organized an interactive introduction to algorithms workshop. With this 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0YJrLHBbz9pesG9vBB0txw.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*0YJrLHBbz9pesG9vBB0txw.jpeg"&gt;</noscript>
 
 
 
@@ -194,11 +168,10 @@ We also organized an interactive introduction to algorithms workshop. With this 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*NGccyOsl7byNxPMJOFGShw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="53"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*NGccyOsl7byNxPMJOFGShw.jpeg"&gt;</noscript>
+
+
 
 
 
@@ -226,11 +199,6 @@ Bring on the New Year and it starts all over again!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*1xjW6DJcUOZyQ0PENWFUxw.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*1xjW6DJcUOZyQ0PENWFUxw.jpeg"&gt;</noscript>
 
 
 
@@ -246,11 +214,6 @@ Bring on the New Year and it starts all over again!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*50N-FsSKrUtrTPdE819UUQ.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*50N-FsSKrUtrTPdE819UUQ.jpeg"&gt;</noscript>
 
 
 
@@ -262,11 +225,12 @@ Bring on the New Year and it starts all over again!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vEYB7W9Cfxyoa91Y7cvV1w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*vEYB7W9Cfxyoa91Y7cvV1w.jpeg"&gt;</noscript>
+
+
+
+
 
 
 
@@ -290,11 +254,8 @@ That’s how I also came around to freeCodeCamp — because I’ve wanted to
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*WkPZhd_9rctij_LPSgKowQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*WkPZhd_9rctij_LPSgKowQ.jpeg"&gt;</noscript>
 
 
 
@@ -316,27 +277,6 @@ Needless to say, learning Node.js hasn’t happened yet for me yet. I’m still 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0mHdJSg659XQ_a2l_NHLfw.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*0mHdJSg659XQ_a2l_NHLfw.jpeg"&gt;</noscript>
-
-
-
-
-
-
-
-
-
-
-
-![](https://cdn-images-1.medium.com/freeze/max/60/1*larA-da-cbjy8iNOqQjSew.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*larA-da-cbjy8iNOqQjSew.jpeg"&gt;</noscript>
 
 
 
@@ -352,11 +292,23 @@ Needless to say, learning Node.js hasn’t happened yet for me yet. I’m still 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*U5Gl8R778hgcGME-Ahb4tg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*U5Gl8R778hgcGME-Ahb4tg.jpeg"&gt;</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -380,11 +332,8 @@ Then I started spreading word about the events, both online and offline. People 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*o20YNdKQkqX2_1qp3j1rjg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*o20YNdKQkqX2_1qp3j1rjg.jpeg"&gt;</noscript>
 
 
 
@@ -398,11 +347,8 @@ One of the people who joined us was one of my first mentors, the first senior de
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*uXZG0o9UM4laEqmYJlI9EA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*uXZG0o9UM4laEqmYJlI9EA.jpeg"&gt;</noscript>
 
 
 
@@ -420,11 +366,6 @@ We create the Facebook events. We make the cafe reservation once the people conf
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hZAG_G9-Kfanth3-ife3FA.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*hZAG_G9-Kfanth3-ife3FA.jpeg"&gt;</noscript>
 
 
 
@@ -436,11 +377,6 @@ We create the Facebook events. We make the cafe reservation once the people conf
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AeUbDNVQDsDCxuxrg_eW6Q.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*AeUbDNVQDsDCxuxrg_eW6Q.jpeg"&gt;</noscript>
 
 
 
@@ -452,11 +388,6 @@ We create the Facebook events. We make the cafe reservation once the people conf
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4XHLE8IG9ulaUBOC9YfKxQ.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*4XHLE8IG9ulaUBOC9YfKxQ.jpeg"&gt;</noscript>
 
 
 
@@ -468,11 +399,14 @@ We create the Facebook events. We make the cafe reservation once the people conf
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jB2Ahh01mhgtFltwY-z8PA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*jB2Ahh01mhgtFltwY-z8PA.jpeg"&gt;</noscript>
+
+
+
+
+
+
 
 
 
@@ -490,11 +424,8 @@ When we meet, we try our best to make it clear that an event is in progress. (I�
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*oMm756LR3Qc-Sz0kJsQAkA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*oMm756LR3Qc-Sz0kJsQAkA.jpeg"&gt;</noscript>
 
 
 
@@ -514,11 +445,8 @@ The cafes are empty on Tuesdays, and they are more than happy to accommodate cus
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ABn9oJSSWah5NHJgYAfx1w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ABn9oJSSWah5NHJgYAfx1w.jpeg"&gt;</noscript>
 
 
 
@@ -542,11 +470,8 @@ In the beginning, we tried to host a formal program and schedule topics from the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*QKywAGNpmVLFHqz6Pjzm7w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*QKywAGNpmVLFHqz6Pjzm7w.jpeg"&gt;</noscript>
 
 
 
@@ -558,11 +483,8 @@ In the beginning, we tried to host a formal program and schedule topics from the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*2rgMNjxsj0HiotQ1d3eL9Q.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*2rgMNjxsj0HiotQ1d3eL9Q.jpeg"&gt;</noscript>
 
 
 
@@ -578,11 +500,8 @@ In the beginning, we tried to host a formal program and schedule topics from the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Q_FvK_5kLQAHLrK6gCDJuA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*Q_FvK_5kLQAHLrK6gCDJuA.jpeg"&gt;</noscript>
 
 
 
@@ -594,11 +513,8 @@ In the beginning, we tried to host a formal program and schedule topics from the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VtD4coxB5X3hYA_Jd2ADBg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*VtD4coxB5X3hYA_Jd2ADBg.jpeg"&gt;</noscript>
 
 
 
@@ -614,11 +530,8 @@ In the beginning, we tried to host a formal program and schedule topics from the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*mLjWlfPTLn75hhQ7Ef4Okw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*mLjWlfPTLn75hhQ7Ef4Okw.jpeg"&gt;</noscript>
 
 
 
@@ -630,11 +543,8 @@ In the beginning, we tried to host a formal program and schedule topics from the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JRBksS3GFELpNw55MOZ32w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*JRBksS3GFELpNw55MOZ32w.jpeg"&gt;</noscript>
 
 
 
@@ -664,11 +574,8 @@ This will probably be separate from our Tuesday night events. We aren’t yet su
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ByRdA5yUyDQsZ3_Mzir8Mw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ByRdA5yUyDQsZ3_Mzir8Mw.jpeg"&gt;</noscript>
 
 
 

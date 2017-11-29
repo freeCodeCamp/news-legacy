@@ -1,7 +1,7 @@
 ---
 author: Patryk Adaś
 authorTwitter: https://twitter.com/patrykadas
-authorFacebook: false
+authorFacebook: none
 title: "Lossless Web Navigation with Trails"
 subTitle: "Since the early 2000’s, the desktop metaphor of tabbed browsing has dominated the way we navigate the web. With Browser.html, a Mozilla R..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*a2HidWVvbaqVlct9OORVhw.png
@@ -120,7 +120,7 @@ This is what Nala would have actually seen:
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/b37097bb378bce6538f34a330c8671a6?postId=9cd48c0abb56" data-media-id="b37097bb378bce6538f34a330c8671a6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBL-gib7jIi0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/b37097bb378bce6538f34a330c8671a6?postId=9cd48c0abb56" data-media-id="b37097bb378bce6538f34a330c8671a6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBL-gib7jIi0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

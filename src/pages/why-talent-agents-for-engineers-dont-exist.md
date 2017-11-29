@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "Why talent agents for engineers don’t exist"
 subTitle: "People often ask me if I’m a talent agent for engineers, in the same way that actors have talent agents in Hollywood. In a lot of ways, t..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*JDW5LJY1XV8N6XCdC4uqjQ.png

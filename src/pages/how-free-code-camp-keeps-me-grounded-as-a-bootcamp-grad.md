@@ -1,7 +1,7 @@
 ---
 author: LJ Kenward
 authorTwitter: https://twitter.com/LJKenward
-authorFacebook: false
+authorFacebook: none
 title: "How Free Code Camp keeps me grounded as a recent bootcamp grad"
 subTitle: "The past year was insane. Yeah, I transitioned from truck driving into a full time junior developer role. But this isn’t that story...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*2XYmrT7gGNaoYELErp7fGw.jpeg

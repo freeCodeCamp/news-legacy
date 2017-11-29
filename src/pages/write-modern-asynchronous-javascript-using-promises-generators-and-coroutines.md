@@ -40,7 +40,7 @@ Over the years, “Callback Hell” is often cited as one of the most hated desi
 
 
 
-<iframe width="700" height="250" src="/media/2b2b70a28302ce980424fa440588d59e?postId=5fa9fe62cf74" data-media-id="2b2b70a28302ce980424fa440588d59e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2b2b70a28302ce980424fa440588d59e?postId=5fa9fe62cf74" data-media-id="2b2b70a28302ce980424fa440588d59e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -54,7 +54,7 @@ I was told that promises would allow us Javascript developers to write asynchron
 
 
 
-<iframe width="700" height="250" src="/media/9a87afde8fcfe817b981ac371fbd2124?postId=5fa9fe62cf74" data-media-id="9a87afde8fcfe817b981ac371fbd2124" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9a87afde8fcfe817b981ac371fbd2124?postId=5fa9fe62cf74" data-media-id="9a87afde8fcfe817b981ac371fbd2124" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -72,7 +72,7 @@ Indent my promises!? So its back to the Pyramid of Doom now?
 
 
 
-<iframe width="700" height="250" src="/media/e415aca750faf07957f8154fbe7cc45f?postId=5fa9fe62cf74" data-media-id="e415aca750faf07957f8154fbe7cc45f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e415aca750faf07957f8154fbe7cc45f?postId=5fa9fe62cf74" data-media-id="e415aca750faf07957f8154fbe7cc45f" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -88,7 +88,7 @@ The **_async_** and **_await_** keywords will allow us to write our javascript c
 
 
 
-<iframe width="700" height="250" src="/media/1b6ecc864e380ac524ab6a78d2eb1a36?postId=5fa9fe62cf74" data-media-id="1b6ecc864e380ac524ab6a78d2eb1a36" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1b6ecc864e380ac524ab6a78d2eb1a36?postId=5fa9fe62cf74" data-media-id="1b6ecc864e380ac524ab6a78d2eb1a36" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ It’s important to note that I am using the Co library. Co’s coroutine will e
 
 
 
-<iframe width="700" height="250" src="/media/eaf532a99e0e4df5001d7e28a6107a96?postId=5fa9fe62cf74" data-media-id="eaf532a99e0e4df5001d7e28a6107a96" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/eaf532a99e0e4df5001d7e28a6107a96?postId=5fa9fe62cf74" data-media-id="eaf532a99e0e4df5001d7e28a6107a96" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ You can either use objects or arrays with the yield keyword and then destructure
 
 
 
-<iframe width="700" height="250" src="/media/40fc3d864b5ceb8c9d36dba0659dbc43?postId=5fa9fe62cf74" data-media-id="40fc3d864b5ceb8c9d36dba0659dbc43" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/40fc3d864b5ceb8c9d36dba0659dbc43?postId=5fa9fe62cf74" data-media-id="40fc3d864b5ceb8c9d36dba0659dbc43" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -150,7 +150,7 @@ This example is specific to the Co library
 
 
 
-<iframe width="700" height="250" src="/media/9ac35cd0e0c2153fd5149f4f6b3fa4bb?postId=5fa9fe62cf74" data-media-id="9ac35cd0e0c2153fd5149f4f6b3fa4bb" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9ac35cd0e0c2153fd5149f4f6b3fa4bb?postId=5fa9fe62cf74" data-media-id="9ac35cd0e0c2153fd5149f4f6b3fa4bb" allowfullscreen="" frameborder="0"></iframe>
 
 
 

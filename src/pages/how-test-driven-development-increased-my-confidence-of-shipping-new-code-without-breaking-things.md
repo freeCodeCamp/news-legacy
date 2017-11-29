@@ -86,7 +86,7 @@ Now that we have a simple case, we will write a test for it. I will use the Java
 
 
 
-<iframe width="700" height="250" src="/media/01eb2ad0ab0c5d7565e79cc2594a1ac2?postId=a759a570bd95" data-media-id="01eb2ad0ab0c5d7565e79cc2594a1ac2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/01eb2ad0ab0c5d7565e79cc2594a1ac2?postId=a759a570bd95" data-media-id="01eb2ad0ab0c5d7565e79cc2594a1ac2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ After our test has failed, we have to make this test pass with minimal code:
 
 
 
-<iframe width="700" height="250" src="/media/2f92b59cf12112ee7c3b5f69ca132378?postId=a759a570bd95" data-media-id="2f92b59cf12112ee7c3b5f69ca132378" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2f92b59cf12112ee7c3b5f69ca132378?postId=a759a570bd95" data-media-id="2f92b59cf12112ee7c3b5f69ca132378" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ Great! Everything works the way we want it to. Now it’s time to clean up the c
 
 
 
-<iframe width="700" height="250" src="/media/440a7d8be74d345018332e6a75dbab54?postId=a759a570bd95" data-media-id="440a7d8be74d345018332e6a75dbab54" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/440a7d8be74d345018332e6a75dbab54?postId=a759a570bd95" data-media-id="440a7d8be74d345018332e6a75dbab54" allowfullscreen="" frameborder="0"></iframe>
 
 
 

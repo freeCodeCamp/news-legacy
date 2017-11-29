@@ -1,7 +1,7 @@
 ---
 author: tif.wang
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Not Taking Your Dream Job Isn’t The End of The World"
 subTitle: "Google is considered prestigious to most, but accepting a job offer from them may not always be in line with your personal goals. It all ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*n6uR3XM7P9H4kiVoy-k-yg.png

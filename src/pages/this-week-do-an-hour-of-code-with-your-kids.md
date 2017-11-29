@@ -42,7 +42,7 @@ It’s become a huge movement all over the world, with famous participants like 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/777125218f1ab16711e05642bdb50597?postId=45cdb576a152" data-media-id="777125218f1ab16711e05642bdb50597" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB4bbx_0CQAEpDqs.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/777125218f1ab16711e05642bdb50597?postId=45cdb576a152" data-media-id="777125218f1ab16711e05642bdb50597" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB4bbx_0CQAEpDqs.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

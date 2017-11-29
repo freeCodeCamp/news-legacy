@@ -1,7 +1,7 @@
 ---
 author: Kurt
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "5 Things to Remember When You’re Learning to Program"
 subTitle: "Learning to program is challenging. Aside from choosing a language or setting up a development environment that you know nothing about, t..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*5D1vjHPHdlAWOrNpwghF6w.jpeg

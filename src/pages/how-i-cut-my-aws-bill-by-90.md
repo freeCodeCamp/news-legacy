@@ -1,7 +1,7 @@
 ---
 author: Avner Sorek
 authorTwitter: https://twitter.com/AvnerSo
-authorFacebook: false
+authorFacebook: none
 title: "How I cut my AWS bill by 90% by going serverless"
 subTitle: "In short, I was able to move my side project — an Express.JS application — from AWS Elastic Beanstalk to Lambda+APIG. It took me less tha..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*xJn9adGp0wgU4INAtwFxMA.jpeg
@@ -42,7 +42,7 @@ I was able to make a very quick transition to AWS Lambda and API Gateway. This w
 
 
 
-<iframe data-width="800" data-height="450" width="980" height="551" src="/media/381223cc5562766bcac707782cc2590d?postId=35c937596f0c" data-media-id="381223cc5562766bcac707782cc2590d" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fd3ugvbs94d921r.cloudfront.net%2F597899c99973d2927a920496.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="450" width="980" height="551" src="https://medium.freecodecamp.org/media/381223cc5562766bcac707782cc2590d?postId=35c937596f0c" data-media-id="381223cc5562766bcac707782cc2590d" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fd3ugvbs94d921r.cloudfront.net%2F597899c99973d2927a920496.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

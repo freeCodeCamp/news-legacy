@@ -278,7 +278,7 @@ model.fit(X, seed_topics=seed_topics, seed_confidence=0.15).</pre>
 
 
 
-<iframe width="700" height="250" src="/media/16f31be0d99a366adec684ab3d6f5e02?postId=e36a95f3a164" data-media-id="16f31be0d99a366adec684ab3d6f5e02" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3116482%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/16f31be0d99a366adec684ab3d6f5e02?postId=e36a95f3a164" data-media-id="16f31be0d99a366adec684ab3d6f5e02" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3116482%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

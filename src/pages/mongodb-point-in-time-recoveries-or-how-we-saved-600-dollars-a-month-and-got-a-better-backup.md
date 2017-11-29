@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "MongoDB point-in-time recoveries"
 subTitle: "At Gitter, a small startup, we work hard every day to provide the best chat for communities (have you checked Ping Pong Wars?), while kee..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OD8s07RZ8po8hMY7q0Y2LQ.png

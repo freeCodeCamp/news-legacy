@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "From design to development, 10 tools I can’t live without"
 subTitle: "Tools don’t make a craftsman. But they can certainly help. This week, I wanted to introduce you to a few tools that I use. Hopefully, you..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Qe1Fb6gruMNIAQHPdpZ7Mg.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/from-design-to-development-10-tools-i-cant-
 id: from-design-to-development-10-tools-i-cant-live-without-96006445e636
 date: 2016-07-05T15:16:19.322Z
 tags: [
-  "Design",
-  "Web Development",
-  "UX",
-  "User Experience",
-  "Tech"
+	"Design",
+	"Web Development",
+	"UX",
+	"User Experience",
+	"Tech"
 ]
 ---
 # From design to development, 10 tools I can’t live without
@@ -46,11 +46,8 @@ Tools don’t make a craftsman. But they can certainly help. This week, I wanted
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*NJSdVt3FtALxD4uPc6oeZQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*NJSdVt3FtALxD4uPc6oeZQ.png"&gt;</noscript>
 
 
 
@@ -64,11 +61,8 @@ Coming from Sublime, the package manager was a breath of fresh air. With Atom, y
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tLl6qBQB8q8uFSWzVUyzFw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*tLl6qBQB8q8uFSWzVUyzFw.png"&gt;</noscript>
 
 
 
@@ -106,11 +100,8 @@ As a designer, I’m always on the lookout for inspiration. [DragDis](https://dr
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Y-Z5FCjF8vXerLuHU3yQ9w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Y-Z5FCjF8vXerLuHU3yQ9w.png"&gt;</noscript>
 
 
 
@@ -124,11 +115,8 @@ The way I organize my DragDis folders is by week. Each week I create a new inspi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*CfrjDHdDnMmWlF1EC2cTQw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*CfrjDHdDnMmWlF1EC2cTQw.png"&gt;</noscript>
 
 
 
@@ -164,11 +152,8 @@ DragDis also has a full-page grid view. This makes for fantastic moodboards.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*FS1lZHovF0-yKAh0FUGBkw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*FS1lZHovF0-yKAh0FUGBkw.png"&gt;</noscript>
 
 
 
@@ -202,7 +187,7 @@ DragDis also has a full-page grid view. This makes for fantastic moodboards.
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a66df417ab5ff9c80009184aadc85ef6?postId=96006445e636" data-media-id="a66df417ab5ff9c80009184aadc85ef6" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a66df417ab5ff9c80009184aadc85ef6?postId=96006445e636" data-media-id="a66df417ab5ff9c80009184aadc85ef6" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -214,11 +199,8 @@ Every time you open a new tab in Chrome Muzli sources you the best content from 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*SehuSJvyq_nR9-q1_MfIgQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*SehuSJvyq_nR9-q1_MfIgQ.png"&gt;</noscript>
 
 
 
@@ -254,11 +236,8 @@ A lot of makers like to go to hip coffee shops for the ambiance. [Noizio](http:/
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*13cGof_pUz4nHa13E7ZuRg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*13cGof_pUz4nHa13E7ZuRg.png"&gt;</noscript>
 
 
 
@@ -292,11 +271,8 @@ A lot of makers like to go to hip coffee shops for the ambiance. [Noizio](http:/
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*oAdjd5Fx50JB8-kro6EcGA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*oAdjd5Fx50JB8-kro6EcGA.png"&gt;</noscript>
 
 
 
@@ -310,11 +286,8 @@ The blue sections are the hot linked areas. If you tap or click on them, they wi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5ILiPV52rm6kvaUn7Ldo5A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*5ILiPV52rm6kvaUn7Ldo5A.png"&gt;</noscript>
 
 
 
@@ -328,11 +301,8 @@ Invision also recently released a new feature called [Boards](http://blog.invisi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*QG3Tq0xVDzwLHpGge_SQHA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*QG3Tq0xVDzwLHpGge_SQHA.png"&gt;</noscript>
 
 
 
@@ -366,11 +336,8 @@ Typography is a huge component of design. That’s why [What the Font](https://c
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*2qtGiTjm0JoK_WmZ-90uLA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*2qtGiTjm0JoK_WmZ-90uLA.png"&gt;</noscript>
 
 
 
@@ -406,11 +373,8 @@ Imagine working on an API endpoint. Instead of having to write a corresponding f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*S1PHSQJK2h7JjIfhKVfPWw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*S1PHSQJK2h7JjIfhKVfPWw.png"&gt;</noscript>
 
 
 
@@ -444,11 +408,8 @@ Imagine working on an API endpoint. Instead of having to write a corresponding f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Gv2h1e6koyy85CDUUkj46A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Gv2h1e6koyy85CDUUkj46A.png"&gt;</noscript>
 
 
 
@@ -482,11 +443,8 @@ Imagine working on an API endpoint. Instead of having to write a corresponding f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BkxFrKoa0Uq2m2lFEHxiVg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*BkxFrKoa0Uq2m2lFEHxiVg.png"&gt;</noscript>
 
 
 
@@ -500,11 +458,8 @@ Boom also includes a set of sound effects. Paired with a pair of headphones [Bos
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*K-NnkK_KitQcYXiHbqsU1g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*K-NnkK_KitQcYXiHbqsU1g.png"&gt;</noscript>
 
 
 
@@ -544,11 +499,8 @@ _P.S. If you enjoyed this article, it would mean a lot if you click the 💚 and
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*UOsjAdUZ9O0QSyfXOpQPbA.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*UOsjAdUZ9O0QSyfXOpQPbA.png"&gt;</noscript>
 
 ](https://twitter.com/JonathanZWhite) 
 
@@ -556,11 +508,8 @@ _P.S. If you enjoyed this article, it would mean a lot if you click the 💚 and
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*mxQhZLqG7l5dMLvxYAklgw.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*mxQhZLqG7l5dMLvxYAklgw.png"&gt;</noscript>
 
 ](http://mrwhite.space/signup) 
 

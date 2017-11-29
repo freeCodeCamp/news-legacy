@@ -1,7 +1,7 @@
 ---
 author: Jonathan Solórzano-Hamilton
 authorTwitter: https://twitter.com/jhsolor
-authorFacebook: false
+authorFacebook: none
 title: "How our team broke up with “instant-legacy” code releases — and how you can too"
 subTitle: "The concept of legacy conveys permanence, value, and the greatness we bequeath to our children and our successors in the community...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*4HwxRppmVvjdyhlytqVXsg.jpeg

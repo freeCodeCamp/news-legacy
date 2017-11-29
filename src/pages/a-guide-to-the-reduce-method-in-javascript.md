@@ -1,7 +1,7 @@
 ---
 author: Josh Pitzalis
 authorTwitter: https://twitter.com/joshpitzalis
-authorFacebook: false
+authorFacebook: none
 title: "How JavaScript’s Reduce method works, when to use it, and some of the cool things it can do"
 subTitle: "JavaScript’s reduce method is one of the cornerstones of functional programming. Let’s explore how it works, when you should use it, and ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*7Lt21vtHVtY6j0oBWNDd4w.png

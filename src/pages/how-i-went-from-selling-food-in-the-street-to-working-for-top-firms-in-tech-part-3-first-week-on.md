@@ -1,7 +1,7 @@
 ---
 author: Alvaro Videla
 authorTwitter: https://twitter.com/old_sound
-authorFacebook: false
+authorFacebook: none
 title: "How I went from selling food in the street to working for top firms in tech — Part 3: first week on the job"
 subTitle: "This is the third installment in this series of articles where I want to share with you how I got into the world of programming. I never ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*UCVDYCm03G5MQc9oXCTiGw.jpeg

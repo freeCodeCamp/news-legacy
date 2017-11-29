@@ -44,7 +44,7 @@ Note that I’ve also recorded a video version of this article, if you’d prefe
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/36573e255beaf46beabaf6a4ff9f2bf8?postId=26067498feb9" data-media-id="36573e255beaf46beabaf6a4ff9f2bf8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgytOcNFV1dM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/36573e255beaf46beabaf6a4ff9f2bf8?postId=26067498feb9" data-media-id="36573e255beaf46beabaf6a4ff9f2bf8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgytOcNFV1dM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

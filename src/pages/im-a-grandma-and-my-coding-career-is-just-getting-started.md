@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "I’m a Grandma and my Coding Career is just Getting Started"
 subTitle: "Love at first site is a thing. I felt it as a teenager in 1983. I climbed out of my parents station wagon and walked through the front do..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*tJ0WON1rhs-D93tl.jpg

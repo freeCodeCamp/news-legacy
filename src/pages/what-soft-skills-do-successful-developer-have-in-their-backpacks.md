@@ -1,7 +1,7 @@
 ---
 author: Ewa Mitulska-Wójcik
 authorTwitter: https://twitter.com/thedoerdoes
-authorFacebook: false
+authorFacebook: none
 title: "What soft skills do developers need in their backpacks?"
 subTitle: "For many of us, it’s easier to sit down and learn another programming language than it is for us to work on our attitude and character...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*tCDngDEdgXRHYtZ_ZG_bjw.jpeg

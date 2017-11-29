@@ -1,7 +1,7 @@
 ---
 author: William Countiss
 authorTwitter: https://twitter.com/WCountiss
-authorFacebook: false
+authorFacebook: none
 title: "Closing the Book on Closures"
 subTitle: "JavaScript closures are an important, but notoriously confusing concept. There’s no escaping it — if you want to grow as a developer, you..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*l0PQ97Jq6F1NbCvTmuMqWQ.jpeg

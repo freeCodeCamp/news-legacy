@@ -1,7 +1,7 @@
 ---
 author: Ken Rogers
 authorTwitter: https://twitter.com/KennethARogers
-authorFacebook: false
+authorFacebook: none
 title: "How to Go From Hobbyist to Professional Developer"
 subTitle: "A few years ago, I was bouncing back and forth between landscaping jobs and restaurant jobs. I had just left college, and didn’t know wha..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*LZZ9Sr4XL7j2-LjSJ5uq9Q.jpeg

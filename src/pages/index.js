@@ -22,10 +22,11 @@ class IndexPage extends PureComponent {
   loadMoreArticles() {
     this.setState(prevState => {
       const { allArticles, increment, articlesToRender } = prevState;
-      const additionalArticles = allArticles.slice(increment, increment + 8);
+      const incPlus8 = increment + 8;
+      const additionalArticles = allArticles.slice(increment, incPlus8);
       return {
         articlesToRender: articlesToRender.concat(additionalArticles),
-        increment: increment + 8,
+        increment: incPlus8,
         buttonActive: true
       };
     });
@@ -66,10 +67,32 @@ class IndexPage extends PureComponent {
 IndexPage.displayName = 'IndexPage';
 IndexPage.propTypes = propTypes;
 
-export const query = graphql`
-  query SiteIndexQuery {
-    ...first_48_articles
-  }
-`;
-
 export default IndexPage;
+
+export const query = graphql`
+query IndexPageQuery {
+  allMarkdownRemark(
+    limit: 48
+    sort: {fields: [frontmatter___date], order: DESC}
+  ) {
+    edges {
+      node {
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          author
+          subTitle
+          tags
+          date
+          coverSrc
+        }
+        html
+        excerpt(pruneLength: 250)
+        timeToRead
+      }
+    }
+  }
+}
+`;

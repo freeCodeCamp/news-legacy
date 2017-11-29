@@ -44,7 +44,7 @@ Well, what’s the matter? Let’s use [numpy](http://www.numpy.org)!
 
 
 
-<iframe width="700" height="250" src="/media/95bd58563cd9553fae236a00bba5aad6?postId=da9b27d494d9" data-media-id="95bd58563cd9553fae236a00bba5aad6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/95bd58563cd9553fae236a00bba5aad6?postId=da9b27d494d9" data-media-id="95bd58563cd9553fae236a00bba5aad6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -64,7 +64,7 @@ Now it is time to code this up:
 
 
 
-<iframe width="700" height="250" src="/media/404ae50abf21d8b6a2b1b34642e2a6ae?postId=da9b27d494d9" data-media-id="404ae50abf21d8b6a2b1b34642e2a6ae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/404ae50abf21d8b6a2b1b34642e2a6ae?postId=da9b27d494d9" data-media-id="404ae50abf21d8b6a2b1b34642e2a6ae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ Almost all Python code is valid Cython code. But to get the most of it, we need 
 
 
 
-<iframe width="700" height="250" src="/media/dd9594cf6cf34de7c7855f383d5bac1c?postId=da9b27d494d9" data-media-id="dd9594cf6cf34de7c7855f383d5bac1c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dd9594cf6cf34de7c7855f383d5bac1c?postId=da9b27d494d9" data-media-id="dd9594cf6cf34de7c7855f383d5bac1c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -119,7 +119,7 @@ We’ll compare the two algorithms in terms of collisions. We can collect a larg
 
 
 
-<iframe width="700" height="250" src="/media/b27d6ec4c17bcbe1ccf2e0dd06affe96?postId=da9b27d494d9" data-media-id="b27d6ec4c17bcbe1ccf2e0dd06affe96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b27d6ec4c17bcbe1ccf2e0dd06affe96?postId=da9b27d494d9" data-media-id="b27d6ec4c17bcbe1ccf2e0dd06affe96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -133,7 +133,7 @@ Having those samples at hand, we can apply statistics to compare them. In this c
 
 
 
-<iframe width="700" height="250" src="/media/22d6880159340f1df701838a54fad62c?postId=da9b27d494d9" data-media-id="22d6880159340f1df701838a54fad62c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/22d6880159340f1df701838a54fad62c?postId=da9b27d494d9" data-media-id="22d6880159340f1df701838a54fad62c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -147,7 +147,7 @@ Let’s make a plot and see the difference:
 
 
 
-<iframe width="700" height="250" src="/media/220e858210d4d798447bce42ea7235f3?postId=da9b27d494d9" data-media-id="220e858210d4d798447bce42ea7235f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/220e858210d4d798447bce42ea7235f3?postId=da9b27d494d9" data-media-id="220e858210d4d798447bce42ea7235f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F832185%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

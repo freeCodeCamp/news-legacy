@@ -1,7 +1,7 @@
 ---
 author: Jason Arnold
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to use Sass Mixins and Loops"
 subTitle: "My current love affair with Sass continues and we’ve taken it to the next level. What started out as a faster, less-syntaxy way to write ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*G3EYLVI1Rwf-PIou6TLwQA.jpeg
@@ -153,7 +153,7 @@ The result is underwhelming since you can’t hover on the screenshot. Here is a
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/d098a01d3b9d25cad3ec1dc4e56d3578?postId=171122499a2" data-media-id="d098a01d3b9d25cad3ec1dc4e56d3578" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F257210.wdmpjZ.small.a629eb15-edcf-465e-97ed-7bfe103ce116.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/d098a01d3b9d25cad3ec1dc4e56d3578?postId=171122499a2" data-media-id="d098a01d3b9d25cad3ec1dc4e56d3578" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F257210.wdmpjZ.small.a629eb15-edcf-465e-97ed-7bfe103ce116.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

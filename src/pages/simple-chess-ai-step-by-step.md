@@ -1,7 +1,7 @@
 ---
 author: Lauri Hartikka
 authorTwitter: https://twitter.com/lhartikk
-authorFacebook: false
+authorFacebook: none
 title: "A step-by-step guide to building a simple chess AI"
 subTitle: "Let’s explore some basic concepts that will help us create a simple chess AI:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*eP0V-xfRWfW3QHJhALJ5RA.jpeg
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977
 id: simple-chess-ai-step-by-step-1d55a9266977
 date: 2017-03-30T19:26:08.690Z
 tags: [
-  "Programming",
-  "Chess",
-  "Artificial Intelligence",
-  "Web Development",
-  "Technology"
+	"Programming",
+	"Chess",
+	"Artificial Intelligence",
+	"Web Development",
+	"Technology"
 ]
 ---
 # A step-by-step guide to building a simple chess AI
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*eP0V-xfRWfW3QHJhALJ5RA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*eP0V-xfRWfW3QHJhALJ5RA.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*eP0V-xfRWfW3QHJhALJ5RA.jpeg"&gt;</noscript>
 
 
 
@@ -61,11 +58,9 @@ You can view the final AI algorithm here on [GitHub](https://github.com/lhartikk
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F648232697047871488%2FgEw1nlW8_bigger.jpg&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe data-width="500" data-height="185" width="500" height="185" data-src="/media/4070737c07602af33a19d4f101ab76eb?postId=1d55a9266977" data-media-id="4070737c07602af33a19d4f101ab76eb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F648232697047871488%2FgEw1nlW8_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" data-src="https://medium.freecodecamp.org/media/4070737c07602af33a19d4f101ab76eb?postId=1d55a9266977" data-media-id="4070737c07602af33a19d4f101ab76eb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F648232697047871488%2FgEw1nlW8_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="500" data-height="185" width="500" height="185" src="/media/4070737c07602af33a19d4f101ab76eb?postId=1d55a9266977" data-media-id="4070737c07602af33a19d4f101ab76eb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F648232697047871488%2FgEw1nlW8_bigger.jpg&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -85,11 +80,8 @@ We’ll use the [chess.js](https://github.com/jhlywa/chess.js) library for move 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_Z_qtrm9ayf_UhycYudE3g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*_Z_qtrm9ayf_UhycYudE3g.png"&gt;</noscript>
 
 
 
@@ -113,11 +105,9 @@ We’ll start by creating a function that just returns a random move from all of
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/fc1ce86e7ce01f90eaded31e7e2f21dc?postId=1d55a9266977" data-media-id="fc1ce86e7ce01f90eaded31e7e2f21dc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/fc1ce86e7ce01f90eaded31e7e2f21dc?postId=1d55a9266977" data-media-id="fc1ce86e7ce01f90eaded31e7e2f21dc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/fc1ce86e7ce01f90eaded31e7e2f21dc?postId=1d55a9266977" data-media-id="fc1ce86e7ce01f90eaded31e7e2f21dc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -131,11 +121,8 @@ Although this algorithm isn’t a very solid chess player, it’s a good startin
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GzOiJRh6Z3FOC3xmPEmKrQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="72"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*GzOiJRh6Z3FOC3xmPEmKrQ.gif"&gt;</noscript>
 
 
 
@@ -153,11 +140,8 @@ Now let’s try to understand which side is stronger in a certain position. The 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*e4p9BrCzJUdlqx7KVGW9aA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="64" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*e4p9BrCzJUdlqx7KVGW9aA.png"&gt;</noscript>
 
 
 
@@ -173,11 +157,9 @@ With the evaluation function, we’re able to create an algorithm that chooses t
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/733ac1a9ca56e64ad60219caa0640cb3?postId=1d55a9266977" data-media-id="733ac1a9ca56e64ad60219caa0640cb3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/733ac1a9ca56e64ad60219caa0640cb3?postId=1d55a9266977" data-media-id="733ac1a9ca56e64ad60219caa0640cb3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/733ac1a9ca56e64ad60219caa0640cb3?postId=1d55a9266977" data-media-id="733ac1a9ca56e64ad60219caa0640cb3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -191,11 +173,8 @@ The only tangible improvement is that our algorithm will now capture a piece if 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*fTWDdJ2m3L72X6rqce9_tQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="72"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*fTWDdJ2m3L72X6rqce9_tQ.gif"&gt;</noscript>
 
 
 
@@ -217,11 +196,8 @@ After that, we return either the smallest or the largest value of the child to t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*UA5VlNs7s4gl80VknA099w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*UA5VlNs7s4gl80VknA099w.jpeg"&gt;</noscript>
 
 
 
@@ -237,11 +213,9 @@ A visualization of the minimax algorithm in an artificial position. The best mov
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/6fcadd893b7cdda93b267ae40a5dd43c?postId=1d55a9266977" data-media-id="6fcadd893b7cdda93b267ae40a5dd43c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/6fcadd893b7cdda93b267ae40a5dd43c?postId=1d55a9266977" data-media-id="6fcadd893b7cdda93b267ae40a5dd43c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/6fcadd893b7cdda93b267ae40a5dd43c?postId=1d55a9266977" data-media-id="6fcadd893b7cdda93b267ae40a5dd43c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1086545%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -255,11 +229,8 @@ With minimax in place, our algorithm is starting to understand some basic tactic
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*xRfitY19MvJW3ynGKWhQ5A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*xRfitY19MvJW3ynGKWhQ5A.gif"&gt;</noscript>
 
 
 
@@ -285,11 +256,8 @@ The alpha-beta algorithm also is more efficient if we happen to visit **first** 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*96QEzhnsOkNqz7swB0qx8w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*96QEzhnsOkNqz7swB0qx8w.jpeg"&gt;</noscript>
 
 
 
@@ -305,11 +273,8 @@ With alpha-beta, we get a significant boost to the minimax algorithm, as is show
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*k3DrkWLNq33ei_t-094qpg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="63" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*k3DrkWLNq33ei_t-094qpg.png"&gt;</noscript>
 
 
 
@@ -331,11 +296,8 @@ We’ll use a slightly adjusted version of piece-square tables that are original
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iG6FUYZpU0_RKlqHnC8XxA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="72"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*iG6FUYZpU0_RKlqHnC8XxA.png"&gt;</noscript>
 
 
 
@@ -351,11 +313,8 @@ With the following improvement, we start to get an algorithm that plays some “
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sX_XwfPrOQ6c62iuVZ75fw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sX_XwfPrOQ6c62iuVZ75fw.gif"&gt;</noscript>
 
 
 

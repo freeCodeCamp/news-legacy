@@ -1,7 +1,7 @@
 ---
 author: Prosper Otemuyiwa
 authorTwitter: https://twitter.com/unicodeveloper
-authorFacebook: false
+authorFacebook: none
 title: "Jon Skeet — The Chuck Norris of Programming"
 subTitle: "Yesterday, I was on a tweeting spree about Jon Skeet Facts and it occurred to me that putting every thing in just one post would make sen..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*XSef56neX82fAPfHgxQxCw.jpeg

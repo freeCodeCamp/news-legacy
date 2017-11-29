@@ -1,7 +1,7 @@
 ---
 author: Elijah Valenciano
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "What it’s like to be a man at a women’s tech conference"
 subTitle: "To be honest, I was very nervous. A few panicked thoughts started to flood my mind as I prepared myself to enter a conference of 500 or s..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*q2-E2OT4oSXMBvYZvpgvlg.jpeg

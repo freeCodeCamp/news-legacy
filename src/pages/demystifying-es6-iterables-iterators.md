@@ -1,7 +1,7 @@
 ---
 author: Tiago Lopes Ferreira
 authorTwitter: https://twitter.com/ferreiratiago_
-authorFacebook: false
+authorFacebook: none
 title: "Demystifying ES6 Iterables &amp; Iterators"
 subTitle: "ES6 introduces a new way to interact with JavaScript data structures — iteration. Let’s demystify it...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*HV1DyPBjIp_aJVqIVFi_bw.png
@@ -49,7 +49,7 @@ Both iterable and iterator follow a protocol that enables objects to be iterable
 
 
 
-<iframe width="700" height="250" src="/media/a9074eb0d9c13cac68798749e9139652?postId=4bdd0b084082" data-media-id="a9074eb0d9c13cac68798749e9139652" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a9074eb0d9c13cac68798749e9139652?postId=4bdd0b084082" data-media-id="a9074eb0d9c13cac68798749e9139652" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -61,7 +61,7 @@ Both iterable and iterator follow a protocol that enables objects to be iterable
 
 
 
-<iframe width="700" height="250" src="/media/46f6ebafb8b9becde536771dcbb4f329?postId=4bdd0b084082" data-media-id="46f6ebafb8b9becde536771dcbb4f329" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/46f6ebafb8b9becde536771dcbb4f329?postId=4bdd0b084082" data-media-id="46f6ebafb8b9becde536771dcbb4f329" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -78,7 +78,7 @@ Iterability follows the idea of _data sources_ and _data consumers_:
 
 
 
-<iframe width="700" height="250" src="/media/90f1f363ad92e85a97f32f5e0b1c5103?postId=4bdd0b084082" data-media-id="90f1f363ad92e85a97f32f5e0b1c5103" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/90f1f363ad92e85a97f32f5e0b1c5103?postId=4bdd0b084082" data-media-id="90f1f363ad92e85a97f32f5e0b1c5103" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -98,7 +98,7 @@ Let’s see how this works on a defined data source — `Array`.
 
 
 
-<iframe width="700" height="250" src="/media/c25a316d21c00b84668d24c9e53ad8b9?postId=4bdd0b084082" data-media-id="c25a316d21c00b84668d24c9e53ad8b9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c25a316d21c00b84668d24c9e53ad8b9?postId=4bdd0b084082" data-media-id="c25a316d21c00b84668d24c9e53ad8b9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ We will use `for-of` to explore some of the data sources that implement the **it
 
 
 
-<iframe width="700" height="250" src="/media/5ab11348975208bab8c30512f586e209?postId=4bdd0b084082" data-media-id="5ab11348975208bab8c30512f586e209" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5ab11348975208bab8c30512f586e209?postId=4bdd0b084082" data-media-id="5ab11348975208bab8c30512f586e209" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -141,7 +141,7 @@ The problem with plain objects is everyones’ ability to create their own objec
 
 
 
-<iframe width="700" height="250" src="/media/2702c4c3cf7ce65def4386d6824825d4?postId=4bdd0b084082" data-media-id="2702c4c3cf7ce65def4386d6824825d4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2702c4c3cf7ce65def4386d6824825d4?postId=4bdd0b084082" data-media-id="2702c4c3cf7ce65def4386d6824825d4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -176,7 +176,7 @@ In order to build our own iterable we need to follow the iteration protocol, whi
 
 
 
-<iframe width="700" height="250" src="/media/1b1a97fca055da5696fd3098707645aa?postId=4bdd0b084082" data-media-id="1b1a97fca055da5696fd3098707645aa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1b1a97fca055da5696fd3098707645aa?postId=4bdd0b084082" data-media-id="1b1a97fca055da5696fd3098707645aa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -190,7 +190,7 @@ Our iterator will return on `next` an object containing the following by iterati
 
 
 
-<iframe width="700" height="250" src="/media/fad87814743a4848fe8b3df882298700?postId=4bdd0b084082" data-media-id="fad87814743a4848fe8b3df882298700" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fad87814743a4848fe8b3df882298700?postId=4bdd0b084082" data-media-id="fad87814743a4848fe8b3df882298700" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -210,7 +210,7 @@ We could build our iterator as an iterable.
 
 
 
-<iframe width="700" height="250" src="/media/79cb14ff44dfadb625270e59ab9b7ce5?postId=4bdd0b084082" data-media-id="79cb14ff44dfadb625270e59ab9b7ce5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/79cb14ff44dfadb625270e59ab9b7ce5?postId=4bdd0b084082" data-media-id="79cb14ff44dfadb625270e59ab9b7ce5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -226,7 +226,7 @@ Although `for-of` only works with iterables, not with iterators, being the same 
 
 
 
-<iframe width="700" height="250" src="/media/c6e833ce60f38b05c90d7e814caaa758?postId=4bdd0b084082" data-media-id="c6e833ce60f38b05c90d7e814caaa758" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c6e833ce60f38b05c90d7e814caaa758?postId=4bdd0b084082" data-media-id="c6e833ce60f38b05c90d7e814caaa758" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -244,7 +244,7 @@ There are two optional iterator methods that we haven’t explore yet:
 
 
 
-<iframe width="700" height="250" src="/media/82805889b991b3df396587d3249e0474?postId=4bdd0b084082" data-media-id="82805889b991b3df396587d3249e0474" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/82805889b991b3df396587d3249e0474?postId=4bdd0b084082" data-media-id="82805889b991b3df396587d3249e0474" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

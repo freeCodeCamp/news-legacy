@@ -28,7 +28,7 @@ The space consists of three 80" touch screens, powered by fairly inexpensive des
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/09a6ec192516d4c3497b5ea19854fba8?postId=b722f60c9f98" data-media-id="09a6ec192516d4c3497b5ea19854fba8" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/09a6ec192516d4c3497b5ea19854fba8?postId=b722f60c9f98" data-media-id="09a6ec192516d4c3497b5ea19854fba8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -58,7 +58,7 @@ You can see an example in the short video below.
 
 
 
-<iframe data-width="600" data-height="600" width="600" height="600" src="/media/0395bd4cf972e18c3dc1db3176cdfc10?postId=b722f60c9f98" data-media-id="0395bd4cf972e18c3dc1db3176cdfc10" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft15.0-10%2F12594159_10154182543847305_159955519_n.jpg%3Foh%3D736fed778045fece93ecb4d486ae940a%26oe%3D5A5C18F3&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="600" width="600" height="600" src="https://medium.freecodecamp.org/media/0395bd4cf972e18c3dc1db3176cdfc10?postId=b722f60c9f98" data-media-id="0395bd4cf972e18c3dc1db3176cdfc10" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft15.0-10%2F12594159_10154182543847305_159955519_n.jpg%3Foh%3D736fed778045fece93ecb4d486ae940a%26oe%3D5A5C18F3&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ Werklund graduate students leading self-directed class at DigiPlay
 
 
 
-<iframe width="500" height="250" src="/media/767053cb924e612e3b52a16436b22de8?postId=b722f60c9f98" data-media-id="767053cb924e612e3b52a16436b22de8" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/767053cb924e612e3b52a16436b22de8?postId=b722f60c9f98" data-media-id="767053cb924e612e3b52a16436b22de8" allowfullscreen="" frameborder="0"></iframe>
 
 
 

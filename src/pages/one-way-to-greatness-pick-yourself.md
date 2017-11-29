@@ -1,7 +1,7 @@
 ---
 author: Prosper Otemuyiwa
 authorTwitter: https://twitter.com/unicodeveloper
-authorFacebook: false
+authorFacebook: none
 title: "One way to Greatness: Pick Yourself"
 subTitle: "I’ve heard many people say this: “I want to be great”, but most people only just have wild thoughts & imaginations of greatness, their da..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*nPuHcaN_g4Sf5JvGv1rYQw.jpeg

@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "So Yeah We Tried Slack… and We Deeply Regretted It"
 subTitle: "Back in April, all was well with our community of busy adults learning to code. We were communicating using Gitter.im, a GitHub based cha..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0waolhA5cXHx7Sm28qpD1Q.png

@@ -1,7 +1,7 @@
 ---
 author: Nicholas Walsh
 authorTwitter: https://twitter.com/TheNickWalsh
-authorFacebook: false
+authorFacebook: none
 title: "Why the Steve Jobs GarageBand reveal is the best live product demo of all time"
 subTitle: "How telling a story turns your demo into a captivating experience"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*f7QugFT0bp6p4tbxWK3S6w.jpeg

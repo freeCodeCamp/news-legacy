@@ -1,7 +1,7 @@
 ---
 author: George Stepanek
 authorTwitter: https://twitter.com/GeorgeStepanek
-authorFacebook: false
+authorFacebook: none
 title: "It’s all about the “-ilities”"
 subTitle: "We were “feature complete.”..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*wOLB8os9g-Qn2_TuSyp6Zw.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Giorgio Robino
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to build your first chatbot using ChatScript"
 subTitle: "Chatbots can help you get things done right inside chat tools like Facebook Messenger, Telegram Messenger, Slack, etc, etc. Just say the ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*tC6objBcZbzBQwS1wrSyYA.png

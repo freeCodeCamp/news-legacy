@@ -1,7 +1,7 @@
 ---
 author: Marty Laurita
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "For more realistic FramerJS prototypes, just add data"
 subTitle: "Most interaction prototypes today serve one purpose: to convince your user that this prototype is what the “real thing” will look like an..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*uTJpHuWyI1Ly0QxpN31zng.jpeg

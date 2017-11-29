@@ -1,7 +1,7 @@
 ---
 author: Ewa Mitulska-Wójcik
 authorTwitter: https://twitter.com/thedoerdoes
-authorFacebook: false
+authorFacebook: none
 title: "It takes a village to raise a coder"
 subTitle: "In the six months since I joined Free Code Camp, I’ve…..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OZPvHCYM8tmDZ1inTAF86A.jpeg
@@ -142,7 +142,7 @@ This inspired me to start a weekly [vlog](https://www.youtube.com/watch?v=TM46h5
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/43b0270b643a4defb90bd9814df43643?postId=209b4e1d00f0" data-media-id="43b0270b643a4defb90bd9814df43643" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/43b0270b643a4defb90bd9814df43643?postId=209b4e1d00f0" data-media-id="43b0270b643a4defb90bd9814df43643" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -162,7 +162,7 @@ This is just the beginning of my journey toward becoming a master developer. But
 
 
 
-<iframe width="500" height="250" src="/media/554366c41dc5098395cf89e7d0b76737?postId=209b4e1d00f0" data-media-id="554366c41dc5098395cf89e7d0b76737" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/554366c41dc5098395cf89e7d0b76737?postId=209b4e1d00f0" data-media-id="554366c41dc5098395cf89e7d0b76737" allowfullscreen="" frameborder="0"></iframe>
 
 
 

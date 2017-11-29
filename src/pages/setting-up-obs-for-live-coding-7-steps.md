@@ -1,7 +1,7 @@
 ---
 author: Wesley McCann
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Setting up OBS for Live Coding in 7 Steps"
 subTitle: "Twitch TV is a popular live-streaming service. You traditionally used Twitch to stream yourself playing video games, but recently Twitch ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*aIrejV0NE5wBP8fd27Kmgw.jpeg

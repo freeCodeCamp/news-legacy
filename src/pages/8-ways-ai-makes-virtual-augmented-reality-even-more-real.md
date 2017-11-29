@@ -1,7 +1,7 @@
 ---
 author: Mariya Yao
 authorTwitter: https://twitter.com/thinkmariya
-authorFacebook: false
+authorFacebook: none
 title: "8 Ways AI Makes Virtual &amp; Augmented Reality Even More Real"
 subTitle: "This piece was written & edited in collaboration with TOPBOTS writer Nick Hall...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*h-6Gme8XSErFIHnyag174A.jpeg
@@ -90,7 +90,7 @@ Not everyone is happy with AI-driven animation. Studio Ghibli founder Hayao Miya
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/466521c5465afbef10122f999e443dc6?postId=25037707cfa1" data-media-id="466521c5465afbef10122f999e443dc6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUl0Gilv5wvY%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/466521c5465afbef10122f999e443dc6?postId=25037707cfa1" data-media-id="466521c5465afbef10122f999e443dc6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUl0Gilv5wvY%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

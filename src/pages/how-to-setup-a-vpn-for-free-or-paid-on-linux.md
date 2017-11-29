@@ -1,7 +1,7 @@
 ---
 author: CodeDraken
 authorTwitter: https://twitter.com/CodeDraken
-authorFacebook: false
+authorFacebook: none
 title: "How to set up a VPN on Linux in 5 minutes for free"
 subTitle: "In this short and overdue tutorial, we will set up a virtual private network (VPN) to help protect your online anonymity. I will not be c..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*ki9vH87FbtYJeQP29IM3fA.png

@@ -1,7 +1,7 @@
 ---
 author: rajaraodv
 authorTwitter: https://twitter.com/rajaraodv
-authorFacebook: false
+authorFacebook: none
 title: "5 JavaScript “Bad” Parts That Are Fixed In ES6"
 subTitle: "ECMAScript 6 (ES6) features can be divided into features that are pure syntactic sugar (like: class), features that enhance JavaScript (l..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*7wW5ARBnO9lewHr46Eff9A.jpeg
@@ -210,7 +210,7 @@ _🎉🎉🎉_ **_If you like this post, please 1\._** ❤❤❤**_it below on M
 
 
 
-<iframe width="500" height="250" src="/media/a8b878d517ea8be859805ec29d19a494?postId=c7c45d44fd81" data-media-id="a8b878d517ea8be859805ec29d19a494" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/a8b878d517ea8be859805ec29d19a494?postId=c7c45d44fd81" data-media-id="a8b878d517ea8be859805ec29d19a494" allowfullscreen="" frameborder="0"></iframe>
 
 
 

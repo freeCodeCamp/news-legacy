@@ -1,7 +1,7 @@
 ---
 author: Kurt
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Making it rain code — Matrix Style"
 subTitle: "Out of all the great things HTML 5 brought us, I love the canvas element the most. I hope that once you see how powerful it is, you’ll wa..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KgmujbLEB5TS1PQcPycPGg.png
@@ -52,7 +52,7 @@ Instead of demonstrating how to simply draw on a canvas, I want to give you a gl
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/44c2c276accc77fe8867c3293438625d?postId=ec6e1386084e" data-media-id="44c2c276accc77fe8867c3293438625d" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/44c2c276accc77fe8867c3293438625d?postId=ec6e1386084e" data-media-id="44c2c276accc77fe8867c3293438625d" allowfullscreen="" frameborder="0"></iframe>
 
 
 

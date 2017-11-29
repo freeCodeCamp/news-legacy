@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "What growth engineers can teach us about engineering"
 subTitle: "I’ve been working as an engineer on the growth team at Airbnb for a couple of months now...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*oFDCLzwXGS8UHwP2rl6MKA.png

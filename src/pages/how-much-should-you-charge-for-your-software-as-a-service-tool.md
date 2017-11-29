@@ -62,7 +62,7 @@ By the way, the absence of a spike in a place where it ought to be could mean th
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/2f909d65494488d197b90a3318db9242?postId=45595f49a990" data-media-id="2f909d65494488d197b90a3318db9242" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC5IHeqeWYAE_jhF.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/2f909d65494488d197b90a3318db9242?postId=45595f49a990" data-media-id="2f909d65494488d197b90a3318db9242" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC5IHeqeWYAE_jhF.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

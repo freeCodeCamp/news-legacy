@@ -1,7 +1,7 @@
 ---
 author: Arthur Camara
 authorTwitter: https://twitter.com/arthur_camara
-authorFacebook: false
+authorFacebook: none
 title: "An opinionated guide to writing developer resumes in 2017"
 subTitle: "What was a formality less than a century ago is now the very first step to landing any interview: sending your resume...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*2I9d-tL-p3J5wU39NP6nlg.png

@@ -1,7 +1,7 @@
 ---
 author: Dheeraj Joshi
 authorTwitter: https://twitter.com/dheerajhere
-authorFacebook: false
+authorFacebook: none
 title: "JavaScript conferences you can look forward to in 2017"
 subTitle: "Conferences are a great way to make friends and learn from experts. You can even try your hand at presenting on a topic...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*y7O_letkTacy1IxtZkmpCA.jpeg

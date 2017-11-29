@@ -1,7 +1,7 @@
 ---
 author: Patryk Adaś
 authorTwitter: https://twitter.com/patrykadas
-authorFacebook: false
+authorFacebook: none
 title: "The Future of Browser History"
 subTitle: "I am really unsatisfied with the current state of Browser History. I think that this is the most underestimated feature of every modern w..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*LQcSLDoKyWBuwAEgcwKNyw.png

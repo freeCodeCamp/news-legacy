@@ -1,7 +1,7 @@
 ---
 author: Patrick Hund
 authorTwitter: https://twitter.com/wiekatz
-authorFacebook: false
+authorFacebook: none
 title: "Testing a React-driven website’s SEO using “Fetch as Google”"
 subTitle: "I recently tested whether client-side rendering would prevent websites from being crawled by search engine robots. As my article showed, ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*iIwuLuv-yhL-KvqIS6IbuQ.png

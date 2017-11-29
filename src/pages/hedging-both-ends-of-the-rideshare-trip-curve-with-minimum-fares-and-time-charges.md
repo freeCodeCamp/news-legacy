@@ -85,7 +85,7 @@ To measure the impact of minimum fare, the following script simulates the value 
 
 
 
-<iframe width="700" height="250" src="/media/470be8c5dbc46ee4e2b0c79875174a4f?postId=8adec25a614d" data-media-id="470be8c5dbc46ee4e2b0c79875174a4f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13344861%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/470be8c5dbc46ee4e2b0c79875174a4f?postId=8adec25a614d" data-media-id="470be8c5dbc46ee4e2b0c79875174a4f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13344861%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -123,7 +123,7 @@ _Note: In this section, we imagine that there are two rideshare companies in Kan
 
 
 
-<iframe width="700" height="250" src="/media/34bf6c2e27a413e39ce0897d1190cfdc?postId=8adec25a614d" data-media-id="34bf6c2e27a413e39ce0897d1190cfdc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13344861%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/34bf6c2e27a413e39ce0897d1190cfdc?postId=8adec25a614d" data-media-id="34bf6c2e27a413e39ce0897d1190cfdc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13344861%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

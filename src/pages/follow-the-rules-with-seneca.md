@@ -82,7 +82,7 @@ Services are added using `seneca.add()`, and invoked via `seneca.act()`. Let’s
 
 
 
-<iframe width="700" height="250" src="/media/12752446c084b60ffb3a68396f5bb340?postId=b3cf3d08fe5d" data-media-id="12752446c084b60ffb3a68396f5bb340" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/12752446c084b60ffb3a68396f5bb340?postId=b3cf3d08fe5d" data-media-id="12752446c084b60ffb3a68396f5bb340" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ Now let’s see how the test invokes the service (movesTest.js):
 
 
 
-<iframe width="700" height="250" src="/media/847da76d749664d5373a6c8df4a1313d?postId=b3cf3d08fe5d" data-media-id="847da76d749664d5373a6c8df4a1313d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/847da76d749664d5373a6c8df4a1313d?postId=b3cf3d08fe5d" data-media-id="847da76d749664d5373a6c8df4a1313d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -157,7 +157,7 @@ I’ll write two services (one for pawns, the other for knights) and place both 
 
 
 
-<iframe width="700" height="250" src="/media/6b2492d458a0c86d993c51fcaa43e4a3?postId=b3cf3d08fe5d" data-media-id="6b2492d458a0c86d993c51fcaa43e4a3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6b2492d458a0c86d993c51fcaa43e4a3?postId=b3cf3d08fe5d" data-media-id="6b2492d458a0c86d993c51fcaa43e4a3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ Our rudimentary legal move service will just filter out all the square positions
 
 
 
-<iframe width="700" height="250" src="/media/23c5a6bae152d3273106c538af6db01f?postId=b3cf3d08fe5d" data-media-id="23c5a6bae152d3273106c538af6db01f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/23c5a6bae152d3273106c538af6db01f?postId=b3cf3d08fe5d" data-media-id="23c5a6bae152d3273106c538af6db01f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

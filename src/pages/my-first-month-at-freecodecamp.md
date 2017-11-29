@@ -1,7 +1,7 @@
 ---
 author: Elliott McNary
 authorTwitter: https://twitter.com/ElliottMcNary
-authorFacebook: false
+authorFacebook: none
 title: "My First Month At Free Code Camp"
 subTitle: "I wanted to build an app that would help artists to make more money...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*lVPPUOxNNxwWGxkFDCHT-w.jpeg

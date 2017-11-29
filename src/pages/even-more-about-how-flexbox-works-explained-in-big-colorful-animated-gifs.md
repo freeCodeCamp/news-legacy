@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explained
 id: even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053
 date: 2017-02-21T02:58:49.739Z
 tags: [
-  "CSS",
-  "Web Development",
-  "Flexbox",
-  "Design",
-  "Programming"
+	"CSS",
+	"Web Development",
+	"Flexbox",
+	"Design",
+	"Programming"
 ]
 ---
 # Even more about how Flexbox works — explained in big, colorful, animated gifs
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PghNPeo_XAXroKXksXGfCQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*PghNPeo_XAXroKXksXGfCQ.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*PghNPeo_XAXroKXksXGfCQ.png"&gt;</noscript>
 
 
 
@@ -70,11 +67,8 @@ In the below GIF, this means it is interchangeable with the width property:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*S3LKFr_BICUtAWA5LOFxVw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="15"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*S3LKFr_BICUtAWA5LOFxVw.gif"&gt;</noscript>
 
 
 
@@ -92,11 +86,8 @@ What makes flex-basis unique from width, however, is that it corresponds to our 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_Ruy6jFG7gUpSf76IUcJTQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_Ruy6jFG7gUpSf76IUcJTQ.png"&gt;</noscript>
 
 
 
@@ -116,11 +107,8 @@ Let’s see what happens when we keep our flex-basis the same, but switch the di
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*W4QU1Fw9kDLEH2m-J9VGyw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*W4QU1Fw9kDLEH2m-J9VGyw.gif"&gt;</noscript>
 
 
 
@@ -148,11 +136,8 @@ First, let’s set all our squares to the same width, 120px:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*dON3-0RooiPyfDr0DBEOmA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="15"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*dON3-0RooiPyfDr0DBEOmA.png"&gt;</noscript>
 
 
 
@@ -176,11 +161,8 @@ What does that mean? Well, let’s try incrementing flex-grow to **1** for every
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cK-yB4z_L6bmEqoG5qDoRA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="15"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*cK-yB4z_L6bmEqoG5qDoRA.png"&gt;</noscript>
 
 
 
@@ -206,11 +188,8 @@ Well, here’s what it looks like if we set the flex-grow of each square to 999:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*p2fLcy13xFU9GjtM4cbHEw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="15"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*p2fLcy13xFU9GjtM4cbHEw.png"&gt;</noscript>
 
 
 
@@ -238,11 +217,8 @@ If we set every square to flex-grow: 1, and then adjust Square #3’s flex-grow,
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gHyLHG52cySgLmy0x-edZA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*gHyLHG52cySgLmy0x-edZA.gif"&gt;</noscript>
 
 
 
@@ -276,11 +252,8 @@ And so on.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JnjR4ULs8de0so1bdUPogw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*JnjR4ULs8de0so1bdUPogw.png"&gt;</noscript>
 
 
 
@@ -314,11 +287,8 @@ Let’s see it in action. In the below GIFS, the squares have a flex-grow of 1, 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*FVO9kX3wwqakhcT9JWS2Ww.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*FVO9kX3wwqakhcT9JWS2Ww.gif"&gt;</noscript>
 
 
 
@@ -340,11 +310,8 @@ Now let’s set the flex-shrink of Square #3 to 0\. It’s forbidden to shrink, 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GrLzJ4jH3v2Z5Va_TMOXkQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*GrLzJ4jH3v2Z5Va_TMOXkQ.gif"&gt;</noscript>
 
 
 
@@ -396,11 +363,8 @@ All together now:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BKZt7AT5eFee4KRhe82gew.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*BKZt7AT5eFee4KRhe82gew.gif"&gt;</noscript>
 
 
 
@@ -440,11 +404,8 @@ It’s the same story with flex-grow. When the container grows to 940px, and we�
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*70-KTWYpA2LnLjqi0xDrJA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="20"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*70-KTWYpA2LnLjqi0xDrJA.gif"&gt;</noscript>
 
 
 

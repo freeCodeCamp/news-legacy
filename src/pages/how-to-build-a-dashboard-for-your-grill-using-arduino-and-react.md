@@ -1,7 +1,7 @@
 ---
 author: Chris Aquino
 authorTwitter: https://twitter.com/radishmouse
-authorFacebook: false
+authorFacebook: none
 title: "How to build a dashboard for your grill using Arduino and React"
 subTitle: "“When should I use React?” My students at DigitalCrafts have been asking me this question a lot lately...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*Q-zIUhFXWgp8SZeS.png
@@ -150,7 +150,7 @@ A `Component` in React is something that accepts data and returns a description 
 
 
 
-<iframe width="700" height="250" src="/media/e8e2c7525bed5137927b90c219d7bef7?postId=425fb8d57ffe" data-media-id="e8e2c7525bed5137927b90c219d7bef7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e8e2c7525bed5137927b90c219d7bef7?postId=425fb8d57ffe" data-media-id="e8e2c7525bed5137927b90c219d7bef7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -180,7 +180,7 @@ A `const` is a variable that cannot be reassigned.
 
 
 
-<iframe width="700" height="250" src="/media/b324eb9ee569ed18de3781f7ef667bb2?postId=425fb8d57ffe" data-media-id="b324eb9ee569ed18de3781f7ef667bb2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b324eb9ee569ed18de3781f7ef667bb2?postId=425fb8d57ffe" data-media-id="b324eb9ee569ed18de3781f7ef667bb2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -194,7 +194,7 @@ We can use ES6 destructuring syntax to pull specific values out of the `props` a
 
 
 
-<iframe width="700" height="250" src="/media/050a3448b994a9c8303db3a3b5d6e397?postId=425fb8d57ffe" data-media-id="050a3448b994a9c8303db3a3b5d6e397" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/050a3448b994a9c8303db3a3b5d6e397?postId=425fb8d57ffe" data-media-id="050a3448b994a9c8303db3a3b5d6e397" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -206,7 +206,7 @@ React requires that your components return a single element. With arrow function
 
 
 
-<iframe width="700" height="250" src="/media/2f2eff6108153bbd1002e0963a3a6a06?postId=425fb8d57ffe" data-media-id="2f2eff6108153bbd1002e0963a3a6a06" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2f2eff6108153bbd1002e0963a3a6a06?postId=425fb8d57ffe" data-media-id="2f2eff6108153bbd1002e0963a3a6a06" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -218,7 +218,7 @@ Because the `return` value can get long, you'll see code that looks like this, w
 
 
 
-<iframe width="700" height="250" src="/media/795dcbad069d2ba5e175099d77e929be?postId=425fb8d57ffe" data-media-id="795dcbad069d2ba5e175099d77e929be" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/795dcbad069d2ba5e175099d77e929be?postId=425fb8d57ffe" data-media-id="795dcbad069d2ba5e175099d77e929be" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -234,7 +234,7 @@ There’s another abstraction to add. Maybe we’ll need to put `span` inside of
 
 
 
-<iframe width="700" height="250" src="/media/2ce53d6a62f46c094a773685757b2c70?postId=425fb8d57ffe" data-media-id="2ce53d6a62f46c094a773685757b2c70" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2ce53d6a62f46c094a773685757b2c70?postId=425fb8d57ffe" data-media-id="2ce53d6a62f46c094a773685757b2c70" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -246,7 +246,7 @@ To do that, we have to write the following code in JavaScript:
 
 
 
-<iframe width="700" height="250" src="/media/f068a8294fccf34bcfef809db510ae34?postId=425fb8d57ffe" data-media-id="f068a8294fccf34bcfef809db510ae34" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f068a8294fccf34bcfef809db510ae34?postId=425fb8d57ffe" data-media-id="f068a8294fccf34bcfef809db510ae34" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -258,7 +258,7 @@ As you can imagine, as we try to describe more complex DOM structures, the neste
 
 
 
-<iframe width="700" height="250" src="/media/1da5fdf9f16143848bb4f05a4555b180?postId=425fb8d57ffe" data-media-id="1da5fdf9f16143848bb4f05a4555b180" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1da5fdf9f16143848bb4f05a4555b180?postId=425fb8d57ffe" data-media-id="1da5fdf9f16143848bb4f05a4555b180" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -278,7 +278,7 @@ Here's the full code listing for the component that displays three recent temper
 
 
 
-<iframe width="700" height="250" src="/media/0855b31562c242ccd2ec2d2174c0fd83?postId=425fb8d57ffe" data-media-id="0855b31562c242ccd2ec2d2174c0fd83" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0855b31562c242ccd2ec2d2174c0fd83?postId=425fb8d57ffe" data-media-id="0855b31562c242ccd2ec2d2174c0fd83" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -292,7 +292,7 @@ And to pass arguments, for example `props,`to a custom component, you can use sy
 
 
 
-<iframe width="700" height="250" src="/media/b1a81015dc8d5d3b704717c380bfd7b0?postId=425fb8d57ffe" data-media-id="b1a81015dc8d5d3b704717c380bfd7b0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b1a81015dc8d5d3b704717c380bfd7b0?postId=425fb8d57ffe" data-media-id="b1a81015dc8d5d3b704717c380bfd7b0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -304,7 +304,7 @@ If you look at `Monitor.js`, you can see that it is a combination of `Readout`, 
 
 
 
-<iframe width="700" height="250" src="/media/4fd20ff6a63afcde38fcca44fe95e75d?postId=425fb8d57ffe" data-media-id="4fd20ff6a63afcde38fcca44fe95e75d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4fd20ff6a63afcde38fcca44fe95e75d?postId=425fb8d57ffe" data-media-id="4fd20ff6a63afcde38fcca44fe95e75d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -322,7 +322,7 @@ The answer is that all these nested `React.createElement` calls result in a larg
 
 
 
-<iframe width="700" height="250" src="/media/4ad2b47f6fa1b82a966fc9aa16bb6e40?postId=425fb8d57ffe" data-media-id="4ad2b47f6fa1b82a966fc9aa16bb6e40" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4ad2b47f6fa1b82a966fc9aa16bb6e40?postId=425fb8d57ffe" data-media-id="4ad2b47f6fa1b82a966fc9aa16bb6e40" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -344,7 +344,7 @@ This is the resulting element tree:
 
 
 
-<iframe width="700" height="250" src="/media/65c7641fa802e07a6540924a324bb27a?postId=425fb8d57ffe" data-media-id="65c7641fa802e07a6540924a324bb27a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/65c7641fa802e07a6540924a324bb27a?postId=425fb8d57ffe" data-media-id="65c7641fa802e07a6540924a324bb27a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -366,7 +366,7 @@ Here is`FoodChooserForm`, showing everything except the element tree it produces
 
 
 
-<iframe width="700" height="250" src="/media/b9d9091a01f3158ab4a679dd22f8690c?postId=425fb8d57ffe" data-media-id="b9d9091a01f3158ab4a679dd22f8690c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b9d9091a01f3158ab4a679dd22f8690c?postId=425fb8d57ffe" data-media-id="b9d9091a01f3158ab4a679dd22f8690c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -382,7 +382,7 @@ Here is the full component code. It includes the definition of the `render` meth
 
 
 
-<iframe width="700" height="250" src="/media/fe47c8612db7808c36b4abacfb60b73e?postId=425fb8d57ffe" data-media-id="fe47c8612db7808c36b4abacfb60b73e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fe47c8612db7808c36b4abacfb60b73e?postId=425fb8d57ffe" data-media-id="fe47c8612db7808c36b4abacfb60b73e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -406,7 +406,7 @@ And where does that new food order information now go? All the way to the top.
 
 
 
-<iframe width="700" height="250" src="/media/9158cd68e5c2fc3e988a73f4c1f401da?postId=425fb8d57ffe" data-media-id="9158cd68e5c2fc3e988a73f4c1f401da" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9158cd68e5c2fc3e988a73f4c1f401da?postId=425fb8d57ffe" data-media-id="9158cd68e5c2fc3e988a73f4c1f401da" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1090173%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Sanchit Gera
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How I learned to love Vim"
 subTitle: "I’ve had a bitter-sweet relationship with Vim for a long time...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*BPkK5FHiS6rXsygxNoO2XA.jpeg

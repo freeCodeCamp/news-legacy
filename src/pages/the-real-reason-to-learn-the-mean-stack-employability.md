@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "The real reason to learn the MEAN Stack: Employability"
 subTitle: "More coding bootcamps (like Hack Reactor) and online course platforms (like Khan Academy) are switching to JavaScript as their language o..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*lt1BRxpo6QA-czPI.jpg

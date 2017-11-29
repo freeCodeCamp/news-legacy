@@ -1,7 +1,7 @@
 ---
 author: Umar Hansa
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Data Visualisation with 1 Billion Shazam Music Recognitions"
 subTitle: "While at university, I joined Shazam as part time web developer. I stayed at Shazam for 5 enjoyable years. This post is about one hackday..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*V0xNFn1IuSA4zYn5d1Hllg.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/data-visualisation-with-1-billion-shazam-mu
 id: data-visualisation-with-1-billion-shazam-music-recognitions-90728df3a8c9
 date: 2017-07-18T13:28:29.712Z
 tags: [
-  "JavaScript",
-  "Data Visualization",
-  "Startup",
-  "Data Science",
-  "Tech"
+	"JavaScript",
+	"Data Visualization",
+	"Startup",
+	"Data Science",
+	"Tech"
 ]
 ---
 # Data Visualisation with 1 Billion Shazam Music Recognitions
@@ -22,13 +22,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*V0xNFn1IuSA4zYn5d1Hllg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*V0xNFn1IuSA4zYn5d1Hllg.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*V0xNFn1IuSA4zYn5d1Hllg.png"&gt;</noscript>
 
 
 
@@ -64,27 +61,6 @@ One thing you need to know, all visualisations follow this idea: One dot represe
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ZQmAY-kW0ihq1d8bRG3UFA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*ZQmAY-kW0ihq1d8bRG3UFA.png"&gt;</noscript>
-
-
-
-
-
-
-
-
-
-
-
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_cj0HilFhgah22JlSUuUhQ.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="51"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*_cj0HilFhgah22JlSUuUhQ.png"&gt;</noscript>
 
 
 
@@ -100,11 +76,6 @@ One thing you need to know, all visualisations follow this idea: One dot represe
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*87uisSvGsyNAcLMtGfv8cw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*87uisSvGsyNAcLMtGfv8cw.png"&gt;</noscript>
 
 
 
@@ -116,11 +87,25 @@ One thing you need to know, all visualisations follow this idea: One dot represe
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*L2CW-GOhCvBNxmGKykZ1vw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="22"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*L2CW-GOhCvBNxmGKykZ1vw.png"&gt;</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -138,11 +123,8 @@ Chicago, London, New York, Full
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*h2QVKTLQ4EmBcGmz.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*h2QVKTLQ4EmBcGmz."&gt;</noscript>
 
 
 
@@ -169,27 +151,6 @@ I also made maps with alternative colour schemes.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*N6UGC_QW3qZ-311PcNoedA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*N6UGC_QW3qZ-311PcNoedA.png"&gt;</noscript>
-
-
-
-
-
-
-
-
-
-
-
-![](https://cdn-images-1.medium.com/freeze/max/60/1*E8Nzw2Vtr2YPrhoGi8CnzQ.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*E8Nzw2Vtr2YPrhoGi8CnzQ.png"&gt;</noscript>
 
 
 
@@ -205,11 +166,6 @@ I also made maps with alternative colour schemes.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ZXUeYv-FlTCRse9tKV_fQg.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*ZXUeYv-FlTCRse9tKV_fQg.png"&gt;</noscript>
 
 
 
@@ -221,11 +177,25 @@ I also made maps with alternative colour schemes.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*eWkQLHh3k1SDewi9FFinmA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="62" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*eWkQLHh3k1SDewi9FFinmA.png"&gt;</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -247,11 +217,8 @@ I thought it would be fun to visualise the map interactively. In the same way yo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*k57_gUk9dnllYdic9dSBDw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*k57_gUk9dnllYdic9dSBDw.gif"&gt;</noscript>
 
 
 
@@ -265,11 +232,8 @@ To do this, I needed to generate millions of map ‘tiles’. For example, here 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AQXaxe0_5WkheN68jI4R3w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="25"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*AQXaxe0_5WkheN68jI4R3w.png"&gt;</noscript>
 
 
 
@@ -285,11 +249,8 @@ Here are the tiles of the Shazam Map.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*UjT_I1mjZnrIZ8GhHXMB4w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="25"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*UjT_I1mjZnrIZ8GhHXMB4w.png"&gt;</noscript>
 
 
 
@@ -307,11 +268,8 @@ To help answer this question, I had an idea: What if I used a location service t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Il0KZhTlCRbEaWRs5AlneA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="73"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Il0KZhTlCRbEaWRs5AlneA.gif"&gt;</noscript>
 
 
 
@@ -370,11 +328,8 @@ Because I created the same static maps so often (when experimenting with colour 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*CTaueMd6TT-xJzl6.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="31" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*CTaueMd6TT-xJzl6."&gt;</noscript>
 
 
 

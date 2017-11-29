@@ -1,7 +1,7 @@
 ---
 author: Vadym Zakovinko
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Django-Classifier or What Have I Done?"
 subTitle: "From time to time you have to build some properties for an object and usually those are just a bunch of fields for a model. With django-c..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*_LMdtyoH3c7JJjcrf2xVwA.png
@@ -92,7 +92,7 @@ Django-classifier is a flexible constructor to create dynamic list of heterogene
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/b4ae24cdbd1266d527d99e3effc410b6?postId=4a8164358c09" data-media-id="b4ae24cdbd1266d527d99e3effc410b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/b4ae24cdbd1266d527d99e3effc410b6?postId=4a8164358c09" data-media-id="b4ae24cdbd1266d527d99e3effc410b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -104,7 +104,7 @@ If you found this post useful, Please tap ❤ button below and check out some of
 
 
 
-<iframe data-width="435" data-height="172" width="435" height="172" src="/media/13d778b10c86aa8f6a3484c147a08423?postId=4a8164358c09" data-media-id="13d778b10c86aa8f6a3484c147a08423" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUPGcHUu2AbtRuhXri%2F200.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="172" width="435" height="172" src="https://medium.freecodecamp.org/media/13d778b10c86aa8f6a3484c147a08423?postId=4a8164358c09" data-media-id="13d778b10c86aa8f6a3484c147a08423" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxUPGcHUu2AbtRuhXri%2F200.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

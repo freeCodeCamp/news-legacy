@@ -80,7 +80,7 @@ Sure, there are courses that advertise themselves as “everything you need,” 
 
 
 
-<iframe width="500" height="250" src="/media/e9b3abff2c1b1a22e9d8a97364157e23?postId=77ff382a4c52" data-media-id="e9b3abff2c1b1a22e9d8a97364157e23" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/e9b3abff2c1b1a22e9d8a97364157e23?postId=77ff382a4c52" data-media-id="e9b3abff2c1b1a22e9d8a97364157e23" allowfullscreen="" frameborder="0"></iframe>
 
 
 

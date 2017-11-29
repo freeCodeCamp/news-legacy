@@ -62,7 +62,7 @@ For example, take the piece of code below. This should multiply an array of numb
 
 
 
-<iframe width="700" height="250" src="/media/bd77f16af3966871704af3a1004414f5?postId=4e6f63eb386f" data-media-id="bd77f16af3966871704af3a1004414f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bd77f16af3966871704af3a1004414f5?postId=4e6f63eb386f" data-media-id="bd77f16af3966871704af3a1004414f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -74,7 +74,7 @@ How can we test that it works as intended? One logical way is to pass a bunch of
 
 
 
-<iframe width="700" height="250" src="/media/c62fa41437e4339249eb15d0b5aa9ba6?postId=4e6f63eb386f" data-media-id="c62fa41437e4339249eb15d0b5aa9ba6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c62fa41437e4339249eb15d0b5aa9ba6?postId=4e6f63eb386f" data-media-id="c62fa41437e4339249eb15d0b5aa9ba6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -88,7 +88,7 @@ But how do we know it doesn’t do what we **_don’t_** want it to do? For inst
 
 
 
-<iframe width="700" height="250" src="/media/f9ad878b26e4035b5e7f99195e0e9a9f?postId=4e6f63eb386f" data-media-id="f9ad878b26e4035b5e7f99195e0e9a9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f9ad878b26e4035b5e7f99195e0e9a9f?postId=4e6f63eb386f" data-media-id="f9ad878b26e4035b5e7f99195e0e9a9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -102,7 +102,7 @@ Next, let’s see what happens if we pass the same array a bunch of different ti
 
 
 
-<iframe width="700" height="250" src="/media/abdc4c135ff285bcd6af288995393471?postId=4e6f63eb386f" data-media-id="abdc4c135ff285bcd6af288995393471" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/abdc4c135ff285bcd6af288995393471?postId=4e6f63eb386f" data-media-id="abdc4c135ff285bcd6af288995393471" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -120,7 +120,7 @@ So far, we’ve tested perfect array inputs. Now, what if we were to do this:
 
 
 
-<iframe width="700" height="250" src="/media/364fd3367222e764e78789dadce161ad?postId=4e6f63eb386f" data-media-id="364fd3367222e764e78789dadce161ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/364fd3367222e764e78789dadce161ad?postId=4e6f63eb386f" data-media-id="364fd3367222e764e78789dadce161ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ Now, let’s look a slightly different **multiplyByThree** function:
 
 
 
-<iframe width="700" height="250" src="/media/2db2ad0d7ad142fbcc1d1f24f79c7647?postId=4e6f63eb386f" data-media-id="2db2ad0d7ad142fbcc1d1f24f79c7647" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2db2ad0d7ad142fbcc1d1f24f79c7647?postId=4e6f63eb386f" data-media-id="2db2ad0d7ad142fbcc1d1f24f79c7647" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -150,7 +150,7 @@ Just like above, we can test for correctness.
 
 
 
-<iframe width="700" height="250" src="/media/7a5a8d0f54e5d2e60eb428d00737138b?postId=4e6f63eb386f" data-media-id="7a5a8d0f54e5d2e60eb428d00737138b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7a5a8d0f54e5d2e60eb428d00737138b?postId=4e6f63eb386f" data-media-id="7a5a8d0f54e5d2e60eb428d00737138b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ Let’s also test to see if it does what we don’t want it to do. Does it mutat
 
 
 
-<iframe width="700" height="250" src="/media/34f59de1989ff581bfae98d97769398f?postId=4e6f63eb386f" data-media-id="34f59de1989ff581bfae98d97769398f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/34f59de1989ff581bfae98d97769398f?postId=4e6f63eb386f" data-media-id="34f59de1989ff581bfae98d97769398f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -178,7 +178,7 @@ Does it return the same output for a given input?
 
 
 
-<iframe width="700" height="250" src="/media/aa4456f0677d6d2511b6eeaac489cb07?postId=4e6f63eb386f" data-media-id="aa4456f0677d6d2511b6eeaac489cb07" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/aa4456f0677d6d2511b6eeaac489cb07?postId=4e6f63eb386f" data-media-id="aa4456f0677d6d2511b6eeaac489cb07" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -192,7 +192,7 @@ Does it return the same thing if we pass a bunch of different types of arguments
 
 
 
-<iframe width="700" height="250" src="/media/a98663b0589a233f269ad21069bdc429?postId=4e6f63eb386f" data-media-id="a98663b0589a233f269ad21069bdc429" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a98663b0589a233f269ad21069bdc429?postId=4e6f63eb386f" data-media-id="a98663b0589a233f269ad21069bdc429" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -206,7 +206,7 @@ At this point, how confident are we that this function does exactly what we want
 
 
 
-<iframe width="700" height="250" src="/media/5f8792e3ba5e7f142d89050d6af985b7?postId=4e6f63eb386f" data-media-id="5f8792e3ba5e7f142d89050d6af985b7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5f8792e3ba5e7f142d89050d6af985b7?postId=4e6f63eb386f" data-media-id="5f8792e3ba5e7f142d89050d6af985b7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -220,7 +220,7 @@ Let’s try to fix it by adding another check in our for-loop checking for inval
 
 
 
-<iframe width="700" height="250" src="/media/2de20485940fd9403594e632fffed8dd?postId=4e6f63eb386f" data-media-id="2de20485940fd9403594e632fffed8dd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2de20485940fd9403594e632fffed8dd?postId=4e6f63eb386f" data-media-id="2de20485940fd9403594e632fffed8dd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -232,7 +232,7 @@ With this new function, why not try those two edge cases again:
 
 
 
-<iframe width="700" height="250" src="/media/48ccfa2facf776d7c3a58b544e343388?postId=4e6f63eb386f" data-media-id="48ccfa2facf776d7c3a58b544e343388" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/48ccfa2facf776d7c3a58b544e343388?postId=4e6f63eb386f" data-media-id="48ccfa2facf776d7c3a58b544e343388" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -260,7 +260,7 @@ Firstly, we can write unit tests to isolate pieces of code and verify that they 
 
 
 
-<iframe width="700" height="250" src="/media/cade214f7d3a1ebc6127befafc41da5c?postId=4e6f63eb386f" data-media-id="cade214f7d3a1ebc6127befafc41da5c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cade214f7d3a1ebc6127befafc41da5c?postId=4e6f63eb386f" data-media-id="cade214f7d3a1ebc6127befafc41da5c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -278,7 +278,7 @@ In addition to tests, we might also use types to make it easier to reason about 
 
 
 
-<iframe width="700" height="250" src="/media/eceed14ce977fea74992b0962055f041?postId=4e6f63eb386f" data-media-id="eceed14ce977fea74992b0962055f041" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/eceed14ce977fea74992b0962055f041?postId=4e6f63eb386f" data-media-id="eceed14ce977fea74992b0962055f041" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -300,7 +300,7 @@ As a fun exploration, I’ll use [Elm](http://elm-lang.org/), a typed functional
 
 
 
-<iframe width="700" height="250" src="/media/25373f957283833f112443df6fa1f310?postId=4e6f63eb386f" data-media-id="25373f957283833f112443df6fa1f310" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/25373f957283833f112443df6fa1f310?postId=4e6f63eb386f" data-media-id="25373f957283833f112443df6fa1f310" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -314,7 +314,7 @@ Now that we’ve defined our function in Elm, let’s do one last round of the s
 
 
 
-<iframe width="700" height="250" src="/media/2b58379c540eefe34957bcb2c48fdd9f?postId=4e6f63eb386f" data-media-id="2b58379c540eefe34957bcb2c48fdd9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2b58379c540eefe34957bcb2c48fdd9f?postId=4e6f63eb386f" data-media-id="2b58379c540eefe34957bcb2c48fdd9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -328,7 +328,7 @@ Now, let’s throw Elm for a trick and try mutating the multiplier:
 
 
 
-<iframe width="700" height="250" src="/media/c43f502d8a15e3e4ea9b1233fd0a1e70?postId=4e6f63eb386f" data-media-id="c43f502d8a15e3e4ea9b1233fd0a1e70" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c43f502d8a15e3e4ea9b1233fd0a1e70?postId=4e6f63eb386f" data-media-id="c43f502d8a15e3e4ea9b1233fd0a1e70" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -342,7 +342,7 @@ What if we were to pass a string as an argument, instead an array of numbers?
 
 
 
-<iframe width="700" height="250" src="/media/303fa0d1a4cd6a45b2a5afa8e1a4e50a?postId=4e6f63eb386f" data-media-id="303fa0d1a4cd6a45b2a5afa8e1a4e50a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/303fa0d1a4cd6a45b2a5afa8e1a4e50a?postId=4e6f63eb386f" data-media-id="303fa0d1a4cd6a45b2a5afa8e1a4e50a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

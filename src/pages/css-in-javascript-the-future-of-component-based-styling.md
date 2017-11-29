@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "CSS in JavaScript: The future of component-based styling"
 subTitle: "By adopting inline styles, we can get all of the programmatic affordances of JavaScript. This gives us the benefits of something like a C..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*yVKDbwtvfoakj3RZ9g8ARQ.png
@@ -52,7 +52,7 @@ Here’s the button component:
 
 
 
-<iframe width="700" height="250" src="/media/5e386f91c15b1b930b9f023c7956d2c0?postId=70b161a79a32" data-media-id="5e386f91c15b1b930b9f023c7956d2c0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5e386f91c15b1b930b9f023c7956d2c0?postId=70b161a79a32" data-media-id="5e386f91c15b1b930b9f023c7956d2c0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -66,7 +66,7 @@ This is nothing unexpected — just a stateless React component. Where Aphro
 
 
 
-<iframe width="700" height="250" src="/media/657d341e26e7cb53b273ffea39e40da9?postId=70b161a79a32" data-media-id="657d341e26e7cb53b273ffea39e40da9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/657d341e26e7cb53b273ffea39e40da9?postId=70b161a79a32" data-media-id="657d341e26e7cb53b273ffea39e40da9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ When creating constants, **use semantic names for your variables**. For example,
 
 
 
-<iframe width="700" height="250" src="/media/dfa740330fad31b82a37991542110993?postId=70b161a79a32" data-media-id="dfa740330fad31b82a37991542110993" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dfa740330fad31b82a37991542110993?postId=70b161a79a32" data-media-id="dfa740330fad31b82a37991542110993" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ After defining our typography constants, the next step is to create a component 
 
 
 
-<iframe width="700" height="250" src="/media/07ca3cdb6ff3b1d3ac4fef5db094948b?postId=70b161a79a32" data-media-id="07ca3cdb6ff3b1d3ac4fef5db094948b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/07ca3cdb6ff3b1d3ac4fef5db094948b?postId=70b161a79a32" data-media-id="07ca3cdb6ff3b1d3ac4fef5db094948b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ The `Heading` component is a stateless function that takes in a tag as a propert
 
 
 
-<iframe width="700" height="250" src="/media/93e17bd59671c0de1e8ab25cd8f4fbe2?postId=70b161a79a32" data-media-id="93e17bd59671c0de1e8ab25cd8f4fbe2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/93e17bd59671c0de1e8ab25cd8f4fbe2?postId=70b161a79a32" data-media-id="93e17bd59671c0de1e8ab25cd8f4fbe2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -168,7 +168,7 @@ At the bottom of the component file, we define our `styles` object. This is wher
 
 
 
-<iframe width="700" height="250" src="/media/f76851e92cc6a2abba83fc72be611386?postId=70b161a79a32" data-media-id="f76851e92cc6a2abba83fc72be611386" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f76851e92cc6a2abba83fc72be611386?postId=70b161a79a32" data-media-id="f76851e92cc6a2abba83fc72be611386" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -180,7 +180,7 @@ And this is how the `Heading` component would be used:
 
 
 
-<iframe width="700" height="250" src="/media/8e6b9e553d444dfc45dc2ea933444fd4?postId=70b161a79a32" data-media-id="8e6b9e553d444dfc45dc2ea933444fd4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8e6b9e553d444dfc45dc2ea933444fd4?postId=70b161a79a32" data-media-id="8e6b9e553d444dfc45dc2ea933444fd4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ When defining spacing constants for the margins between elements, we can adopt a
 
 
 
-<iframe width="700" height="250" src="/media/67ab106c6a4a52f26a33972641c9fe89?postId=70b161a79a32" data-media-id="67ab106c6a4a52f26a33972641c9fe89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/67ab106c6a4a52f26a33972641c9fe89?postId=70b161a79a32" data-media-id="67ab106c6a4a52f26a33972641c9fe89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -223,7 +223,7 @@ This is what the spacing scale would look like in code. I added a helper functio
 
 
 
-<iframe width="700" height="250" src="/media/c908cfc7d002cac11cad9bab7684904d?postId=70b161a79a32" data-media-id="c908cfc7d002cac11cad9bab7684904d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c908cfc7d002cac11cad9bab7684904d?postId=70b161a79a32" data-media-id="c908cfc7d002cac11cad9bab7684904d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -237,7 +237,7 @@ For example, let’s add a `marginBottom` to the `Button` component.
 
 
 
-<iframe width="700" height="250" src="/media/fca27f7e2622c17c3bfaffc28296d0e1?postId=70b161a79a32" data-media-id="fca27f7e2622c17c3bfaffc28296d0e1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fca27f7e2622c17c3bfaffc28296d0e1?postId=70b161a79a32" data-media-id="fca27f7e2622c17c3bfaffc28296d0e1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -251,7 +251,7 @@ One way to achieve variable margins is to override the margin style from the con
 
 
 
-<iframe width="700" height="250" src="/media/44f15ca9634b6733317307bd8f943716?postId=70b161a79a32" data-media-id="44f15ca9634b6733317307bd8f943716" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/44f15ca9634b6733317307bd8f943716?postId=70b161a79a32" data-media-id="44f15ca9634b6733317307bd8f943716" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -269,7 +269,7 @@ On a final note, you can also use the spacing constants you defined as padding.
 
 
 
-<iframe width="700" height="250" src="/media/29386df42956d3ad8eef3443cf0f4559?postId=70b161a79a32" data-media-id="29386df42956d3ad8eef3443cf0f4559" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/29386df42956d3ad8eef3443cf0f4559?postId=70b161a79a32" data-media-id="29386df42956d3ad8eef3443cf0f4559" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5382672%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

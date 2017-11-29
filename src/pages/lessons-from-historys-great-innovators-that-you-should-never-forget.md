@@ -1,7 +1,7 @@
 ---
 author: Adam Naor
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Lessons from history’s great innovators that you should never forget"
 subTitle: "I spend a lot of time reading about entrepreneurship and innovation because I admire people who take sensible but daring risks. I want to..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*_qd4EhIwHbAjqzKPHu8-Ig.jpeg

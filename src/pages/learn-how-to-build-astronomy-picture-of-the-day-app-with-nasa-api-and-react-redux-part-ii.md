@@ -1,7 +1,7 @@
 ---
 author: Indrek Lasn
 authorTwitter: https://twitter.com/lasnindrek
-authorFacebook: false
+authorFacebook: none
 title: "Learn how to build an Astronomy Picture of the Day App with the NASA API and React + Redux (Part II)"
 subTitle: "Aha! So you’re back! Good! We will be dedicating this whole chapter to Redux...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*h8UwBRQySOtTklrMnTy8Dw.png

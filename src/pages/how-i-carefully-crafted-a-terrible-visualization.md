@@ -40,7 +40,7 @@ Andy Kirk of [visualisingdata.com](http://www.visualisingdata.com/) posted an in
 
 
 
-<iframe width="500" height="250" src="/media/c851daf15f6a1f1c7b6700e564579d9b?postId=2c8e06d50ebb" data-media-id="c851daf15f6a1f1c7b6700e564579d9b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/c851daf15f6a1f1c7b6700e564579d9b?postId=2c8e06d50ebb" data-media-id="c851daf15f6a1f1c7b6700e564579d9b" allowfullscreen="" frameborder="0"></iframe>
 
 
 

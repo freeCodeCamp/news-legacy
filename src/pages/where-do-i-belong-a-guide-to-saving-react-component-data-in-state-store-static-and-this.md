@@ -38,7 +38,7 @@ Here’s a basic counter app using local **state**:
 
 
 
-<iframe width="700" height="250" src="/media/184e5b8ad9ac13cbb92d8ef39612ff15?postId=c49b335e2a00" data-media-id="184e5b8ad9ac13cbb92d8ef39612ff15" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/184e5b8ad9ac13cbb92d8ef39612ff15?postId=c49b335e2a00" data-media-id="184e5b8ad9ac13cbb92d8ef39612ff15" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -78,7 +78,7 @@ Below is the same counter app, but using Redux. The important thing to note is t
 
 
 
-<iframe width="700" height="250" src="/media/4a8f49e682fa8ab286609b4e924c4de7?postId=c49b335e2a00" data-media-id="4a8f49e682fa8ab286609b4e924c4de7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4a8f49e682fa8ab286609b4e924c4de7?postId=c49b335e2a00" data-media-id="4a8f49e682fa8ab286609b4e924c4de7" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ The example below is a functional counter app, similar to the two examples above
 
 
 
-<iframe width="700" height="250" src="/media/2b84ff5f767e0e67f6e09599c91d2ffc?postId=c49b335e2a00" data-media-id="2b84ff5f767e0e67f6e09599c91d2ffc" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2b84ff5f767e0e67f6e09599c91d2ffc?postId=c49b335e2a00" data-media-id="2b84ff5f767e0e67f6e09599c91d2ffc" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ The use case for **this** is to store values for which a change should not trigg
 
 
 
-<iframe width="700" height="250" src="/media/2564f61921fe65b93d10564be5b3e75f?postId=c49b335e2a00" data-media-id="2564f61921fe65b93d10564be5b3e75f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2564f61921fe65b93d10564be5b3e75f?postId=c49b335e2a00" data-media-id="2564f61921fe65b93d10564be5b3e75f" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ The following two code blocks are identical. The first is how most people define
 
 
 
-<iframe width="700" height="250" src="/media/c0bdc0f7ac66d745a196ef9c28290f17?postId=c49b335e2a00" data-media-id="c0bdc0f7ac66d745a196ef9c28290f17" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c0bdc0f7ac66d745a196ef9c28290f17?postId=c49b335e2a00" data-media-id="c0bdc0f7ac66d745a196ef9c28290f17" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -154,7 +154,7 @@ The following two code blocks are identical. The first is how most people define
 
 
 
-<iframe width="700" height="250" src="/media/ea97c7d8d45f2c99ee9b880202a9b517?postId=c49b335e2a00" data-media-id="ea97c7d8d45f2c99ee9b880202a9b517" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ea97c7d8d45f2c99ee9b880202a9b517?postId=c49b335e2a00" data-media-id="ea97c7d8d45f2c99ee9b880202a9b517" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -166,7 +166,7 @@ As you can see, **static** is not all that complicated. It’s just another way 
 
 
 
-<iframe width="700" height="250" src="/media/0766467a96872cc05f642ec486d63807?postId=c49b335e2a00" data-media-id="0766467a96872cc05f642ec486d63807" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0766467a96872cc05f642ec486d63807?postId=c49b335e2a00" data-media-id="0766467a96872cc05f642ec486d63807" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -186,7 +186,7 @@ Another use case is if you’re concerned about over-fetching data. If you’re 
 
 
 
-<iframe width="700" height="250" src="/media/65cf7f739329387ba74e99ff928d08ab?postId=c49b335e2a00" data-media-id="65cf7f739329387ba74e99ff928d08ab" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/65cf7f739329387ba74e99ff928d08ab?postId=c49b335e2a00" data-media-id="65cf7f739329387ba74e99ff928d08ab" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -206,7 +206,7 @@ There are specific situations in which it makes sense, but for the most part you
 
 
 
-<iframe width="700" height="250" src="/media/b256352ffb15a5fa7834301891718720?postId=c49b335e2a00" data-media-id="b256352ffb15a5fa7834301891718720" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b256352ffb15a5fa7834301891718720?postId=c49b335e2a00" data-media-id="b256352ffb15a5fa7834301891718720" allowfullscreen="" frameborder="0"></iframe>
 
 
 

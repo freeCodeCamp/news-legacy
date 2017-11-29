@@ -132,7 +132,7 @@ First, let’s get a simple program deployed onto Heroku to get things started. 
 
 
 
-<iframe width="700" height="250" src="/media/3c53292504738df1b80d58c7fe916980?postId=a29773e5f39e" data-media-id="3c53292504738df1b80d58c7fe916980" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3c53292504738df1b80d58c7fe916980?postId=a29773e5f39e" data-media-id="3c53292504738df1b80d58c7fe916980" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -161,7 +161,7 @@ First, the requirements.txt
 
 
 
-<iframe width="700" height="250" src="/media/dffe2182116c9279e5c3d3e3aa82ac17?postId=a29773e5f39e" data-media-id="dffe2182116c9279e5c3d3e3aa82ac17" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dffe2182116c9279e5c3d3e3aa82ac17?postId=a29773e5f39e" data-media-id="dffe2182116c9279e5c3d3e3aa82ac17" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -175,7 +175,7 @@ Second, the file to tell Heroku what to run when a webrequest is made:
 
 
 
-<iframe width="700" height="250" src="/media/10c6f75f08794e2fa2c344ec31b91beb?postId=a29773e5f39e" data-media-id="10c6f75f08794e2fa2c344ec31b91beb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/10c6f75f08794e2fa2c344ec31b91beb?postId=a29773e5f39e" data-media-id="10c6f75f08794e2fa2c344ec31b91beb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -189,7 +189,7 @@ Finally, the runtime version of Python to use (default is 2.7, but we want to sp
 
 
 
-<iframe width="700" height="250" src="/media/6dfcb8e15e3e69984d5286d6dd0f6630?postId=a29773e5f39e" data-media-id="6dfcb8e15e3e69984d5286d6dd0f6630" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6dfcb8e15e3e69984d5286d6dd0f6630?postId=a29773e5f39e" data-media-id="6dfcb8e15e3e69984d5286d6dd0f6630" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -316,7 +316,7 @@ Hence, first step is to see if we can retrieve a webpage, hash it, and then comp
 
 
 
-<iframe width="700" height="250" src="/media/f8bb3f59e47dade9afbea62d9bb461ee?postId=a29773e5f39e" data-media-id="f8bb3f59e47dade9afbea62d9bb461ee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f8bb3f59e47dade9afbea62d9bb461ee?postId=a29773e5f39e" data-media-id="f8bb3f59e47dade9afbea62d9bb461ee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -338,7 +338,7 @@ Next, let’s connect to the database with the following code:
 
 
 
-<iframe width="700" height="250" src="/media/0c48aa652d8c94e268f8c6a5d840d10b?postId=a29773e5f39e" data-media-id="0c48aa652d8c94e268f8c6a5d840d10b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0c48aa652d8c94e268f8c6a5d840d10b?postId=a29773e5f39e" data-media-id="0c48aa652d8c94e268f8c6a5d840d10b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -401,7 +401,7 @@ Once done, you can test your code in a new Python script called sendmail.py. Ins
 
 
 
-<iframe width="700" height="250" src="/media/92b30a27940d78c1d0649580368986f8?postId=a29773e5f39e" data-media-id="92b30a27940d78c1d0649580368986f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/92b30a27940d78c1d0649580368986f8?postId=a29773e5f39e" data-media-id="92b30a27940d78c1d0649580368986f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -434,7 +434,7 @@ The full code is here:
 
 
 
-<iframe width="700" height="250" src="/media/505072bb027566bd8c15e8afd637dba7?postId=a29773e5f39e" data-media-id="505072bb027566bd8c15e8afd637dba7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/505072bb027566bd8c15e8afd637dba7?postId=a29773e5f39e" data-media-id="505072bb027566bd8c15e8afd637dba7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -450,7 +450,7 @@ This involves querying the database, and then cycling through and showing the da
 
 
 
-<iframe width="700" height="250" src="/media/48f11f3a410f92db0eb0019669586110?postId=a29773e5f39e" data-media-id="48f11f3a410f92db0eb0019669586110" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/48f11f3a410f92db0eb0019669586110?postId=a29773e5f39e" data-media-id="48f11f3a410f92db0eb0019669586110" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -482,7 +482,7 @@ For the requirements.txt, you will need to make amendments to add the latest lib
 
 
 
-<iframe width="700" height="250" src="/media/734ec185fd339cdbfffbfd13078e416c?postId=a29773e5f39e" data-media-id="734ec185fd339cdbfffbfd13078e416c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/734ec185fd339cdbfffbfd13078e416c?postId=a29773e5f39e" data-media-id="734ec185fd339cdbfffbfd13078e416c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12468848%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

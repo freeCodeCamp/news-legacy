@@ -1,7 +1,7 @@
 ---
 author: Kangze Huang
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Docker: Easy as build, run, done!"
 subTitle: "Docker has been getting a lot of buzz recently, and for good reason. The containerization service makes deploying microservices easy and ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*7a8Qffxkg7WuePBZUebYSw.png

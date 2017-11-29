@@ -1,7 +1,7 @@
 ---
 author: Ahmed Rizwan
 authorTwitter: https://twitter.com/sudo_rizwan
-authorFacebook: false
+authorFacebook: none
 title: "RxAndroid and Kotlin (Part 1)"
 subTitle: "When I first started using RxAndroid, I didn’t really get it. I mean, I grasped abstract concept. But I didn’t understand where I should ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*bTttcFdSLyvWIPg91OaNEw.png
@@ -275,7 +275,7 @@ Java version:
 
 
 
-<iframe width="700" height="250" src="/media/5864b879e65c2d2286cfa769f3ee2cb8?postId=f0382dc26ed8" data-media-id="5864b879e65c2d2286cfa769f3ee2cb8" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5864b879e65c2d2286cfa769f3ee2cb8?postId=f0382dc26ed8" data-media-id="5864b879e65c2d2286cfa769f3ee2cb8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -287,7 +287,7 @@ Kotlin version:
 
 
 
-<iframe width="700" height="250" src="/media/bb413aed24fd76d19835573ba8e400d8?postId=f0382dc26ed8" data-media-id="bb413aed24fd76d19835573ba8e400d8" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bb413aed24fd76d19835573ba8e400d8?postId=f0382dc26ed8" data-media-id="bb413aed24fd76d19835573ba8e400d8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -307,7 +307,7 @@ First the Java code:
 
 
 
-<iframe width="700" height="250" src="/media/2ae9d26470d6dc2c95122143ed39a5e4?postId=f0382dc26ed8" data-media-id="2ae9d26470d6dc2c95122143ed39a5e4" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2ae9d26470d6dc2c95122143ed39a5e4?postId=f0382dc26ed8" data-media-id="2ae9d26470d6dc2c95122143ed39a5e4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -319,7 +319,7 @@ Now the Kotlin ❤
 
 
 
-<iframe width="700" height="250" src="/media/4f4ced93636309ec177917b923672f58?postId=f0382dc26ed8" data-media-id="4f4ced93636309ec177917b923672f58" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4f4ced93636309ec177917b923672f58?postId=f0382dc26ed8" data-media-id="4f4ced93636309ec177917b923672f58" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -333,7 +333,7 @@ Now for almost no boilerplate, we can use [**RxBindings**](https://github.com/Ja
 
 
 
-<iframe width="700" height="250" src="/media/dae8003f7b704e685ce7a8694d3b6469?postId=f0382dc26ed8" data-media-id="dae8003f7b704e685ce7a8694d3b6469" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dae8003f7b704e685ce7a8694d3b6469?postId=f0382dc26ed8" data-media-id="dae8003f7b704e685ce7a8694d3b6469" allowfullscreen="" frameborder="0"></iframe>
 
 
 

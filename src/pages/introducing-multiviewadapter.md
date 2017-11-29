@@ -1,7 +1,7 @@
 ---
 author: Riyaz Ahamed
 authorTwitter: https://twitter.com/DevAhamed
-authorFacebook: false
+authorFacebook: none
 title: "Create Android Recyclerview adapters like a boss with MultiViewAdapter"
 subTitle: "RecyclerView is an important widget in the Android framework and a large percentage of the Android apps out there use it. It’s a powerful..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*43Kdmm5GaK-E_T29a1Csew.jpeg
@@ -70,7 +70,7 @@ Add the dependency in your app’s gradle file.
 
 
 
-<iframe width="700" height="250" src="/media/19e188cdd5a2eeeaa9c4ccb6a1ed3e55?postId=7f77e5758d3f" data-media-id="19e188cdd5a2eeeaa9c4ccb6a1ed3e55" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/19e188cdd5a2eeeaa9c4ccb6a1ed3e55?postId=7f77e5758d3f" data-media-id="19e188cdd5a2eeeaa9c4ccb6a1ed3e55" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -122,7 +122,7 @@ You have a list of objects, let’s say ‘Cars’. If you want to display a lis
 
 
 
-<iframe width="700" height="250" src="/media/6ac1e359809f0d481c418717982bf625?postId=7f77e5758d3f" data-media-id="6ac1e359809f0d481c418717982bf625" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6ac1e359809f0d481c418717982bf625?postId=7f77e5758d3f" data-media-id="6ac1e359809f0d481c418717982bf625" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -148,7 +148,7 @@ You do not need different adapters when you are displaying a grid of items. You 
 
 
 
-<iframe width="700" height="250" src="/media/99145c1a0703f5f0de87c6a21a5af17e?postId=7f77e5758d3f" data-media-id="99145c1a0703f5f0de87c6a21a5af17e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/99145c1a0703f5f0de87c6a21a5af17e?postId=7f77e5758d3f" data-media-id="99145c1a0703f5f0de87c6a21a5af17e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -186,7 +186,7 @@ This is the tricky part. It’s even trickier when you are not using this librar
 
 
 
-<iframe width="700" height="250" src="/media/9f7eb7f1e7aa01437d87bf9b7616a6ca?postId=7f77e5758d3f" data-media-id="9f7eb7f1e7aa01437d87bf9b7616a6ca" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9f7eb7f1e7aa01437d87bf9b7616a6ca?postId=7f77e5758d3f" data-media-id="9f7eb7f1e7aa01437d87bf9b7616a6ca" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -198,7 +198,7 @@ This is the tricky part. It’s even trickier when you are not using this librar
 
 
 
-<iframe width="700" height="250" src="/media/900f7269aa5f62019cf48e6496e04fa2?postId=7f77e5758d3f" data-media-id="900f7269aa5f62019cf48e6496e04fa2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/900f7269aa5f62019cf48e6496e04fa2?postId=7f77e5758d3f" data-media-id="900f7269aa5f62019cf48e6496e04fa2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -210,7 +210,7 @@ This is the tricky part. It’s even trickier when you are not using this librar
 
 
 
-<iframe width="700" height="250" src="/media/b30ed0b2c95df2344c0fb581758f1926?postId=7f77e5758d3f" data-media-id="b30ed0b2c95df2344c0fb581758f1926" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b30ed0b2c95df2344c0fb581758f1926?postId=7f77e5758d3f" data-media-id="b30ed0b2c95df2344c0fb581758f1926" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -226,7 +226,7 @@ MultiViewAdapter takes care of DiffUtil by default. If you want to pass the payl
 
 
 
-<iframe width="700" height="250" src="/media/5e292f348267fa52f55557e2999b8077?postId=7f77e5758d3f" data-media-id="5e292f348267fa52f55557e2999b8077" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5e292f348267fa52f55557e2999b8077?postId=7f77e5758d3f" data-media-id="5e292f348267fa52f55557e2999b8077" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -256,7 +256,7 @@ Let us take the CarAdapter example, and make it selectable.
 
 
 
-<iframe width="700" height="250" src="/media/80b3c81a04d9c87f2cc3112fa6dd6c5f?postId=7f77e5758d3f" data-media-id="80b3c81a04d9c87f2cc3112fa6dd6c5f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/80b3c81a04d9c87f2cc3112fa6dd6c5f?postId=7f77e5758d3f" data-media-id="80b3c81a04d9c87f2cc3112fa6dd6c5f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

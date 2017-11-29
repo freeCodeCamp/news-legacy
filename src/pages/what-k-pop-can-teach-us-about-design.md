@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "What k-pop can teach us about design"
 subTitle: "A few weeks ago, my roommate introduced me to the world of Korean pop music, otherwise known as k-pop. The more I dug into the genre, the..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*_DJwjXKGwlRGVPvoGI5rHw.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/what-k-pop-can-teach-us-about-design-6253a8
 id: what-k-pop-can-teach-us-about-design-6253a85f469c
 date: 2016-06-28T15:23:11.747Z
 tags: [
-  "Design",
-  "UX",
-  "User Experience",
-  "Tech",
-  "Web Development"
+	"Design",
+	"UX",
+	"User Experience",
+	"Tech",
+	"Web Development"
 ]
 ---
 # What k-pop can teach us about design
@@ -52,11 +52,8 @@ These stories take viewers on a journey through a narrative — one that mos
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kd68rVLxOmRu9t5vRNNrMA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*kd68rVLxOmRu9t5vRNNrMA.png"&gt;</noscript>
 
 
 
@@ -74,11 +71,8 @@ Even though the subject matter is light, a lot of thought is put into how viewer
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*v6iDnW4N0fVDCoDVW-B-eg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*v6iDnW4N0fVDCoDVW-B-eg.png"&gt;</noscript>
 
 
 
@@ -96,11 +90,8 @@ If you look at successful products today, like Uber and Airbnb, the common threa
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0XncNf9M7wpmBRXcqqGfNQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0XncNf9M7wpmBRXcqqGfNQ.png"&gt;</noscript>
 
 
 
@@ -146,11 +137,8 @@ Many k-pop companies embraced distribution channels like YouTube and social outl
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-qtpqlNGiNEILl9FwHSGoQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*-qtpqlNGiNEILl9FwHSGoQ.png"&gt;</noscript>
 
 
 
@@ -166,11 +154,8 @@ Today, most k-pop music videos receive millions of views. In fact, the most view
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_9wifLePKswlVEC9MyHUTg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_9wifLePKswlVEC9MyHUTg.png"&gt;</noscript>
 
 
 
@@ -188,11 +173,8 @@ During the design process, good designers go out and talk to their users. In par
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iqIx4EZSoNOnW3icbKxZnQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*iqIx4EZSoNOnW3icbKxZnQ.png"&gt;</noscript>
 
 
 
@@ -236,11 +218,8 @@ Similarly, good design builds trust between products and users.**When a product 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*78oqAO2mlW0qX1cXMPWCDQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*78oqAO2mlW0qX1cXMPWCDQ.png"&gt;</noscript>
 
 
 
@@ -268,11 +247,8 @@ Here is a scene from the music video titled [Not Spring, Love, or Cherry Blossom
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*dePWG6vg73Xbmp_GruUPVA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*dePWG6vg73Xbmp_GruUPVA.png"&gt;</noscript>
 
 
 
@@ -292,11 +268,8 @@ The red umbrella stands out against the neutral background. It immediately draws
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5LOcQMyuz8ljErmqshWPjQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*5LOcQMyuz8ljErmqshWPjQ.png"&gt;</noscript>
 
 
 
@@ -314,11 +287,8 @@ The intent of the colors in the video was to create a dreamy feel. However, the 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*es1-_SegEDOPOPM3jjqquA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*es1-_SegEDOPOPM3jjqquA.png"&gt;</noscript>
 
 
 
@@ -364,11 +334,8 @@ This frame from [Mr Chu by Apink](https://www.youtube.com/watch?v=K5H-GvnNz2Y&li
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*haNgp9kbr1Zsosia3oiapg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*haNgp9kbr1Zsosia3oiapg.png"&gt;</noscript>
 
 
 
@@ -384,11 +351,8 @@ The scene is symmetrically balanced, making it more aesthetically pleasing. Cont
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9z0Fpgd3QI2kODHX1BBlTw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9z0Fpgd3QI2kODHX1BBlTw.png"&gt;</noscript>
 
 
 
@@ -404,11 +368,8 @@ Another good example is [Overdose by EXO](https://www.youtube.com/watch?v=TI0DGv
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*P1JWQ_ePANicCCJucdijcw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*P1JWQ_ePANicCCJucdijcw.png"&gt;</noscript>
 
 
 
@@ -454,11 +415,8 @@ _P.S. If you enjoyed this article, it would mean a lot if you click the 💚 and
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*BsY0zLcwT-yX4ws2NPLWYQ.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*BsY0zLcwT-yX4ws2NPLWYQ.png"&gt;</noscript>
 
 ](https://atomspace.co/) 
 
@@ -466,11 +424,8 @@ _P.S. If you enjoyed this article, it would mean a lot if you click the 💚 and
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*FvxlEd29saoFNox80f3D5A.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*FvxlEd29saoFNox80f3D5A.png"&gt;</noscript>
 
 ](https://twitter.com/JonathanZWhite) 
 

@@ -208,7 +208,7 @@ Remember our old friend `diagonalMoves` from the `rawMoves` service? In order to
 
 
 
-<iframe width="700" height="250" src="/media/48ce9f34f745acce70377b08003f8494?postId=c22074debac" data-media-id="48ce9f34f745acce70377b08003f8494" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/48ce9f34f745acce70377b08003f8494?postId=c22074debac" data-media-id="48ce9f34f745acce70377b08003f8494" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

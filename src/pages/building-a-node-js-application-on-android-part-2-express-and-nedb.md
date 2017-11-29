@@ -1,7 +1,7 @@
 ---
 author: Aurélien Giraud
 authorTwitter: https://twitter.com/aurerua
-authorFacebook: false
+authorFacebook: none
 title: "Building a Node.js application on Android"
 subTitle: "Part 2: Express and NeDB"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*gpCGhSHig8ZaHUOxjDJO8g.jpeg
@@ -106,7 +106,7 @@ Open _server.js_ and copy-paste/write:
 
 
 
-<iframe width="700" height="250" src="/media/631973cdca2f315b163d4022c2bde733?postId=ced04caea7bb" data-media-id="631973cdca2f315b163d4022c2bde733" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/631973cdca2f315b163d4022c2bde733?postId=ced04caea7bb" data-media-id="631973cdca2f315b163d4022c2bde733" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -168,7 +168,7 @@ and add to _server.js_ a few lines to setup the database and make sure we can sa
 
 
 
-<iframe width="700" height="250" src="/media/ab5c51d71149efdd7067aaafc19e35dd?postId=ced04caea7bb" data-media-id="ab5c51d71149efdd7067aaafc19e35dd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ab5c51d71149efdd7067aaafc19e35dd?postId=ced04caea7bb" data-media-id="ab5c51d71149efdd7067aaafc19e35dd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -257,7 +257,7 @@ Add the body-parser setup code to the top of _server.js_ (e.g. right after the s
 
 
 
-<iframe width="700" height="250" src="/media/59ff81d4f5304403959d3af7946365d7?postId=ced04caea7bb" data-media-id="59ff81d4f5304403959d3af7946365d7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/59ff81d4f5304403959d3af7946365d7?postId=ced04caea7bb" data-media-id="59ff81d4f5304403959d3af7946365d7" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -269,7 +269,7 @@ Add the body-parser setup code to the top of _server.js_ (e.g. right after the s
 
 
 
-<iframe width="700" height="250" src="/media/e1d2f23d192164d608674472eaa4ab1a?postId=ced04caea7bb" data-media-id="e1d2f23d192164d608674472eaa4ab1a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e1d2f23d192164d608674472eaa4ab1a?postId=ced04caea7bb" data-media-id="e1d2f23d192164d608674472eaa4ab1a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -293,7 +293,7 @@ This should print to the console an array containing the goal we saved to the da
 
 
 
-<iframe width="700" height="250" src="/media/c6e2189e0d8d756b7f6281df759b2c07?postId=ced04caea7bb" data-media-id="c6e2189e0d8d756b7f6281df759b2c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c6e2189e0d8d756b7f6281df759b2c07?postId=ced04caea7bb" data-media-id="c6e2189e0d8d756b7f6281df759b2c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -317,7 +317,7 @@ We post the data as _x-www-form-urlencoded_. This sends the data as query string
 
 
 
-<iframe width="700" height="250" src="/media/51ce6e42062eb599014ec3fce28022ad?postId=ced04caea7bb" data-media-id="51ce6e42062eb599014ec3fce28022ad" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/51ce6e42062eb599014ec3fce28022ad?postId=ced04caea7bb" data-media-id="51ce6e42062eb599014ec3fce28022ad" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -337,7 +337,7 @@ This should print to the console the goal with the given id.
 
 
 
-<iframe width="700" height="250" src="/media/b4f753607038a486b030c22234423320?postId=ced04caea7bb" data-media-id="b4f753607038a486b030c22234423320" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b4f753607038a486b030c22234423320?postId=ced04caea7bb" data-media-id="b4f753607038a486b030c22234423320" allowfullscreen="" frameborder="0"></iframe>
 
 
 

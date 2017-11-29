@@ -187,7 +187,7 @@ Setting up NGINX is a quick and [well-documented](http://nginx.org/en/docs/begin
 
 
 
-<iframe width="700" height="250" src="/media/5074c2563fdd068d0f413b7bc0338bda?postId=919972dfd9e0" data-media-id="5074c2563fdd068d0f413b7bc0338bda" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5074c2563fdd068d0f413b7bc0338bda?postId=919972dfd9e0" data-media-id="5074c2563fdd068d0f413b7bc0338bda" allowfullscreen="" frameborder="0"></iframe>
 
 
 

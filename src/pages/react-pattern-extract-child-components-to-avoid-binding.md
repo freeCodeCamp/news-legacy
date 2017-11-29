@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "React Pattern: Extract Child Components to Avoid Binding"
 subTitle: "Here’s a common scenario in React: You’re mapping over an array, and you need each item to call a click handler and pass some relevant da..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*zISOb74W7PriWKX0y7biKg.jpeg
@@ -34,7 +34,7 @@ Here’s an example. I’m iterating over a list of users and passing the userId
 
 
 
-<iframe width="700" height="250" src="/media/d06ce21b55d2473648b5d6fe2133c4a6?postId=e3ad8310725e" data-media-id="d06ce21b55d2473648b5d6fe2133c4a6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d06ce21b55d2473648b5d6fe2133c4a6?postId=e3ad8310725e" data-media-id="d06ce21b55d2473648b5d6fe2133c4a6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -58,7 +58,7 @@ So how do you avoid binding and arrow functions in render? One option is to extr
 
 
 
-<iframe width="700" height="250" src="/media/2c349b903dbef303dd976a862b301b9b?postId=e3ad8310725e" data-media-id="2c349b903dbef303dd976a862b301b9b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2c349b903dbef303dd976a862b301b9b?postId=e3ad8310725e" data-media-id="2c349b903dbef303dd976a862b301b9b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -70,7 +70,7 @@ Then, the parent component’s render gets simpler, and no longer needs to conta
 
 
 
-<iframe width="700" height="250" src="/media/c6d7924419a3550cbafccbb097645854?postId=e3ad8310725e" data-media-id="c6d7924419a3550cbafccbb097645854" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c6d7924419a3550cbafccbb097645854?postId=e3ad8310725e" data-media-id="c6d7924419a3550cbafccbb097645854" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ So you have two options: Either allow arrows and binds everywhere (and deal with
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/a00523c97850a4a24c7cce9efa2425ad?postId=e3ad8310725e" data-media-id="a00523c97850a4a24c7cce9efa2425ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/a00523c97850a4a24c7cce9efa2425ad?postId=e3ad8310725e" data-media-id="a00523c97850a4a24c7cce9efa2425ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

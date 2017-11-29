@@ -1,7 +1,7 @@
 ---
 author: Vikram Rangnekar
 authorTwitter: https://twitter.com/dosco
-authorFacebook: false
+authorFacebook: none
 title: "How I Built a Serverless Startup"
 subTitle: "Let me cut right to it, Serverless is a buzzword. But it’s also a great way to refer to a massive change in how we build software. Yes, t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*5vxLWV8PDC7ghDGqqPijCA.jpeg

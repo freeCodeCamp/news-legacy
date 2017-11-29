@@ -1,7 +1,7 @@
 ---
 author: Gwendolyn Faraday
 authorTwitter: https://twitter.com/gwen_faraday
-authorFacebook: false
+authorFacebook: none
 title: "How I Landed My First Job as a Web Developer"
 subTitle: "I have always had an interest in coding for the web. I built my first site almost 15 years ago using Yahoo’s Geocities, which allowed HTM..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*pK1tarwkvHqKM6vVr1VevQ.jpeg

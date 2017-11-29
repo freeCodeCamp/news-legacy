@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "460 Free Online Programming &amp; Computer Science Courses You Can Start in July"
 subTitle: "Five years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, more than 700 schools around..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*JNT7Qy2GB1kLYOCYWvQSxA.png

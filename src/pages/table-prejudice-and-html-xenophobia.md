@@ -1,7 +1,7 @@
 ---
 author: Anthony Ng
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "&lt;table&gt; prejudice and HTML xenophobia"
 subTitle: "I was looking over some HTML with a student the other day when we stumbled onto a <table>...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*pD4gTzlobYFeNN0JtJhcjA.jpeg

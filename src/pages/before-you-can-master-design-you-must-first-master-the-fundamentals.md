@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "Before you can master design, you must first master the fundamentals"
 subTitle: "Last week, one of my readers sent in a question: How do I become a better visual designer?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*CL91MC3Ou2BnxeMzDBZ4uQ.png

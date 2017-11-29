@@ -1,6 +1,6 @@
 ---
 author: Jonata Correa
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10202437722859970
 title: "How we used Apple’s learning framework to create our first app"
 subTitle: "After one month of work, my team and I finished the first version of Echo, our tracker iOS application. We built it as a result of a chal..."

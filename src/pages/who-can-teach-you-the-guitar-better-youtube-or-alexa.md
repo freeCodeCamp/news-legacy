@@ -42,7 +42,7 @@ Researching what’s available on the internet showed me many musicians lending 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/8ead75a94a431fe1203c9e5addfa58f3?postId=96e8cef77470" data-media-id="8ead75a94a431fe1203c9e5addfa58f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvSakoBvdIvU%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/8ead75a94a431fe1203c9e5addfa58f3?postId=96e8cef77470" data-media-id="8ead75a94a431fe1203c9e5addfa58f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvSakoBvdIvU%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -70,7 +70,7 @@ The Alexa platform has the ability to interact with someone using only their voi
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/cf866de85685a8707f64268b83641f0d?postId=96e8cef77470" data-media-id="cf866de85685a8707f64268b83641f0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzQRTl1DxHb4%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/cf866de85685a8707f64268b83641f0d?postId=96e8cef77470" data-media-id="cf866de85685a8707f64268b83641f0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzQRTl1DxHb4%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

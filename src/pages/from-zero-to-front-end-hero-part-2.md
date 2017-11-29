@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "From Zero to Front-end Hero (Part 2)"
 subTitle: "This article is part two of the “From Zero to Front-end Hero” series. In part one, you learned how to create layouts with HTML and CSS as..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*2HMyUzkxeVEguBwDI9-rYg.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-2-adfa4824
 id: from-zero-to-front-end-hero-part-2-adfa4824da9b
 date: 2016-05-24T12:05:24.006Z
 tags: [
-  "JavaScript",
-  "Web Development",
-  "Front End Development",
-  "Design",
-  "Technology"
+	"JavaScript",
+	"Web Development",
+	"Front End Development",
+	"Design",
+	"Technology"
 ]
 ---
 # From Zero to Front-end Hero (Part 2)
@@ -33,11 +33,8 @@ _A complete guide to learning front-end development_medium.com](https://medium.c
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*TWVs8hNCI7B7t2Y4tA-u1A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*TWVs8hNCI7B7t2Y4tA-u1A.png"&gt;</noscript>
 
 
 
@@ -68,11 +65,8 @@ To break the monotony of text-based learning, check out the [JavaScript course](
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*V4UtSyfCN9DDpl70IxXSHA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*V4UtSyfCN9DDpl70IxXSHA.gif"&gt;</noscript>
 
 
 
@@ -90,11 +84,8 @@ The DOM is a representational structure of HTML documents. It’s a tree-like st
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*o1lGaXpnKYgp2r9CFOI_9A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*o1lGaXpnKYgp2r9CFOI_9A.png"&gt;</noscript>
 
 
 
@@ -137,11 +128,8 @@ Here is a [tutorial](https://developer.chrome.com/devtools) on using the Chrome 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*wW-FbgJhP0R_id-XPOSKpg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*wW-FbgJhP0R_id-XPOSKpg.jpeg"&gt;</noscript>
 
 
 
@@ -163,11 +151,8 @@ For experiment 1, go to [AirBnB](https://www.airbnb.com/), open up your browser�
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5L17hFKIMTsBFQOLCy8tCQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*5L17hFKIMTsBFQOLCy8tCQ.png"&gt;</noscript>
 
 
 
@@ -201,11 +186,8 @@ The main purpose of this experiment is to take some of the things you learned ab
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7365CToqHiLkXf16Di8xRw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7365CToqHiLkXf16Di8xRw.gif"&gt;</noscript>
 
 
 
@@ -271,11 +253,8 @@ Throughout some of these articles and tutorials, you’ve probably seen the term
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kkezNwUnuEiAztlQRkJ69A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*kkezNwUnuEiAztlQRkJ69A.gif"&gt;</noscript>
 
 
 
@@ -301,11 +280,8 @@ One of the most popular DOM manipulation libraries is [jQuery](https://jquery.co
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4XD5t8AEjQFWeTWEIdhQpw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4XD5t8AEjQFWeTWEIdhQpw.gif"&gt;</noscript>
 
 
 
@@ -337,11 +313,8 @@ If you’ve reached this point, congratulate yourself. You’ve already learned 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vThR7vEzW40OloxGnbmwuA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*vThR7vEzW40OloxGnbmwuA.png"&gt;</noscript>
 
 
 
@@ -361,11 +334,8 @@ During the tutorial, focus on understanding how to make a site interactive, when
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*OxwMghRSssqkALRIaS72iw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*OxwMghRSssqkALRIaS72iw.png"&gt;</noscript>
 
 
 
@@ -424,11 +394,8 @@ AngularJS is a JavaScript [MVC](https://addyosmani.com/resources/essentialjsdesi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*lFZ7nP3KlRtb69abn19xJQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*lFZ7nP3KlRtb69abn19xJQ.png"&gt;</noscript>
 
 
 
@@ -450,11 +417,8 @@ Angular solves a lot of problems that developers face when building complex fron
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*c0JXNVxVnTlOuQCnDqA6CA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*c0JXNVxVnTlOuQCnDqA6CA.png"&gt;</noscript>
 
 
 
@@ -470,7 +434,7 @@ Facebook designed React and Flux to address some of the shortcomings of MVC and 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ab9ae3e28a530497972d6c4d695dff2b?postId=adfa4824da9b" data-media-id="ab9ae3e28a530497972d6c4d695dff2b" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ab9ae3e28a530497972d6c4d695dff2b?postId=adfa4824da9b" data-media-id="ab9ae3e28a530497972d6c4d695dff2b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -492,11 +456,8 @@ Experiment 5 is to take apart and rebuild the Todo MVC app using framework agnos
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ISCVxjX3_691DLnV3EPZ3w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ISCVxjX3_691DLnV3EPZ3w.png"&gt;</noscript>
 
 
 
@@ -514,11 +475,8 @@ Experiment 6 was a good exercise in applying MVC. Understanding MVC is an import
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*zOIJ31nV3rDYBidYkPSH_A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*zOIJ31nV3rDYBidYkPSH_A.png"&gt;</noscript>
 
 
 
@@ -542,11 +500,8 @@ If you want to try your hand at building more Angular web apps, try [Build a Rea
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3HrnGSbAzIM5Lwu0_eqmjw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="25"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3HrnGSbAzIM5Lwu0_eqmjw.png"&gt;</noscript>
 
 
 
@@ -568,11 +523,8 @@ Just like the rest of front-end, the JavaScript landscape moves fast. It’s imp
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gcVLvWktBPvc3rgp5fLvBA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*gcVLvWktBPvc3rgp5fLvBA.jpeg"&gt;</noscript>
 
 
 
@@ -650,11 +602,8 @@ If you want more, you can follow me on [Twitter](https://twitter.com/JonathanZWh
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*UOsjAdUZ9O0QSyfXOpQPbA.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*UOsjAdUZ9O0QSyfXOpQPbA.png"&gt;</noscript>
 
 ](https://twitter.com/JonathanZWhite) 
 
@@ -664,11 +613,8 @@ If you want more, you can follow me on [Twitter](https://twitter.com/JonathanZWh
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*mxQhZLqG7l5dMLvxYAklgw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*mxQhZLqG7l5dMLvxYAklgw.png"&gt;</noscript>
 
 
 

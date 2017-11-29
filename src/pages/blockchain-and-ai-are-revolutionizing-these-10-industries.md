@@ -1,7 +1,7 @@
 ---
 author: Mariya Yao
 authorTwitter: https://twitter.com/thinkmariya
-authorFacebook: false
+authorFacebook: none
 title: "Blockchain and AI are revolutionizing these 10 industries"
 subTitle: "This piece was written & edited in collaboration with TOPBOTS writer Karin Flieswasser...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*N_HlyP0V1RNOZqBJShowZQ.jpeg

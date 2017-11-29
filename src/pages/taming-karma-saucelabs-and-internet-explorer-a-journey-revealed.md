@@ -46,7 +46,7 @@ The project is written in ES6 and JSX, so for karma to work, I needed to somehow
 
 
 
-<iframe width="700" height="250" src="/media/551065d1de1da9b38419ecf31a49e177?postId=548275ed04b4" data-media-id="551065d1de1da9b38419ecf31a49e177" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/551065d1de1da9b38419ecf31a49e177?postId=548275ed04b4" data-media-id="551065d1de1da9b38419ecf31a49e177" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -82,7 +82,7 @@ Long story short, here is the first working setup I used! All seemed well untilâ
 
 
 
-<iframe width="700" height="250" src="/media/670181d458563bc67a66f8870d3a6e86?postId=548275ed04b4" data-media-id="670181d458563bc67a66f8870d3a6e86" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/670181d458563bc67a66f8870d3a6e86?postId=548275ed04b4" data-media-id="670181d458563bc67a66f8870d3a6e86" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ The moment of enlightenment finally came today. On a whim, I decided to see what
 
 
 
-<iframe width="700" height="250" src="/media/46297ddbc394bb393b3ec4be9cc9fef7?postId=548275ed04b4" data-media-id="46297ddbc394bb393b3ec4be9cc9fef7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/46297ddbc394bb393b3ec4be9cc9fef7?postId=548275ed04b4" data-media-id="46297ddbc394bb393b3ec4be9cc9fef7" allowfullscreen="" frameborder="0"></iframe>
 
 
 

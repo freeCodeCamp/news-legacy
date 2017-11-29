@@ -1,7 +1,7 @@
 ---
 author: Roman Gaponov
 authorTwitter: https://twitter.com/djangostars
-authorFacebook: false
+authorFacebook: none
 title: "A guide to asynchronous programming in Python with asyncio"
 subTitle: "This article originally published at djangostars.com by Backend Engineer Maria Yakimova..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*df4p5VuCS5XPctlBQmdFEg.png
@@ -163,7 +163,7 @@ Refactoring your code where it can benefit from an asynchronous approach is wort
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/892180a4a6e17efcebba6b88430bb493?postId=232e2afa44f6" data-media-id="892180a4a6e17efcebba6b88430bb493" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/892180a4a6e17efcebba6b88430bb493?postId=232e2afa44f6" data-media-id="892180a4a6e17efcebba6b88430bb493" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

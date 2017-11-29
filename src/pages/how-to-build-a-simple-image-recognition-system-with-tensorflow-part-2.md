@@ -1,7 +1,7 @@
 ---
 author: Wolfgang Beyer
 authorTwitter: https://twitter.com/woolfib
-authorFacebook: false
+authorFacebook: none
 title: "How to Build a Simple Image Recognition System with TensorFlow (Part 2)"
 subTitle: "This is the second part of my introduction to building an image recognition system with TensorFlow. In the first part we built a softmax ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*D3S-dXQ28R0S74ERw1OfoA.png
@@ -108,7 +108,7 @@ Let’s look at the model itself first and deal with running and training it lat
 
 
 
-<iframe width="700" height="250" src="/media/512e2bad2aef3fbf38623af03d3f92a9?postId=c83348b33bce" data-media-id="512e2bad2aef3fbf38623af03d3f92a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/512e2bad2aef3fbf38623af03d3f92a9?postId=c83348b33bce" data-media-id="512e2bad2aef3fbf38623af03d3f92a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ Each neuron takes all values from the previous layer as input and generates a si
 
 
 
-<iframe width="700" height="250" src="/media/e27a53813b4c75c2e61f152b74c40f56?postId=c83348b33bce" data-media-id="e27a53813b4c75c2e61f152b74c40f56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e27a53813b4c75c2e61f152b74c40f56?postId=c83348b33bce" data-media-id="e27a53813b4c75c2e61f152b74c40f56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ To create the first layer’s output we multiply the `images` matrix and the `we
 
 
 
-<iframe width="700" height="250" src="/media/1843ec71967468a352a13159669a0dbe?postId=c83348b33bce" data-media-id="1843ec71967468a352a13159669a0dbe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1843ec71967468a352a13159669a0dbe?postId=c83348b33bce" data-media-id="1843ec71967468a352a13159669a0dbe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -162,7 +162,7 @@ To sum it up, the `inference()` function as whole takes in input images and retu
 
 
 
-<iframe width="700" height="250" src="/media/791c813d7f6a68f7cab615b9299828db?postId=c83348b33bce" data-media-id="791c813d7f6a68f7cab615b9299828db" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/791c813d7f6a68f7cab615b9299828db?postId=c83348b33bce" data-media-id="791c813d7f6a68f7cab615b9299828db" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -197,7 +197,7 @@ That’s why we used the `regularizer` parameter when defining the weights and a
 
 
 
-<iframe width="700" height="250" src="/media/0b84dba7f1b169a2d2050faefcd95a9f?postId=c83348b33bce" data-media-id="0b84dba7f1b169a2d2050faefcd95a9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0b84dba7f1b169a2d2050faefcd95a9f?postId=c83348b33bce" data-media-id="0b84dba7f1b169a2d2050faefcd95a9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -213,7 +213,7 @@ The definition of the gradient descent optimizer is simple. We provide the learn
 
 
 
-<iframe width="700" height="250" src="/media/8b61eba11d4e80ef88a992774bf3628c?postId=c83348b33bce" data-media-id="8b61eba11d4e80ef88a992774bf3628c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8b61eba11d4e80ef88a992774bf3628c?postId=c83348b33bce" data-media-id="8b61eba11d4e80ef88a992774bf3628c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -231,7 +231,7 @@ Now that the neural network is defined, let’s look at how `run_fc_model.py` ru
 
 
 
-<iframe width="700" height="250" src="/media/5d2bb2a6b6bee9306990890802e7e45d?postId=c83348b33bce" data-media-id="5d2bb2a6b6bee9306990890802e7e45d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5d2bb2a6b6bee9306990890802e7e45d?postId=c83348b33bce" data-media-id="5d2bb2a6b6bee9306990890802e7e45d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -247,7 +247,7 @@ The second block of lines calls the function which actually parses the command l
 
 
 
-<iframe width="700" height="250" src="/media/3906b2eb5180448a70fdc7a33dfb0bf0?postId=c83348b33bce" data-media-id="3906b2eb5180448a70fdc7a33dfb0bf0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3906b2eb5180448a70fdc7a33dfb0bf0?postId=c83348b33bce" data-media-id="3906b2eb5180448a70fdc7a33dfb0bf0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -259,7 +259,7 @@ Here we define constants for the number of pixels per image (32 x 32 x 3) and th
 
 
 
-<iframe width="700" height="250" src="/media/3b9805ff056bb5006844eeecf3bb29b5?postId=c83348b33bce" data-media-id="3b9805ff056bb5006844eeecf3bb29b5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3b9805ff056bb5006844eeecf3bb29b5?postId=c83348b33bce" data-media-id="3b9805ff056bb5006844eeecf3bb29b5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -271,7 +271,7 @@ We want to log some info about the training process and use TensorBoard to displ
 
 
 
-<iframe width="700" height="250" src="/media/61f92fb3a60d424ddeda59795f90f162?postId=c83348b33bce" data-media-id="61f92fb3a60d424ddeda59795f90f162" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/61f92fb3a60d424ddeda59795f90f162?postId=c83348b33bce" data-media-id="61f92fb3a60d424ddeda59795f90f162" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -285,7 +285,7 @@ We want to log some info about the training process and use TensorBoard to displ
 
 
 
-<iframe width="700" height="250" src="/media/adb578f9d21a8e84501fd5fdd9895308?postId=c83348b33bce" data-media-id="adb578f9d21a8e84501fd5fdd9895308" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/adb578f9d21a8e84501fd5fdd9895308?postId=c83348b33bce" data-media-id="adb578f9d21a8e84501fd5fdd9895308" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -301,7 +301,7 @@ The `labels_placeholder` is a vector of integer values containing the correct cl
 
 
 
-<iframe width="700" height="250" src="/media/d6edc6844114364a8403e2e2dc88eb31?postId=c83348b33bce" data-media-id="d6edc6844114364a8403e2e2dc88eb31" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d6edc6844114364a8403e2e2dc88eb31?postId=c83348b33bce" data-media-id="d6edc6844114364a8403e2e2dc88eb31" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -318,7 +318,7 @@ Here we’re referencing the functions we covered earlier in `two_layer_fc.py`.
 
 
 
-<iframe width="700" height="250" src="/media/c1e7467ac10a8fd2688ccd3f20e05ef6?postId=c83348b33bce" data-media-id="c1e7467ac10a8fd2688ccd3f20e05ef6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c1e7467ac10a8fd2688ccd3f20e05ef6?postId=c83348b33bce" data-media-id="c1e7467ac10a8fd2688ccd3f20e05ef6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -330,7 +330,7 @@ Defines a summary operation for TensorBoard (covered [here](http://www.wolfib.co
 
 
 
-<iframe width="700" height="250" src="/media/5359d920d3f4ba018782a41b51ac5f45?postId=c83348b33bce" data-media-id="5359d920d3f4ba018782a41b51ac5f45" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5359d920d3f4ba018782a41b51ac5f45?postId=c83348b33bce" data-media-id="5359d920d3f4ba018782a41b51ac5f45" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -342,7 +342,7 @@ Generates a `saver` object to save the model’s state at checkpoints (covered [
 
 
 
-<iframe width="700" height="250" src="/media/0ea7ee69e8e22f5682d24754604bd25c?postId=c83348b33bce" data-media-id="0ea7ee69e8e22f5682d24754604bd25c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0ea7ee69e8e22f5682d24754604bd25c?postId=c83348b33bce" data-media-id="0ea7ee69e8e22f5682d24754604bd25c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -354,7 +354,7 @@ We start the TensorFlow session and immediately initialize all variables. Then w
 
 
 
-<iframe width="700" height="250" src="/media/c9bddc402f040b3167710f680085343d?postId=c83348b33bce" data-media-id="c9bddc402f040b3167710f680085343d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c9bddc402f040b3167710f680085343d?postId=c83348b33bce" data-media-id="c9bddc402f040b3167710f680085343d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -370,7 +370,7 @@ In order to achieve this, the `gen_batch()` function in `data_helpers()` returns
 
 
 
-<iframe width="700" height="250" src="/media/9b1308d6ecacc0e1d0918af01f390146?postId=c83348b33bce" data-media-id="9b1308d6ecacc0e1d0918af01f390146" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9b1308d6ecacc0e1d0918af01f390146?postId=c83348b33bce" data-media-id="9b1308d6ecacc0e1d0918af01f390146" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -382,7 +382,7 @@ In order to achieve this, the `gen_batch()` function in `data_helpers()` returns
 
 
 
-<iframe width="700" height="250" src="/media/710e0e34782204a6869377081f5f2777?postId=c83348b33bce" data-media-id="710e0e34782204a6869377081f5f2777" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/710e0e34782204a6869377081f5f2777?postId=c83348b33bce" data-media-id="710e0e34782204a6869377081f5f2777" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -394,7 +394,7 @@ Every 100 iterations the model’s current accuracy is evaluated and printed to 
 
 
 
-<iframe width="700" height="250" src="/media/fff5043a6aaa2842e41158b2af87d742?postId=c83348b33bce" data-media-id="fff5043a6aaa2842e41158b2af87d742" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fff5043a6aaa2842e41158b2af87d742?postId=c83348b33bce" data-media-id="fff5043a6aaa2842e41158b2af87d742" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -406,7 +406,7 @@ This line runs the `train_step` operation (defined previously to call `two_layer
 
 
 
-<iframe width="700" height="250" src="/media/f3acb647ac5683f2fb50245d39867101?postId=c83348b33bce" data-media-id="f3acb647ac5683f2fb50245d39867101" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f3acb647ac5683f2fb50245d39867101?postId=c83348b33bce" data-media-id="f3acb647ac5683f2fb50245d39867101" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -420,7 +420,7 @@ Restoring a model is just as easy, just call the saver’s `restore()` method. T
 
 
 
-<iframe width="700" height="250" src="/media/3e467dc0c5fc63594138bffdc5548969?postId=c83348b33bce" data-media-id="3e467dc0c5fc63594138bffdc5548969" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3e467dc0c5fc63594138bffdc5548969?postId=c83348b33bce" data-media-id="3e467dc0c5fc63594138bffdc5548969" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -448,7 +448,7 @@ In `two_layer_fc.py` we find the following:
 
 
 
-<iframe width="700" height="250" src="/media/b82f627df4514da40142388f3f9ff229?postId=c83348b33bce" data-media-id="b82f627df4514da40142388f3f9ff229" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b82f627df4514da40142388f3f9ff229?postId=c83348b33bce" data-media-id="b82f627df4514da40142388f3f9ff229" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -464,7 +464,7 @@ In `run_fc_model.py` the following lines are relevant for the TensorBoard visual
 
 
 
-<iframe width="700" height="250" src="/media/225062adbedf00f1658233ecd3e8bb89?postId=c83348b33bce" data-media-id="225062adbedf00f1658233ecd3e8bb89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/225062adbedf00f1658233ecd3e8bb89?postId=c83348b33bce" data-media-id="225062adbedf00f1658233ecd3e8bb89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

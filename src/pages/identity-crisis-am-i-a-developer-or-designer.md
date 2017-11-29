@@ -1,7 +1,7 @@
 ---
 author: James Y Rauhut
 authorTwitter: https://twitter.com/seejamescode
-authorFacebook: false
+authorFacebook: none
 title: "Identity Crisis: Am I a Developer or a Designer?"
 subTitle: "I used to be confused about whether I should introduce myself as a front-end developer or as a designer. I would switch back and forth ba..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*4aHLiemTXkvAQXBj0exXxw.jpeg

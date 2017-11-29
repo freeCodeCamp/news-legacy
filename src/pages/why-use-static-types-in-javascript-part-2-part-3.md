@@ -40,7 +40,7 @@ A quick example: suppose we have a simple function that takes a radius and calcu
 
 
 
-<iframe width="700" height="250" src="/media/6f0dbcfd255c455e57fa093ca09fc77c?postId=be699ee7be60" data-media-id="6f0dbcfd255c455e57fa093ca09fc77c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6f0dbcfd255c455e57fa093ca09fc77c?postId=be699ee7be60" data-media-id="6f0dbcfd255c455e57fa093ca09fc77c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -52,7 +52,7 @@ Now, if we were to pass a radius which is not a number (e.g. ‘im evil’)…
 
 
 
-<iframe width="700" height="250" src="/media/ada4ad3d3042bbea7004bbb4747877b6?postId=be699ee7be60" data-media-id="ada4ad3d3042bbea7004bbb4747877b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ada4ad3d3042bbea7004bbb4747877b6?postId=be699ee7be60" data-media-id="ada4ad3d3042bbea7004bbb4747877b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -66,7 +66,7 @@ Had we used static types, we could have specified the exact input(s) and output 
 
 
 
-<iframe width="700" height="250" src="/media/3ba4f61a31187022e022235ff63e880c?postId=be699ee7be60" data-media-id="3ba4f61a31187022e022235ff63e880c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3ba4f61a31187022e022235ff63e880c?postId=be699ee7be60" data-media-id="3ba4f61a31187022e022235ff63e880c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -78,7 +78,7 @@ Try to pass anything but a number into our `calculateArea` function now, and Flo
 
 
 
-<iframe width="700" height="250" src="/media/d3f076fa08595cc4c2b7b4e243dc886f?postId=be699ee7be60" data-media-id="d3f076fa08595cc4c2b7b4e243dc886f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d3f076fa08595cc4c2b7b4e243dc886f?postId=be699ee7be60" data-media-id="d3f076fa08595cc4c2b7b4e243dc886f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -98,7 +98,7 @@ To see how, let’s look at this method that I once found in a large code base t
 
 
 
-<iframe width="700" height="250" src="/media/b82ac12bf9fd6b0ab73322fb139b3141?postId=be699ee7be60" data-media-id="b82ac12bf9fd6b0ab73322fb139b3141" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b82ac12bf9fd6b0ab73322fb139b3141?postId=be699ee7be60" data-media-id="b82ac12bf9fd6b0ab73322fb139b3141" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ On the other hand, if we had written something like:
 
 
 
-<iframe width="700" height="250" src="/media/3f2024788e1efa259c9066f6cb40ccaa?postId=be699ee7be60" data-media-id="3f2024788e1efa259c9066f6cb40ccaa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3f2024788e1efa259c9066f6cb40ccaa?postId=be699ee7be60" data-media-id="3f2024788e1efa259c9066f6cb40ccaa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -132,7 +132,7 @@ There’s an argument to be made that adding code comments or documentation coul
 
 
 
-<iframe width="700" height="250" src="/media/191f732b2b37b9e32e5545b167eaf362?postId=be699ee7be60" data-media-id="191f732b2b37b9e32e5545b167eaf362" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/191f732b2b37b9e32e5545b167eaf362?postId=be699ee7be60" data-media-id="191f732b2b37b9e32e5545b167eaf362" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -152,7 +152,7 @@ This time, I’ll have it take an array of radii and calculate the area for each
 
 
 
-<iframe width="700" height="250" src="/media/35f1feff005346c1726774b009b65d57?postId=be699ee7be60" data-media-id="35f1feff005346c1726774b009b65d57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/35f1feff005346c1726774b009b65d57?postId=be699ee7be60" data-media-id="35f1feff005346c1726774b009b65d57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ This function works, but doesn’t properly handle invalid input arguments. If w
 
 
 
-<iframe width="700" height="250" src="/media/330ff9eb6b943833407ec926c7a60211?postId=be699ee7be60" data-media-id="330ff9eb6b943833407ec926c7a60211" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/330ff9eb6b943833407ec926c7a60211?postId=be699ee7be60" data-media-id="330ff9eb6b943833407ec926c7a60211" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -178,7 +178,7 @@ But with static types, we could simply do:
 
 
 
-<iframe width="700" height="250" src="/media/8ec289f7d56a15502cb661133fbe6fc7?postId=be699ee7be60" data-media-id="8ec289f7d56a15502cb661133fbe6fc7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8ec289f7d56a15502cb661133fbe6fc7?postId=be699ee7be60" data-media-id="8ec289f7d56a15502cb661133fbe6fc7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -208,7 +208,7 @@ Let’s revisit our `calculateAreas` function with static types:
 
 
 
-<iframe width="700" height="250" src="/media/e8f4c3bc55e7f972a299216b5e4a3691?postId=be699ee7be60" data-media-id="e8f4c3bc55e7f972a299216b5e4a3691" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e8f4c3bc55e7f972a299216b5e4a3691?postId=be699ee7be60" data-media-id="e8f4c3bc55e7f972a299216b5e4a3691" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -242,7 +242,7 @@ For instance, let’s say our initial application state is defined as:
 
 
 
-<iframe width="700" height="250" src="/media/2dfc3c709b700cf3122d36115fab5c58?postId=be699ee7be60" data-media-id="2dfc3c709b700cf3122d36115fab5c58" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2dfc3c709b700cf3122d36115fab5c58?postId=be699ee7be60" data-media-id="2dfc3c709b700cf3122d36115fab5c58" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -254,7 +254,7 @@ And let’s assume that we then make an API call to fetch the messages in order 
 
 
 
-<iframe width="700" height="250" src="/media/cd6f7f9b62e3fb6ad71c7f567ba486d5?postId=be699ee7be60" data-media-id="cd6f7f9b62e3fb6ad71c7f567ba486d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cd6f7f9b62e3fb6ad71c7f567ba486d5?postId=be699ee7be60" data-media-id="cd6f7f9b62e3fb6ad71c7f567ba486d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -272,7 +272,7 @@ Let’s see how types can help us. We’ll start by adding Flow types to our app
 
 
 
-<iframe width="700" height="250" src="/media/f54b9ace115b864b042c687b5cbcfcec?postId=be699ee7be60" data-media-id="f54b9ace115b864b042c687b5cbcfcec" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f54b9ace115b864b042c687b5cbcfcec?postId=be699ee7be60" data-media-id="f54b9ace115b864b042c687b5cbcfcec" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -286,7 +286,7 @@ Same deal as last time — we fetch our messages from the unreliable API and
 
 
 
-<iframe width="700" height="250" src="/media/cd6f7f9b62e3fb6ad71c7f567ba486d5?postId=be699ee7be60" data-media-id="cd6f7f9b62e3fb6ad71c7f567ba486d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cd6f7f9b62e3fb6ad71c7f567ba486d5?postId=be699ee7be60" data-media-id="cd6f7f9b62e3fb6ad71c7f567ba486d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -298,7 +298,7 @@ Except now, Flow would catch our error and complain:
 
 
 
-<iframe width="700" height="250" src="/media/f21f608f589476cb9572034a438c2b40?postId=be699ee7be60" data-media-id="f21f608f589476cb9572034a438c2b40" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f21f608f589476cb9572034a438c2b40?postId=be699ee7be60" data-media-id="f21f608f589476cb9572034a438c2b40" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -314,7 +314,7 @@ So let’s go back and update our view function to be something like:
 
 
 
-<iframe width="700" height="250" src="/media/204006824cdd12619867a8a9a98ef0a6?postId=be699ee7be60" data-media-id="204006824cdd12619867a8a9a98ef0a6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/204006824cdd12619867a8a9a98ef0a6?postId=be699ee7be60" data-media-id="204006824cdd12619867a8a9a98ef0a6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -332,7 +332,7 @@ For instance, let’s go back to our dynamically-typed `calculateAreas` function
 
 
 
-<iframe width="700" height="250" src="/media/330ff9eb6b943833407ec926c7a60211?postId=be699ee7be60" data-media-id="330ff9eb6b943833407ec926c7a60211" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/330ff9eb6b943833407ec926c7a60211?postId=be699ee7be60" data-media-id="330ff9eb6b943833407ec926c7a60211" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -344,7 +344,7 @@ If we were diligent programmers, we might have thought to test invalid inputs to
 
 
 
-<iframe width="700" height="250" src="/media/de5b603f11a55f0e59127c5f3296fbc0?postId=be699ee7be60" data-media-id="de5b603f11a55f0e59127c5f3296fbc0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/de5b603f11a55f0e59127c5f3296fbc0?postId=be699ee7be60" data-media-id="de5b603f11a55f0e59127c5f3296fbc0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -360,7 +360,7 @@ On the other hand, when we’re required to define types:
 
 
 
-<iframe width="700" height="250" src="/media/8ec289f7d56a15502cb661133fbe6fc7?postId=be699ee7be60" data-media-id="8ec289f7d56a15502cb661133fbe6fc7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8ec289f7d56a15502cb661133fbe6fc7?postId=be699ee7be60" data-media-id="8ec289f7d56a15502cb661133fbe6fc7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -382,7 +382,7 @@ So we’ll first type alias these three different payment method types:
 
 
 
-<iframe width="700" height="250" src="/media/b7ced19b89471e4e450ccace21e61616?postId=be699ee7be60" data-media-id="b7ced19b89471e4e450ccace21e61616" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b7ced19b89471e4e450ccace21e61616?postId=be699ee7be60" data-media-id="b7ced19b89471e4e450ccace21e61616" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -394,7 +394,7 @@ Now we can define our `PaymentMethod` type as a disjoint union with three cases:
 
 
 
-<iframe width="700" height="250" src="/media/d5667cf359d2e907c99b4a114b5faee1?postId=be699ee7be60" data-media-id="d5667cf359d2e907c99b4a114b5faee1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d5667cf359d2e907c99b4a114b5faee1?postId=be699ee7be60" data-media-id="d5667cf359d2e907c99b4a114b5faee1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -406,7 +406,7 @@ Next, let’s model our app state. To keep it simple, let’s assume that our ap
 
 
 
-<iframe width="700" height="250" src="/media/eb784913488ea80636bd9947481de175?postId=be699ee7be60" data-media-id="eb784913488ea80636bd9947481de175" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/eb784913488ea80636bd9947481de175?postId=be699ee7be60" data-media-id="eb784913488ea80636bd9947481de175" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -427,7 +427,7 @@ Hmmm. Is there a way to model our app state to be one of these four cases, and o
 
 
 
-<iframe width="700" height="250" src="/media/d9f7875b3085de6b063fd23768216bd0?postId=be699ee7be60" data-media-id="d9f7875b3085de6b063fd23768216bd0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d9f7875b3085de6b063fd23768216bd0?postId=be699ee7be60" data-media-id="d9f7875b3085de6b063fd23768216bd0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -441,7 +441,7 @@ You’ll also notice that I pass in a generic type `E` and `D` into the app stat
 
 
 
-<iframe width="700" height="250" src="/media/7eada66f8339c6c9ad629dfb1be61d9e?postId=be699ee7be60" data-media-id="7eada66f8339c6c9ad629dfb1be61d9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7eada66f8339c6c9ad629dfb1be61d9e?postId=be699ee7be60" data-media-id="7eada66f8339c6c9ad629dfb1be61d9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -453,7 +453,7 @@ Now, we can model our app domain as:
 
 
 
-<iframe width="700" height="250" src="/media/f64d855750d22aef2d295895640a12e6?postId=be699ee7be60" data-media-id="f64d855750d22aef2d295895640a12e6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f64d855750d22aef2d295895640a12e6?postId=be699ee7be60" data-media-id="f64d855750d22aef2d295895640a12e6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -499,7 +499,7 @@ For example, instead of:
 
 
 
-<iframe width="700" height="250" src="/media/1131f1a6a2128eac951e89e35c185a21?postId=be699ee7be60" data-media-id="1131f1a6a2128eac951e89e35c185a21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1131f1a6a2128eac951e89e35c185a21?postId=be699ee7be60" data-media-id="1131f1a6a2128eac951e89e35c185a21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -511,7 +511,7 @@ We’d have to write:
 
 
 
-<iframe width="700" height="250" src="/media/912f029dbe000521b30e95eb76c97e93?postId=be699ee7be60" data-media-id="912f029dbe000521b30e95eb76c97e93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/912f029dbe000521b30e95eb76c97e93?postId=be699ee7be60" data-media-id="912f029dbe000521b30e95eb76c97e93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -523,7 +523,7 @@ And instead of:
 
 
 
-<iframe width="700" height="250" src="/media/42f735c1a121fea77d317e928a0ffc00?postId=be699ee7be60" data-media-id="42f735c1a121fea77d317e928a0ffc00" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/42f735c1a121fea77d317e928a0ffc00?postId=be699ee7be60" data-media-id="42f735c1a121fea77d317e928a0ffc00" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -535,7 +535,7 @@ We’d have to write:
 
 
 
-<iframe width="700" height="250" src="/media/1848e69e0f9ef875f1d83ab32d2da001?postId=be699ee7be60" data-media-id="1848e69e0f9ef875f1d83ab32d2da001" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1848e69e0f9ef875f1d83ab32d2da001?postId=be699ee7be60" data-media-id="1848e69e0f9ef875f1d83ab32d2da001" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Adam Recvlohe
 authorTwitter: https://twitter.com/adamrecvlohe
-authorFacebook: false
+authorFacebook: none
 title: "Let’s Make Emoji with JavaScript and HTML5 Canvas!"
 subTitle: "I started working in the web development field about 6 months ago after spending most of my career in education. The transition has been ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*fzz0bNoOcUnsihyppXAMEA.jpeg
@@ -172,7 +172,7 @@ Here is a sample of that on codepen:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/198d0bb2b6300dff25921294df7c133c?postId=af6f9186a553" data-media-id="198d0bb2b6300dff25921294df7c133c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/198d0bb2b6300dff25921294df7c133c?postId=af6f9186a553" data-media-id="198d0bb2b6300dff25921294df7c133c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -261,7 +261,7 @@ Here is what that looks like in the wild:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/5e8e021bed6b8b167791b92ce7395fc5?postId=af6f9186a553" data-media-id="5e8e021bed6b8b167791b92ce7395fc5" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/5e8e021bed6b8b167791b92ce7395fc5?postId=af6f9186a553" data-media-id="5e8e021bed6b8b167791b92ce7395fc5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -311,7 +311,7 @@ Here is the finished product that you can play with:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/a0e7081b7a0b58b91fc2215d12adc5b0?postId=af6f9186a553" data-media-id="a0e7081b7a0b58b91fc2215d12adc5b0" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/a0e7081b7a0b58b91fc2215d12adc5b0?postId=af6f9186a553" data-media-id="a0e7081b7a0b58b91fc2215d12adc5b0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -365,7 +365,7 @@ Here is what the finished product looks like:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/7a203daa8f3c02e34b7bab7733aa4e09?postId=af6f9186a553" data-media-id="7a203daa8f3c02e34b7bab7733aa4e09" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/7a203daa8f3c02e34b7bab7733aa4e09?postId=af6f9186a553" data-media-id="7a203daa8f3c02e34b7bab7733aa4e09" allowfullscreen="" frameborder="0"></iframe>
 
 
 

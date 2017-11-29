@@ -1,7 +1,7 @@
 ---
 author: Justin Falcone
 authorTwitter: https://twitter.com/modernserf
-authorFacebook: false
+authorFacebook: none
 title: "What’s So Great About Redux?"
 subTitle: "Redux elegantly handles complex state interactions that are hard to express with React’s component state. It is essentially a message-pas..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*BpaqVMW2RjQAg9cFHcX1pw.png
@@ -68,7 +68,7 @@ This brings me back to a question I raised earlier: what does it say about a too
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/c3a424f8ffd1a9e26394373bdee8354a?postId=ac16f1cc0f8b" data-media-id="c3a424f8ffd1a9e26394373bdee8354a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F838749413711323137%2FWQ15CHS0_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/c3a424f8ffd1a9e26394373bdee8354a?postId=ac16f1cc0f8b" data-media-id="c3a424f8ffd1a9e26394373bdee8354a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F838749413711323137%2FWQ15CHS0_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

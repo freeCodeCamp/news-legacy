@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/between-the-wires-an-interview-with-mootool
 id: between-the-wires-an-interview-with-mootools-contributors-33d764957575
 date: 2017-06-07T17:43:17.005Z
 tags: [
-  "Web Development",
-  "JavaScript",
-  "Open Source",
-  "React",
-  "Web Design"
+	"Web Development",
+	"JavaScript",
+	"Open Source",
+	"React",
+	"Web Design"
 ]
 ---
 # Between the Wires: An interview with MooTools contributors
@@ -22,13 +22,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*xlliyjOmrA_L49Q5.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/0*xlliyjOmrA_L49Q5.)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*xlliyjOmrA_L49Q5."&gt;</noscript>
 
 
 
@@ -42,13 +39,10 @@ If you were doing web development in 2009, [MooTools](http://Mootools.net) might
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*zNNFdkpJ1inPkp0-KyQovw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*zNNFdkpJ1inPkp0-KyQovw.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*zNNFdkpJ1inPkp0-KyQovw.png"&gt;</noscript>
 
 
 
@@ -66,11 +60,8 @@ Formerly core contributors to MooTools, [Sebastian Markbåge](https://twitter.co
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PrHK3KFAoEmxUZP_bTNN9g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="56" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*PrHK3KFAoEmxUZP_bTNN9g.png"&gt;</noscript>
 
 
 
@@ -92,11 +83,8 @@ Formerly core contributors to MooTools, [Sebastian Markbåge](https://twitter.co
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*H4Demn1kbefr2BcBUfYJZA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*H4Demn1kbefr2BcBUfYJZA.png"&gt;</noscript>
 
 
 
@@ -118,11 +106,8 @@ Netscape
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*smxcdYTdzqEdGm3LczmjZQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="68" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*smxcdYTdzqEdGm3LczmjZQ.png"&gt;</noscript>
 
 
 
@@ -136,11 +121,8 @@ Netscape
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*lyN_1KiIZN9AlTJxMNzEgA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*lyN_1KiIZN9AlTJxMNzEgA.png"&gt;</noscript>
 
 
 
@@ -158,11 +140,8 @@ It actually wasn’t MooTools that he was creating at first. His whole premise f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0i_2IyN6luUR-wD12fauWg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0i_2IyN6luUR-wD12fauWg.png"&gt;</noscript>
 
 
 
@@ -186,11 +165,8 @@ Tom (left) and Valerio (right), the original author of the MooTools library
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*mBfoaAB5Io_w4SQLyTVWyw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*mBfoaAB5Io_w4SQLyTVWyw.png"&gt;</noscript>
 
 
 
@@ -208,11 +184,8 @@ MooTools Trac
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Pe_kUckiLTEUVdGgZxzlqg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*Pe_kUckiLTEUVdGgZxzlqg.png"&gt;</noscript>
 
 
 
@@ -260,11 +233,8 @@ We saw jQuery as the opposite, where everything was inline. There were no reusab
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ez90JE2z1LQZSWMeGBOEFw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*ez90JE2z1LQZSWMeGBOEFw.png"&gt;</noscript>
 
 
 
@@ -284,11 +254,8 @@ We saw jQuery as the opposite, where everything was inline. There were no reusab
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*e8VfMuUFURLsX6rB_U6-_Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*e8VfMuUFURLsX6rB_U6-_Q.png"&gt;</noscript>
 
 
 
@@ -320,11 +287,8 @@ Meanwhile, there were a lot of academic projects — the common wisdom was t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*UoMP-4eZNNw-NOIJiIDeGw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*UoMP-4eZNNw-NOIJiIDeGw.png"&gt;</noscript>
 
 
 
@@ -478,11 +442,9 @@ Send feedback to @[betweenthewires](https://twitter.com/betweenthewires) on Twit
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="39"></canvas>
 
-<iframe data-width="800" data-height="400" width="700" height="350" data-src="/media/b3df5dcd0dc099c1ca67ceeaee248475?postId=33d764957575" data-media-id="b3df5dcd0dc099c1ca67ceeaee248475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" data-src="https://medium.freecodecamp.org/media/b3df5dcd0dc099c1ca67ceeaee248475?postId=33d764957575" data-media-id="b3df5dcd0dc099c1ca67ceeaee248475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="800" data-height="400" width="700" height="350" src="/media/b3df5dcd0dc099c1ca67ceeaee248475?postId=33d764957575" data-media-id="b3df5dcd0dc099c1ca67ceeaee248475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 

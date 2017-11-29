@@ -1,7 +1,7 @@
 ---
 author: TJ Holowaychuk
 authorTwitter: https://twitter.com/tjholowaychuk
-authorFacebook: false
+authorFacebook: none
 title: "Up – deploy serverless apps in seconds"
 subTitle: "Last year I wrote Blueprints for Up, describing how most of the building blocks are available to create a great serverless experience on ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*8KijrYCm1j0_XvrACQD_fQ.png

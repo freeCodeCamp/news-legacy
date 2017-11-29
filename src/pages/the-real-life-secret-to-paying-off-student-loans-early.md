@@ -1,6 +1,6 @@
 ---
 author: Emily Christine Fay
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10108967144322828
 title: "How I escaped the student debt trap, and why other Americans aren’t so lucky"
 subTitle: "This week, I paid off my last student loan. It’s a big deal for me, and something that I’ve been looking forward to for many years. Now I..."

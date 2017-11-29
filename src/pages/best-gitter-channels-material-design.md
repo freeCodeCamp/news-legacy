@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels: Material Design"
 subTitle: "Material Design is a design language developed by Google. It consists of specifications for a unified system of visual, motion, and inter..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ATlLP0KYvl5shs9EJOOejg.png

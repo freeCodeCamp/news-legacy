@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/finding-time-to-become-a-better-developer-e
 id: finding-time-to-become-a-better-developer-eebc154881b2
 date: 2016-06-27T16:34:00.560Z
 tags: [
-  "Software Development",
-  "Programming",
-  "Time Management",
-  "Web Development",
-  "Productivity"
+	"Software Development",
+	"Programming",
+	"Time Management",
+	"Web Development",
+	"Productivity"
 ]
 ---
 # Finding Time to Become a Better Developer
@@ -22,13 +22,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Y0koaXjHnJSrzB6vK4STqQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Y0koaXjHnJSrzB6vK4STqQ.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Y0koaXjHnJSrzB6vK4STqQ.png"&gt;</noscript>
 
 
 
@@ -50,11 +47,8 @@ I used to think that the only way to be a great developer was to work myself sic
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nlHiraEMnpECFoi3_nIV4g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nlHiraEMnpECFoi3_nIV4g.gif"&gt;</noscript>
 
 
 
@@ -84,11 +78,8 @@ Learning time should be a part of your schedule. Set aside a specific amount of 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*T_iEqRX_YzZjmQeaRgk2mA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*T_iEqRX_YzZjmQeaRgk2mA.gif"&gt;</noscript>
 
 
 
@@ -111,11 +102,8 @@ There are two things you can do that will reduce errors in your code and lead to
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*NyLgzD71S8ZmsZ1QWRTYtw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*NyLgzD71S8ZmsZ1QWRTYtw.gif"&gt;</noscript>
 
 
 
@@ -143,11 +131,8 @@ Over time, other developers will be late, deliver sloppy work, or burn out and b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JMk2wpkTz9SKzs1D9s7-CA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*JMk2wpkTz9SKzs1D9s7-CA.png"&gt;</noscript>
 
 
 
@@ -169,11 +154,8 @@ So, don’t waste time trying to shave time off a function that is barely used, 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tREYaPTUYGW_LAbdOBKbaw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*tREYaPTUYGW_LAbdOBKbaw.gif"&gt;</noscript>
 
 
 
@@ -225,11 +207,9 @@ UPDATE: Watch as I discuss this article and more with Free Code Camp’s [Quincy
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrgJ7o5WeyuI%2Fhqdefault.jpg&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<iframe data-width="854" data-height="480" width="700" height="393" data-src="/media/b1a26898c2db0050352325cc91ee04b3?postId=eebc154881b2" data-media-id="b1a26898c2db0050352325cc91ee04b3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrgJ7o5WeyuI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" data-src="https://medium.freecodecamp.org/media/b1a26898c2db0050352325cc91ee04b3?postId=eebc154881b2" data-media-id="b1a26898c2db0050352325cc91ee04b3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrgJ7o5WeyuI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="854" data-height="480" width="700" height="393" src="/media/b1a26898c2db0050352325cc91ee04b3?postId=eebc154881b2" data-media-id="b1a26898c2db0050352325cc91ee04b3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrgJ7o5WeyuI%2Fhqdefault.jpg&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 

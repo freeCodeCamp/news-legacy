@@ -44,7 +44,7 @@ And this is the corresponding PDF, generated with [DeckTape](https://github.com/
 
 
 
-<iframe data-width="600" data-height="500" width="600" height="500" src="/media/ce25a02e284b78935ff0f9ffae8b7ce6?postId=c7e24f4bd9c5" data-media-id="ce25a02e284b78935ff0f9ffae8b7ce6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fcdn.slidesharecdn.com%2Fss_thumbnails%2Finteractiveslides-170814083650-thumbnail-4.jpg%3Fcb%3D1502699920&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="500" width="600" height="500" src="https://medium.freecodecamp.org/media/ce25a02e284b78935ff0f9ffae8b7ce6?postId=c7e24f4bd9c5" data-media-id="ce25a02e284b78935ff0f9ffae8b7ce6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fcdn.slidesharecdn.com%2Fss_thumbnails%2Finteractiveslides-170814083650-thumbnail-4.jpg%3Fcb%3D1502699920&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

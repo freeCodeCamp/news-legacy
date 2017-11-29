@@ -1,7 +1,7 @@
 ---
 author: Nicolas Cuillery
 authorTwitter: https://twitter.com/ncuillery
-authorFacebook: false
+authorFacebook: none
 title: "What I learned at React Europe 2017"
 subTitle: "Few days ago, the 3rd edition of the biggest React conference in Europe took place in Paris. No heatwave or transportation strike this ye..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*LI8kcoWrhCJUoAXdqz6vaQ.jpeg
@@ -131,7 +131,7 @@ The JavaScript fatigue, then, is simply the consequence of the huge number of op
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/f58579891763afc6fa09f24801746b86?postId=c433468890d6" data-media-id="f58579891763afc6fa09f24801746b86" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F720529583527890944%2Fpu%2Fimg%2FvjxT2cc8C2VPy3iZ.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/f58579891763afc6fa09f24801746b86?postId=c433468890d6" data-media-id="f58579891763afc6fa09f24801746b86" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F720529583527890944%2Fpu%2Fimg%2FvjxT2cc8C2VPy3iZ.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -185,7 +185,7 @@ Again, Cheng has the awesome skill to look at the bigger picture with hindsight.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/32c3edb05abbab695b650c57347cd5c2?postId=c433468890d6" data-media-id="32c3edb05abbab695b650c57347cd5c2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F755525099697025024%2FqDXvdTS__400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/32c3edb05abbab695b650c57347cd5c2?postId=c433468890d6" data-media-id="32c3edb05abbab695b650c57347cd5c2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F755525099697025024%2FqDXvdTS__400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -282,7 +282,7 @@ To illustrate the original problem, Nik presented an example of imperative code 
 
 
 
-<iframe width="700" height="250" src="/media/e8fbabf45b3227bbf49666eb0a4bf418?postId=c433468890d6" data-media-id="e8fbabf45b3227bbf49666eb0a4bf418" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e8fbabf45b3227bbf49666eb0a4bf418?postId=c433468890d6" data-media-id="e8fbabf45b3227bbf49666eb0a4bf418" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -294,7 +294,7 @@ That code full of temporary variables could be improved with the chain API:
 
 
 
-<iframe width="700" height="250" src="/media/8849a772fbf314dcd13f1f33b6554b54?postId=c433468890d6" data-media-id="8849a772fbf314dcd13f1f33b6554b54" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8849a772fbf314dcd13f1f33b6554b54?postId=c433468890d6" data-media-id="8849a772fbf314dcd13f1f33b6554b54" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -308,7 +308,7 @@ Real composition allows to define a pipe with [Ramda](http://ramdajs.com/), [lod
 
 
 
-<iframe width="700" height="250" src="/media/994c9893ca42ef4cda96461ec36cbf88?postId=c433468890d6" data-media-id="994c9893ca42ef4cda96461ec36cbf88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/994c9893ca42ef4cda96461ec36cbf88?postId=c433468890d6" data-media-id="994c9893ca42ef4cda96461ec36cbf88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -320,7 +320,7 @@ We can find a similar ugly syntax in React with the HoC (High-Order Component) p
 
 
 
-<iframe width="700" height="250" src="/media/559d8513e11fcc188c2675db41b2660a?postId=c433468890d6" data-media-id="559d8513e11fcc188c2675db41b2660a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/559d8513e11fcc188c2675db41b2660a?postId=c433468890d6" data-media-id="559d8513e11fcc188c2675db41b2660a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -338,7 +338,7 @@ Back to React, Nik showed that we can write our own HoC function to avoid repeti
 
 
 
-<iframe width="700" height="250" src="/media/e66b4ce978d39b6a3e1fa9c38d5acb7d?postId=c433468890d6" data-media-id="e66b4ce978d39b6a3e1fa9c38d5acb7d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e66b4ce978d39b6a3e1fa9c38d5acb7d?postId=c433468890d6" data-media-id="e66b4ce978d39b6a3e1fa9c38d5acb7d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F4425455%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -396,7 +396,7 @@ As if that were not enough convincing, Leland closed his talk with [react-sketch
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/a843c7b5b3c58149bc26d96968cc1460?postId=c433468890d6" data-media-id="a843c7b5b3c58149bc26d96968cc1460" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F467925031486763008%2FQ0_ncLBr_400x400.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/a843c7b5b3c58149bc26d96968cc1460?postId=c433468890d6" data-media-id="a843c7b5b3c58149bc26d96968cc1460" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F467925031486763008%2FQ0_ncLBr_400x400.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

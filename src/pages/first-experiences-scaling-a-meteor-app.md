@@ -1,6 +1,6 @@
 ---
 author: Eliezer Steinbock
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/549765607
 title: "First Experiences Scaling a Meteor App"
 subTitle: "I recently went through the challenge and ordeal of having to scale my Meteor app. It’s a project that had already been running in produc..."

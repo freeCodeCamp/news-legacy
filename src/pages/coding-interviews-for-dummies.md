@@ -56,7 +56,7 @@ Unfortunately, the rules are set by the companies, not by the candidates. There 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/b3be398fba2a45746588ba18488d48be?postId=5e048933b82b" data-media-id="b3be398fba2a45746588ba18488d48be" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCfNJTAHWAAAik5I.png%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/b3be398fba2a45746588ba18488d48be?postId=5e048933b82b" data-media-id="b3be398fba2a45746588ba18488d48be" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCfNJTAHWAAAik5I.png%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

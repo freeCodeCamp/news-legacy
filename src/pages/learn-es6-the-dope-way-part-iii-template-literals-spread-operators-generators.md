@@ -1,7 +1,7 @@
 ---
 author: Mariya Diminsky
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Learn ES6 The Dope Way Part III: Template Literals, Spread Operators, and Generators!"
 subTitle: "Welcome to Part III of Learn ES6 The Dope Way, a series created to help you easily understand ES6 (ECMAScript 6)!..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*RuxaPPPrL6K09eF4pFhISw.jpeg
@@ -62,7 +62,7 @@ After reviewing the benefits and items to be aware of, take note of these exampl
 
 
 
-<iframe width="700" height="250" src="/media/a5e4196374c679c328126014d52e62dc?postId=592765337294" data-media-id="a5e4196374c679c328126014d52e62dc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a5e4196374c679c328126014d52e62dc?postId=592765337294" data-media-id="a5e4196374c679c328126014d52e62dc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -74,7 +74,7 @@ Let’s checkout an even more complex way of using Template Literals! Look at ho
 
 
 
-<iframe width="700" height="250" src="/media/b2fed9ad152cab3ccdf6e274fb4d1da6?postId=592765337294" data-media-id="b2fed9ad152cab3ccdf6e274fb4d1da6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b2fed9ad152cab3ccdf6e274fb4d1da6?postId=592765337294" data-media-id="b2fed9ad152cab3ccdf6e274fb4d1da6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ Let’s take a look at a situation where we would want to add several arrays int
 
 
 
-<iframe width="700" height="250" src="/media/8ffca4f818d564b6ef8ca7adb9882331?postId=592765337294" data-media-id="8ffca4f818d564b6ef8ca7adb9882331" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8ffca4f818d564b6ef8ca7adb9882331?postId=592765337294" data-media-id="8ffca4f818d564b6ef8ca7adb9882331" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ With the Spread Operator, your arrays are automatically inserted and concatenate
 
 
 
-<iframe width="700" height="250" src="/media/654f37aed9d4337ca5460cf3a4b6b466?postId=592765337294" data-media-id="654f37aed9d4337ca5460cf3a4b6b466" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/654f37aed9d4337ca5460cf3a4b6b466?postId=592765337294" data-media-id="654f37aed9d4337ca5460cf3a4b6b466" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ Another useful example:
 
 
 
-<iframe width="700" height="250" src="/media/731e2f3cd1bdac82c5cfcd977ea61eb2?postId=592765337294" data-media-id="731e2f3cd1bdac82c5cfcd977ea61eb2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/731e2f3cd1bdac82c5cfcd977ea61eb2?postId=592765337294" data-media-id="731e2f3cd1bdac82c5cfcd977ea61eb2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ What if you have multiple arguments to place inside of a function? You could use
 
 
 
-<iframe width="700" height="250" src="/media/7f51a02f85bfd849c553c2eea5db5b87?postId=592765337294" data-media-id="7f51a02f85bfd849c553c2eea5db5b87" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7f51a02f85bfd849c553c2eea5db5b87?postId=592765337294" data-media-id="7f51a02f85bfd849c553c2eea5db5b87" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ Or use the Spread Operator:
 
 
 
-<iframe width="700" height="250" src="/media/35a4387219270b4ae53aa34bf487b01a?postId=592765337294" data-media-id="35a4387219270b4ae53aa34bf487b01a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/35a4387219270b4ae53aa34bf487b01a?postId=592765337294" data-media-id="35a4387219270b4ae53aa34bf487b01a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -168,7 +168,7 @@ In ES5 it is not possible to compose the _new_ keyword with the _apply_ method. 
 
 
 
-<iframe width="700" height="250" src="/media/7f931f68113bb6e775d8a360ca350cef?postId=592765337294" data-media-id="7f931f68113bb6e775d8a360ca350cef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7f931f68113bb6e775d8a360ca350cef?postId=592765337294" data-media-id="7f931f68113bb6e775d8a360ca350cef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -196,7 +196,7 @@ Example:
 
 
 
-<iframe width="700" height="250" src="/media/8ede20c632907476f256ea0d22280e80?postId=592765337294" data-media-id="8ede20c632907476f256ea0d22280e80" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8ede20c632907476f256ea0d22280e80?postId=592765337294" data-media-id="8ede20c632907476f256ea0d22280e80" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -208,7 +208,7 @@ Generators are super useful when it comes to asynchronous functions calls. Let�
 
 
 
-<iframe width="700" height="250" src="/media/d570e6fec81d522d88272a9cb0340663?postId=592765337294" data-media-id="d570e6fec81d522d88272a9cb0340663" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d570e6fec81d522d88272a9cb0340663?postId=592765337294" data-media-id="d570e6fec81d522d88272a9cb0340663" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

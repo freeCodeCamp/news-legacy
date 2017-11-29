@@ -1,7 +1,7 @@
 ---
 author: Wiley Jones
 authorTwitter: https://twitter.com/wileycwj
-authorFacebook: false
+authorFacebook: none
 title: "Serendipity, training montages, and how my friend automated himself out of a job"
 subTitle: "One day my friend Luke and I were working on a school project in an empty classroom. We got side-tracked — as usual — and I took the oppo..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*IUSVkQfIOD_Ut4flJ7FDww.jpeg

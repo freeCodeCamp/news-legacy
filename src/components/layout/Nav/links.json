@@ -1,0 +1,48 @@
+[
+  {
+    "content": "Community",
+    "isDropdown": true,
+    "links": [
+      {
+        "content": "Chat",
+        "link": "https://gitter.im/freecodecamp/home",
+        "target": "_blank",
+        "rel": "no-follow"
+      },
+      {
+        "content": "Forum",
+        "link": "https://forum.freecodecamp.org/",
+        "target": "_blank",
+        "rel": "no-follow"
+      },
+      {
+        "content": "Medium",
+        "link": "https://medium.freecodecamp.org",
+        "target": "_blank",
+        "rel": "no-follow"
+      },
+      {
+        "content": "YouTube",
+        "link": "https://youtube.com/freecodecamp",
+        "target": "_blank",
+        "rel": "no-follow"
+      },
+      {
+        "content": "In your city",
+        "link": "https://forum.freecodecamp.org/t/free-code-camp-city-based-local-groups/19574",
+        "target": "_blank",
+        "rel": "no-follow"
+      },
+      {
+        "content": "About",
+        "link": "https://www.freecodecamp.org/about",
+        "target": "_blank",
+        "rel": "no-follow"
+      }
+    ]
+  },
+  {
+    "content": "Donate",
+    "link": "https://www.freecodecamp.org/donate"
+  }
+]

@@ -42,7 +42,7 @@ Codeland was the vision of a single developer — [Saron Yitbarek](https://m
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/6326f2fb414cb2fa59354057c765b8c3?postId=5f01cadf0a42" data-media-id="6326f2fb414cb2fa59354057c765b8c3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC-DMQXHVYAAV2Iv.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/6326f2fb414cb2fa59354057c765b8c3?postId=5f01cadf0a42" data-media-id="6326f2fb414cb2fa59354057c765b8c3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC-DMQXHVYAAV2Iv.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ When I walked in, volunteers greeted me and gave me spiral booklet, which includ
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/f8b15facfbb3603d3e20f1b6013cb85e?postId=5f01cadf0a42" data-media-id="f8b15facfbb3603d3e20f1b6013cb85e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC98eP-cUwAIe_8B.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/f8b15facfbb3603d3e20f1b6013cb85e?postId=5f01cadf0a42" data-media-id="f8b15facfbb3603d3e20f1b6013cb85e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC98eP-cUwAIe_8B.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -136,7 +136,7 @@ One thing that became immediately apparent was how many women were attending. Ev
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/4c7782344d784869010de9d363247090?postId=5f01cadf0a42" data-media-id="4c7782344d784869010de9d363247090" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F635121519249653763%2FCu0MJoS7_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/4c7782344d784869010de9d363247090?postId=5f01cadf0a42" data-media-id="4c7782344d784869010de9d363247090" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F635121519249653763%2FCu0MJoS7_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -148,7 +148,7 @@ Codeland’s tickets were relatively inexpensive, so it drew a much wider socio-
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/c70a7c696aac1933352e83b10a5e3568?postId=5f01cadf0a42" data-media-id="c70a7c696aac1933352e83b10a5e3568" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC-DE2hbVYAAflmL.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/c70a7c696aac1933352e83b10a5e3568?postId=5f01cadf0a42" data-media-id="c70a7c696aac1933352e83b10a5e3568" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC-DE2hbVYAAflmL.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ The venue had a variety of interactive art on display.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/e2b889c991c17a3da95731d747751083?postId=5f01cadf0a42" data-media-id="e2b889c991c17a3da95731d747751083" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F856343215703814145%2Fw6euMoqe_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/e2b889c991c17a3da95731d747751083?postId=5f01cadf0a42" data-media-id="e2b889c991c17a3da95731d747751083" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F856343215703814145%2Fw6euMoqe_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -176,7 +176,7 @@ After grabbing some coffee and breakfast, about 300 attendees congregated in a r
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/506c531ad7f34213194b4e7bb12aa43d?postId=5f01cadf0a42" data-media-id="506c531ad7f34213194b4e7bb12aa43d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC98CBl8VwAAKMHo.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/506c531ad7f34213194b4e7bb12aa43d?postId=5f01cadf0a42" data-media-id="506c531ad7f34213194b4e7bb12aa43d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC98CBl8VwAAKMHo.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -192,7 +192,7 @@ Toward the end of each day, Nikhil Paul — the event’s emcee — woul
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/96860a5d54eb533ab9e6f0f2b8161262?postId=5f01cadf0a42" data-media-id="96860a5d54eb533ab9e6f0f2b8161262" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpxzaIDikEBE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/96860a5d54eb533ab9e6f0f2b8161262?postId=5f01cadf0a42" data-media-id="96860a5d54eb533ab9e6f0f2b8161262" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpxzaIDikEBE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -204,7 +204,7 @@ Toward the end of each day, Nikhil Paul — the event’s emcee — woul
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/d95c4fd58fd0433fa9b52c4e78d481ef?postId=5f01cadf0a42" data-media-id="d95c4fd58fd0433fa9b52c4e78d481ef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F494185077748682752%2Fo44nAzer_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/d95c4fd58fd0433fa9b52c4e78d481ef?postId=5f01cadf0a42" data-media-id="d95c4fd58fd0433fa9b52c4e78d481ef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F494185077748682752%2Fo44nAzer_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -218,7 +218,7 @@ One of my most poignant Codeland moments was at the end of the first day, when w
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/198d4965f53d4ebc948562f53521feec?postId=5f01cadf0a42" data-media-id="198d4965f53d4ebc948562f53521feec" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F635121519249653763%2FCu0MJoS7_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/198d4965f53d4ebc948562f53521feec?postId=5f01cadf0a42" data-media-id="198d4965f53d4ebc948562f53521feec" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F635121519249653763%2FCu0MJoS7_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -234,7 +234,7 @@ Saron closed the conference by recognizing all the speakers and volunteers. She 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/96b67e86b75aea0ee31853a6fa6ff6a7?postId=5f01cadf0a42" data-media-id="96b67e86b75aea0ee31853a6fa6ff6a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC-DKOTfXgAAXerC.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/96b67e86b75aea0ee31853a6fa6ff6a7?postId=5f01cadf0a42" data-media-id="96b67e86b75aea0ee31853a6fa6ff6a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC-DKOTfXgAAXerC.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

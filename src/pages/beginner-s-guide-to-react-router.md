@@ -1,7 +1,7 @@
 ---
 author: Nader Dabit
 authorTwitter: https://twitter.com/dabit3
-authorFacebook: false
+authorFacebook: none
 title: "Beginner’s Guide to React Router"
 subTitle: "Or what I wish I knew when starting with React Router...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*GH8GqFmDl0rTKfxn5xeZuQ.jpeg
@@ -340,7 +340,7 @@ Let’s update our Nav component to implement this:
 
 <pre name="c92d" id="c92d" class="graf graf--pre graf-after--p">const Nav = () => (  
   Home</Link>   
-    <Link activeStyle={{color:'#53acff'}} to='/address'>Address</Link>&nbsp;  
+    <Link activeStyle={{color:'#53acff'}} to='/address'>Address</Link>   
     <Link activeStyle={{color:'#53acff'}} to='/about'>About</Link>  
     
 )</pre>
@@ -380,8 +380,8 @@ To implement this, first bring in <IndexLink> from react-router:
 Now, simply replace the <Link> components in nav with <IndexLink> components:
 
 <pre name="f81c" id="f81c" class="graf graf--pre graf-after--p">const Nav = () => (  
-  Home</IndexLink>&nbsp;  
-    <IndexLink activeStyle={{color:'#53acff'}} to='/address'>Address</IndexLink>&nbsp;  
+  Home</IndexLink>   
+    <IndexLink activeStyle={{color:'#53acff'}} to='/address'>Address</IndexLink>   
     <IndexLink activeStyle={{color:'#53acff'}} to='/about'>About</IndexLink>  
     
 )</pre>
@@ -397,8 +397,8 @@ Now, how about adding classes vs styles? To do this, we can use activeClassName.
 Now, we’ll replace activeStyle with activeClassName in our Nav component:
 
 <pre name="ed6b" id="ed6b" class="graf graf--pre graf-after--p">const Nav = () => (  
-  Home</IndexLink>&nbsp;  
-    <IndexLink activeClassName='active' to='/address'>Address</IndexLink>&nbsp;  
+  Home</IndexLink>   
+    <IndexLink activeClassName='active' to='/address'>Address</IndexLink>   
     <IndexLink activeClassName='active' to='/about'>About</IndexLink>  
     
 )</pre>

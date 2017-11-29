@@ -154,7 +154,7 @@ All 15,000 existing skills on the platform work with the Echo Show. They will us
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f1999617f6456cc6dbd0b5fc9549cc07?postId=c5716da8fee5" data-media-id="f1999617f6456cc6dbd0b5fc9549cc07" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWsMZiIo6xlw%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f1999617f6456cc6dbd0b5fc9549cc07?postId=c5716da8fee5" data-media-id="f1999617f6456cc6dbd0b5fc9549cc07" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWsMZiIo6xlw%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -221,7 +221,7 @@ Here is what the hurricane skill looks like after the work described above.
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c52a43612acd0dda32b27790836df7f9?postId=c5716da8fee5" data-media-id="c52a43612acd0dda32b27790836df7f9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRoI9Z1TZ6hU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c52a43612acd0dda32b27790836df7f9?postId=c5716da8fee5" data-media-id="c52a43612acd0dda32b27790836df7f9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRoI9Z1TZ6hU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

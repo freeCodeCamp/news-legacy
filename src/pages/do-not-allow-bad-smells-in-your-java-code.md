@@ -1,7 +1,7 @@
 ---
 author: Marco Massenzio
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Make your Java code smell nice and fresh"
 subTitle: "A few years ago I joined a startup working on a cloud enterprise service that was originally built by an offshore team...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*u7DN2oqc-6e0SGBq05sBbw.jpeg

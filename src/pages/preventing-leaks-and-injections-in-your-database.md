@@ -1,7 +1,7 @@
 ---
 author: Mariia Borysova
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to prevent database leaks and injections"
 subTitle: "Most web and mobile apps have a backend that includes a database of some kind. Your front end consumes data from your back end, and also ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*pxW6AFbOoapYpcO4qr_ikQ.jpeg

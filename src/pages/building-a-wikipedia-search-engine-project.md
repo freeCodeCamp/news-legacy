@@ -1,7 +1,7 @@
 ---
 author: Ayo Isaiah
 authorTwitter: https://twitter.com/AyIsaiah
-authorFacebook: false
+authorFacebook: none
 title: "Building a Wikipedia Search App"
 subTitle: "I just finished Free Code Camp’s Wikipedia Viewer app, where you pull articles side-by-side from Wikipedia using the MediaWiki Web API...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*t0FLqKuduU0MH0tT6mvG9w.jpeg

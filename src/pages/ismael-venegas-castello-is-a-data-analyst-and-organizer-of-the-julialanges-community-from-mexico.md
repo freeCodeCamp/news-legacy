@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Building Online Communities: JuliaLangES"
 subTitle: "Ismael Venegas Castelló is a data analyst and organizer of the JuliaLangES community in Mexico, focused on Spanish users of the Julia Lan..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*WokTFpHkssDu70XIPRokgw.png

@@ -1,7 +1,7 @@
 ---
 author: Mariya Yao
 authorTwitter: https://twitter.com/thinkmariya
-authorFacebook: false
+authorFacebook: none
 title: "These are the best free Artificial Intelligence educational resources online"
 subTitle: "Deep learning is not a beginner-friendly subject — even for experienced software engineers and data scientists. If you’ve been Googling t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*CWuF2Cj0rv8mEc1YwDXvMw.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels for: iOS Developers"
 subTitle: "Today we have something for you, iOS developers! Whether you are riding your Swift knowledge outside of iOS or keeping things steady with..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*4ZIJAn1D3T4PHArLCtYsFg.png

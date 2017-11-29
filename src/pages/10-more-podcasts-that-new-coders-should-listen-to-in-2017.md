@@ -1,7 +1,7 @@
 ---
 author: Ayo Isaiah
 authorTwitter: https://twitter.com/AyIsaiah
-authorFacebook: false
+authorFacebook: none
 title: "10 more podcasts that new coders should listen to in 2017"
 subTitle: "It’s been almost a year since I published my article about the best podcasts for new coders and the best tools for listening to them. Sin..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*rt3OupFSOFkKUhS1AvLseQ.jpeg

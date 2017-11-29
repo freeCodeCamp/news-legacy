@@ -1,7 +1,7 @@
 ---
 author: Cathryn Griffiths
 authorTwitter: https://twitter.com/cathryn_mtl
-authorFacebook: false
+authorFacebook: none
 title: "Firebase: 5 way-too-common misconceptions"
 subTitle: "I’ve been reading a lot of online commentary recently about Firebase. Mostly — it must be pointed out — written by developers who hate Fi..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*zdrREji23Eu5dqVVJE1E7w.png
@@ -223,7 +223,7 @@ Talk to me, developers. Comments are open.
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/8a8a5e42c759601bb905fe2204a845f5?postId=93b843ee1b93" data-media-id="8a8a5e42c759601bb905fe2204a845f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/8a8a5e42c759601bb905fe2204a845f5?postId=93b843ee1b93" data-media-id="8a8a5e42c759601bb905fe2204a845f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

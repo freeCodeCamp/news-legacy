@@ -1,7 +1,7 @@
 ---
 author: Rob Malda
 authorTwitter: https://twitter.com/cmdrtaco
-authorFacebook: false
+authorFacebook: none
 title: "A Pre-History of Slashdot on its 20th Birthday"
 subTitle: "I registered the domain name “Slashdot.org” 20 years ago today. I really had no idea...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*dJvK5iuUIA1KTXDWi8uuNw.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels on: VR &amp; AR"
 subTitle: "Virtual reality is one of the biggest tech trends and a hot topic of 2016. Investment in that sector reached over 1 billion dollars early..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*5CPn10huO04M7gAvVb-Gkg.png

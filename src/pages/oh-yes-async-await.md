@@ -1,7 +1,7 @@
 ---
 author: Tiago Lopes Ferreira
 authorTwitter: https://twitter.com/ferreiratiago_
-authorFacebook: false
+authorFacebook: none
 title: "Oh yes! Async / Await"
 subTitle: "async/await is the new JavaScript syntax to declare an asynchronous function. It’s built on Promises, but is easier to use...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*AiFDaw_q4DMvkKBZI2zaKw.png
@@ -52,7 +52,7 @@ A Promise state can be one of the following:
 
 
 
-<iframe width="700" height="250" src="/media/f096e2e55da96827292332005047376b?postId=f54e5a079fc1" data-media-id="f096e2e55da96827292332005047376b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f096e2e55da96827292332005047376b?postId=f54e5a079fc1" data-media-id="f096e2e55da96827292332005047376b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -66,7 +66,7 @@ Here’s an example of how we can use `getRandomWithPromise()`.
 
 
 
-<iframe width="700" height="250" src="/media/dbcba64f964893576231329c28cc555a?postId=f54e5a079fc1" data-media-id="dbcba64f964893576231329c28cc555a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dbcba64f964893576231329c28cc555a?postId=f54e5a079fc1" data-media-id="dbcba64f964893576231329c28cc555a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -89,7 +89,7 @@ Here’s an example of how we can use `getRandomWithPromise()`.
 
 
 
-<iframe width="700" height="250" src="/media/2791fe254d02b5be3ccc7b23f3315c3c?postId=f54e5a079fc1" data-media-id="2791fe254d02b5be3ccc7b23f3315c3c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2791fe254d02b5be3ccc7b23f3315c3c?postId=f54e5a079fc1" data-media-id="2791fe254d02b5be3ccc7b23f3315c3c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -101,7 +101,7 @@ Let’s build an example, using the `getRandomWithAsync()` function and **async*
 
 
 
-<iframe width="700" height="250" src="/media/9de75218f56ae2f625b6725cd3e2ab49?postId=f54e5a079fc1" data-media-id="9de75218f56ae2f625b6725cd3e2ab49" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9de75218f56ae2f625b6725cd3e2ab49?postId=f54e5a079fc1" data-media-id="9de75218f56ae2f625b6725cd3e2ab49" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -131,7 +131,7 @@ It’s important to remember **await** can only be used inside an **async** func
 
 
 
-<iframe width="700" height="250" src="/media/b7dbf452eb2532bd15c2ef3ba37db8e3?postId=f54e5a079fc1" data-media-id="b7dbf452eb2532bd15c2ef3ba37db8e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b7dbf452eb2532bd15c2ef3ba37db8e3?postId=f54e5a079fc1" data-media-id="b7dbf452eb2532bd15c2ef3ba37db8e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -143,7 +143,7 @@ This is how to use **await** with an Immediately Invoked Function Expression ([I
 
 
 
-<iframe width="700" height="250" src="/media/d190e88b96a7decaf32490039c234d2f?postId=f54e5a079fc1" data-media-id="d190e88b96a7decaf32490039c234d2f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d190e88b96a7decaf32490039c234d2f?postId=f54e5a079fc1" data-media-id="d190e88b96a7decaf32490039c234d2f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -157,7 +157,7 @@ We can also create **async** functions inside classes.
 
 
 
-<iframe width="700" height="250" src="/media/e6f849c99081e1aace7873f021a580b8?postId=f54e5a079fc1" data-media-id="e6f849c99081e1aace7873f021a580b8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e6f849c99081e1aace7873f021a580b8?postId=f54e5a079fc1" data-media-id="e6f849c99081e1aace7873f021a580b8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -175,7 +175,7 @@ We can do it in two ways — sequentially or concurrently.
 
 
 
-<iframe width="700" height="250" src="/media/5a15d5bc418cdaefb0a4a402d0852d75?postId=f54e5a079fc1" data-media-id="5a15d5bc418cdaefb0a4a402d0852d75" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5a15d5bc418cdaefb0a4a402d0852d75?postId=f54e5a079fc1" data-media-id="5a15d5bc418cdaefb0a4a402d0852d75" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -191,7 +191,7 @@ This can be a major performance issue. The good news is we can run both promises
 
 
 
-<iframe width="700" height="250" src="/media/d0f7f1e4f03c1187e48be3052494e910?postId=f54e5a079fc1" data-media-id="d0f7f1e4f03c1187e48be3052494e910" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d0f7f1e4f03c1187e48be3052494e910?postId=f54e5a079fc1" data-media-id="d0f7f1e4f03c1187e48be3052494e910" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -213,7 +213,7 @@ The function execution time is equal to the promise that takes the longest time.
 
 
 
-<iframe width="700" height="250" src="/media/20184b40cdbf9252c46ff63ab732c0bd?postId=f54e5a079fc1" data-media-id="20184b40cdbf9252c46ff63ab732c0bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/20184b40cdbf9252c46ff63ab732c0bd?postId=f54e5a079fc1" data-media-id="20184b40cdbf9252c46ff63ab732c0bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -231,7 +231,7 @@ The use of the **await** operator is not restricted to promises. **await** will 
 
 
 
-<iframe width="700" height="250" src="/media/988bc5f769a4ee3215ca0756f51b49aa?postId=f54e5a079fc1" data-media-id="988bc5f769a4ee3215ca0756f51b49aa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/988bc5f769a4ee3215ca0756f51b49aa?postId=f54e5a079fc1" data-media-id="988bc5f769a4ee3215ca0756f51b49aa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -243,7 +243,7 @@ The use of the **await** operator is not restricted to promises. **await** will 
 
 
 
-<iframe width="700" height="250" src="/media/ee91ec63810fee6f4c4e8504098f53df?postId=f54e5a079fc1" data-media-id="ee91ec63810fee6f4c4e8504098f53df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ee91ec63810fee6f4c4e8504098f53df?postId=f54e5a079fc1" data-media-id="ee91ec63810fee6f4c4e8504098f53df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3806676%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

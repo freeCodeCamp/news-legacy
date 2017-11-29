@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Transparency in Action: Free Code Camp is Now Open Source"
 subTitle: "We’re thrilled to announce that Free Code Camp is now fully open-source. Now you can fork our code base and use it to set up an education..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*hUUtRVv9N6KVf8-F.jpg

@@ -182,7 +182,7 @@ Also, here’s a short interview with Linus where he talks about Linux and Git, 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/7de8a0469fc96322edbb648b521080b6?postId=c8d8ac30076d" data-media-id="7de8a0469fc96322edbb648b521080b6" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/7de8a0469fc96322edbb648b521080b6?postId=c8d8ac30076d" data-media-id="7de8a0469fc96322edbb648b521080b6" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Onur Tuna
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Multiple Inheritance in C++ and the Diamond Problem"
 subTitle: "Unlike many other object-oriented programming languages, C++ allows multiple inheritance...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*QVZomxLNxnRYhm9gGIfYyw.png
@@ -38,7 +38,7 @@ We’ll start with a simple example to explain this concept in C++.
 
 
 
-<iframe width="700" height="250" src="/media/05e0a445bda47406618d4b795b284f09?postId=7c12a9ddbbec" data-media-id="05e0a445bda47406618d4b795b284f09" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3897239%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/05e0a445bda47406618d4b795b284f09?postId=7c12a9ddbbec" data-media-id="05e0a445bda47406618d4b795b284f09" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3897239%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -71,7 +71,7 @@ Look at the code below. It is like the code in the example above, except that we
 
 
 
-<iframe width="700" height="250" src="/media/fa526fd20949da2441688efaa0152f0c?postId=7c12a9ddbbec" data-media-id="fa526fd20949da2441688efaa0152f0c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3897239%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fa526fd20949da2441688efaa0152f0c?postId=7c12a9ddbbec" data-media-id="fa526fd20949da2441688efaa0152f0c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3897239%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

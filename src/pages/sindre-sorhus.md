@@ -1,7 +1,7 @@
 ---
 author: Vivian Cromwell
 authorTwitter: https://twitter.com/viviancromwell
-authorFacebook: false
+authorFacebook: none
 title: "Between the Wires: An interview with open source developer Sindre Sorhus"
 subTitle: "Here’s my interview Sindre Sorhus, a prolific open source developer who lives in Thailand...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*qswXTSvRgFBVatSc.jpg

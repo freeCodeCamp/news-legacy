@@ -1,7 +1,7 @@
 ---
 author: Nathan Malcolm
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Hacking Imgur for Fun and Profit"
 subTitle: "So you think your memes are safe…..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*kACKGoXyE6b-f0aelUSF4Q.jpeg

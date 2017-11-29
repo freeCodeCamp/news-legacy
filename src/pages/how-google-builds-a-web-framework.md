@@ -1,7 +1,7 @@
 ---
 author: Filip Hracek
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How Google builds web frameworks"
 subTitle: "It’s public knowledge that Google uses a single repository to share code — all 2 billion lines of it — and that it uses the trunk-based d..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QDS-kCgeF8ZJg_JSEwwIeA.jpeg

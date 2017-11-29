@@ -88,7 +88,7 @@ Because JavaScript is a dynamically-typed language, you can go about declaring v
 
 
 
-<iframe width="700" height="250" src="/media/17e26fd5d6695a1ba017eeb5d5dbcdc8?postId=8382da1e0adb" data-media-id="17e26fd5d6695a1ba017eeb5d5dbcdc8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/17e26fd5d6695a1ba017eeb5d5dbcdc8?postId=8382da1e0adb" data-media-id="17e26fd5d6695a1ba017eeb5d5dbcdc8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -134,7 +134,7 @@ This describes a `boolean` (true or false) value in JavaScript.
 
 
 
-<iframe width="700" height="250" src="/media/d7aa9ce74f63ed083a68e73ab230763a?postId=8382da1e0adb" data-media-id="d7aa9ce74f63ed083a68e73ab230763a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d7aa9ce74f63ed083a68e73ab230763a?postId=8382da1e0adb" data-media-id="d7aa9ce74f63ed083a68e73ab230763a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -158,7 +158,7 @@ This describes an IEEE 754 floating point number. Unlike many other programming 
 
 
 
-<iframe width="700" height="250" src="/media/6929c1be1afdf0194bb1ecef4750e2c4?postId=8382da1e0adb" data-media-id="6929c1be1afdf0194bb1ecef4750e2c4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6929c1be1afdf0194bb1ecef4750e2c4?postId=8382da1e0adb" data-media-id="6929c1be1afdf0194bb1ecef4750e2c4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -172,7 +172,7 @@ This describes a string.
 
 
 
-<iframe width="700" height="250" src="/media/fe88ae431a25a3ad10c4d141d6461e57?postId=8382da1e0adb" data-media-id="fe88ae431a25a3ad10c4d141d6461e57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fe88ae431a25a3ad10c4d141d6461e57?postId=8382da1e0adb" data-media-id="fe88ae431a25a3ad10c4d141d6461e57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -186,7 +186,7 @@ This describes the `null` data type in JavaScript.
 
 
 
-<iframe width="700" height="250" src="/media/4f378c783f1167f81ecb670dd0b428fa?postId=8382da1e0adb" data-media-id="4f378c783f1167f81ecb670dd0b428fa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4f378c783f1167f81ecb670dd0b428fa?postId=8382da1e0adb" data-media-id="4f378c783f1167f81ecb670dd0b428fa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ This describes the `undefined` data type in JavaScript.
 
 
 
-<iframe width="700" height="250" src="/media/4d62e88df2ddc6100bbeeb2ba62330ce?postId=8382da1e0adb" data-media-id="4d62e88df2ddc6100bbeeb2ba62330ce" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4d62e88df2ddc6100bbeeb2ba62330ce?postId=8382da1e0adb" data-media-id="4d62e88df2ddc6100bbeeb2ba62330ce" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -212,7 +212,7 @@ Note that `null` and `undefined` are treated differently. If you tried to do:
 
 
 
-<iframe width="700" height="250" src="/media/8c978af46bcbb76bea93b479fdb4e202?postId=8382da1e0adb" data-media-id="8c978af46bcbb76bea93b479fdb4e202" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8c978af46bcbb76bea93b479fdb4e202?postId=8382da1e0adb" data-media-id="8c978af46bcbb76bea93b479fdb4e202" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -228,7 +228,7 @@ Describes a JavaScript array. You use the syntax `Array<T>` to describe an array
 
 
 
-<iframe width="700" height="250" src="/media/f49d0e94e2a6dbc35920c358dd12894c?postId=8382da1e0adb" data-media-id="f49d0e94e2a6dbc35920c358dd12894c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f49d0e94e2a6dbc35920c358dd12894c?postId=8382da1e0adb" data-media-id="f49d0e94e2a6dbc35920c358dd12894c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -246,7 +246,7 @@ You could add types to describe the shape of an object:
 
 
 
-<iframe width="700" height="250" src="/media/3661d62428ff578d5cf298374d21e6d3?postId=8382da1e0adb" data-media-id="3661d62428ff578d5cf298374d21e6d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3661d62428ff578d5cf298374d21e6d3?postId=8382da1e0adb" data-media-id="3661d62428ff578d5cf298374d21e6d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -258,7 +258,7 @@ You could define objects as maps where you map a string to some value:
 
 
 
-<iframe width="700" height="250" src="/media/122e7ee679421cf48d64ded4b2dca323?postId=8382da1e0adb" data-media-id="122e7ee679421cf48d64ded4b2dca323" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/122e7ee679421cf48d64ded4b2dca323?postId=8382da1e0adb" data-media-id="122e7ee679421cf48d64ded4b2dca323" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -270,7 +270,7 @@ You could also define an object as an `Object` type:
 
 
 
-<iframe width="700" height="250" src="/media/1380c23ef552b738ca06097be84542fb?postId=8382da1e0adb" data-media-id="1380c23ef552b738ca06097be84542fb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1380c23ef552b738ca06097be84542fb?postId=8382da1e0adb" data-media-id="1380c23ef552b738ca06097be84542fb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -286,7 +286,7 @@ This can represent literally any type. The `any` type is effectively unchecked, 
 
 
 
-<iframe width="700" height="250" src="/media/43eee51b290324746dd81527fb7cbf96?postId=8382da1e0adb" data-media-id="43eee51b290324746dd81527fb7cbf96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/43eee51b290324746dd81527fb7cbf96?postId=8382da1e0adb" data-media-id="43eee51b290324746dd81527fb7cbf96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -300,7 +300,7 @@ For example, if you are using a library that extends Object.prototype with a `do
 
 
 
-<iframe width="700" height="250" src="/media/61bb987fff2afe8cccea178c10f08a12?postId=8382da1e0adb" data-media-id="61bb987fff2afe8cccea178c10f08a12" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/61bb987fff2afe8cccea178c10f08a12?postId=8382da1e0adb" data-media-id="61bb987fff2afe8cccea178c10f08a12" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -312,7 +312,7 @@ You may get an error:
 
 
 
-<iframe width="700" height="250" src="/media/39c1a510322769c78ece798a50880e1b?postId=8382da1e0adb" data-media-id="39c1a510322769c78ece798a50880e1b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/39c1a510322769c78ece798a50880e1b?postId=8382da1e0adb" data-media-id="39c1a510322769c78ece798a50880e1b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -324,7 +324,7 @@ To circumvent this, you can use `any`:
 
 
 
-<iframe width="700" height="250" src="/media/a7f907aadc44bab0560bad4155b0e1e7?postId=8382da1e0adb" data-media-id="a7f907aadc44bab0560bad4155b0e1e7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a7f907aadc44bab0560bad4155b0e1e7?postId=8382da1e0adb" data-media-id="a7f907aadc44bab0560bad4155b0e1e7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -338,7 +338,7 @@ The most common way to add types to functions is to add types to it’s input ar
 
 
 
-<iframe width="700" height="250" src="/media/3141b0f450b4a4fa74f9df23aa8f4d60?postId=8382da1e0adb" data-media-id="3141b0f450b4a4fa74f9df23aa8f4d60" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3141b0f450b4a4fa74f9df23aa8f4d60?postId=8382da1e0adb" data-media-id="3141b0f450b4a4fa74f9df23aa8f4d60" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -350,7 +350,7 @@ You can even add types to async functions (see below) and generators:
 
 
 
-<iframe width="700" height="250" src="/media/912f029dbe000521b30e95eb76c97e93?postId=8382da1e0adb" data-media-id="912f029dbe000521b30e95eb76c97e93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/912f029dbe000521b30e95eb76c97e93?postId=8382da1e0adb" data-media-id="912f029dbe000521b30e95eb76c97e93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -366,7 +366,7 @@ Type aliasing is one of my favorite ways to use static types. They allow you to 
 
 
 
-<iframe width="700" height="250" src="/media/bdd1e390ceab631383570b22f610a825?postId=8382da1e0adb" data-media-id="bdd1e390ceab631383570b22f610a825" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bdd1e390ceab631383570b22f610a825?postId=8382da1e0adb" data-media-id="bdd1e390ceab631383570b22f610a825" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -380,7 +380,7 @@ Now if you want to use the `PaymentMethod` type, you can do:
 
 
 
-<iframe width="700" height="250" src="/media/a593141b9a75ff837129abc2e6090caf?postId=8382da1e0adb" data-media-id="a593141b9a75ff837129abc2e6090caf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a593141b9a75ff837129abc2e6090caf?postId=8382da1e0adb" data-media-id="a593141b9a75ff837129abc2e6090caf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -392,7 +392,7 @@ You can also create type aliases for any primitive by wrapping the underlying ty
 
 
 
-<iframe width="700" height="250" src="/media/95faae6e81d840c623b82ca4b320e0b6?postId=8382da1e0adb" data-media-id="95faae6e81d840c623b82ca4b320e0b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/95faae6e81d840c623b82ca4b320e0b6?postId=8382da1e0adb" data-media-id="95faae6e81d840c623b82ca4b320e0b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -410,7 +410,7 @@ Let’s take a look:
 
 
 
-<iframe width="700" height="250" src="/media/0bbd7b0fffb3ff373e1789450a10a167?postId=8382da1e0adb" data-media-id="0bbd7b0fffb3ff373e1789450a10a167" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0bbd7b0fffb3ff373e1789450a10a167?postId=8382da1e0adb" data-media-id="0bbd7b0fffb3ff373e1789450a10a167" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -428,7 +428,7 @@ Maybe type allows us to type annotate a potentially `null` or `undefined` value.
 
 
 
-<iframe width="700" height="250" src="/media/1bdb4a0cba4a9c5fae2681be04785894?postId=8382da1e0adb" data-media-id="1bdb4a0cba4a9c5fae2681be04785894" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1bdb4a0cba4a9c5fae2681be04785894?postId=8382da1e0adb" data-media-id="1bdb4a0cba4a9c5fae2681be04785894" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -442,7 +442,7 @@ You can also use maybe to indicate that an object property will be either of som
 
 
 
-<iframe width="700" height="250" src="/media/4c87c609ec57c1d7cf61ca5747921d2f?postId=8382da1e0adb" data-media-id="4c87c609ec57c1d7cf61ca5747921d2f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4c87c609ec57c1d7cf61ca5747921d2f?postId=8382da1e0adb" data-media-id="4c87c609ec57c1d7cf61ca5747921d2f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -460,7 +460,7 @@ Extending on the `PaymentMethod` type from our earlier generics example, let’s
 
 
 
-<iframe width="700" height="250" src="/media/b7ced19b89471e4e450ccace21e61616?postId=8382da1e0adb" data-media-id="b7ced19b89471e4e450ccace21e61616" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b7ced19b89471e4e450ccace21e61616?postId=8382da1e0adb" data-media-id="b7ced19b89471e4e450ccace21e61616" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -472,7 +472,7 @@ Then you can define your PaymentMethod type as a disjoint union with three cases
 
 
 
-<iframe width="700" height="250" src="/media/d5667cf359d2e907c99b4a114b5faee1?postId=8382da1e0adb" data-media-id="d5667cf359d2e907c99b4a114b5faee1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d5667cf359d2e907c99b4a114b5faee1?postId=8382da1e0adb" data-media-id="d5667cf359d2e907c99b4a114b5faee1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -492,7 +492,7 @@ For example, you can write:
 
 
 
-<iframe width="700" height="250" src="/media/4bf0d270cf9a6ecc12c2de51c26ab960?postId=8382da1e0adb" data-media-id="4bf0d270cf9a6ecc12c2de51c26ab960" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4bf0d270cf9a6ecc12c2de51c26ab960?postId=8382da1e0adb" data-media-id="4bf0d270cf9a6ecc12c2de51c26ab960" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -504,7 +504,7 @@ Even though this Class doesn’t have types, Flow can adequately type check it:
 
 
 
-<iframe width="700" height="250" src="/media/ea3b2dcad68b8c93f8b1691e69794286?postId=8382da1e0adb" data-media-id="ea3b2dcad68b8c93f8b1691e69794286" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ea3b2dcad68b8c93f8b1691e69794286?postId=8382da1e0adb" data-media-id="ea3b2dcad68b8c93f8b1691e69794286" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F5421194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

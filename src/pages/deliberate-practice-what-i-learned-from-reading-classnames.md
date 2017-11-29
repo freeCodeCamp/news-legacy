@@ -1,7 +1,7 @@
 ---
 author: Anthony Ng
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Deliberate Practice: What I learned from reading the classNames codebase"
 subTitle: "This is part of my plan for deliberate practice to improve as a developer. Take a look at this article to learn more...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*t7iCRsAhtZQAYg3mSQ1jlA.jpeg
@@ -40,7 +40,7 @@ You can pass string arguments like so:
 
 
 
-<iframe width="700" height="250" src="/media/79d31a6e0589ac899abf6e29e02a459a?postId=f9b89cb785e4" data-media-id="79d31a6e0589ac899abf6e29e02a459a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/79d31a6e0589ac899abf6e29e02a459a?postId=f9b89cb785e4" data-media-id="79d31a6e0589ac899abf6e29e02a459a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -52,7 +52,7 @@ You can pass string arguments like so:
 
 
 
-<iframe width="700" height="250" src="/media/0489ca76baf7c2294f854e0e14c22f4a?postId=f9b89cb785e4" data-media-id="0489ca76baf7c2294f854e0e14c22f4a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0489ca76baf7c2294f854e0e14c22f4a?postId=f9b89cb785e4" data-media-id="0489ca76baf7c2294f854e0e14c22f4a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -64,7 +64,7 @@ You can pass string arguments like so:
 
 
 
-<iframe width="700" height="250" src="/media/cc2e47eff4c3f6c3e933691f7ba7782e?postId=f9b89cb785e4" data-media-id="cc2e47eff4c3f6c3e933691f7ba7782e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cc2e47eff4c3f6c3e933691f7ba7782e?postId=f9b89cb785e4" data-media-id="cc2e47eff4c3f6c3e933691f7ba7782e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -80,7 +80,7 @@ Without `classNames`, you might have used string manipulation to create React’
 
 
 
-<iframe width="700" height="250" src="/media/3047db133a91edba9abe142962e85b8e?postId=f9b89cb785e4" data-media-id="3047db133a91edba9abe142962e85b8e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3047db133a91edba9abe142962e85b8e?postId=f9b89cb785e4" data-media-id="3047db133a91edba9abe142962e85b8e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ Now with the `classNames` package, it would look like this:
 
 
 
-<iframe width="700" height="250" src="/media/2ac7e1cbf33330cc5d22a495d15def2d?postId=f9b89cb785e4" data-media-id="2ac7e1cbf33330cc5d22a495d15def2d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2ac7e1cbf33330cc5d22a495d15def2d?postId=f9b89cb785e4" data-media-id="2ac7e1cbf33330cc5d22a495d15def2d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ The most common mistake I see at work using `classNames` are `undefined` class n
 
 
 
-<iframe width="700" height="250" src="/media/a7231274fc0fb2739f2dedb610a50bf1?postId=f9b89cb785e4" data-media-id="a7231274fc0fb2739f2dedb610a50bf1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a7231274fc0fb2739f2dedb610a50bf1?postId=f9b89cb785e4" data-media-id="a7231274fc0fb2739f2dedb610a50bf1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ Remember that falsy values are ignored inside the `classNames` package.
 
 
 
-<iframe width="700" height="250" src="/media/4af353f8cf9f65b183111074d7cccaf9?postId=f9b89cb785e4" data-media-id="4af353f8cf9f65b183111074d7cccaf9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4af353f8cf9f65b183111074d7cccaf9?postId=f9b89cb785e4" data-media-id="4af353f8cf9f65b183111074d7cccaf9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ Knowing this, we can update our `classNames` example to:
 
 
 
-<iframe width="700" height="250" src="/media/aae27e7fb7fbe03cf5e06819e7404f38?postId=f9b89cb785e4" data-media-id="aae27e7fb7fbe03cf5e06819e7404f38" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/aae27e7fb7fbe03cf5e06819e7404f38?postId=f9b89cb785e4" data-media-id="aae27e7fb7fbe03cf5e06819e7404f38" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ There’s 2 issues that you might run into. Do you see them?
 
 
 
-<iframe width="700" height="250" src="/media/ecf6edca99fa4a04d8fcd7c73c2d239b?postId=f9b89cb785e4" data-media-id="ecf6edca99fa4a04d8fcd7c73c2d239b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ecf6edca99fa4a04d8fcd7c73c2d239b?postId=f9b89cb785e4" data-media-id="ecf6edca99fa4a04d8fcd7c73c2d239b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ Luckily, `classNames` provides an opt-in version of its library for us to use, c
 
 
 
-<iframe width="700" height="250" src="/media/857bb2b25f020908057f3d5a9e8f290c?postId=f9b89cb785e4" data-media-id="857bb2b25f020908057f3d5a9e8f290c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/857bb2b25f020908057f3d5a9e8f290c?postId=f9b89cb785e4" data-media-id="857bb2b25f020908057f3d5a9e8f290c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -176,7 +176,7 @@ Take a look at the [README.md](https://github.com/JedWatson/classnames#alternate
 
 
 
-<iframe width="700" height="250" src="/media/a62983cb41727cbc2f8a65c029c8ad66?postId=f9b89cb785e4" data-media-id="a62983cb41727cbc2f8a65c029c8ad66" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a62983cb41727cbc2f8a65c029c8ad66?postId=f9b89cb785e4" data-media-id="a62983cb41727cbc2f8a65c029c8ad66" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -188,7 +188,7 @@ It’s a best practice to use `hasOwnProperty` when iterating over an Object’s
 
 
 
-<iframe width="700" height="250" src="/media/469158fff9a4c1b784b369c5fec2e2cc?postId=f9b89cb785e4" data-media-id="469158fff9a4c1b784b369c5fec2e2cc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/469158fff9a4c1b784b369c5fec2e2cc?postId=f9b89cb785e4" data-media-id="469158fff9a4c1b784b369c5fec2e2cc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ We would use `hasOwnProperty` to get properties that belong to our created objec
 
 
 
-<iframe width="700" height="250" src="/media/9e0b7df283edfeeca47a2c3a0551fa09?postId=f9b89cb785e4" data-media-id="9e0b7df283edfeeca47a2c3a0551fa09" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9e0b7df283edfeeca47a2c3a0551fa09?postId=f9b89cb785e4" data-media-id="9e0b7df283edfeeca47a2c3a0551fa09" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -212,7 +212,7 @@ Instead of using `hasOwnProperty`, we can create a new Object that inherits noth
 
 
 
-<iframe width="700" height="250" src="/media/0ef5804e8e46d26e77fb650694921c4c?postId=f9b89cb785e4" data-media-id="0ef5804e8e46d26e77fb650694921c4c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0ef5804e8e46d26e77fb650694921c4c?postId=f9b89cb785e4" data-media-id="0ef5804e8e46d26e77fb650694921c4c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -224,7 +224,7 @@ But this also means methods that Objects inherit, such as [toString](https://dev
 
 
 
-<iframe width="700" height="250" src="/media/1dbbba8c0c095aed90143c7c6bd756d0?postId=f9b89cb785e4" data-media-id="1dbbba8c0c095aed90143c7c6bd756d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1dbbba8c0c095aed90143c7c6bd756d0?postId=f9b89cb785e4" data-media-id="1dbbba8c0c095aed90143c7c6bd756d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -238,7 +238,7 @@ Take a look through the source code of `classNames`. It’s littered with amazin
 
 
 
-<iframe width="700" height="250" src="/media/fb916faa5348105d6a2922c01458b074?postId=f9b89cb785e4" data-media-id="fb916faa5348105d6a2922c01458b074" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fb916faa5348105d6a2922c01458b074?postId=f9b89cb785e4" data-media-id="fb916faa5348105d6a2922c01458b074" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -267,7 +267,7 @@ For example,
 
 
 
-<iframe width="700" height="250" src="/media/51e09c35d7f79c3d0b5c2e0b6b9e5a50?postId=f9b89cb785e4" data-media-id="51e09c35d7f79c3d0b5c2e0b6b9e5a50" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/51e09c35d7f79c3d0b5c2e0b6b9e5a50?postId=f9b89cb785e4" data-media-id="51e09c35d7f79c3d0b5c2e0b6b9e5a50" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -279,7 +279,7 @@ The difference comes when you want to pass in arguments into the calling functio
 
 
 
-<iframe width="700" height="250" src="/media/a40a93d91a8058c7f33c70e5eead3148?postId=f9b89cb785e4" data-media-id="a40a93d91a8058c7f33c70e5eead3148" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a40a93d91a8058c7f33c70e5eead3148?postId=f9b89cb785e4" data-media-id="a40a93d91a8058c7f33c70e5eead3148" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -293,7 +293,7 @@ Notice the small difference here. `apply` takes its arguments in an array (I rem
 
 
 
-<iframe width="700" height="250" src="/media/85c91629f638036c991ddffb2cb88b22?postId=f9b89cb785e4" data-media-id="85c91629f638036c991ddffb2cb88b22" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/85c91629f638036c991ddffb2cb88b22?postId=f9b89cb785e4" data-media-id="85c91629f638036c991ddffb2cb88b22" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -309,7 +309,7 @@ Take a look at the code snippet below.
 
 
 
-<iframe width="700" height="250" src="/media/14f9cc6a6c7915a9aecef6ab72a20110?postId=f9b89cb785e4" data-media-id="14f9cc6a6c7915a9aecef6ab72a20110" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/14f9cc6a6c7915a9aecef6ab72a20110?postId=f9b89cb785e4" data-media-id="14f9cc6a6c7915a9aecef6ab72a20110" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -321,7 +321,7 @@ Why would we save the `hasOwnProperty` function to a variable? This is because w
 
 
 
-<iframe width="700" height="250" src="/media/1449bdb2b7d820433273144d8d494d58?postId=f9b89cb785e4" data-media-id="1449bdb2b7d820433273144d8d494d58" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1449bdb2b7d820433273144d8d494d58?postId=f9b89cb785e4" data-media-id="1449bdb2b7d820433273144d8d494d58" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -333,7 +333,7 @@ That makes sense. But what if someone passed us an object like this:
 
 
 
-<iframe width="700" height="250" src="/media/ae073bfa99ed91b4506e446033e3d8a9?postId=f9b89cb785e4" data-media-id="ae073bfa99ed91b4506e446033e3d8a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ae073bfa99ed91b4506e446033e3d8a9?postId=f9b89cb785e4" data-media-id="ae073bfa99ed91b4506e446033e3d8a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -347,7 +347,7 @@ But note that even this isn’t foolproof. The below is still possible.
 
 
 
-<iframe width="700" height="250" src="/media/2a089dc35f29306be10c1f52928999bb?postId=f9b89cb785e4" data-media-id="2a089dc35f29306be10c1f52928999bb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2a089dc35f29306be10c1f52928999bb?postId=f9b89cb785e4" data-media-id="2a089dc35f29306be10c1f52928999bb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

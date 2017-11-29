@@ -48,7 +48,7 @@ In Ruby it’s easy to define a variable and set a value to it. Imagine you want
 
 
 
-<iframe width="700" height="250" src="/media/bb6a79ad4b11959499d226c6d295bf5c?postId=90ad4eecc82d" data-media-id="bb6a79ad4b11959499d226c6d295bf5c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bb6a79ad4b11959499d226c6d295bf5c?postId=90ad4eecc82d" data-media-id="bb6a79ad4b11959499d226c6d295bf5c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -60,7 +60,7 @@ How simple was that? You just assigned the value 1 to a variable called one.
 
 
 
-<iframe width="700" height="250" src="/media/0fe6048bed14d0cb7c3e3fbc1223d795?postId=90ad4eecc82d" data-media-id="0fe6048bed14d0cb7c3e3fbc1223d795" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0fe6048bed14d0cb7c3e3fbc1223d795?postId=90ad4eecc82d" data-media-id="0fe6048bed14d0cb7c3e3fbc1223d795" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -74,7 +74,7 @@ Besides integers, we can also use booleans (true/false), strings, [symbols](http
 
 
 
-<iframe width="700" height="250" src="/media/c212274b24d10e047efa93b2701ba8d0?postId=90ad4eecc82d" data-media-id="c212274b24d10e047efa93b2701ba8d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c212274b24d10e047efa93b2701ba8d0?postId=90ad4eecc82d" data-media-id="c212274b24d10e047efa93b2701ba8d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -88,7 +88,7 @@ Conditional statements evaluate true or false. If something is true, it executes
 
 
 
-<iframe width="700" height="250" src="/media/3523c44ff4d78f1ddaa329fa4dfc10b1?postId=90ad4eecc82d" data-media-id="3523c44ff4d78f1ddaa329fa4dfc10b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3523c44ff4d78f1ddaa329fa4dfc10b1?postId=90ad4eecc82d" data-media-id="3523c44ff4d78f1ddaa329fa4dfc10b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -102,7 +102,7 @@ This else statement will be executed when the if expression is false:
 
 
 
-<iframe width="700" height="250" src="/media/eef6a7a0f2e68bc302329352be76f565?postId=90ad4eecc82d" data-media-id="eef6a7a0f2e68bc302329352be76f565" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/eef6a7a0f2e68bc302329352be76f565?postId=90ad4eecc82d" data-media-id="eef6a7a0f2e68bc302329352be76f565" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ There’s also the elsif statement. You can use it like this:
 
 
 
-<iframe width="700" height="250" src="/media/f1c689f1cf078bd5bc162bc36cdd40d0?postId=90ad4eecc82d" data-media-id="f1c689f1cf078bd5bc162bc36cdd40d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f1c689f1cf078bd5bc162bc36cdd40d0?postId=90ad4eecc82d" data-media-id="f1c689f1cf078bd5bc162bc36cdd40d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ One way I really like to write Ruby is to use an if statement after the code to 
 
 
 
-<iframe width="700" height="250" src="/media/b6db16ba62119dc1ae22de2dcde97c2c?postId=90ad4eecc82d" data-media-id="b6db16ba62119dc1ae22de2dcde97c2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b6db16ba62119dc1ae22de2dcde97c2c?postId=90ad4eecc82d" data-media-id="b6db16ba62119dc1ae22de2dcde97c2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -146,7 +146,7 @@ While looping: As long as the statement is true, the code inside the block will 
 
 
 
-<iframe width="700" height="250" src="/media/2c3214a393ab93c093f3ef3fa1867d1d?postId=90ad4eecc82d" data-media-id="2c3214a393ab93c093f3ef3fa1867d1d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2c3214a393ab93c093f3ef3fa1867d1d?postId=90ad4eecc82d" data-media-id="2c3214a393ab93c093f3ef3fa1867d1d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -158,7 +158,7 @@ For looping: You pass the variable num to the block and the for statement will i
 
 
 
-<iframe width="700" height="250" src="/media/ff6e154586e0aaae44c8c7e315b1b091?postId=90ad4eecc82d" data-media-id="ff6e154586e0aaae44c8c7e315b1b091" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ff6e154586e0aaae44c8c7e315b1b091?postId=90ad4eecc82d" data-media-id="ff6e154586e0aaae44c8c7e315b1b091" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -170,7 +170,7 @@ Each iterator: I really like the each iterator. For an array of values, it’ll 
 
 
 
-<iframe width="700" height="250" src="/media/4f4c2aa48b13877ac5b4965d34b49bf8?postId=90ad4eecc82d" data-media-id="4f4c2aa48b13877ac5b4965d34b49bf8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4f4c2aa48b13877ac5b4965d34b49bf8?postId=90ad4eecc82d" data-media-id="4f4c2aa48b13877ac5b4965d34b49bf8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -182,7 +182,7 @@ You may be asking what the difference is between the each iterator and for loopi
 
 
 
-<iframe width="700" height="250" src="/media/b77137d46ea0655be9b962dcaf3cfc12?postId=90ad4eecc82d" data-media-id="b77137d46ea0655be9b962dcaf3cfc12" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b77137d46ea0655be9b962dcaf3cfc12?postId=90ad4eecc82d" data-media-id="b77137d46ea0655be9b962dcaf3cfc12" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ Array is a collection that can be used to store a list of values (like these int
 
 
 
-<iframe width="700" height="250" src="/media/97da0b7f1719b87667ef8a77f55d42f4?postId=90ad4eecc82d" data-media-id="97da0b7f1719b87667ef8a77f55d42f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/97da0b7f1719b87667ef8a77f55d42f4?postId=90ad4eecc82d" data-media-id="97da0b7f1719b87667ef8a77f55d42f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -222,7 +222,7 @@ Using the Ruby syntax, it’s simple to understand:
 
 
 
-<iframe width="700" height="250" src="/media/0ef48b2826c0efa9c33021d4f2f590b7?postId=90ad4eecc82d" data-media-id="0ef48b2826c0efa9c33021d4f2f590b7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0ef48b2826c0efa9c33021d4f2f590b7?postId=90ad4eecc82d" data-media-id="0ef48b2826c0efa9c33021d4f2f590b7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -234,7 +234,7 @@ Imagine you want to store strings instead of integers, like a list of your relat
 
 
 
-<iframe width="700" height="250" src="/media/b114ba03036a9d3f2eab26c7725c9277?postId=90ad4eecc82d" data-media-id="b114ba03036a9d3f2eab26c7725c9277" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b114ba03036a9d3f2eab26c7725c9277?postId=90ad4eecc82d" data-media-id="b114ba03036a9d3f2eab26c7725c9277" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -252,7 +252,7 @@ Push is super simple! You just need to pass the element (The Effective Engineer)
 
 
 
-<iframe width="700" height="250" src="/media/495470abf04554e08e226475be1e5eab?postId=90ad4eecc82d" data-media-id="495470abf04554e08e226475be1e5eab" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/495470abf04554e08e226475be1e5eab?postId=90ad4eecc82d" data-media-id="495470abf04554e08e226475be1e5eab" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -264,7 +264,7 @@ The << method is just slightly different:
 
 
 
-<iframe width="700" height="250" src="/media/857ba664a6fdeaf48b69709bd9bc69e8?postId=90ad4eecc82d" data-media-id="857ba664a6fdeaf48b69709bd9bc69e8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/857ba664a6fdeaf48b69709bd9bc69e8?postId=90ad4eecc82d" data-media-id="857ba664a6fdeaf48b69709bd9bc69e8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -276,7 +276,7 @@ You may ask, “But it doesn’t use the dot notation like other methods do. How
 
 
 
-<iframe width="700" height="250" src="/media/a6ffd841bdbc929f12a30f04a50cf5c2?postId=90ad4eecc82d" data-media-id="a6ffd841bdbc929f12a30f04a50cf5c2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a6ffd841bdbc929f12a30f04a50cf5c2?postId=90ad4eecc82d" data-media-id="a6ffd841bdbc929f12a30f04a50cf5c2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -288,7 +288,7 @@ You may ask, “But it doesn’t use the dot notation like other methods do. How
 
 
 
-<iframe width="700" height="250" src="/media/5c78da0a5e0c47e37c99e5c4244467c3?postId=90ad4eecc82d" data-media-id="5c78da0a5e0c47e37c99e5c4244467c3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5c78da0a5e0c47e37c99e5c4244467c3?postId=90ad4eecc82d" data-media-id="5c78da0a5e0c47e37c99e5c4244467c3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -308,7 +308,7 @@ Hash is a collection of key-value pairs. It looks like this:
 
 
 
-<iframe width="700" height="250" src="/media/347992e003fd861f05753792715ddfeb?postId=90ad4eecc82d" data-media-id="347992e003fd861f05753792715ddfeb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/347992e003fd861f05753792715ddfeb?postId=90ad4eecc82d" data-media-id="347992e003fd861f05753792715ddfeb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -322,7 +322,7 @@ Here’s a hash about me. My name, nickname, and nationality are the hash’s ke
 
 
 
-<iframe width="700" height="250" src="/media/72f973638af83f7f3e5c0f9dad733671?postId=90ad4eecc82d" data-media-id="72f973638af83f7f3e5c0f9dad733671" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/72f973638af83f7f3e5c0f9dad733671?postId=90ad4eecc82d" data-media-id="72f973638af83f7f3e5c0f9dad733671" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -336,7 +336,7 @@ Another cool thing about hashes is that we can use anything as the value. I’ll
 
 
 
-<iframe width="700" height="250" src="/media/c44e876c9a42324bee35efba98a0ca1e?postId=90ad4eecc82d" data-media-id="c44e876c9a42324bee35efba98a0ca1e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c44e876c9a42324bee35efba98a0ca1e?postId=90ad4eecc82d" data-media-id="c44e876c9a42324bee35efba98a0ca1e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -348,7 +348,7 @@ Let’s learn how to add elements to a hash. The key pointing to a value is a bi
 
 
 
-<iframe width="700" height="250" src="/media/761a00921b914f8d8f2cf08d9918b30d?postId=90ad4eecc82d" data-media-id="761a00921b914f8d8f2cf08d9918b30d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/761a00921b914f8d8f2cf08d9918b30d?postId=90ad4eecc82d" data-media-id="761a00921b914f8d8f2cf08d9918b30d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -364,7 +364,7 @@ The array iteration is very simple. Ruby developers commonly use the each iterat
 
 
 
-<iframe width="700" height="250" src="/media/477f5a35ab880c316d31fc53d39e4718?postId=90ad4eecc82d" data-media-id="477f5a35ab880c316d31fc53d39e4718" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/477f5a35ab880c316d31fc53d39e4718?postId=90ad4eecc82d" data-media-id="477f5a35ab880c316d31fc53d39e4718" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -378,7 +378,7 @@ For hash data structure, we can also use the each iterator by passing two parame
 
 
 
-<iframe width="700" height="250" src="/media/c6ba1aab845c670a652fe892d2631692?postId=90ad4eecc82d" data-media-id="c6ba1aab845c670a652fe892d2631692" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c6ba1aab845c670a652fe892d2631692?postId=90ad4eecc82d" data-media-id="c6ba1aab845c670a652fe892d2631692" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -390,7 +390,7 @@ We named the two parameters as key and value, but it’s not necessary. We can n
 
 
 
-<iframe width="700" height="250" src="/media/04487ca1a8c9bc04381790b63a205f2c?postId=90ad4eecc82d" data-media-id="04487ca1a8c9bc04381790b63a205f2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/04487ca1a8c9bc04381790b63a205f2c?postId=90ad4eecc82d" data-media-id="04487ca1a8c9bc04381790b63a205f2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -419,7 +419,7 @@ Let’s understand Ruby syntax for classes:
 
 
 
-<iframe width="700" height="250" src="/media/7f64685394da65aa0fba02dee198a037?postId=90ad4eecc82d" data-media-id="7f64685394da65aa0fba02dee198a037" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7f64685394da65aa0fba02dee198a037?postId=90ad4eecc82d" data-media-id="7f64685394da65aa0fba02dee198a037" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -433,7 +433,7 @@ And objects are instances of a class. We create an instance by calling the .new
 
 
 
-<iframe width="700" height="250" src="/media/ca89c76eb74964f11181e16fa9107885?postId=90ad4eecc82d" data-media-id="ca89c76eb74964f11181e16fa9107885" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ca89c76eb74964f11181e16fa9107885?postId=90ad4eecc82d" data-media-id="ca89c76eb74964f11181e16fa9107885" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -449,7 +449,7 @@ Let’s define our class Vehicle to receive data and instantiate it.
 
 
 
-<iframe width="700" height="250" src="/media/d8708f5c700ee658eb61e4b1160bb884?postId=90ad4eecc82d" data-media-id="d8708f5c700ee658eb61e4b1160bb884" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d8708f5c700ee658eb61e4b1160bb884?postId=90ad4eecc82d" data-media-id="d8708f5c700ee658eb61e4b1160bb884" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -463,7 +463,7 @@ Imagine that you love the Tesla Model S and want to create this kind of object. 
 
 
 
-<iframe width="700" height="250" src="/media/271f107e2c7c0f146eba7c85e9bf5ebb?postId=90ad4eecc82d" data-media-id="271f107e2c7c0f146eba7c85e9bf5ebb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/271f107e2c7c0f146eba7c85e9bf5ebb?postId=90ad4eecc82d" data-media-id="271f107e2c7c0f146eba7c85e9bf5ebb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -475,7 +475,7 @@ Imagine that you love the Tesla Model S and want to create this kind of object. 
 
 
 
-<iframe width="700" height="250" src="/media/6e062e229336eb8b3b6f17f029db391d?postId=90ad4eecc82d" data-media-id="6e062e229336eb8b3b6f17f029db391d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6e062e229336eb8b3b6f17f029db391d?postId=90ad4eecc82d" data-media-id="6e062e229336eb8b3b6f17f029db391d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -489,7 +489,7 @@ We send a message to the object asking about them. We call it a method. It’s t
 
 
 
-<iframe width="700" height="250" src="/media/398f17f9f6af666a1e3d02917bee7cbe?postId=90ad4eecc82d" data-media-id="398f17f9f6af666a1e3d02917bee7cbe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/398f17f9f6af666a1e3d02917bee7cbe?postId=90ad4eecc82d" data-media-id="398f17f9f6af666a1e3d02917bee7cbe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -505,7 +505,7 @@ In Ruby, we can do that without methods using attr_reader, attr_writer and attr_
 
 
 
-<iframe width="700" height="250" src="/media/9fd9e5f318de5c7ed64d2f339909b290?postId=90ad4eecc82d" data-media-id="9fd9e5f318de5c7ed64d2f339909b290" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9fd9e5f318de5c7ed64d2f339909b290?postId=90ad4eecc82d" data-media-id="9fd9e5f318de5c7ed64d2f339909b290" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -517,7 +517,7 @@ In Ruby, we can do that without methods using attr_reader, attr_writer and attr_
 
 
 
-<iframe width="700" height="250" src="/media/8b270a25e83965616522477b79262116?postId=90ad4eecc82d" data-media-id="8b270a25e83965616522477b79262116" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8b270a25e83965616522477b79262116?postId=90ad4eecc82d" data-media-id="8b270a25e83965616522477b79262116" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -529,7 +529,7 @@ In Ruby, we can do that without methods using attr_reader, attr_writer and attr_
 
 
 
-<iframe width="700" height="250" src="/media/9b6b1482ac679ad484faca6816409113?postId=90ad4eecc82d" data-media-id="9b6b1482ac679ad484faca6816409113" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9b6b1482ac679ad484faca6816409113?postId=90ad4eecc82d" data-media-id="9b6b1482ac679ad484faca6816409113" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -543,7 +543,7 @@ We can also use methods to do other things — like a “make_noise” metho
 
 
 
-<iframe width="700" height="250" src="/media/d66e86703eaec1525f35c1bba1fd955b?postId=90ad4eecc82d" data-media-id="d66e86703eaec1525f35c1bba1fd955b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d66e86703eaec1525f35c1bba1fd955b?postId=90ad4eecc82d" data-media-id="d66e86703eaec1525f35c1bba1fd955b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -555,7 +555,7 @@ When we call this method, it just returns a string “VRRRRUUUUM”.
 
 
 
-<iframe width="700" height="250" src="/media/87e1317dd3dcdeed69ea769b5705b877?postId=90ad4eecc82d" data-media-id="87e1317dd3dcdeed69ea769b5705b877" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/87e1317dd3dcdeed69ea769b5705b877?postId=90ad4eecc82d" data-media-id="87e1317dd3dcdeed69ea769b5705b877" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -576,7 +576,7 @@ In Ruby we use methods to directly access data. Let’s see an example:
 
 
 
-<iframe width="700" height="250" src="/media/874077a787be380dd8aff24dfb521e9c?postId=90ad4eecc82d" data-media-id="874077a787be380dd8aff24dfb521e9c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/874077a787be380dd8aff24dfb521e9c?postId=90ad4eecc82d" data-media-id="874077a787be380dd8aff24dfb521e9c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -588,7 +588,7 @@ We just implemented this Person class. And as we’ve learned, to create the obj
 
 
 
-<iframe width="700" height="250" src="/media/7666a88cf78cf9e3470c10b7e291d7d2?postId=90ad4eecc82d" data-media-id="7666a88cf78cf9e3470c10b7e291d7d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7666a88cf78cf9e3470c10b7e291d7d2?postId=90ad4eecc82d" data-media-id="7666a88cf78cf9e3470c10b7e291d7d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -600,7 +600,7 @@ So I created me! :) The [_tk_](https://medium.com/@leandrotk_/) object! Passing
 
 
 
-<iframe width="700" height="250" src="/media/1d336530ed7e839e31d7c88c4926b136?postId=90ad4eecc82d" data-media-id="1d336530ed7e839e31d7c88c4926b136" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1d336530ed7e839e31d7c88c4926b136?postId=90ad4eecc82d" data-media-id="1d336530ed7e839e31d7c88c4926b136" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -614,7 +614,7 @@ Remember when I said “In Ruby we use methods to directly access data?” To ac
 
 
 
-<iframe width="700" height="250" src="/media/0dd8076a15d46f5bcde4c009631b429b?postId=90ad4eecc82d" data-media-id="0dd8076a15d46f5bcde4c009631b429b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0dd8076a15d46f5bcde4c009631b429b?postId=90ad4eecc82d" data-media-id="0dd8076a15d46f5bcde4c009631b429b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -638,7 +638,7 @@ Imagine a car. Number of wheels, seating capacity and maximum velocity are all a
 
 
 
-<iframe width="700" height="250" src="/media/b7afaee19d2e22dd2cf2cbd2977c676e?postId=90ad4eecc82d" data-media-id="b7afaee19d2e22dd2cf2cbd2977c676e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b7afaee19d2e22dd2cf2cbd2977c676e?postId=90ad4eecc82d" data-media-id="b7afaee19d2e22dd2cf2cbd2977c676e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -650,7 +650,7 @@ Our Car class implemented! :)
 
 
 
-<iframe width="700" height="250" src="/media/af79bab24da8edbc479a3e54cfcbb225?postId=90ad4eecc82d" data-media-id="af79bab24da8edbc479a3e54cfcbb225" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/af79bab24da8edbc479a3e54cfcbb225?postId=90ad4eecc82d" data-media-id="af79bab24da8edbc479a3e54cfcbb225" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -664,7 +664,7 @@ In Ruby, we use the < operator to show a class inherits from another. An Electri
 
 
 
-<iframe width="700" height="250" src="/media/56abc6282ee01f02ad52ca3c7be8c720?postId=90ad4eecc82d" data-media-id="56abc6282ee01f02ad52ca3c7be8c720" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/56abc6282ee01f02ad52ca3c7be8c720?postId=90ad4eecc82d" data-media-id="56abc6282ee01f02ad52ca3c7be8c720" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -676,7 +676,7 @@ Simple as that! We don’t need to implement the initialize method and any other
 
 
 
-<iframe width="700" height="250" src="/media/be31c8fcaccc177510c60343b5788aab?postId=90ad4eecc82d" data-media-id="be31c8fcaccc177510c60343b5788aab" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/be31c8fcaccc177510c60343b5788aab?postId=90ad4eecc82d" data-media-id="be31c8fcaccc177510c60343b5788aab" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -694,7 +694,7 @@ An example of a Ruby module is Math. We can access the constant PI:
 
 
 
-<iframe width="700" height="250" src="/media/f5cb5ebb528a1024211c5f71f0f7824c?postId=90ad4eecc82d" data-media-id="f5cb5ebb528a1024211c5f71f0f7824c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f5cb5ebb528a1024211c5f71f0f7824c?postId=90ad4eecc82d" data-media-id="f5cb5ebb528a1024211c5f71f0f7824c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -706,7 +706,7 @@ And the .sqrt method:
 
 
 
-<iframe width="700" height="250" src="/media/bae233234bd448dc51d9d47e2b2f15d5?postId=90ad4eecc82d" data-media-id="bae233234bd448dc51d9d47e2b2f15d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bae233234bd448dc51d9d47e2b2f15d5?postId=90ad4eecc82d" data-media-id="bae233234bd448dc51d9d47e2b2f15d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -718,7 +718,7 @@ And we can implement our own module and use it in classes. We have a RunnerAthle
 
 
 
-<iframe width="700" height="250" src="/media/471a7e73b64142eda70d0d463cfdbd3c?postId=90ad4eecc82d" data-media-id="471a7e73b64142eda70d0d463cfdbd3c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/471a7e73b64142eda70d0d463cfdbd3c?postId=90ad4eecc82d" data-media-id="471a7e73b64142eda70d0d463cfdbd3c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -730,7 +730,7 @@ And implement a module Skill to have the average_speed method.
 
 
 
-<iframe width="700" height="250" src="/media/007ab80adfd7e85939ef305d82880c61?postId=90ad4eecc82d" data-media-id="007ab80adfd7e85939ef305d82880c61" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/007ab80adfd7e85939ef305d82880c61?postId=90ad4eecc82d" data-media-id="007ab80adfd7e85939ef305d82880c61" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -742,7 +742,7 @@ How do we add the module to our classes so it has this behavior (average_speed m
 
 
 
-<iframe width="700" height="250" src="/media/aecb34f238b9fafe446455711d76ebd5?postId=90ad4eecc82d" data-media-id="aecb34f238b9fafe446455711d76ebd5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/aecb34f238b9fafe446455711d76ebd5?postId=90ad4eecc82d" data-media-id="aecb34f238b9fafe446455711d76ebd5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -754,7 +754,7 @@ See the “include Skill”! And now we can use this method in our instance of R
 
 
 
-<iframe width="700" height="250" src="/media/d592b5c499bb7afe448018f84d7b8785?postId=90ad4eecc82d" data-media-id="d592b5c499bb7afe448018f84d7b8785" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d592b5c499bb7afe448018f84d7b8785?postId=90ad4eecc82d" data-media-id="d592b5c499bb7afe448018f84d7b8785" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

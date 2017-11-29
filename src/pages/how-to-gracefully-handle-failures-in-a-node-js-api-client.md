@@ -1,7 +1,7 @@
 ---
 author: Roger Jin
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to gracefully handle failures in a Node.js API client"
 subTitle: "There are two facts of life: you breathe air, and errors will occur in your programs...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*qMJClMkWWIHzXfOJiLf8pw.jpeg

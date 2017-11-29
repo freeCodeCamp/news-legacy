@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/how-to-build-your-first-app-with-electron-4
 id: how-to-build-your-first-app-with-electron-41ebdb796930
 date: 2017-06-06T16:34:39.348Z
 tags: [
-  "JavaScript",
-  "Programming",
-  "Tech",
-  "Technology",
-  "Startup"
+	"JavaScript",
+	"Programming",
+	"Tech",
+	"Technology",
+	"Startup"
 ]
 ---
 # How to Build Your First Desktop App with JavaScript Using Electron
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*aBsgPiEeOE5lLoippRm7BA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*aBsgPiEeOE5lLoippRm7BA.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*aBsgPiEeOE5lLoippRm7BA.png"&gt;</noscript>
 
 
 
@@ -105,11 +102,8 @@ The window style changes depending on the Operating System. I chose to use the c
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Z-IQW9Uh5zBoVgjXGaobog.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Z-IQW9Uh5zBoVgjXGaobog.jpeg"&gt;</noscript>
 
 
 
@@ -129,11 +123,8 @@ Let’s have a look at the source code and the file structure of our app. Open u
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*zmzVqYOO_JIddSZKuC2yNw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="69" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*zmzVqYOO_JIddSZKuC2yNw.jpeg"&gt;</noscript>
 
 
 
@@ -175,11 +166,8 @@ If I start my Electron app and check the Windows Task Manager or Activity Monito
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gIPv4ax8ScTHk0KfWTpkRA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="73"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*gIPv4ax8ScTHk0KfWTpkRA.jpeg"&gt;</noscript>
 
 
 
@@ -235,11 +223,8 @@ Think of it like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KbJHEq6ubmMdgQ-35baZwg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="66" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*KbJHEq6ubmMdgQ-35baZwg.png"&gt;</noscript>
 
 
 
@@ -281,11 +266,8 @@ We also need to change the rest of the parameters. Find the `name` and `descript
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8n9txM1LUyPbY3acR5FYGw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*8n9txM1LUyPbY3acR5FYGw.jpeg"&gt;</noscript>
 
 
 
@@ -333,11 +315,8 @@ The code should look like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*uiZghSnPvgpy7O9GZtlnMg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*uiZghSnPvgpy7O9GZtlnMg.jpeg"&gt;</noscript>
 
 
 
@@ -363,11 +342,8 @@ Your project should look like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_6Fli9QEB6EG73NZNyQrYA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_6Fli9QEB6EG73NZNyQrYA.jpeg"&gt;</noscript>
 
 
 
@@ -395,11 +371,8 @@ The code should look like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bJWAu4lP46CuEbWhiX1tOA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="26"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*bJWAu4lP46CuEbWhiX1tOA.jpeg"&gt;</noscript>
 
 
 
@@ -417,11 +390,8 @@ Tune up the volume of your speakers and press the **A** button on your keyboard.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nFhFD8l0btZX3rmFNuteBg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nFhFD8l0btZX3rmFNuteBg.gif"&gt;</noscript>
 
 
 
@@ -449,11 +419,8 @@ The code should look like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Vrnvtjj0fuZsr6z4BIzRkg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="72"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Vrnvtjj0fuZsr6z4BIzRkg.jpeg"&gt;</noscript>
 
 
 
@@ -626,11 +593,8 @@ Our app is now complete! Congrats!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*fNEUvk9vYUnFPKPe8TRQug.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*fNEUvk9vYUnFPKPe8TRQug.gif"&gt;</noscript>
 
 
 

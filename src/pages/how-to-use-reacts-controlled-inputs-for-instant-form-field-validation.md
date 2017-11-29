@@ -1,7 +1,7 @@
 ---
 author: Gosha Arinich
 authorTwitter: https://twitter.com/goshakkk
-authorFacebook: false
+authorFacebook: none
 title: "How to use React’s controlled inputs for instant form field validation"
 subTitle: "Controlled inputs enable simple things, like disabling the Submit button when some fields are missing or invalid...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*srCOOERJDBSNxm81z1mTBw.png
@@ -168,7 +168,7 @@ We can also add a simple CSS rule:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/a5ae4669de836890b5b3188b54286fbf?postId=b1c7b033527e" data-media-id="a5ae4669de836890b5b3188b54286fbf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F1439842.zdLRrQ.small.88531572-5491-48d6-9723-217bd45f25a4.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/a5ae4669de836890b5b3188b54286fbf?postId=b1c7b033527e" data-media-id="a5ae4669de836890b5b3188b54286fbf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F1439842.zdLRrQ.small.88531572-5491-48d6-9723-217bd45f25a4.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

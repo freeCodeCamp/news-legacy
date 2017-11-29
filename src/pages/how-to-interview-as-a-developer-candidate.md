@@ -1,7 +1,7 @@
 ---
 author: Dave Smith
 authorTwitter: https://twitter.com/djsmith42
-authorFacebook: false
+authorFacebook: none
 title: "A developer’s guide to interviewing"
 subTitle: "Alternate title: How to interview a company"
 coverSrc: https://cdn-images-1.medium.com/max/1200/1*CTlZ73vo9IM0Crz_NhSL3Q.png

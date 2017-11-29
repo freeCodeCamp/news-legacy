@@ -336,7 +336,7 @@ Send feedback to [betweenthewires](https://twitter.com/betweenthewires) on Twitt
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/b3df5dcd0dc099c1ca67ceeaee248475?postId=f010517ad78e" data-media-id="b3df5dcd0dc099c1ca67ceeaee248475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/b3df5dcd0dc099c1ca67ceeaee248475?postId=f010517ad78e" data-media-id="b3df5dcd0dc099c1ca67ceeaee248475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

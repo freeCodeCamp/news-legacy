@@ -1,7 +1,7 @@
 ---
 author: Vicky Lai
 authorTwitter: https://twitter.com/hivickylai
-authorFacebook: false
+authorFacebook: none
 title: "Understanding Array.prototype.reduce() and recursion using apple pie"
 subTitle: "I was having trouble understanding reduce() and recursion in JavaScript, so I wrote this article to explain it to myself (hey, look, recu..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*VsKg3XJwl9mJScFc.
@@ -44,7 +44,7 @@ If we know the maximum number of nested arrays we’ll encounter (there are 4 in
 
 
 
-<iframe width="700" height="250" src="/media/c7b8cdc84dfa83815be68c92df25b46b?postId=f60cde58ea51" data-media-id="c7b8cdc84dfa83815be68c92df25b46b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F24644237%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c7b8cdc84dfa83815be68c92df25b46b?postId=f60cde58ea51" data-media-id="c7b8cdc84dfa83815be68c92df25b46b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F24644237%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -60,7 +60,7 @@ JavaScript has a couple methods we can use to make our code more concise and eas
 
 
 
-<iframe width="700" height="250" src="/media/834dc1d661dbc0ef636ff180d8254039?postId=f60cde58ea51" data-media-id="834dc1d661dbc0ef636ff180d8254039" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F24644237%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/834dc1d661dbc0ef636ff180d8254039?postId=f60cde58ea51" data-media-id="834dc1d661dbc0ef636ff180d8254039" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F24644237%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -111,7 +111,7 @@ A recursive reduce function that accomplishes this is:
 
 
 
-<iframe width="700" height="250" src="/media/192523f46ae5644f401b3752da3cda34?postId=f60cde58ea51" data-media-id="192523f46ae5644f401b3752da3cda34" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F24644237%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/192523f46ae5644f401b3752da3cda34?postId=f60cde58ea51" data-media-id="192523f46ae5644f401b3752da3cda34" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F24644237%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

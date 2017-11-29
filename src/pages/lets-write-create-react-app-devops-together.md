@@ -1,7 +1,7 @@
 ---
 author: James Y Rauhut
 authorTwitter: https://twitter.com/seejamescode
-authorFacebook: false
+authorFacebook: none
 title: "How I automate all of the boring parts of my job with Create React App DevOps"
 subTitle: "When you have responsibilities as one of the only designers — and possibly developer s— on your team, automation becomes your best friend..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*LjmVlUg4vIy-MA6BCwkLPw.jpeg

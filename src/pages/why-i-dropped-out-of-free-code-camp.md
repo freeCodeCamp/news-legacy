@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Why I dropped out of Free Code Camp"
 subTitle: "I worked through Free Code Camp’s curriculum, contributed to its open-source codebase, then got a coding job much faster than I expected...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*woeF3hjVgMhihrDi.jpeg

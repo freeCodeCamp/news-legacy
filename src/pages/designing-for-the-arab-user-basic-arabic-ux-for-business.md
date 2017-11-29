@@ -1,7 +1,7 @@
 ---
 author: Anna Rubkiewicz
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Designing for the Arab User — Basic Arabic UX for Business"
 subTitle: "What you’ll read about in this article:..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*V0fcPJS3oA5t990wXkyQjA.png

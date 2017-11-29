@@ -1,7 +1,7 @@
 ---
 author: Baptiste Pesquet
 authorTwitter: https://twitter.com/bpesquet
-authorFacebook: false
+authorFacebook: none
 title: "How to launch your own open source book that’s popular and profitable"
 subTitle: "I am the author of The JavaScript Way, a self-published open source book for learning to code. Despite the lack of any initial audience, ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*i0W3owJAB1oR57Bu6v1_Hw.jpeg
@@ -152,7 +152,7 @@ To my astonishment, the result was this time overwhelmingly positive. Kyle Simps
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/25136fca7e2b3e0e55fb5de1df055bff?postId=7553a2262898" data-media-id="25136fca7e2b3e0e55fb5de1df055bff" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F448725411606716416%2FKdYv0Wnh_400x400.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/25136fca7e2b3e0e55fb5de1df055bff?postId=7553a2262898" data-media-id="25136fca7e2b3e0e55fb5de1df055bff" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F448725411606716416%2FKdYv0Wnh_400x400.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

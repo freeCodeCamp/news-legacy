@@ -1,7 +1,7 @@
 ---
 author: Michael Olorunnisola
 authorTwitter: https://twitter.com/MikeOlor
-authorFacebook: false
+authorFacebook: none
 title: "A Gentle Introduction to Data Structures: How Graphs Work"
 subTitle: "So who wants to work at Google, Facebook, or maybe LinkedIn? Beyond their grueling interview process, one thing all these companies have ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*W6BXpuuOB_WcoO4-CmJQKg.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Rick West
 authorTwitter: https://twitter.com/rick_west8
-authorFacebook: false
+authorFacebook: none
 title: "How to dig yourself out of the coding tutorial rut"
 subTitle: "We’ve all been there. Learning to code, completing tutorial after tutorial, but getting nowhere. Then the self doubt kicks in. “This is t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*5Sj-aNru7_l_IeUq3KNGXw.jpeg
@@ -46,7 +46,7 @@ Being a project based tutorial, I liked the look of the end project. I thought i
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/2f7bb09121e8ac606031f0ffa246dffd?postId=7d3b2232f234" data-media-id="2f7bb09121e8ac606031f0ffa246dffd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCCpgya-UIAA8uar.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/2f7bb09121e8ac606031f0ffa246dffd?postId=7d3b2232f234" data-media-id="2f7bb09121e8ac606031f0ffa246dffd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCCpgya-UIAA8uar.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

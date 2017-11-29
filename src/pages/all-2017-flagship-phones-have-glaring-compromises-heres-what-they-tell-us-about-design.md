@@ -1,6 +1,6 @@
 ---
 author: Teo Yu Siang
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/100002462870902
 title: "All of 2017's flagship phones have glaring compromises. Here’s what they tell us about design."
 subTitle: "On September 12th, Tim Cook unveiled the iPhone X. The 10-year anniversary iPhone sports a “bezel-less” 5.8 inch screen in a beautiful ne..."
@@ -48,7 +48,7 @@ This top notch design breaks the otherwise seamless, beautiful screen. It seems 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/e48d9c4d8e8367a9196b6d00ca50cd52?postId=6a9ba6d8bbd0" data-media-id="e48d9c4d8e8367a9196b6d00ca50cd52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDJkHWGlWAAAUym_.png%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/e48d9c4d8e8367a9196b6d00ca50cd52?postId=6a9ba6d8bbd0" data-media-id="e48d9c4d8e8367a9196b6d00ca50cd52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDJkHWGlWAAAUym_.png%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

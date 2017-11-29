@@ -1,7 +1,7 @@
 ---
 author: Zell Liew
 authorTwitter: https://twitter.com/zellwk
-authorFacebook: false
+authorFacebook: none
 title: "How to think like a programmer"
 subTitle: "“I don’t get JavaScript. I can’t make components from scratch. My mind goes blank when I stare at a blank JavaScript file. I guess I can’..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*otgsthXHixWZ8Xs_a4cl_g.jpeg
@@ -131,7 +131,7 @@ Let’s say you want to a create button that, when clicked, shows you a sidebar.
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/8956bcc8fce8b572458ed17715a9f9b4?postId=3ae955d414cd" data-media-id="8956bcc8fce8b572458ed17715a9f9b4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F25451.zdqmLe.small.44f6ef24-266a-423b-8085-7d2761a3dea8.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/8956bcc8fce8b572458ed17715a9f9b4?postId=3ae955d414cd" data-media-id="8956bcc8fce8b572458ed17715a9f9b4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F25451.zdqmLe.small.44f6ef24-266a-423b-8085-7d2761a3dea8.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

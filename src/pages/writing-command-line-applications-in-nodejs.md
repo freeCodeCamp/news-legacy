@@ -63,7 +63,7 @@ Resulting in:
 
 
 
-<iframe width="700" height="250" src="/media/5210db8b4f10cd339387511666804871?postId=2cf8327eee2" data-media-id="5210db8b4f10cd339387511666804871" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5210db8b4f10cd339387511666804871?postId=2cf8327eee2" data-media-id="5210db8b4f10cd339387511666804871" allowfullscreen="" frameborder="0"></iframe>
 
 
 

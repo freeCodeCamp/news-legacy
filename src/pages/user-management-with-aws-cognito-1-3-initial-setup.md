@@ -1,7 +1,7 @@
 ---
 author: Kangze Huang
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "User Management with AWS Cognito — (1/3) Initial Setup"
 subTitle: "The Complete AWS Web Boilerplate — Tutorial 1A"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*ubdzj9K3MrbMb0Ep0UV3IA.png

@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/what-if-all-your-mobile-devices-formed-a-si
 id: what-if-all-your-mobile-devices-formed-a-single-screen-9c6ff01ed0c3
 date: 2017-06-20T18:51:28.439Z
 tags: [
-  "Tech",
-  "JavaScript",
-  "Design",
-  "Startup",
-  "Technology"
+	"Tech",
+	"JavaScript",
+	"Design",
+	"Startup",
+	"Technology"
 ]
 ---
 # What if all your mobile devices formed a single screen?
@@ -28,13 +28,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*eIQx-sLpotbpIrRnhPLPMA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*eIQx-sLpotbpIrRnhPLPMA.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*eIQx-sLpotbpIrRnhPLPMA.png"&gt;</noscript>
 
 
 
@@ -54,13 +51,10 @@ But, just for a second, actually think about it. Think about all the possibiliti
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*S1DIXIJzt6WZVysqorz2ug.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*S1DIXIJzt6WZVysqorz2ug.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*S1DIXIJzt6WZVysqorz2ug.png"&gt;</noscript>
 
 
 
@@ -76,11 +70,8 @@ The idea is quite simple: place several devices of any size next to each other a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bqv2v1dcFFUMhdv9K4DufA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="71" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*bqv2v1dcFFUMhdv9K4DufA.jpeg"&gt;</noscript>
 
 
 
@@ -102,11 +93,9 @@ With Swip.js, you can build complicated multi-device experiences like this:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZE0gxa-p8HY%2Fhqdefault.jpg&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<iframe data-width="854" data-height="480" width="980" height="551" data-src="/media/03ecad1ac9d0973a51e6a7114e9cb3d3?postId=9c6ff01ed0c3" data-media-id="03ecad1ac9d0973a51e6a7114e9cb3d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZE0gxa-p8HY%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" data-src="https://medium.freecodecamp.org/media/03ecad1ac9d0973a51e6a7114e9cb3d3?postId=9c6ff01ed0c3" data-media-id="03ecad1ac9d0973a51e6a7114e9cb3d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZE0gxa-p8HY%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="854" data-height="480" width="980" height="551" src="/media/03ecad1ac9d0973a51e6a7114e9cb3d3?postId=9c6ff01ed0c3" data-media-id="03ecad1ac9d0973a51e6a7114e9cb3d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZE0gxa-p8HY%2Fhqdefault.jpg&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -128,11 +117,8 @@ When we were searching for an idea to develop at a Hackathon, Paul remembered th
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KmyEPMVP1zxpKETQ2Ykplw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*KmyEPMVP1zxpKETQ2Ykplw.gif"&gt;</noscript>
 
 
 
@@ -170,11 +156,8 @@ Our next idea was to build a game where you had an iPad lying on the table and y
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jC74suQS7nChF3AET7zZqg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*jC74suQS7nChF3AET7zZqg.png"&gt;</noscript>
 
 
 
@@ -204,11 +187,6 @@ That’s when we decided to go for 2 simple examples: the classic **Pong** gamea
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*U46DsbFKhSGpiNesNPLE_Q.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*U46DsbFKhSGpiNesNPLE_Q.gif"&gt;</noscript>
 
 
 
@@ -220,11 +198,10 @@ That’s when we decided to go for 2 simple examples: the classic **Pong** gamea
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*mWgpk2WYoHhMyANQ7dSD3g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*mWgpk2WYoHhMyANQ7dSD3g.gif"&gt;</noscript>
+
+
 
 
 
@@ -258,11 +235,9 @@ Let’s first start with the server. Since we want to keep it easy and quick, we
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/4c2a5461244785e6bd5612a5944ac90a?postId=9c6ff01ed0c3" data-media-id="4c2a5461244785e6bd5612a5944ac90a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/4c2a5461244785e6bd5612a5944ac90a?postId=9c6ff01ed0c3" data-media-id="4c2a5461244785e6bd5612a5944ac90a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/4c2a5461244785e6bd5612a5944ac90a?postId=9c6ff01ed0c3" data-media-id="4c2a5461244785e6bd5612a5944ac90a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -280,11 +255,9 @@ Now open the browser and head to `localhost:3000` and ask yourself why it’s no
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/705fdd3c38d04b26eeb1cec2429a9851?postId=9c6ff01ed0c3" data-media-id="705fdd3c38d04b26eeb1cec2429a9851" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/705fdd3c38d04b26eeb1cec2429a9851?postId=9c6ff01ed0c3" data-media-id="705fdd3c38d04b26eeb1cec2429a9851" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/705fdd3c38d04b26eeb1cec2429a9851?postId=9c6ff01ed0c3" data-media-id="705fdd3c38d04b26eeb1cec2429a9851" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -302,11 +275,9 @@ The **socket** is the part you want to focus on now. In `index.html` we do `sock
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/69781e5d22190289b8affa113d8f556c?postId=9c6ff01ed0c3" data-media-id="69781e5d22190289b8affa113d8f556c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/69781e5d22190289b8affa113d8f556c?postId=9c6ff01ed0c3" data-media-id="69781e5d22190289b8affa113d8f556c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/69781e5d22190289b8affa113d8f556c?postId=9c6ff01ed0c3" data-media-id="69781e5d22190289b8affa113d8f556c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -350,11 +321,9 @@ I started to spam every possible blogger, JavaScript guru, and Subreddit I could
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000147359764%2F54dc9a5c34e912f34db8662d53d16a39_400x400.png&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe data-width="500" data-height="185" width="500" height="185" data-src="/media/4c6447ac4ae0b3836dc9b12394983ffd?postId=9c6ff01ed0c3" data-media-id="4c6447ac4ae0b3836dc9b12394983ffd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000147359764%2F54dc9a5c34e912f34db8662d53d16a39_400x400.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" data-src="https://medium.freecodecamp.org/media/4c6447ac4ae0b3836dc9b12394983ffd?postId=9c6ff01ed0c3" data-media-id="4c6447ac4ae0b3836dc9b12394983ffd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000147359764%2F54dc9a5c34e912f34db8662d53d16a39_400x400.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="500" data-height="185" width="500" height="185" src="/media/4c6447ac4ae0b3836dc9b12394983ffd?postId=9c6ff01ed0c3" data-media-id="4c6447ac4ae0b3836dc9b12394983ffd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000147359764%2F54dc9a5c34e912f34db8662d53d16a39_400x400.png&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -401,11 +370,8 @@ After we got it running, we realized that there was something off: the pictures 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*--vTIC7L7vEBKdIU5mVKNg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*--vTIC7L7vEBKdIU5mVKNg.jpeg"&gt;</noscript>
 
 
 
@@ -429,11 +395,9 @@ Unfortunately we didn’t figure out a way to calculate this scaling factor auto
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/6a2247b052603eebc9df387a00f108e3?postId=9c6ff01ed0c3" data-media-id="6a2247b052603eebc9df387a00f108e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/6a2247b052603eebc9df387a00f108e3?postId=9c6ff01ed0c3" data-media-id="6a2247b052603eebc9df387a00f108e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/6a2247b052603eebc9df387a00f108e3?postId=9c6ff01ed0c3" data-media-id="6a2247b052603eebc9df387a00f108e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16529337%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -453,11 +417,8 @@ We used redux to implement this pattern if you’re interested in the technical 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*m7oX4iW2PSE7YEEK25aDvA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*m7oX4iW2PSE7YEEK25aDvA.png"&gt;</noscript>
 
 
 
@@ -471,11 +432,8 @@ Redux pattern in swip.js
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qdfJZrXiKgWHhgi0Sh83bw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*qdfJZrXiKgWHhgi0Sh83bw.png"&gt;</noscript>
 
 
 
@@ -491,11 +449,8 @@ Initially, every device has it’s own cluster. The developer can specify what s
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Gp7YYJCjvrUwio9k4y2Fgg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Gp7YYJCjvrUwio9k4y2Fgg.jpeg"&gt;</noscript>
 
 
 
@@ -515,11 +470,8 @@ Once device will start off as the origin. With a “swip”, a simple pinch gest
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cZ8bcIUSSjXV0CxGPbyBgA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*cZ8bcIUSSjXV0CxGPbyBgA.png"&gt;</noscript>
 
 
 
@@ -541,11 +493,9 @@ All right, since we’re now done with the nerdy stuff, here’s another demo to
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqXOwT0ieOgw%2Fhqdefault.jpg&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<iframe data-width="854" data-height="480" width="980" height="551" data-src="/media/862f537893f9c725755e6f01eb368027?postId=9c6ff01ed0c3" data-media-id="862f537893f9c725755e6f01eb368027" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqXOwT0ieOgw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" data-src="https://medium.freecodecamp.org/media/862f537893f9c725755e6f01eb368027?postId=9c6ff01ed0c3" data-media-id="862f537893f9c725755e6f01eb368027" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqXOwT0ieOgw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="854" data-height="480" width="980" height="551" src="/media/862f537893f9c725755e6f01eb368027?postId=9c6ff01ed0c3" data-media-id="862f537893f9c725755e6f01eb368027" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqXOwT0ieOgw%2Fhqdefault.jpg&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -579,11 +529,8 @@ Lead Developer, Idea-Initiator and Mastermind of this project
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*41HSqei6mb9hp0QV6u-haA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*41HSqei6mb9hp0QV6u-haA.jpeg"&gt;</noscript>
 
 
 
@@ -623,11 +570,8 @@ Developer, Idea-Shaper, Word-Spreader and Writer
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*R-Pw8B8Fc6ezoera-1ewSg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*R-Pw8B8Fc6ezoera-1ewSg.jpeg"&gt;</noscript>
 
 
 

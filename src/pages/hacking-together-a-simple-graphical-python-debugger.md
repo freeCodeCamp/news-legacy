@@ -1,7 +1,7 @@
 ---
 author: Cristian Medina
 authorTwitter: https://twitter.com/tryexceptpass
-authorFacebook: false
+authorFacebook: none
 title: "How to hack together a graphical Python debugger"
 subTitle: "Zero-to-Debugging in 15 mins"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*aOUY9bnxHsfHrZgyDz8_XA.jpeg
@@ -287,7 +287,7 @@ For a deeper dive into the Python language constructs, frames, code objects and 
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/74773760e58d0ee7641e7b8d1c372b4d?postId=efe7e6b1f9a8" data-media-id="74773760e58d0ee7641e7b8d1c372b4d" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/74773760e58d0ee7641e7b8d1c372b4d?postId=efe7e6b1f9a8" data-media-id="74773760e58d0ee7641e7b8d1c372b4d" allowfullscreen="" frameborder="0"></iframe>
 
 
 

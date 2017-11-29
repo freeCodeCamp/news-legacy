@@ -1,7 +1,7 @@
 ---
 author: Beau Carnes
 authorTwitter: https://twitter.com/CarnesBeau
-authorFacebook: false
+authorFacebook: none
 title: "My giant JavaScript Basics course is now live on YouTube. And it’s 100% free."
 subTitle: "My JavaScript Basics course is now live on freeCodeCamp’s YouTube channel...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*mR7_k1mHMlsfc01qz-ZPiQ.png

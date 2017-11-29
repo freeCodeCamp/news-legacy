@@ -1,7 +1,7 @@
 ---
 author: Sihui Huang
 authorTwitter: https://twitter.com/sihui_io
-authorFacebook: false
+authorFacebook: none
 title: "How can you learn the Strategy Design Pattern? Make a hamburger!"
 subTitle: "Do you know how to order a burger?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*oIC7jzfYZde2T_Oo6DpI2Q.png
@@ -86,7 +86,7 @@ Let’s take a look at the code.
 
 
 
-<iframe width="700" height="250" src="/media/2bf1fe74bacc80bd9a75beab05dfbc06?postId=a6ad4332b838" data-media-id="2bf1fe74bacc80bd9a75beab05dfbc06" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3139206%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2bf1fe74bacc80bd9a75beab05dfbc06?postId=a6ad4332b838" data-media-id="2bf1fe74bacc80bd9a75beab05dfbc06" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3139206%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -96,7 +96,7 @@ Let’s take a look at the code.
 
 
 
-<iframe width="700" height="250" src="/media/f704f4fc349d71fc874a67188425384d?postId=a6ad4332b838" data-media-id="f704f4fc349d71fc874a67188425384d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3139206%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f704f4fc349d71fc874a67188425384d?postId=a6ad4332b838" data-media-id="f704f4fc349d71fc874a67188425384d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3139206%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -148,7 +148,7 @@ Here’s an important question: what’s your favorite burger strategy? :)
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/85649cc8b67966057c7c8dde81ece26d?postId=a6ad4332b838" data-media-id="85649cc8b67966057c7c8dde81ece26d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/85649cc8b67966057c7c8dde81ece26d?postId=a6ad4332b838" data-media-id="85649cc8b67966057c7c8dde81ece26d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

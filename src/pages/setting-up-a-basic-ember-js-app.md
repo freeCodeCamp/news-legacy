@@ -1,7 +1,7 @@
 ---
 author: Tracy Lee | ladyleet
 authorTwitter: https://twitter.com/ladyleet
-authorFacebook: false
+authorFacebook: none
 title: "How to set up a Basic Ember.js app"
 subTitle: "So, you want to test out Ember, eh? This article will walk through building a basic app...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*--wRIhx_atl50C4NlkMY5Q.jpeg

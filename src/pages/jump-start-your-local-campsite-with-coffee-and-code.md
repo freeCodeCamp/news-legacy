@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Jump Start Your Local Campsite with Coffee-and-Code"
 subTitle: "Our Facebook Campsites are a great way to meet people in your city and practice coding. Anyone can help make their campsite more active b..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*HGlQdomK_8aci7OzZe7bEA.jpeg

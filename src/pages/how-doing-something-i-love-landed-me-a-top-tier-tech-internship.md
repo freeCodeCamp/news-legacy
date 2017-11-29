@@ -1,7 +1,7 @@
 ---
 author: Taylor Milliman
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How I landed a top-tier tech internship by doing something I love"
 subTitle: "It’s been about a year since I fell in love with coding. Since then I’ve built numerous projects, completed over 1000 hours worth of cour..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*PVoQsWLaNOOyNRHV333lOA.jpeg

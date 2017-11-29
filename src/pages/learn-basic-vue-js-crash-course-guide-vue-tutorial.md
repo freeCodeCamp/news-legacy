@@ -79,7 +79,7 @@ Here is a screencast which explains this exact concept:
 
 
 
-<iframe data-width="800" data-height="450" width="700" height="394" src="/media/ad68e366844aa7947584d7efbea1d666?postId=e3da361c635" data-media-id="ad68e366844aa7947584d7efbea1d666" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="450" width="700" height="394" src="https://medium.freecodecamp.org/media/ad68e366844aa7947584d7efbea1d666?postId=e3da361c635" data-media-id="ad68e366844aa7947584d7efbea1d666" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ Here is a screencast explaining the same concept:
 
 
 
-<iframe data-width="800" data-height="450" width="700" height="394" src="/media/08c87dac184d39a836deea3d493a7a48?postId=e3da361c635" data-media-id="08c87dac184d39a836deea3d493a7a48" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="450" width="700" height="394" src="https://medium.freecodecamp.org/media/08c87dac184d39a836deea3d493a7a48?postId=e3da361c635" data-media-id="08c87dac184d39a836deea3d493a7a48" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -151,7 +151,7 @@ Here is a screencast explaining the concept:
 
 
 
-<iframe data-width="800" data-height="450" width="700" height="394" src="/media/d3720fb13375dad55175a0e4dc0f894c?postId=e3da361c635" data-media-id="d3720fb13375dad55175a0e4dc0f894c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="450" width="700" height="394" src="https://medium.freecodecamp.org/media/d3720fb13375dad55175a0e4dc0f894c?postId=e3da361c635" data-media-id="d3720fb13375dad55175a0e4dc0f894c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -190,7 +190,7 @@ Here is a screencast explaining the concept:
 
 
 
-<iframe data-width="800" data-height="450" width="700" height="394" src="/media/c508861482b8a339b659741376c991e4?postId=e3da361c635" data-media-id="c508861482b8a339b659741376c991e4" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="450" width="700" height="394" src="https://medium.freecodecamp.org/media/c508861482b8a339b659741376c991e4?postId=e3da361c635" data-media-id="c508861482b8a339b659741376c991e4" allowfullscreen="" frameborder="0"></iframe>
 
 
 

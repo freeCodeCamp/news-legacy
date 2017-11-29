@@ -40,7 +40,7 @@ And despite the millions of songs out there, one song seems to come up again and
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/3f0b25d4e713c658d25b340e07adcfc0?postId=97765270d2bd" data-media-id="3f0b25d4e713c658d25b340e07adcfc0" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/3f0b25d4e713c658d25b340e07adcfc0?postId=97765270d2bd" data-media-id="3f0b25d4e713c658d25b340e07adcfc0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ The central conflict of “JavaScript Coder” is the series of tooling dilemmas
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/0718623dd9ae56d5aedf6dfeb86af395?postId=97765270d2bd" data-media-id="0718623dd9ae56d5aedf6dfeb86af395" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/0718623dd9ae56d5aedf6dfeb86af395?postId=97765270d2bd" data-media-id="0718623dd9ae56d5aedf6dfeb86af395" allowfullscreen="" frameborder="0"></iframe>
 
 
 

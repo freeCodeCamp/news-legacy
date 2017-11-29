@@ -1,7 +1,7 @@
 ---
 author: James Y Rauhut
 authorTwitter: https://twitter.com/seejamescode
-authorFacebook: false
+authorFacebook: none
 title: "How to crank your progressive web app’s Google Lighthouse score up to 100"
 subTitle: "If there’s one message the Chrome Dev Team wants to drive home to developers, it’s this: performance matters...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*wc20QBMHUo9cXW22eJOP3g.png

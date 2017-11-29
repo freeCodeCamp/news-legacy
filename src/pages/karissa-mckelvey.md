@@ -1,7 +1,7 @@
 ---
 author: Vivian Cromwell
 authorTwitter: https://twitter.com/viviancromwell
-authorFacebook: false
+authorFacebook: none
 title: "Between the Wires: An interview with data scientist Karissa McKelvey"
 subTitle: "I interviewed Karissa McKelvey, who is the Director of Engineering at Dat Project, a distributed data sharing tool that packages your dat..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*WuWI9sddH7sTIL9B.jpeg

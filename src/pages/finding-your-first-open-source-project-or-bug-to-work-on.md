@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "How to find your first open source bug to fix"
 subTitle: "When you’re new to open source, you’ll find yourself asking:..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*qaM9LjB9PY5pwj9RDtP93g.jpeg

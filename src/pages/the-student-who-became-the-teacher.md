@@ -1,7 +1,7 @@
 ---
 author: Steven Ward
 authorTwitter: https://twitter.com/StevenWard
-authorFacebook: false
+authorFacebook: none
 title: "The Student Who Became the Teacher"
 subTitle: "A few months ago I sat down to my first-ever pair programming session. I had been stuck on Free Code Camp’s counting cards JavaScript cha..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Zn6F3UDswmPw2Y2TIznijA.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Adriana Vecchioli
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Here’s how you can make a 360 VR app in 10 minutes with Unity"
 subTitle: "Virtual Reality (VR) is exciting. It’s also the New Frontier of app development...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*US4qmns1r1F0BKMxBpeYcg.png
@@ -50,7 +50,7 @@ VR development should not be a barrier to bringing your ideas to life. Let’s g
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/708f1430b11e10909df02cab98847567?postId=51cbe41ad8f1" data-media-id="708f1430b11e10909df02cab98847567" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/708f1430b11e10909df02cab98847567?postId=51cbe41ad8f1" data-media-id="708f1430b11e10909df02cab98847567" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ Hence create a new Material for the Sphere, then a new Shader applied to this Ma
 
 
 
-<iframe width="700" height="250" src="/media/e056bcf98041f96fb63f322a1cdd9dd9?postId=51cbe41ad8f1" data-media-id="e056bcf98041f96fb63f322a1cdd9dd9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F6166964%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e056bcf98041f96fb63f322a1cdd9dd9?postId=51cbe41ad8f1" data-media-id="e056bcf98041f96fb63f322a1cdd9dd9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F6166964%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Gilad Dayagi
 authorTwitter: https://twitter.com/giladaya
-authorFacebook: false
+authorFacebook: none
 title: "How to create visual variants for React components using styled-components"
 subTitle: "Styled-components is a library for styling React components that took the React world by storm when it was introduced at the end of 2016...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*NAdLxbM-7qOVjUYOhVwNGg.jpeg

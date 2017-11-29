@@ -1,7 +1,7 @@
 ---
 author: Rasheed Bustamam
 authorTwitter: https://twitter.com/rbustamam
-authorFacebook: false
+authorFacebook: none
 title: "How to use jQuery Selectors and CSS Selectors, and the basics of how they work"
 subTitle: "The other day, I was interviewing someone who had finished the front-end certification of freeCodeCamp. He had also graduated from a rath..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*fvb-U3xoZbIr_AEmPHOQjw.jpeg
@@ -54,7 +54,7 @@ I always find it helpful to play with code, so here’s a simple CodePen for pla
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/ae06d05299fb89aea538bdb8175b399d?postId=12d75946b8b7" data-media-id="ae06d05299fb89aea538bdb8175b399d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fm.cdpn.io%2Fscreenshot-coming-soon-small.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/ae06d05299fb89aea538bdb8175b399d?postId=12d75946b8b7" data-media-id="ae06d05299fb89aea538bdb8175b399d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fm.cdpn.io%2Fscreenshot-coming-soon-small.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -150,7 +150,7 @@ As before, let’s start with a CodePen:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/3c92b5f46e9b7442af2c9fa2d787c387?postId=12d75946b8b7" data-media-id="3c92b5f46e9b7442af2c9fa2d787c387" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F246723.EwVmov.small.02c64c99-065b-46d9-818e-d0fa0f241d16.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/3c92b5f46e9b7442af2c9fa2d787c387?postId=12d75946b8b7" data-media-id="3c92b5f46e9b7442af2c9fa2d787c387" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F246723.EwVmov.small.02c64c99-065b-46d9-818e-d0fa0f241d16.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -253,7 +253,7 @@ Hopefully this writeup was helpful! If you enjoyed it, please give me some claps
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/0d5daafa2ba90c9a18ee86f252cb0654?postId=12d75946b8b7" data-media-id="0d5daafa2ba90c9a18ee86f252cb0654" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/0d5daafa2ba90c9a18ee86f252cb0654?postId=12d75946b8b7" data-media-id="0d5daafa2ba90c9a18ee86f252cb0654" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

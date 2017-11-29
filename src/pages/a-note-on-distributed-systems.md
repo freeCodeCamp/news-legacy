@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "Distributed Computing in a nutshell: How distributed systems work"
 subTitle: "This post distills the material presented in the paper titled “A Note on Distributed Systems” published in 1994 by Jim Waldo and others...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*tYxWuyksovxA1Thu8PggPQ.jpeg
@@ -120,7 +120,7 @@ A better approach is to accept that there are irreconcilable differences between
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/adc19bed52216163c38cb889a2e72d2c?postId=3c796f1eb0a0" data-media-id="adc19bed52216163c38cb889a2e72d2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/adc19bed52216163c38cb889a2e72d2c?postId=3c796f1eb0a0" data-media-id="adc19bed52216163c38cb889a2e72d2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

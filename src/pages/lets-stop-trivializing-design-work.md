@@ -24,7 +24,7 @@ For example, this tweet got a lot of traction, especially from designy people:
 
 
 
-<iframe width="500" height="250" src="/media/7110bc8d717166638a1e727f371d68cd?postId=c4beb48a339c" data-media-id="7110bc8d717166638a1e727f371d68cd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/7110bc8d717166638a1e727f371d68cd?postId=c4beb48a339c" data-media-id="7110bc8d717166638a1e727f371d68cd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

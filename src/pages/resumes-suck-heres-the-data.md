@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "Resumes suck. Here’s the data."
 subTitle: "I reviewed a solid year’s worth of resumes from engineers we had hired at TrialPay. The strongest signal I could find for whether we woul..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*BtcIfElvqtDEntXO1tB4kA.jpeg

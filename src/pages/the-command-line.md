@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "A Brief History of the Command Line"
 subTitle: "This post by Andy Trevorah, Engineer at Gitter, has been adapted from a talk that he originally gave at codebar, a non-profit initiative ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*uIU5dRHM7WFi1EFds5XD3Q.jpeg

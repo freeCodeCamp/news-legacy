@@ -1,7 +1,7 @@
 ---
 author: Den McHenry
 authorTwitter: https://twitter.com/DenMcH
-authorFacebook: false
+authorFacebook: none
 title: "Perlis on Coding Joy (+ 10 Epic Epigrams)"
 subTitle: "Alan J. Perlis was the first recipient of the Turing Award. He’s possibly most remembered today for his Epigrams on Programming, which ar..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QkGJGhS7wCPoq09rkLC_JQ.jpeg

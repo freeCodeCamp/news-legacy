@@ -1,7 +1,7 @@
 ---
 author: Adam Wattis
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "ElasticSearch with Django the easy way"
 subTitle: "A while back I was working on a Django project and wanted to implement fast free text search. Instead of using a regular database for thi..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*ojvTsI-Asv1IIjdm61RzKw.jpeg

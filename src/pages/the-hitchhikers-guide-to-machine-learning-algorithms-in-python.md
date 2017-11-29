@@ -1,7 +1,7 @@
 ---
 author: Conor Dewey
 authorTwitter: https://twitter.com/conordewey3
-authorFacebook: false
+authorFacebook: none
 title: "The Hitchhiker’s Guide to Machine Learning in Python"
 subTitle: "Featuring implementation code, instructional videos, and more"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*D4v4JceAnfoAfj8DwkwA8w.png
@@ -87,7 +87,7 @@ Anyways, linear regression is a supervised learning algorithm that predicts an o
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ea6de682a52f3549bbed3feedda76d36?postId=bfad66adb378" data-media-id="ea6de682a52f3549bbed3feedda76d36" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzPG4NjIkCjc%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ea6de682a52f3549bbed3feedda76d36?postId=bfad66adb378" data-media-id="ea6de682a52f3549bbed3feedda76d36" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzPG4NjIkCjc%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -136,7 +136,7 @@ When first learning this logistic regression, I was under the impression that it
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/bbf516b097373e63ad1b6e36830009e3?postId=bfad66adb378" data-media-id="bbf516b097373e63ad1b6e36830009e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FuYC2eLVSpI8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/bbf516b097373e63ad1b6e36830009e3?postId=bfad66adb378" data-media-id="bbf516b097373e63ad1b6e36830009e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FuYC2eLVSpI8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -182,7 +182,7 @@ Decision trees are a form of supervised learning that can be used for both class
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/7a7ac5f7895af80ca0427fc8174e2dad?postId=bfad66adb378" data-media-id="7a7ac5f7895af80ca0427fc8174e2dad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeKD5gxPPeY0%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/7a7ac5f7895af80ca0427fc8174e2dad?postId=bfad66adb378" data-media-id="7a7ac5f7895af80ca0427fc8174e2dad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeKD5gxPPeY0%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -229,7 +229,7 @@ This vector is by default and often visualized as being linear, however this doe
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c52e0c9a36820a3c74e6d8805b23dc88?postId=bfad66adb378" data-media-id="c52e0c9a36820a3c74e6d8805b23dc88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeUfvyUEGMD8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c52e0c9a36820a3c74e6d8805b23dc88?postId=bfad66adb378" data-media-id="c52e0c9a36820a3c74e6d8805b23dc88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeUfvyUEGMD8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -274,7 +274,7 @@ K-Nearest Neighbors, KNN for short, is a supervised learning algorithm specializ
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ae3c4a4225edc0b03265e697464b8560?postId=bfad66adb378" data-media-id="ae3c4a4225edc0b03265e697464b8560" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUqYde-LULfs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ae3c4a4225edc0b03265e697464b8560?postId=bfad66adb378" data-media-id="ae3c4a4225edc0b03265e697464b8560" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUqYde-LULfs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -319,7 +319,7 @@ Random forests are a popular supervised ensemble learning algorithm. ‘Ensemble
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/edb68d6db6937abb1019ad8f6dd10cd6?postId=bfad66adb378" data-media-id="edb68d6db6937abb1019ad8f6dd10cd6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FD_2LkhMJcfY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/edb68d6db6937abb1019ad8f6dd10cd6?postId=bfad66adb378" data-media-id="edb68d6db6937abb1019ad8f6dd10cd6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FD_2LkhMJcfY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -355,7 +355,7 @@ K-Means is a popular unsupervised learning classification algorithm typically us
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/61322d4ebcebc85f47c55f4dd0c8b25c?postId=bfad66adb378" data-media-id="61322d4ebcebc85f47c55f4dd0c8b25c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_aWzGGNrcic%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/61322d4ebcebc85f47c55f4dd0c8b25c?postId=bfad66adb378" data-media-id="61322d4ebcebc85f47c55f4dd0c8b25c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_aWzGGNrcic%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -396,7 +396,7 @@ PCA is a dimensionality reduction algorithm that can do a couple of things for d
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/aa63421a5a4a13e722729b3456269e1d?postId=bfad66adb378" data-media-id="aa63421a5a4a13e722729b3456269e1d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fkw9R0nD69OU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/aa63421a5a4a13e722729b3456269e1d?postId=bfad66adb378" data-media-id="aa63421a5a4a13e722729b3456269e1d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fkw9R0nD69OU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -435,7 +435,7 @@ This tutorial simply scrapes the surface of all the machine learning algorithms 
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/8e2caa5fc8ee5fa9658eaf099eab0a3a?postId=bfad66adb378" data-media-id="8e2caa5fc8ee5fa9658eaf099eab0a3a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/8e2caa5fc8ee5fa9658eaf099eab0a3a?postId=bfad66adb378" data-media-id="8e2caa5fc8ee5fa9658eaf099eab0a3a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

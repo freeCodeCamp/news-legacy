@@ -1,7 +1,7 @@
 ---
 author: Paweł Piotr Przeradowski
 authorTwitter: https://twitter.com/squeaky_pl
-authorFacebook: false
+authorFacebook: none
 title: "A million requests per second with Python"
 subTitle: "Is it possible to hit a million requests per second with Python? Probably not until recently...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*nAr_UQ1RcT-2mcfstPLocQ.jpeg

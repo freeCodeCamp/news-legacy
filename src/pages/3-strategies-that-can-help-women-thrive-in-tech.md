@@ -1,7 +1,7 @@
 ---
 author: Shubhi Asthana
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "These 3 strategies can help women thrive in tech"
 subTitle: "As someone early on in her career, I’ve attended a few tech talks, conferences, and meetups. One thing I noticed is not many women take a..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*zwdaEl4SesejQXkW_AdVHg.jpeg

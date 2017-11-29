@@ -1,6 +1,6 @@
 ---
 author: Nikolay Khabarov
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/104856756766887
 title: "How you can use Python to build your own CNC controller and 3D printer"
 subTitle: "This article discusses the process I used to build the first ever CNC machine controller implementation on pure Python...."
@@ -84,7 +84,7 @@ Here is some simple code in Python that controls a pin’s state using this appr
 
 
 
-<iframe width="700" height="250" src="/media/4af4d2189c44ea1ed11674a3be099b00?postId=bd3cd5e28516" data-media-id="4af4d2189c44ea1ed11674a3be099b00" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4af4d2189c44ea1ed11674a3be099b00?postId=bd3cd5e28516" data-media-id="4af4d2189c44ea1ed11674a3be099b00" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ Since additional code is required to allocate physical memory with `‘/dev/vcio
 
 
 
-<iframe width="700" height="250" src="/media/16952a3fd41cfc08056fc7d9b0a5bee5?postId=bd3cd5e28516" data-media-id="16952a3fd41cfc08056fc7d9b0a5bee5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/16952a3fd41cfc08056fc7d9b0a5bee5?postId=bd3cd5e28516" data-media-id="16952a3fd41cfc08056fc7d9b0a5bee5" allowfullscreen="" frameborder="0"></iframe>
 
 
 

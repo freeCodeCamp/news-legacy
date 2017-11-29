@@ -72,7 +72,7 @@ Below are my three most interesting ways to solve the problem of reversing a str
 
 
 
-<iframe width="700" height="250" src="/media/cefd94d3c5236f5d013980b018a5f942?postId=75e4763c68cb" data-media-id="cefd94d3c5236f5d013980b018a5f942" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cefd94d3c5236f5d013980b018a5f942?postId=75e4763c68cb" data-media-id="cefd94d3c5236f5d013980b018a5f942" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ For this solution, we will use three methods: the String.prototype.split() metho
 
 
 
-<iframe width="700" height="250" src="/media/cea48bafe008a2e6e315632b0f1c2f5f?postId=75e4763c68cb" data-media-id="cea48bafe008a2e6e315632b0f1c2f5f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cea48bafe008a2e6e315632b0f1c2f5f?postId=75e4763c68cb" data-media-id="cea48bafe008a2e6e315632b0f1c2f5f" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ For this solution, we will use three methods: the String.prototype.split() metho
 
 
 
-<iframe width="700" height="250" src="/media/d16ecbfa6c872dd4eafd944e28953e38?postId=75e4763c68cb" data-media-id="d16ecbfa6c872dd4eafd944e28953e38" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d16ecbfa6c872dd4eafd944e28953e38?postId=75e4763c68cb" data-media-id="d16ecbfa6c872dd4eafd944e28953e38" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ For this solution, we will use three methods: the String.prototype.split() metho
 
 
 
-<iframe width="700" height="250" src="/media/3eedcc5e490d21e2af565716505990e9?postId=75e4763c68cb" data-media-id="3eedcc5e490d21e2af565716505990e9" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3eedcc5e490d21e2af565716505990e9?postId=75e4763c68cb" data-media-id="3eedcc5e490d21e2af565716505990e9" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -168,7 +168,7 @@ For this solution, we will use three methods: the String.prototype.split() metho
 
 
 
-<iframe width="700" height="250" src="/media/f9989f7c966ac6974380c42400e59f9f?postId=75e4763c68cb" data-media-id="f9989f7c966ac6974380c42400e59f9f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f9989f7c966ac6974380c42400e59f9f?postId=75e4763c68cb" data-media-id="f9989f7c966ac6974380c42400e59f9f" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -208,7 +208,7 @@ For this solution, we will use two methods: the String.prototype.substr() method
 
 
 
-<iframe width="700" height="250" src="/media/0ea8727d7ee8e788cad7f82bbf7d9ea3?postId=75e4763c68cb" data-media-id="0ea8727d7ee8e788cad7f82bbf7d9ea3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0ea8727d7ee8e788cad7f82bbf7d9ea3?postId=75e4763c68cb" data-media-id="0ea8727d7ee8e788cad7f82bbf7d9ea3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -222,7 +222,7 @@ The depth of the recursion is equal to the length of the String. This solution i
 
 
 
-<iframe width="700" height="250" src="/media/2ee543e5373d56a84163c8b3677bcaca?postId=75e4763c68cb" data-media-id="2ee543e5373d56a84163c8b3677bcaca" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2ee543e5373d56a84163c8b3677bcaca?postId=75e4763c68cb" data-media-id="2ee543e5373d56a84163c8b3677bcaca" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -234,7 +234,7 @@ The depth of the recursion is equal to the length of the String. This solution i
 
 
 
-<iframe width="700" height="250" src="/media/9e2dcb9788009ddd60ecc4f92757e5fc?postId=75e4763c68cb" data-media-id="9e2dcb9788009ddd60ecc4f92757e5fc" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9e2dcb9788009ddd60ecc4f92757e5fc?postId=75e4763c68cb" data-media-id="9e2dcb9788009ddd60ecc4f92757e5fc" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: José M. Pérez
 authorTwitter: https://twitter.com/jmperezperez
-authorFacebook: false
+authorFacebook: none
 title: "How to use SVG as a Placeholder, and Other Image Loading Techniques"
 subTitle: "I’m passionate about image performance optimisation and making images load fast on the web. One of the most interesting areas of explorat..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*zJGl1vKLttcJGIL4.jpg
@@ -95,7 +95,7 @@ In [a previous post](https://medium.com/@jmperezperez/drawing-images-using-edge-
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/8c5c44a4adf82b09692a34eb4daa3e2e?postId=bed1b810ab2c" data-media-id="8c5c44a4adf82b09692a34eb4daa3e2e" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/8c5c44a4adf82b09692a34eb4daa3e2e?postId=bed1b810ab2c" data-media-id="8c5c44a4adf82b09692a34eb4daa3e2e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ Back in the days I tried to do something similar with triangles. You can see the
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/05d1ee44f0537f8257258124d7b94613?postId=bed1b810ab2c" data-media-id="05d1ee44f0537f8257258124d7b94613" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F390060.BmaWmQ.small.751c0fd1-eaa4-44cb-b2dc-dfc99f9f1437.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/05d1ee44f0537f8257258124d7b94613?postId=bed1b810ab2c" data-media-id="05d1ee44f0537f8257258124d7b94613" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F390060.BmaWmQ.small.751c0fd1-eaa4-44cb-b2dc-dfc99f9f1437.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -252,7 +252,7 @@ The SVGs in this case were hand drawn, but the technique quickly spawned integra
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/8087e75c67b30b1ba1e8beb14f875482?postId=bed1b810ab2c" data-media-id="8087e75c67b30b1ba1e8beb14f875482" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F923303819420647424%2Fpu%2Fimg%2FjyDM1HG74eizeWsa.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/8087e75c67b30b1ba1e8beb14f875482?postId=bed1b810ab2c" data-media-id="8087e75c67b30b1ba1e8beb14f875482" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F923303819420647424%2Fpu%2Fimg%2FjyDM1HG74eizeWsa.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -264,7 +264,7 @@ The SVGs in this case were hand drawn, but the technique quickly spawned integra
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/1773750892f5339bc189f993979325e4?postId=bed1b810ab2c" data-media-id="1773750892f5339bc189f993979325e4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F920673865923223552%2Fpu%2Fimg%2FC1cZ6atAKyNbJ4-X.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/1773750892f5339bc189f993979325e4?postId=bed1b810ab2c" data-media-id="1773750892f5339bc189f993979325e4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F920673865923223552%2Fpu%2Fimg%2FC1cZ6atAKyNbJ4-X.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -276,7 +276,7 @@ The SVGs in this case were hand drawn, but the technique quickly spawned integra
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/f0167ab6188e24a1f90601ae14ff6acc?postId=bed1b810ab2c" data-media-id="f0167ab6188e24a1f90601ae14ff6acc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F700358486014758913%2F7xRu23tJ_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/f0167ab6188e24a1f90601ae14ff6acc?postId=bed1b810ab2c" data-media-id="f0167ab6188e24a1f90601ae14ff6acc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F700358486014758913%2F7xRu23tJ_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -288,7 +288,7 @@ It’s also interesting to see a comparison of the output between Emil’s webpa
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/8161aeb53a3e9974301b1cbbf0a9814a?postId=bed1b810ab2c" data-media-id="8161aeb53a3e9974301b1cbbf0a9814a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDMbLT9bUIAA1yB7.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/8161aeb53a3e9974301b1cbbf0a9814a?postId=bed1b810ab2c" data-media-id="8161aeb53a3e9974301b1cbbf0a9814a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDMbLT9bUIAA1yB7.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

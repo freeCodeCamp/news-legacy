@@ -1,7 +1,7 @@
 ---
 author: Beau Carnes
 authorTwitter: https://twitter.com/CarnesBeau
-authorFacebook: false
+authorFacebook: none
 title: "The dark side of extreme productivity, and how to steer back toward the light"
 subTitle: "I was recently listening to a talk about how to determine whether you’re addicted to productivity...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*sscDg98uX3961KYsHdpLEw.png

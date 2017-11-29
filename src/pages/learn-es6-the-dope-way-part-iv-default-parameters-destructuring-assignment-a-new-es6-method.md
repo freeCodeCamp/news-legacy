@@ -1,7 +1,7 @@
 ---
 author: Mariya Diminsky
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Learn ES6 The Dope Way Part IV: Default Parameters, Destructuring Assignment, and a new method!"
 subTitle: "Welcome to Part IV of Learn ES6 The Dope Way, a series created to help you easily understand ES6 (ECMAScript 6)!..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*RuxaPPPrL6K09eF4pFhISw.jpeg
@@ -66,7 +66,7 @@ Default function parameters allow you to initialize default values if either no 
 
 
 
-<iframe width="700" height="250" src="/media/030bdac547378ed26f8cd3095d1f3cd3?postId=44393190b8c9" data-media-id="030bdac547378ed26f8cd3095d1f3cd3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/030bdac547378ed26f8cd3095d1f3cd3?postId=44393190b8c9" data-media-id="030bdac547378ed26f8cd3095d1f3cd3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -78,7 +78,7 @@ You would get _NaN_, not a number. But now you can do this:
 
 
 
-<iframe width="700" height="250" src="/media/58bbe70c1128086bba51de79ac078425?postId=44393190b8c9" data-media-id="58bbe70c1128086bba51de79ac078425" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/58bbe70c1128086bba51de79ac078425?postId=44393190b8c9" data-media-id="58bbe70c1128086bba51de79ac078425" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -90,7 +90,7 @@ You get 12! This means if you don’t specifically add values to this function w
 
 
 
-<iframe width="700" height="250" src="/media/066afa09e60886de93401192040359f8?postId=44393190b8c9" data-media-id="066afa09e60886de93401192040359f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/066afa09e60886de93401192040359f8?postId=44393190b8c9" data-media-id="066afa09e60886de93401192040359f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -102,7 +102,7 @@ The overwriting of default values will occur based on the position in which you 
 
 
 
-<iframe width="700" height="250" src="/media/b14ac3a026714404afde35b908aa27b0?postId=44393190b8c9" data-media-id="b14ac3a026714404afde35b908aa27b0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b14ac3a026714404afde35b908aa27b0?postId=44393190b8c9" data-media-id="b14ac3a026714404afde35b908aa27b0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ When passing undefined values, the default value is still chosen:
 
 
 
-<iframe width="700" height="250" src="/media/cbe3af7184a572790511c597d31be015?postId=44393190b8c9" data-media-id="cbe3af7184a572790511c597d31be015" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cbe3af7184a572790511c597d31be015?postId=44393190b8c9" data-media-id="cbe3af7184a572790511c597d31be015" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ If no default value is assigned for a parameter, it will just return undefined, 
 
 
 
-<iframe width="700" height="250" src="/media/512331c74ff587da07b9b7e7ed821c14?postId=44393190b8c9" data-media-id="512331c74ff587da07b9b7e7ed821c14" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/512331c74ff587da07b9b7e7ed821c14?postId=44393190b8c9" data-media-id="512331c74ff587da07b9b7e7ed821c14" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -152,7 +152,7 @@ First, let’s practice with arrays by creating an array of Bunny’s favorite f
 
 
 
-<iframe width="700" height="250" src="/media/dc4ac6fc9f036dcf5db45f7b64756014?postId=44393190b8c9" data-media-id="dc4ac6fc9f036dcf5db45f7b64756014" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dc4ac6fc9f036dcf5db45f7b64756014?postId=44393190b8c9" data-media-id="dc4ac6fc9f036dcf5db45f7b64756014" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ Or we could use Destructuring Assignment! We do this by removing the variable na
 
 
 
-<iframe width="700" height="250" src="/media/16e17ec016f332c2ffa14cc3f1bfc816?postId=44393190b8c9" data-media-id="16e17ec016f332c2ffa14cc3f1bfc816" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/16e17ec016f332c2ffa14cc3f1bfc816?postId=44393190b8c9" data-media-id="16e17ec016f332c2ffa14cc3f1bfc816" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -190,7 +190,7 @@ Here’s how to get access to a different location with the same word:
 
 
 
-<iframe width="700" height="250" src="/media/2304366c0beb3ada4f3d81debd9e8c31?postId=44393190b8c9" data-media-id="2304366c0beb3ada4f3d81debd9e8c31" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2304366c0beb3ada4f3d81debd9e8c31?postId=44393190b8c9" data-media-id="2304366c0beb3ada4f3d81debd9e8c31" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -204,7 +204,7 @@ Ok, we’ve got arrays down, so now how about Destructuring Assignment with obje
 
 
 
-<iframe width="700" height="250" src="/media/056a0f1234b3182e77eb10466af0cfaa?postId=44393190b8c9" data-media-id="056a0f1234b3182e77eb10466af0cfaa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/056a0f1234b3182e77eb10466af0cfaa?postId=44393190b8c9" data-media-id="056a0f1234b3182e77eb10466af0cfaa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -218,7 +218,7 @@ Inside the curly braces, pass in the object properties that we’ll want access 
 
 
 
-<iframe width="700" height="250" src="/media/289001daa8aafe3fb517339463c492ac?postId=44393190b8c9" data-media-id="289001daa8aafe3fb517339463c492ac" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/289001daa8aafe3fb517339463c492ac?postId=44393190b8c9" data-media-id="289001daa8aafe3fb517339463c492ac" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -232,7 +232,7 @@ Let’s say you have a function that you want to gain access to all the objects 
 
 
 
-<iframe width="700" height="250" src="/media/bb5303f167b88c822d2d575c00bb26e2?postId=44393190b8c9" data-media-id="bb5303f167b88c822d2d575c00bb26e2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bb5303f167b88c822d2d575c00bb26e2?postId=44393190b8c9" data-media-id="bb5303f167b88c822d2d575c00bb26e2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -250,7 +250,7 @@ Study the example below:
 
 
 
-<iframe width="700" height="250" src="/media/7fe59bab7c1361ae9588d1cb8b28f2bb?postId=44393190b8c9" data-media-id="7fe59bab7c1361ae9588d1cb8b28f2bb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7fe59bab7c1361ae9588d1cb8b28f2bb?postId=44393190b8c9" data-media-id="7fe59bab7c1361ae9588d1cb8b28f2bb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -262,7 +262,7 @@ Or if you had an object and array ready for Destructuring:
 
 
 
-<iframe width="700" height="250" src="/media/d15f21fc06e18115367925b74816442c?postId=44393190b8c9" data-media-id="d15f21fc06e18115367925b74816442c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d15f21fc06e18115367925b74816442c?postId=44393190b8c9" data-media-id="d15f21fc06e18115367925b74816442c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -299,7 +299,7 @@ Here’s how it works:
 
 
 
-<iframe width="700" height="250" src="/media/3634e7c1305a3b7d03325f4b20cf5f91?postId=44393190b8c9" data-media-id="3634e7c1305a3b7d03325f4b20cf5f91" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3634e7c1305a3b7d03325f4b20cf5f91?postId=44393190b8c9" data-media-id="3634e7c1305a3b7d03325f4b20cf5f91" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

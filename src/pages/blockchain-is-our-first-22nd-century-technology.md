@@ -1,7 +1,7 @@
 ---
 author: Haseeb Qureshi
 authorTwitter: https://twitter.com/hosseeb
-authorFacebook: false
+authorFacebook: none
 title: "Blockchain: the revolution we’re not ready for"
 subTitle: "Imagine you didn’t need to trust a stranger to make a deal with them. Imagine you didn’t need to trust your bank to deposit your money th..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*JMQOodCGPz_Gxy5g.jpg

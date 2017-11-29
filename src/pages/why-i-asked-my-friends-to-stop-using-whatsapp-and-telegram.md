@@ -1,7 +1,7 @@
 ---
 author: Romain Aubert
 authorTwitter: https://twitter.com/romaub
-authorFacebook: false
+authorFacebook: none
 title: "Why I told my friends to stop using WhatsApp and Telegram"
 subTitle: "Even with end-to-end encryption Big Brother is still in your phone: metadata"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ud92h35bv3aCtbnwGJ02kA.png
@@ -78,7 +78,7 @@ Metadata has often been a blurry term. For your convenience, below is a clarifie
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/14f9b8a139baf02b9793002ddef87dbb?postId=e93346b3c1f0" data-media-id="14f9b8a139baf02b9793002ddef87dbb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F648888480974508032%2F66_cUYfj_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/14f9b8a139baf02b9793002ddef87dbb?postId=e93346b3c1f0" data-media-id="14f9b8a139baf02b9793002ddef87dbb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F648888480974508032%2F66_cUYfj_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -152,7 +152,7 @@ Here’s Edward Snowden’s tongue-in-cheek advertisement for Allo:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/c17ff43d7e8a3a93c56ba8d661f440f2?postId=e93346b3c1f0" data-media-id="c17ff43d7e8a3a93c56ba8d661f440f2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F648888480974508032%2F66_cUYfj_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/c17ff43d7e8a3a93c56ba8d661f440f2?postId=e93346b3c1f0" data-media-id="c17ff43d7e8a3a93c56ba8d661f440f2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F648888480974508032%2F66_cUYfj_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -215,7 +215,7 @@ If you don’t think privacy is all that important:
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/0e6c9be8c2ae5a9ac438571954b0d59c?postId=e93346b3c1f0" data-media-id="0e6c9be8c2ae5a9ac438571954b0d59c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/0e6c9be8c2ae5a9ac438571954b0d59c?postId=e93346b3c1f0" data-media-id="0e6c9be8c2ae5a9ac438571954b0d59c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

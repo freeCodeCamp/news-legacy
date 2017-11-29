@@ -135,7 +135,7 @@ Mark Zuckerberg used the password “dadada” on his LinkedIn account. Earlier 
 
 
 
-<iframe width="500" height="250" src="/media/d9ff0d13699ec09bcceb848a10a7f360?postId=1a593f2104c3" data-media-id="d9ff0d13699ec09bcceb848a10a7f360" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCkNametWYAEacCL.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/d9ff0d13699ec09bcceb848a10a7f360?postId=1a593f2104c3" data-media-id="d9ff0d13699ec09bcceb848a10a7f360" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCkNametWYAEacCL.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

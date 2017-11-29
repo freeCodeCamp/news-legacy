@@ -42,7 +42,7 @@ Unfortunately, there are a lot of marketers out there trying to cash in on the n
 
 
 
-<iframe width="500" height="250" src="/media/88ae01c46fb4c6b9808f695fe69b6327?postId=f25bacdc5b62" data-media-id="88ae01c46fb4c6b9808f695fe69b6327" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/88ae01c46fb4c6b9808f695fe69b6327?postId=f25bacdc5b62" data-media-id="88ae01c46fb4c6b9808f695fe69b6327" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ The curse of knowledge prevents many experienced developers from being able to e
 
 
 
-<iframe width="500" height="250" src="/media/0c89972346ee78f59dae85c7d4faf72d?postId=f25bacdc5b62" data-media-id="0c89972346ee78f59dae85c7d4faf72d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/0c89972346ee78f59dae85c7d4faf72d?postId=f25bacdc5b62" data-media-id="0c89972346ee78f59dae85c7d4faf72d" allowfullscreen="" frameborder="0"></iframe>
 
 
 

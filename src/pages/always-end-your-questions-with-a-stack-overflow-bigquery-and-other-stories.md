@@ -1,7 +1,7 @@
 ---
 author: Felipe Hoffa
 authorTwitter: https://twitter.com/felipehoffa
-authorFacebook: false
+authorFacebook: none
 title: "Want people to actually answer your Stack Overflow question? Add a question mark."
 subTitle: "Last week, my team at Google announced that we’d be hosting all of Stack Overflow’s Q&A data on BigQuery...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*bsIhDEEHdsa47enj6HOkMw.png
@@ -44,7 +44,7 @@ Nick Craver at Stack Overflow announced a new dataset dump on Friday:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/67679b600f1aad80763892c6e38c3701?postId=2470ebcda7f" data-media-id="67679b600f1aad80763892c6e38c3701" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCzvCPZzWIAA0nAn.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/67679b600f1aad80763892c6e38c3701?postId=2470ebcda7f" data-media-id="67679b600f1aad80763892c6e38c3701" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCzvCPZzWIAA0nAn.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -68,7 +68,7 @@ Stack Overflow in BigQuery updated to 2016–12–11
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/61439dd151688706e8739c7bb59c4ede?postId=2470ebcda7f" data-media-id="61439dd151688706e8739c7bb59c4ede" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC0DcdrqWIAAmdbr.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/61439dd151688706e8739c7bb59c4ede?postId=2470ebcda7f" data-media-id="61439dd151688706e8739c7bb59c4ede" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC0DcdrqWIAAmdbr.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -122,7 +122,7 @@ Here’s a bonus visualization I did of how long it takes to get an answer depen
 
 
 
-<iframe data-width="700" data-height="440" width="700" height="440" src="/media/6ef867d51bab4abc0ba5a4ca92bccc57?postId=2470ebcda7f" data-media-id="6ef867d51bab4abc0ba5a4ca92bccc57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fexploratory.io%2Fviz%2Ffelipehoffa%2F8173308739241814%2Fthumbnail.png%3Fcb%3D1482229002683&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="700" data-height="440" width="700" height="440" src="https://medium.freecodecamp.org/media/6ef867d51bab4abc0ba5a4ca92bccc57?postId=2470ebcda7f" data-media-id="6ef867d51bab4abc0ba5a4ca92bccc57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fexploratory.io%2Fviz%2Ffelipehoffa%2F8173308739241814%2Fthumbnail.png%3Fcb%3D1482229002683&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ Here’s Stack Overflow’s CEO announcing the fully query-able dataset:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/1475134645d67ca217bb661a84d66fdb?postId=2470ebcda7f" data-media-id="1475134645d67ca217bb661a84d66fdb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F451185078073171968%2FT4QKBj-E_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/1475134645d67ca217bb661a84d66fdb?postId=2470ebcda7f" data-media-id="1475134645d67ca217bb661a84d66fdb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F451185078073171968%2FT4QKBj-E_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -172,7 +172,7 @@ His conclusion:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/63bca5e355aa534bae224cc8d2ef9066?postId=2470ebcda7f" data-media-id="63bca5e355aa534bae224cc8d2ef9066" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F711856089558425600%2F4ied3FWt_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/63bca5e355aa534bae224cc8d2ef9066?postId=2470ebcda7f" data-media-id="63bca5e355aa534bae224cc8d2ef9066" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F711856089558425600%2F4ied3FWt_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

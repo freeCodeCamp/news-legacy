@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Commit to Yourself. Commit to a Nonprofit."
 subTitle: "In case you missed it, our October Summit was jam-packed with several big announcements about our open source community...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*N8mtVjRq-ZmkDk_6ax91uQ.jpeg

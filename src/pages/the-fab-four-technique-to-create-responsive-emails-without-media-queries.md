@@ -1,7 +1,7 @@
 ---
 author: Rémi Parmentier
 authorTwitter: https://twitter.com/HTeuMeuLeu
-authorFacebook: false
+authorFacebook: none
 title: "The Fab Four technique to create Responsive Emails without Media Queries"
 subTitle: "I think I found a new way to create responsive emails, without media queries. The solution involves the CSS calc() function and the three..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*8MfWNObJP1mFnYJzKkdflQ.png

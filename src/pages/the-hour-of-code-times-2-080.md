@@ -54,7 +54,7 @@ We’ve long planned to transition away from Angular and toward React. And since
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/fb7429f767e919f235f9ca844f0fb3bc?postId=67dda26be3af" data-media-id="fb7429f767e919f235f9ca844f0fb3bc" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/fb7429f767e919f235f9ca844f0fb3bc?postId=67dda26be3af" data-media-id="fb7429f767e919f235f9ca844f0fb3bc" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -80,7 +80,7 @@ Many developers, when first experimenting with React, choose to build a Markdown
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/13708b653276d7980c922de30adf2999?postId=67dda26be3af" data-media-id="13708b653276d7980c922de30adf2999" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/13708b653276d7980c922de30adf2999?postId=67dda26be3af" data-media-id="13708b653276d7980c922de30adf2999" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ Many developers, when first experimenting with React, choose to build a Markdown
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/cce769a23c484035976c601cae1f39f3?postId=67dda26be3af" data-media-id="cce769a23c484035976c601cae1f39f3" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/cce769a23c484035976c601cae1f39f3?postId=67dda26be3af" data-media-id="cce769a23c484035976c601cae1f39f3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ Conway’s Game of Life lends itself well to React’s web-component-based appro
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/680dccc39f47bc649bfac2c5fc32b7b2?postId=67dda26be3af" data-media-id="680dccc39f47bc649bfac2c5fc32b7b2" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/680dccc39f47bc649bfac2c5fc32b7b2?postId=67dda26be3af" data-media-id="680dccc39f47bc649bfac2c5fc32b7b2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ More and more web developers are expected to know how to take data and visualize
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/5c5d48b5a3ff817735b1bd38491333f2?postId=67dda26be3af" data-media-id="5c5d48b5a3ff817735b1bd38491333f2" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/5c5d48b5a3ff817735b1bd38491333f2?postId=67dda26be3af" data-media-id="5c5d48b5a3ff817735b1bd38491333f2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -152,7 +152,7 @@ More and more web developers are expected to know how to take data and visualize
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/e405c1939cc1b6fedd02469b9d6ef48c?postId=67dda26be3af" data-media-id="e405c1939cc1b6fedd02469b9d6ef48c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/e405c1939cc1b6fedd02469b9d6ef48c?postId=67dda26be3af" data-media-id="e405c1939cc1b6fedd02469b9d6ef48c" allowfullscreen="" frameborder="0"></iframe>
 
 
 

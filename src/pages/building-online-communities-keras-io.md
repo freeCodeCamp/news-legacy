@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Building Online Communities: Keras.io"
 subTitle: "François Chollet is an AI and deep learning researcher at Google. He’s the author of Keras — a minimalist, highly modular neural networks..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*NcYnyrhmlMEcSGZUEM5uTw.png

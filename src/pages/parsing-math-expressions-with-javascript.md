@@ -272,7 +272,7 @@ I won’t delve into the algorithm’s implementation so I don’t bore you. It�
 
 
 
-<iframe width="700" height="250" src="/media/0e844f3f882786bcca0b71e7200f64b9?postId=7e8f5572276e" data-media-id="0e844f3f882786bcca0b71e7200f64b9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F14361073%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0e844f3f882786bcca0b71e7200f64b9?postId=7e8f5572276e" data-media-id="0e844f3f882786bcca0b71e7200f64b9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F14361073%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -343,7 +343,7 @@ So, if we put all this together, here is the code we come up with:
 
 
 
-<iframe width="700" height="250" src="/media/df102efc035c104716bc0d44ea368567?postId=7e8f5572276e" data-media-id="df102efc035c104716bc0d44ea368567" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F14361073%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/df102efc035c104716bc0d44ea368567?postId=7e8f5572276e" data-media-id="df102efc035c104716bc0d44ea368567" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F14361073%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

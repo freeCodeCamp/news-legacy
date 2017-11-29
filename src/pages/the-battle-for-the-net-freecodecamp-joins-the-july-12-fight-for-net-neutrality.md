@@ -36,7 +36,7 @@ Right now, new FCC Chairman and former Verizon lawyer Ajit Pai has a plan to des
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/77ea68f4d7e316242b76516914eb8811?postId=f96539729c5d" data-media-id="77ea68f4d7e316242b76516914eb8811" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDAIDnDtU0AAai35.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/77ea68f4d7e316242b76516914eb8811?postId=f96539729c5d" data-media-id="77ea68f4d7e316242b76516914eb8811" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDAIDnDtU0AAai35.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

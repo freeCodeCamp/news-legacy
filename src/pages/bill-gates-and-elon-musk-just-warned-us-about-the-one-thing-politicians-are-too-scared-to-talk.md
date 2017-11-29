@@ -73,7 +73,7 @@ I strongly recommend you invest 3 minutes in watching this video. It shows how a
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f693bb1cc31fb28de5f23aecc8d66e9f?postId=8db9815fd398" data-media-id="f693bb1cc31fb28de5f23aecc8d66e9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8gy5tYVR-28%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f693bb1cc31fb28de5f23aecc8d66e9f?postId=8db9815fd398" data-media-id="f693bb1cc31fb28de5f23aecc8d66e9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8gy5tYVR-28%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -91,7 +91,7 @@ Amazon is testing a type of store with virtually no employees. You just walk in,
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/23e52b8d0f4af59b9ea422f9de4a948a?postId=8db9815fd398" data-media-id="23e52b8d0f4af59b9ea422f9de4a948a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNrmMk1Myrxc%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/23e52b8d0f4af59b9ea422f9de4a948a?postId=8db9815fd398" data-media-id="23e52b8d0f4af59b9ea422f9de4a948a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNrmMk1Myrxc%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -107,7 +107,7 @@ Japan has been automating aspects of its restaurants for decades — taking 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/4acbfc0e91b4b94654bc4b05171df215?postId=8db9815fd398" data-media-id="4acbfc0e91b4b94654bc4b05171df215" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyICVmyySHmE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/4acbfc0e91b4b94654bc4b05171df215?postId=8db9815fd398" data-media-id="4acbfc0e91b4b94654bc4b05171df215" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyICVmyySHmE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -119,7 +119,7 @@ And America is now getting some automated restaurants as well.
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/20c0833e90ec74d3200ae79c1ac5b8c6?postId=8db9815fd398" data-media-id="20c0833e90ec74d3200ae79c1ac5b8c6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe1o4Y-92k8Q%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/20c0833e90ec74d3200ae79c1ac5b8c6?postId=8db9815fd398" data-media-id="20c0833e90ec74d3200ae79c1ac5b8c6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe1o4Y-92k8Q%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -131,7 +131,7 @@ There’s even a company that makes delivery trucks that drive around and start 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/57a1f7ccbd8cc81017d60f95220f9486?postId=8db9815fd398" data-media-id="57a1f7ccbd8cc81017d60f95220f9486" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FE6U0NdwsCWs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/57a1f7ccbd8cc81017d60f95220f9486?postId=8db9815fd398" data-media-id="57a1f7ccbd8cc81017d60f95220f9486" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FE6U0NdwsCWs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

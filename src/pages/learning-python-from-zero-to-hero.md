@@ -52,7 +52,7 @@ In Python, it is really easy to define a variable and set a value to it. Imagine
 
 
 
-<iframe width="700" height="250" src="/media/c921e7aaef4471513b444391de4ac1e0?postId=120ea540b567" data-media-id="c921e7aaef4471513b444391de4ac1e0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c921e7aaef4471513b444391de4ac1e0?postId=120ea540b567" data-media-id="c921e7aaef4471513b444391de4ac1e0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -64,7 +64,7 @@ How simple was that? You just assigned the value 1 to the variable “one.”
 
 
 
-<iframe width="700" height="250" src="/media/b2a2391142a1e0dd5b80f4f772ef75bd?postId=120ea540b567" data-media-id="b2a2391142a1e0dd5b80f4f772ef75bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b2a2391142a1e0dd5b80f4f772ef75bd?postId=120ea540b567" data-media-id="b2a2391142a1e0dd5b80f4f772ef75bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -78,7 +78,7 @@ Besides integers, we can also use booleans (True / False), strings, float, and s
 
 
 
-<iframe width="700" height="250" src="/media/ef7690e897e2498d3ef02b23e8c5e4c7?postId=120ea540b567" data-media-id="ef7690e897e2498d3ef02b23e8c5e4c7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ef7690e897e2498d3ef02b23e8c5e4c7?postId=120ea540b567" data-media-id="ef7690e897e2498d3ef02b23e8c5e4c7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ Besides integers, we can also use booleans (True / False), strings, float, and s
 
 
 
-<iframe width="700" height="250" src="/media/4dd2996bf0b7a7f1fe5b600ae2466dcc?postId=120ea540b567" data-media-id="4dd2996bf0b7a7f1fe5b600ae2466dcc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4dd2996bf0b7a7f1fe5b600ae2466dcc?postId=120ea540b567" data-media-id="4dd2996bf0b7a7f1fe5b600ae2466dcc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ The “**else**” statement will be executed if the “**if**” expression is 
 
 
 
-<iframe width="700" height="250" src="/media/9862206af6404782adbf21e8e95bcf5d?postId=120ea540b567" data-media-id="9862206af6404782adbf21e8e95bcf5d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9862206af6404782adbf21e8e95bcf5d?postId=120ea540b567" data-media-id="9862206af6404782adbf21e8e95bcf5d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -120,7 +120,7 @@ You can also use an “**elif**” statement:
 
 
 
-<iframe width="700" height="250" src="/media/26e4095c80922321f6236f5d39e8b379?postId=120ea540b567" data-media-id="26e4095c80922321f6236f5d39e8b379" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/26e4095c80922321f6236f5d39e8b379?postId=120ea540b567" data-media-id="26e4095c80922321f6236f5d39e8b379" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -136,7 +136,7 @@ In Python, we can iterate in different forms. I’ll talk about two: **while**an
 
 
 
-<iframe width="700" height="250" src="/media/d3f00f81eb92814e777f6d4d440cf086?postId=120ea540b567" data-media-id="d3f00f81eb92814e777f6d4d440cf086" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d3f00f81eb92814e777f6d4d440cf086?postId=120ea540b567" data-media-id="d3f00f81eb92814e777f6d4d440cf086" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -150,7 +150,7 @@ Another basic bit of code to better understand it:
 
 
 
-<iframe width="700" height="250" src="/media/633fe079c8f85248ad1d7e2644804433?postId=120ea540b567" data-media-id="633fe079c8f85248ad1d7e2644804433" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/633fe079c8f85248ad1d7e2644804433?postId=120ea540b567" data-media-id="633fe079c8f85248ad1d7e2644804433" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ The **loop condition** is `True` so it keeps iterating — until we set it t
 
 
 
-<iframe width="700" height="250" src="/media/14d281dd982af1d77d9bf4ea9b71d912?postId=120ea540b567" data-media-id="14d281dd982af1d77d9bf4ea9b71d912" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/14d281dd982af1d77d9bf4ea9b71d912?postId=120ea540b567" data-media-id="14d281dd982af1d77d9bf4ea9b71d912" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -184,7 +184,7 @@ Do I have another way to store all the integers that I want, but not in **millio
 
 
 
-<iframe width="700" height="250" src="/media/b66ff21fb947a4456fc0fadbb12081de?postId=120ea540b567" data-media-id="b66ff21fb947a4456fc0fadbb12081de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b66ff21fb947a4456fc0fadbb12081de?postId=120ea540b567" data-media-id="b66ff21fb947a4456fc0fadbb12081de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -210,7 +210,7 @@ Using the Python syntax, it’s also simple to understand:
 
 
 
-<iframe width="700" height="250" src="/media/c9cca0f7306db18db8b9d6c5eab7e2ed?postId=120ea540b567" data-media-id="c9cca0f7306db18db8b9d6c5eab7e2ed" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c9cca0f7306db18db8b9d6c5eab7e2ed?postId=120ea540b567" data-media-id="c9cca0f7306db18db8b9d6c5eab7e2ed" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -222,7 +222,7 @@ Imagine that you don’t want to store integers. You just want to store strings,
 
 
 
-<iframe width="700" height="250" src="/media/34342f0ef152b82e7ce33c2c63503cb9?postId=120ea540b567" data-media-id="34342f0ef152b82e7ce33c2c63503cb9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/34342f0ef152b82e7ce33c2c63503cb9?postId=120ea540b567" data-media-id="34342f0ef152b82e7ce33c2c63503cb9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -238,7 +238,7 @@ The most common method to add a new value to a `List` is `append`. Let’s see h
 
 
 
-<iframe width="700" height="250" src="/media/c55bbcee5e611a3562bc3d6840f720a9?postId=120ea540b567" data-media-id="c55bbcee5e611a3562bc3d6840f720a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c55bbcee5e611a3562bc3d6840f720a9?postId=120ea540b567" data-media-id="c55bbcee5e611a3562bc3d6840f720a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -258,7 +258,7 @@ Let’s learn about the `Dictionary` data structure. `Dictionary` is a collectio
 
 
 
-<iframe width="700" height="250" src="/media/ca070295beefcedab9777847bf99664e?postId=120ea540b567" data-media-id="ca070295beefcedab9777847bf99664e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ca070295beefcedab9777847bf99664e?postId=120ea540b567" data-media-id="ca070295beefcedab9777847bf99664e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -270,7 +270,7 @@ The **key** is the index pointing to the**value**. How do we access the `Diction
 
 
 
-<iframe width="700" height="250" src="/media/82894cd297682720e22d995b2d0398d7?postId=120ea540b567" data-media-id="82894cd297682720e22d995b2d0398d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/82894cd297682720e22d995b2d0398d7?postId=120ea540b567" data-media-id="82894cd297682720e22d995b2d0398d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -288,7 +288,7 @@ Another cool thing about `Dictionary` is that we can use anything as the value. 
 
 
 
-<iframe width="700" height="250" src="/media/6997f6fb0ae67087f67ae339e071a0ae?postId=120ea540b567" data-media-id="6997f6fb0ae67087f67ae339e071a0ae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6997f6fb0ae67087f67ae339e071a0ae?postId=120ea540b567" data-media-id="6997f6fb0ae67087f67ae339e071a0ae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -302,7 +302,7 @@ As we did with `Lists`, let’s learn how to add elements to a `Dictionary`. The
 
 
 
-<iframe width="700" height="250" src="/media/9f526a77030b63e3c431f8ea5465498f?postId=120ea540b567" data-media-id="9f526a77030b63e3c431f8ea5465498f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9f526a77030b63e3c431f8ea5465498f?postId=120ea540b567" data-media-id="9f526a77030b63e3c431f8ea5465498f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -318,7 +318,7 @@ As we learned in the [**Python Basics**](https://medium.com/the-renaissance-deve
 
 
 
-<iframe width="700" height="250" src="/media/0f28c915bf7fdf1bd898691a04731d04?postId=120ea540b567" data-media-id="0f28c915bf7fdf1bd898691a04731d04" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0f28c915bf7fdf1bd898691a04731d04?postId=120ea540b567" data-media-id="0f28c915bf7fdf1bd898691a04731d04" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -332,7 +332,7 @@ For a hash data structure, we can also use the `for` loop, but we apply the `key
 
 
 
-<iframe width="700" height="250" src="/media/d49402e195671309c87c7adf7a4cc4c3?postId=120ea540b567" data-media-id="d49402e195671309c87c7adf7a4cc4c3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d49402e195671309c87c7adf7a4cc4c3?postId=120ea540b567" data-media-id="d49402e195671309c87c7adf7a4cc4c3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -346,7 +346,7 @@ Another way to do it is to use the `iteritems` method.
 
 
 
-<iframe width="700" height="250" src="/media/c146d618d971e893e81dc776c9381b99?postId=120ea540b567" data-media-id="c146d618d971e893e81dc776c9381b99" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c146d618d971e893e81dc776c9381b99?postId=120ea540b567" data-media-id="c146d618d971e893e81dc776c9381b99" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -358,7 +358,7 @@ We did name the two parameters as `key` and `value`, but it is not necessary. We
 
 
 
-<iframe width="700" height="250" src="/media/fe665ca42dac4023bc6c36327a45cad5?postId=120ea540b567" data-media-id="fe665ca42dac4023bc6c36327a45cad5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fe665ca42dac4023bc6c36327a45cad5?postId=120ea540b567" data-media-id="fe665ca42dac4023bc6c36327a45cad5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -394,7 +394,7 @@ With this in mind, let’s look at Python syntax for **classes**:
 
 
 
-<iframe width="700" height="250" src="/media/45528bd8e9e2f5b093f101fbd7bf60b1?postId=120ea540b567" data-media-id="45528bd8e9e2f5b093f101fbd7bf60b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/45528bd8e9e2f5b093f101fbd7bf60b1?postId=120ea540b567" data-media-id="45528bd8e9e2f5b093f101fbd7bf60b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -408,7 +408,7 @@ We define classes with a **class statement — **and that’s it. Easy, isn�
 
 
 
-<iframe width="700" height="250" src="/media/dc44d286269b03b697f1f54d10e0b7bc?postId=120ea540b567" data-media-id="dc44d286269b03b697f1f54d10e0b7bc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dc44d286269b03b697f1f54d10e0b7bc?postId=120ea540b567" data-media-id="dc44d286269b03b697f1f54d10e0b7bc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -422,7 +422,7 @@ Remember that our vehicle **class** has four **attributes**: number of wheels, t
 
 
 
-<iframe width="700" height="250" src="/media/686af7ee5c449971ba4e00c553ac619c?postId=120ea540b567" data-media-id="686af7ee5c449971ba4e00c553ac619c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/686af7ee5c449971ba4e00c553ac619c?postId=120ea540b567" data-media-id="686af7ee5c449971ba4e00c553ac619c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -434,7 +434,7 @@ We use the `init` **method**. We call it a constructor method. So when we create
 
 
 
-<iframe width="700" height="250" src="/media/9ca0f1c86fda8e864205d460aa60c96e?postId=120ea540b567" data-media-id="9ca0f1c86fda8e864205d460aa60c96e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9ca0f1c86fda8e864205d460aa60c96e?postId=120ea540b567" data-media-id="9ca0f1c86fda8e864205d460aa60c96e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -448,7 +448,7 @@ All attributes are set. But how can we access these attributes’ values? We **s
 
 
 
-<iframe width="700" height="250" src="/media/078ec29902fc03a0c37079a1476fb774?postId=120ea540b567" data-media-id="078ec29902fc03a0c37079a1476fb774" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/078ec29902fc03a0c37079a1476fb774?postId=120ea540b567" data-media-id="078ec29902fc03a0c37079a1476fb774" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -462,7 +462,7 @@ In Python, we can do that using `@property` (`decorators`) to define `getters` a
 
 
 
-<iframe width="700" height="250" src="/media/5164561c3931ef826d0648af0c8dbc52?postId=120ea540b567" data-media-id="5164561c3931ef826d0648af0c8dbc52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5164561c3931ef826d0648af0c8dbc52?postId=120ea540b567" data-media-id="5164561c3931ef826d0648af0c8dbc52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -474,7 +474,7 @@ And we can use these methods as attributes:
 
 
 
-<iframe width="700" height="250" src="/media/3a2afe0bb4eb97a7a97564fc1ad8359a?postId=120ea540b567" data-media-id="3a2afe0bb4eb97a7a97564fc1ad8359a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3a2afe0bb4eb97a7a97564fc1ad8359a?postId=120ea540b567" data-media-id="3a2afe0bb4eb97a7a97564fc1ad8359a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -488,7 +488,7 @@ But we can also use methods for other things, like the “**make_noise**” meth
 
 
 
-<iframe width="700" height="250" src="/media/86b005c8075fea4714f7a0421dfa49ad?postId=120ea540b567" data-media-id="86b005c8075fea4714f7a0421dfa49ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/86b005c8075fea4714f7a0421dfa49ad?postId=120ea540b567" data-media-id="86b005c8075fea4714f7a0421dfa49ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -500,7 +500,7 @@ When we call this method, it just returns a string **_“_VRRRRUUUUM._”_**
 
 
 
-<iframe width="700" height="250" src="/media/d3ee7c0ee048748acaf6d86aed4a661f?postId=120ea540b567" data-media-id="d3ee7c0ee048748acaf6d86aed4a661f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d3ee7c0ee048748acaf6d86aed4a661f?postId=120ea540b567" data-media-id="d3ee7c0ee048748acaf6d86aed4a661f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F5835798%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -526,7 +526,7 @@ Within the constructor method:
 
 
 
-<iframe width="700" height="250" src="/media/d25de854b3f10f1d38043d1980b9d4c0?postId=120ea540b567" data-media-id="d25de854b3f10f1d38043d1980b9d4c0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d25de854b3f10f1d38043d1980b9d4c0?postId=120ea540b567" data-media-id="d25de854b3f10f1d38043d1980b9d4c0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -538,7 +538,7 @@ Here we apply the `first_name` value as an argument to the `public instance vari
 
 
 
-<iframe width="700" height="250" src="/media/42acba08d786976f46f7c94c609e0751?postId=120ea540b567" data-media-id="42acba08d786976f46f7c94c609e0751" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/42acba08d786976f46f7c94c609e0751?postId=120ea540b567" data-media-id="42acba08d786976f46f7c94c609e0751" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -550,7 +550,7 @@ Within the class:
 
 
 
-<iframe width="700" height="250" src="/media/5e2ae251034940f518b90ac65326c847?postId=120ea540b567" data-media-id="5e2ae251034940f518b90ac65326c847" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5e2ae251034940f518b90ac65326c847?postId=120ea540b567" data-media-id="5e2ae251034940f518b90ac65326c847" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -562,7 +562,7 @@ Here, we do not need to apply the `first_name` as an argument, and all instance 
 
 
 
-<iframe width="700" height="250" src="/media/775c068ba6cdddb717c7e268b6c3ccaf?postId=120ea540b567" data-media-id="775c068ba6cdddb717c7e268b6c3ccaf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/775c068ba6cdddb717c7e268b6c3ccaf?postId=120ea540b567" data-media-id="775c068ba6cdddb717c7e268b6c3ccaf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -576,7 +576,7 @@ Keeping the `Person` class in mind, we want to set another value to its `first_n
 
 
 
-<iframe width="700" height="250" src="/media/438ee52aa7e08b485897aa166c15c351?postId=120ea540b567" data-media-id="438ee52aa7e08b485897aa166c15c351" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/438ee52aa7e08b485897aa166c15c351?postId=120ea540b567" data-media-id="438ee52aa7e08b485897aa166c15c351" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -598,7 +598,7 @@ Here’s an example:
 
 
 
-<iframe width="700" height="250" src="/media/07bd96cb9147758a489e2b49120f3a88?postId=120ea540b567" data-media-id="07bd96cb9147758a489e2b49120f3a88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/07bd96cb9147758a489e2b49120f3a88?postId=120ea540b567" data-media-id="07bd96cb9147758a489e2b49120f3a88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -610,7 +610,7 @@ Did you see the `email` variable? This is how we define a `non-public variable`�
 
 
 
-<iframe width="700" height="250" src="/media/926ca447d0efd9b2377dcf8e4a3c47c1?postId=120ea540b567" data-media-id="926ca447d0efd9b2377dcf8e4a3c47c1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/926ca447d0efd9b2377dcf8e4a3c47c1?postId=120ea540b567" data-media-id="926ca447d0efd9b2377dcf8e4a3c47c1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -624,7 +624,7 @@ So we use a method that allows us to do it inside our class definition. Let’s 
 
 
 
-<iframe width="700" height="250" src="/media/87fc55c276acb9423da57a2b58706876?postId=120ea540b567" data-media-id="87fc55c276acb9423da57a2b58706876" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/87fc55c276acb9423da57a2b58706876?postId=120ea540b567" data-media-id="87fc55c276acb9423da57a2b58706876" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -636,7 +636,7 @@ Now we can update and access `non-public variables` using those methods. Let’s
 
 
 
-<iframe width="700" height="250" src="/media/7da3b5de1c01d60a7deb4aef0e8cf679?postId=120ea540b567" data-media-id="7da3b5de1c01d60a7deb4aef0e8cf679" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7da3b5de1c01d60a7deb4aef0e8cf679?postId=120ea540b567" data-media-id="7da3b5de1c01d60a7deb4aef0e8cf679" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -657,7 +657,7 @@ With `public methods`, we can also use them out of our class:
 
 
 
-<iframe width="700" height="250" src="/media/9aa65d297f30dc9d07dd0447a035c301?postId=120ea540b567" data-media-id="9aa65d297f30dc9d07dd0447a035c301" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9aa65d297f30dc9d07dd0447a035c301?postId=120ea540b567" data-media-id="9aa65d297f30dc9d07dd0447a035c301" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -669,7 +669,7 @@ Let’s test it:
 
 
 
-<iframe width="700" height="250" src="/media/82ff560e3160e2a9a78a255c7e72d70b?postId=120ea540b567" data-media-id="82ff560e3160e2a9a78a255c7e72d70b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/82ff560e3160e2a9a78a255c7e72d70b?postId=120ea540b567" data-media-id="82ff560e3160e2a9a78a255c7e72d70b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -685,7 +685,7 @@ But with `non-public methods` we aren’t able to do it. Let’s implement the s
 
 
 
-<iframe width="700" height="250" src="/media/fd08994303980074c04b7b17ce51d1d3?postId=120ea540b567" data-media-id="fd08994303980074c04b7b17ce51d1d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fd08994303980074c04b7b17ce51d1d3?postId=120ea540b567" data-media-id="fd08994303980074c04b7b17ce51d1d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -697,7 +697,7 @@ And now, we’ll try to call this `non-public method` with our object:
 
 
 
-<iframe width="700" height="250" src="/media/993456840fe3204d6e7b70a2d34c2e9e?postId=120ea540b567" data-media-id="993456840fe3204d6e7b70a2d34c2e9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/993456840fe3204d6e7b70a2d34c2e9e?postId=120ea540b567" data-media-id="993456840fe3204d6e7b70a2d34c2e9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -711,7 +711,7 @@ Here’s an example for how we can use it:
 
 
 
-<iframe width="700" height="250" src="/media/022c04bf0aed47f618b24b7af3daa853?postId=120ea540b567" data-media-id="022c04bf0aed47f618b24b7af3daa853" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/022c04bf0aed47f618b24b7af3daa853?postId=120ea540b567" data-media-id="022c04bf0aed47f618b24b7af3daa853" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -739,7 +739,7 @@ Imagine a car. Number of wheels, seating capacity and maximum velocity are all a
 
 
 
-<iframe width="700" height="250" src="/media/d8c96fa38c00544eddac8f8a07723763?postId=120ea540b567" data-media-id="d8c96fa38c00544eddac8f8a07723763" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d8c96fa38c00544eddac8f8a07723763?postId=120ea540b567" data-media-id="d8c96fa38c00544eddac8f8a07723763" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -751,7 +751,7 @@ Our **Car** class implemented:
 
 
 
-<iframe width="700" height="250" src="/media/03691782d8dfad996e277e0ee346b2f4?postId=120ea540b567" data-media-id="03691782d8dfad996e277e0ee346b2f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/03691782d8dfad996e277e0ee346b2f4?postId=120ea540b567" data-media-id="03691782d8dfad996e277e0ee346b2f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -765,7 +765,7 @@ In Python, we apply a `parent class` to the `child class` as a parameter. An **E
 
 
 
-<iframe width="700" height="250" src="/media/d2c121285adc388fcf8c273a239989fe?postId=120ea540b567" data-media-id="d2c121285adc388fcf8c273a239989fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d2c121285adc388fcf8c273a239989fe?postId=120ea540b567" data-media-id="d2c121285adc388fcf8c273a239989fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -777,7 +777,7 @@ Simple as that. We don’t need to implement any other method, because this clas
 
 
 
-<iframe width="700" height="250" src="/media/f907bb15bdd8e9fd839d57f513b7c613?postId=120ea540b567" data-media-id="f907bb15bdd8e9fd839d57f513b7c613" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f907bb15bdd8e9fd839d57f513b7c613?postId=120ea540b567" data-media-id="f907bb15bdd8e9fd839d57f513b7c613" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

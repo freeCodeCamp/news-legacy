@@ -175,7 +175,7 @@ _Another thing to point out is that the larger the resistance for the pull-up, t
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/cf558c40a803db4609c3c6885a257380?postId=660b308f116a" data-media-id="cf558c40a803db4609c3c6885a257380" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBxA7qwmY9mg%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/cf558c40a803db4609c3c6885a257380?postId=660b308f116a" data-media-id="cf558c40a803db4609c3c6885a257380" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBxA7qwmY9mg%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Kurt
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Sherlock Holmes would have been a brilliant programmer"
 subTitle: "It is quite normal to spend more time debugging than you spend writing actual code. If you are learning to program and you absolutely hat..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*qoss_sK2XC5p-p90DfZxZw.jpeg

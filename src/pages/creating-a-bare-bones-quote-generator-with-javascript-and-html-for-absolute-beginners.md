@@ -1,7 +1,7 @@
 ---
 author: Sophanarith Sok
 authorTwitter: https://twitter.com/NnjaRattleSnake
-authorFacebook: false
+authorFacebook: none
 title: "How to build a random quote generator with JavaScript and HTML, for absolute beginners"
 subTitle: "This tutorial is intended for beginners who want to learn how to create a simple web application using JavaScript. It will help you under..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9CjruUOhJY8hgQ_WAsSqWw.png
@@ -215,7 +215,7 @@ You’re going to spend a lot of time coding in this career (or hobby). But my p
 
 
 
-<iframe data-width="435" data-height="249" width="435" height="249" src="/media/afced5f52edf0959126a92c80e48843e?postId=5264e1725f08" data-media-id="afced5f52edf0959126a92c80e48843e" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="249" width="435" height="249" src="https://medium.freecodecamp.org/media/afced5f52edf0959126a92c80e48843e?postId=5264e1725f08" data-media-id="afced5f52edf0959126a92c80e48843e" allowfullscreen="" frameborder="0"></iframe>
 
 
 

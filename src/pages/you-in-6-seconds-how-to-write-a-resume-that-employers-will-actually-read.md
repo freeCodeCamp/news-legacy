@@ -141,7 +141,7 @@ And don’t sell yourself short by using words like “junior” or “entry lev
 
 
 
-<iframe width="500" height="250" src="/media/d20835f1aea9bfb8e815fe70c17836db?postId=fd7757740802" data-media-id="d20835f1aea9bfb8e815fe70c17836db" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/d20835f1aea9bfb8e815fe70c17836db?postId=fd7757740802" data-media-id="d20835f1aea9bfb8e815fe70c17836db" allowfullscreen="" frameborder="0"></iframe>
 
 
 

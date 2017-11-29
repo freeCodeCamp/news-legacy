@@ -1,7 +1,7 @@
 ---
 author: Elliott McNary
 authorTwitter: https://twitter.com/ElliottMcNary
-authorFacebook: false
+authorFacebook: none
 title: "Adventures in NodeJS"
 subTitle: "I built an app a couple of weeks ago after going through FreeCodeCamp’s Front-End curriculum and wanted to write an update as I head into..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*S9lOOozk-9WPFLnCSsF_ww.png

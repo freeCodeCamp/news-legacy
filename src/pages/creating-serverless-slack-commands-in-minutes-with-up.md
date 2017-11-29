@@ -1,7 +1,7 @@
 ---
 author: TJ Holowaychuk
 authorTwitter: https://twitter.com/tjholowaychuk
-authorFacebook: false
+authorFacebook: none
 title: "Creating serverless Slack commands in minutes with Go &amp; Up"
 subTitle: "This post walks through the creation of a serverless Slack command written in Golang, and deployed to AWS Lambda in seconds with Up...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*uFEp4Ubz5TOzlfo0-FE5Qw.png
@@ -71,7 +71,7 @@ Now we need a little HTTP server to process the Slack command POST request. Crea
 
 
 
-<iframe width="700" height="250" src="/media/8ad87e59255c59b1a9784529ab559b46?postId=f04ce0cfd52c" data-media-id="8ad87e59255c59b1a9784529ab559b46" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F25254%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8ad87e59255c59b1a9784529ab559b46?postId=f04ce0cfd52c" data-media-id="8ad87e59255c59b1a9784529ab559b46" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F25254%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ To access the form values, parse the form with the ParseForm() method. In this c
 
 
 
-<iframe width="700" height="250" src="/media/b7b914c0b86459ee72571abdf6aa74b2?postId=f04ce0cfd52c" data-media-id="b7b914c0b86459ee72571abdf6aa74b2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F25254%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b7b914c0b86459ee72571abdf6aa74b2?postId=f04ce0cfd52c" data-media-id="b7b914c0b86459ee72571abdf6aa74b2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F25254%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ Now that the request is portion is complete, import the `time` package and wrap 
 
 
 
-<iframe width="700" height="250" src="/media/ef9d20b31bf2ee48738cc0fac70cdd42?postId=f04ce0cfd52c" data-media-id="ef9d20b31bf2ee48738cc0fac70cdd42" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F25254%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ef9d20b31bf2ee48738cc0fac70cdd42?postId=f04ce0cfd52c" data-media-id="ef9d20b31bf2ee48738cc0fac70cdd42" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F25254%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

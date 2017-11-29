@@ -1,7 +1,7 @@
 ---
 author: Sebastian Barthel
 authorTwitter: https://twitter.com/Journerist
-authorFacebook: false
+authorFacebook: none
 title: "How to speed up shared file access in Docker for Mac"
 subTitle: "Docker just released a native MacOS runtime environment to run containers on Macs with ease. They fixed many issues, but the bitter truth..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*pH318KUH_V10gogDY13Nog.jpeg
@@ -96,7 +96,7 @@ Do you know the feeling when you want to fix something but it feels so far away?
 
 
 
-<iframe data-width="435" data-height="378" width="435" height="378" src="/media/814a60bc2068ca6aac37827b8d938762?postId=fbeee65d0ee7" data-media-id="814a60bc2068ca6aac37827b8d938762" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3WdUt1PX5mlSo%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="378" width="435" height="378" src="https://medium.freecodecamp.org/media/814a60bc2068ca6aac37827b8d938762?postId=fbeee65d0ee7" data-media-id="814a60bc2068ca6aac37827b8d938762" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3WdUt1PX5mlSo%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -167,7 +167,7 @@ total size is 5  speedup is 0.02</pre>
 
 
 
-<iframe data-width="435" data-height="326" width="435" height="326" src="/media/292ca8de4546d704abff5c19e3a3c688?postId=fbeee65d0ee7" data-media-id="292ca8de4546d704abff5c19e3a3c688" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FRrVzUOXldFe8M%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="326" width="435" height="326" src="https://medium.freecodecamp.org/media/292ca8de4546d704abff5c19e3a3c688?postId=fbeee65d0ee7" data-media-id="292ca8de4546d704abff5c19e3a3c688" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FRrVzUOXldFe8M%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

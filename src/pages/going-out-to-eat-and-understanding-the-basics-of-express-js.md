@@ -339,7 +339,7 @@ Did you enjoy this? Give it a clap so others can discover it as well. And, if yo
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/614143bb18105e1285ae4a1df769c191?postId=f034a029fb66" data-media-id="614143bb18105e1285ae4a1df769c191" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fe.enpose.co%2F%3Fkey%3DdRXnS9Gplk%26w%3D700%26h%3D425%26url%3Dhttps%253A%252F%252Fupscri.be%252F97999b%252F%253Fenpose&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/614143bb18105e1285ae4a1df769c191?postId=f034a029fb66" data-media-id="614143bb18105e1285ae4a1df769c191" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fe.enpose.co%2F%3Fkey%3DdRXnS9Gplk%26w%3D700%26h%3D425%26url%3Dhttps%253A%252F%252Fupscri.be%252F97999b%252F%253Fenpose&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

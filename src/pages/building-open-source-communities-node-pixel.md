@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Building Online Communities: Node-Pixel."
 subTitle: "Andrew Fisher works on a project merging hardware and software to create beautiful lighting effects. He told us about his way of fosterin..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9uRAUdwMN7Qalhvpwk-XMg.png

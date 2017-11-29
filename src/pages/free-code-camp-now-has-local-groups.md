@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Free Code Camp now has Local Groups"
 subTitle: "Our open source community was born online. And our campers are adept at using the internet to communicate. Most of this communication is ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*Tl1s41UG5ue-mowh9ZxJWg.png

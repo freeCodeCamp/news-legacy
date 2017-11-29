@@ -1,7 +1,7 @@
 ---
 author: Karlijn Willems
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How Machines Learn: A Practical Guide"
 subTitle: "You may have heard about machine learning from interesting applications like spam filtering, optical character recognition, and computer ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*MxSBSJIqK19z2qhfspPL-g.png

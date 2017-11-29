@@ -1,7 +1,7 @@
 ---
 author: Andrea Giammarchi
 authorTwitter: https://twitter.com/WebReflection
-authorFacebook: false
+authorFacebook: none
 title: "Installing Arch Linux from scratch"
 subTitle: "… and in about 5 minutes …..."
 coverSrc: placeholder
@@ -24,7 +24,7 @@ tags: [
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/af01f6859798738125ff6cca2673bc77?postId=b595095ddd48" data-media-id="af01f6859798738125ff6cca2673bc77" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhEVqGNoRRk0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/af01f6859798738125ff6cca2673bc77?postId=b595095ddd48" data-media-id="af01f6859798738125ff6cca2673bc77" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhEVqGNoRRk0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

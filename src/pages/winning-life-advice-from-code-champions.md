@@ -1,7 +1,7 @@
 ---
 author: Mohammad Kermani
 authorTwitter: https://twitter.com/_kermani
-authorFacebook: false
+authorFacebook: none
 title: "How to win at life: advice from code champions"
 subTitle: "I had the honor of asking three of the world’s most famous software engineers six questions...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ZFkucRXl5pNOeML36E_QuA.jpeg

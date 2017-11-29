@@ -1,7 +1,7 @@
 ---
 author: Nabeena Mali
 authorTwitter: https://twitter.com/NabeenaM
-authorFacebook: false
+authorFacebook: none
 title: "How to Make the Perfect App Icon"
 subTitle: "With just 24 app icon slots on the first page of an iPhone home screen, or 28 if you have a fancy iPhone 7, creating the perfect app icon..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*bF0auJRnnBgz8Tvv.png

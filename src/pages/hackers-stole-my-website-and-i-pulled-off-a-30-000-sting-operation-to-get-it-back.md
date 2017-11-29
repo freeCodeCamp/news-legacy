@@ -1,7 +1,7 @@
 ---
 author: Jordan Reid
 authorTwitter: https://twitter.com/ramshackleglam
-authorFacebook: false
+authorFacebook: none
 title: "Hackers Stole My Website…And I Pulled Off A $30,000 Sting Operation To Get It Back"
 subTitle: "True story."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*6O37vpWlglKJmKjXwTAp8g.jpeg

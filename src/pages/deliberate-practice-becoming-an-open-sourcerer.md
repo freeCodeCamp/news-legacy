@@ -1,7 +1,7 @@
 ---
 author: Anthony Ng
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Deliberate Practice — Becoming an Open Sourcerer"
 subTitle: "I recently finished reading Cal Newport’s book, So Good They Can’t Ignore You. It’s a quick read, and it introduced me to the concept of ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*gzeZ31jDjrostoN96C2qQg.jpeg

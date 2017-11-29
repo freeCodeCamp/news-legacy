@@ -1,7 +1,7 @@
 ---
 author: Filip Hracek
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Why open source projects (sadly) favor new users, and what you can do about it"
 subTitle: "Every now and then, all developer products (SDKs, frameworks, APIs) will have to choose between favoring their existing users or new ones..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*m13n-rBdC5GtBhHN9nLqRQ.jpeg

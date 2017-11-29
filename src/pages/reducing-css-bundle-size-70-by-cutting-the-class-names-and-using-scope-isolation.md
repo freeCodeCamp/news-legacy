@@ -1,7 +1,7 @@
 ---
 author: Gajus Kuizinas
 authorTwitter: https://twitter.com/kuizinas
-authorFacebook: false
+authorFacebook: none
 title: "Reducing CSS bundle size 70% by cutting the class names and using scope isolation"
 subTitle: "Just like Google does it"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*mGuDYFM56iyLi1MgZPC8bw.png
@@ -52,7 +52,7 @@ However, if you are using [webpack](https://webpack.js.org/) and [babel-plugin-r
 
 
 
-<iframe width="700" height="250" src="/media/a8c7a67872e39ad4e79d12246968f147?postId=625440de600b" data-media-id="a8c7a67872e39ad4e79d12246968f147" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F973543%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a8c7a67872e39ad4e79d12246968f147?postId=625440de600b" data-media-id="a8c7a67872e39ad4e79d12246968f147" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F973543%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -64,7 +64,7 @@ The cool thing about `generateScopedName` is that the same instance of the funct
 
 
 
-<iframe width="700" height="250" src="/media/346b7a2eeca6a4641a73b4d133262207?postId=625440de600b" data-media-id="346b7a2eeca6a4641a73b4d133262207" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F973543%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/346b7a2eeca6a4641a73b4d133262207?postId=625440de600b" data-media-id="346b7a2eeca6a4641a73b4d133262207" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F973543%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -80,7 +80,7 @@ To generate the shortest class names, I have created class name index and used t
 
 
 
-<iframe width="700" height="250" src="/media/d544348c95b027fd1db72600afb0ba8a?postId=625440de600b" data-media-id="d544348c95b027fd1db72600afb0ba8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F973543%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d544348c95b027fd1db72600afb0ba8a?postId=625440de600b" data-media-id="d544348c95b027fd1db72600afb0ba8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F973543%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -102,7 +102,7 @@ To leverage this, use [csso-webpack-plugin](https://github.com/zoobestik/csso-we
 
 
 
-<iframe width="700" height="250" src="/media/d699484457c78a4a0556e8530eafe82c?postId=625440de600b" data-media-id="d699484457c78a4a0556e8530eafe82c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F973543%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d699484457c78a4a0556e8530eafe82c?postId=625440de600b" data-media-id="d699484457c78a4a0556e8530eafe82c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F973543%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

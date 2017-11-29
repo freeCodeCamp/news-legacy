@@ -1,7 +1,7 @@
 ---
 author: Kangze Huang
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "The Complete AWS Web Boilerplate"
 subTitle: "Build powerful scalable web apps by leveraging Amazon Cloud"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*AD9ZSLXKAhZ-_WomszsmPg.png

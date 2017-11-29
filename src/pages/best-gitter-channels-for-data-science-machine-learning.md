@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter Channels for: Data Science &amp; Machine Learning"
 subTitle: "Calling all data science, machine learning & deep learning enthusiasts out there! We have lots of cutting-edge projects for you being dis..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*EHGRLHu-eh5AZJx9aX7a3g.png

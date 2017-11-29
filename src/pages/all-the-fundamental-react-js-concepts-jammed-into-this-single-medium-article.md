@@ -414,7 +414,7 @@ How do we update the state? We return an object with the new value of what we wa
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/f368593404cd4a3dc05f22fa871f5ce5?postId=c83f9b53eac2" data-media-id="f368593404cd4a3dc05f22fa871f5ce5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2489584954%2Fsyaw8utdaudzc4b00zci_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/f368593404cd4a3dc05f22fa871f5ce5?postId=c83f9b53eac2" data-media-id="f368593404cd4a3dc05f22fa871f5ce5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2489584954%2Fsyaw8utdaudzc4b00zci_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -469,7 +469,7 @@ Thanks to the many readers who reviewed and improved this article, Łukasz Szewc
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/f84ef192a30e1d65b1960de6d2e6c27c?postId=c83f9b53eac2" data-media-id="f84ef192a30e1d65b1960de6d2e6c27c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/f84ef192a30e1d65b1960de6d2e6c27c?postId=c83f9b53eac2" data-media-id="f84ef192a30e1d65b1960de6d2e6c27c" allowfullscreen="" frameborder="0"></iframe>
 
 
 

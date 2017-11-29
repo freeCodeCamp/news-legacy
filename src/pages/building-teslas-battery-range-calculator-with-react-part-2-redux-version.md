@@ -1,19 +1,19 @@
 ---
 author: Matthew Choi
 authorTwitter: https://twitter.com/MatthewChoi7
-authorFacebook: false
+authorFacebook: none
 title: "Building Tesla’s Battery Range Calculator with React (Part 2: Redux version)"
 subTitle: "This tutorial is the second part of building Tesla’s battery range calculator with React...."
-coverSrc: 
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*8hlNoLDBy5XWZct5tAtPoA.png
 url: https://medium.freecodecamp.org/building-teslas-battery-range-calculator-with-react-part-2-redux-version-2ffe29018eec
 id: building-teslas-battery-range-calculator-with-react-part-2-redux-version-2ffe29018eec
 date: 2017-04-12T15:15:04.314Z
 tags: [
-  "Redux",
-  "React",
-  "Web Development",
-  "Programming",
-  "JavaScript"
+	"Redux",
+	"React",
+	"Web Development",
+	"Programming",
+	"JavaScript"
 ]
 ---
 # Building Tesla’s Battery Range Calculator with React (Part 2: Redux version)
@@ -26,11 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8hlNoLDBy5XWZct5tAtPoA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*8hlNoLDBy5XWZct5tAtPoA.png"&gt;</noscript>
+![](https://cdn-images-1.medium.com/max/2000/1*8hlNoLDBy5XWZct5tAtPoA.png)
+
 
 
 
@@ -63,11 +62,8 @@ This is the final image of our application in part 2:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*_4hOz_U0gvgYvPRM.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*_4hOz_U0gvgYvPRM."&gt;</noscript>
 
 
 
@@ -114,11 +110,8 @@ Due to these characteristics, communication between components other than parent
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*tRdcsezWhogcoJH2.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*tRdcsezWhogcoJH2."&gt;</noscript>
 
 
 
@@ -136,11 +129,8 @@ According to **React docs**:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*g0oj_ecLJoz42isG.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*g0oj_ecLJoz42isG."&gt;</noscript>
 
 
 
@@ -166,11 +156,8 @@ Redux itself is very simple. The state of the app we created in the last article
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*6QJLjsohz5z7hKKB.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*6QJLjsohz5z7hKKB."&gt;</noscript>
 
 
 
@@ -190,11 +177,8 @@ Here are some examples to be implemented in our app soon.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*1eFchVn3tBs0QTX6.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*1eFchVn3tBs0QTX6."&gt;</noscript>
 
 
 
@@ -218,11 +202,8 @@ Here is one example of a reducer to implement in our app:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*tPAvaxoiCeUZyNnC.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*tPAvaxoiCeUZyNnC."&gt;</noscript>
 
 
 
@@ -242,11 +223,8 @@ I’ve mentioned `Flux` a few times. Flux is a **pattern of state management**, 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*dRdH2BGP6-SpfaXu.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*dRdH2BGP6-SpfaXu."&gt;</noscript>
 
 
 
@@ -301,11 +279,8 @@ First, let’s look at the **overall component UI layout** of the app that will 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*fdZ3kyi0E7m-hqWN.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*fdZ3kyi0E7m-hqWN."&gt;</noscript>
 
 
 
@@ -347,11 +322,8 @@ After the **npm start**, let’s make sure the application works.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*XdzTLaouyHUyvKdU.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*XdzTLaouyHUyvKdU."&gt;</noscript>
 
 
 
@@ -377,11 +349,8 @@ After the **npm start**, let’s make sure the application works.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*zuqTWtdzfL35QfDx.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*zuqTWtdzfL35QfDx."&gt;</noscript>
 
 
 
@@ -503,11 +472,8 @@ After create the test, run the `npm test` command. You should be able to see the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*a54qV4bUH03QgRgO.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*a54qV4bUH03QgRgO."&gt;</noscript>
 
 
 
@@ -553,11 +519,8 @@ In the current test case, the action type is {}, so the **initialState** is retu
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*NZmZgSF_Y_fOOiiG.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*NZmZgSF_Y_fOOiiG."&gt;</noscript>
 
 
 
@@ -593,11 +556,8 @@ If you check the test results, you can see that the two test cases are successfu
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*WHz21014i0QL2P7N.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*WHz21014i0QL2P7N."&gt;</noscript>
 
 
 
@@ -615,11 +575,6 @@ What we have implemented so far is that the changes in the state that occur when
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*0br8gXCr1NduqZHm.?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*0br8gXCr1NduqZHm."&gt;</noscript>
 
 
 
@@ -631,11 +586,10 @@ What we have implemented so far is that the changes in the state that occur when
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*Zh62FRPrCgLI1c7G.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*Zh62FRPrCgLI1c7G."&gt;</noscript>
+
+
 
 
 
@@ -665,11 +619,8 @@ After completing the code and testing, a total of seven test cases must succeed.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*8SViEirQWvTPGECb.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*8SViEirQWvTPGECb."&gt;</noscript>
 
 
 
@@ -712,11 +663,8 @@ The TeslarCar container takes the wheelsize stored in the current store and pass
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*dud9FYw_8ksv13dQ.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*dud9FYw_8ksv13dQ."&gt;</noscript>
 
 
 
@@ -744,11 +692,8 @@ As with the TeslaCar container, define only the **mapStatToProps** function and 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*jstfmC057akYGb0Z.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*jstfmC057akYGb0Z."&gt;</noscript>
 
 
 
@@ -772,11 +717,8 @@ The **TeslaSpeedCounter container** defines an additional `mapDispatchToProps` f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*yNiSvn6dMM4a6l-u.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*yNiSvn6dMM4a6l-u."&gt;</noscript>
 
 
 
@@ -804,11 +746,8 @@ The **TeslaTempCounter container** is almost identical to the TeslaSpeedCounter 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*kt42MVsmaL5uHiJW.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*kt42MVsmaL5uHiJW."&gt;</noscript>
 
 
 
@@ -834,11 +773,8 @@ Create **src/containers/TeslaTempCounterContainer.js** and write the code.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*WHSaDktRBvvlXHRA.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*WHSaDktRBvvlXHRA."&gt;</noscript>
 
 
 
@@ -864,11 +800,8 @@ Create **src/containers/TeslaClimateContainer.js** and write the code.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*-kv1Gf1Ga1d2SpNQ.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*-kv1Gf1Ga1d2SpNQ."&gt;</noscript>
 
 
 
@@ -904,11 +837,8 @@ The top-level component of our app, **App.js**, looks like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*yv7Tasz_m4rkbsTv.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*yv7Tasz_m4rkbsTv."&gt;</noscript>
 
 
 
@@ -934,11 +864,8 @@ Finally, all the puzzle pieces were completed. Now let’s look at the following
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*XnZBpvKUxTzznXVf.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*XnZBpvKUxTzznXVf."&gt;</noscript>
 
 
 
@@ -997,11 +924,8 @@ Open the **App.js** file and modify the **createStore** part as follows:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*UZO9hsK-gkRYrQbS.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*UZO9hsK-gkRYrQbS."&gt;</noscript>
 
 
 

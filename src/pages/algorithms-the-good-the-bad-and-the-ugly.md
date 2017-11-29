@@ -1,7 +1,7 @@
 ---
 author: Evaristo Caraballo
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Algorithms: The Good, The Bad and The Ugly"
 subTitle: "Who has been in Free Code Camp without having the experience of spending hours trying to solve Algorithms?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*IPP7m_tu5VwSLAr2XIwaiA.jpeg
@@ -46,7 +46,7 @@ One of those analyses consisted of tracking the number of times people pasted th
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/4628e83e8a47c2081a69ab400f815e71?postId=e63db0a9cfb3" data-media-id="4628e83e8a47c2081a69ab400f815e71" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/4628e83e8a47c2081a69ab400f815e71?postId=e63db0a9cfb3" data-media-id="4628e83e8a47c2081a69ab400f815e71" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -60,7 +60,7 @@ Another analysis we made was to take the average time per page that each camper 
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/dfa5b822f09830cbe9233fcd8e950dbe?postId=e63db0a9cfb3" data-media-id="dfa5b822f09830cbe9233fcd8e950dbe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/dfa5b822f09830cbe9233fcd8e950dbe?postId=e63db0a9cfb3" data-media-id="dfa5b822f09830cbe9233fcd8e950dbe" allowfullscreen="" frameborder="0"></iframe>
 
 
 

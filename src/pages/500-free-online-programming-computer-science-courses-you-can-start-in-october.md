@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "500 Free Online Programming &amp; Computer Science Courses You Can Start in October"
 subTitle: "Five years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, more than 700 schools around..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*rd4Z0Tt7gm6WhYKN0eWSMA.png

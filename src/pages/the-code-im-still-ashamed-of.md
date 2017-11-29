@@ -136,7 +136,7 @@ These days, I spend a portion of my time writing and sending a weekly newsletter
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/67131bcad3c891bf55a10320d8ab7372?postId=e4c021dff55e" data-media-id="67131bcad3c891bf55a10320d8ab7372" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/67131bcad3c891bf55a10320d8ab7372?postId=e4c021dff55e" data-media-id="67131bcad3c891bf55a10320d8ab7372" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

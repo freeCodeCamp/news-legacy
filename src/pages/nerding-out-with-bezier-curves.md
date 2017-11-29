@@ -1,7 +1,7 @@
 ---
 author: Nash Vail
 authorTwitter: https://twitter.com/NashVail
-authorFacebook: false
+authorFacebook: none
 title: "Nerding Out With Bezier Curves"
 subTitle: "Since the past few days I have been trying to write my own little JavaScript animation library. I know I know no one really cares about a..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*i1mnGie2xQNwMAetiiMeSw.jpeg

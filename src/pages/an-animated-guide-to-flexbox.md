@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35
 id: an-animated-guide-to-flexbox-d280cf6afc35
 date: 2017-01-31T16:15:51.412Z
 tags: [
-  "CSS",
-  "Web Development",
-  "Flexbox",
-  "Design",
-  "Web Design"
+	"CSS",
+	"Web Development",
+	"Flexbox",
+	"Design",
+	"Web Design"
 ]
 ---
 # How Flexbox works — explained with big, colorful, animated gifs
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*zyzR64aw4rDPsoG-ZwZ9rQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*zyzR64aw4rDPsoG-ZwZ9rQ.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*zyzR64aw4rDPsoG-ZwZ9rQ.png"&gt;</noscript>
 
 
 
@@ -70,11 +67,8 @@ Here’s our example webpage:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ifusEqwI87nBKXgK9oZ_7A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*ifusEqwI87nBKXgK9oZ_7A.gif"&gt;</noscript>
 
 
 
@@ -102,11 +96,8 @@ In order to get started with Flexbox, you need to make your **container** into a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*L2W-ziqU45a1BNWV79ijDQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*L2W-ziqU45a1BNWV79ijDQ.gif"&gt;</noscript>
 
 
 
@@ -130,11 +121,8 @@ A Flexbox container has two axes: **a main axis** and **a cross axis**, which de
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_Ruy6jFG7gUpSf76IUcJTQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_Ruy6jFG7gUpSf76IUcJTQ.png"&gt;</noscript>
 
 
 
@@ -159,11 +147,8 @@ A Flexbox container has two axes: **a main axis** and **a cross axis**, which de
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4yKnG2-vuPF5XA-BmXADLQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*4yKnG2-vuPF5XA-BmXADLQ.gif"&gt;</noscript>
 
 
 
@@ -187,11 +172,8 @@ There are a couple of other options for flex-direction, as well: _row-reverse_ a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PBr_ncouIehALaEOWmSbpQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*PBr_ncouIehALaEOWmSbpQ.gif"&gt;</noscript>
 
 
 
@@ -230,11 +212,8 @@ You have five commands at your disposal to use _justify-content_:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*2-6Tw8jqWrMKOfIugKyuDA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*2-6Tw8jqWrMKOfIugKyuDA.gif"&gt;</noscript>
 
 
 
@@ -262,11 +241,8 @@ As justify-content works along the main axis, **align-items applies to the cross
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_Ruy6jFG7gUpSf76IUcJTQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_Ruy6jFG7gUpSf76IUcJTQ.png"&gt;</noscript>
 
 
 
@@ -298,11 +274,8 @@ You have stretch, in which the items take up the entirety of the cross-axis, and
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*htfdNmRIIFu_veRaFOj5qA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="26"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*htfdNmRIIFu_veRaFOj5qA.gif"&gt;</noscript>
 
 
 
@@ -326,11 +299,8 @@ For baseline, be aware that if you take away the paragraph tags, it aligns the b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6dd9KnKMUN49lFsbHlJi6A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="23"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*6dd9KnKMUN49lFsbHlJi6A.png"&gt;</noscript>
 
 
 
@@ -352,11 +322,8 @@ To demonstrate the main and cross axes better, let’s combine justify-content a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6mq-Uay7t6NhdF2E41Do0g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*6mq-Uay7t6NhdF2E41Do0g.gif"&gt;</noscript>
 
 
 
@@ -397,11 +364,8 @@ Let’s see what this looks like. You’ll apply _align-self_ to two squares, an
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*HIADl1oL6pxXb2dMh_pXSQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="22"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*HIADl1oL6pxXb2dMh_pXSQ.gif"&gt;</noscript>
 
 
 

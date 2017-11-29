@@ -1,7 +1,7 @@
 ---
 author: Nik Custodio
 authorTwitter: https://twitter.com/nik5ter
-authorFacebook: false
+authorFacebook: none
 title: "Explain Bitcoin Like I’m Five"
 subTitle: "If you still can’t figure out what the heck a bitcoin is…"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*d3ASVo4LX_QKtOXaeCdWmg.jpeg

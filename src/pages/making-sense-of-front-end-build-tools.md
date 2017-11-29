@@ -1,7 +1,7 @@
 ---
 author: Roneesh
 authorTwitter: https://twitter.com/roneesh
-authorFacebook: false
+authorFacebook: none
 title: "I finally made sense of front end build tools. You can, too."
 subTitle: "Front end build tools can be confusing even to experienced developers like me. The solution is to understand how they work — and work tog..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*L4TYDiuYB5-EK8SG2RjHHQ.png
@@ -51,7 +51,7 @@ The first question to ask yourself when confronting a new build tool is: “Is t
 
 
 
-<iframe width="500" height="250" src="/media/6af4629d678252183aeaa1b210c45a6f?postId=3a1b3a87043b" data-media-id="6af4629d678252183aeaa1b210c45a6f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F572642811029426177%2FGxgFcPtm_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/6af4629d678252183aeaa1b210c45a6f?postId=3a1b3a87043b" data-media-id="6af4629d678252183aeaa1b210c45a6f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F572642811029426177%2FGxgFcPtm_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "What you do after you graduate matters way more than where you went to school. Here’s the data."
 subTitle: "The first blog post I published that got any real attention was called “Lessons from a year’s worth of hiring data.” It was my attempt to..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*qp-tyBPC63nmozLLlTpKDg.jpeg

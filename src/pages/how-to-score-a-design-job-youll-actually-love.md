@@ -1,7 +1,7 @@
 ---
 author: Hayley Parke
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How To Score A Design Job You’ll Actually Love"
 subTitle: "8 Things I Wish Someone Told Me About Interviewing"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*NS-7QnssZcKiNXKBl1ormQ.png

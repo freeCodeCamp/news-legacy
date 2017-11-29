@@ -1,7 +1,7 @@
 ---
 author: Pramod Sripada
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Infix Expressions VS Postfix Expressions, and How to Build a Better JavaScript Calculator"
 subTitle: "If you want to make your Simple Calculator a lot smarter, this post is for you...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*6YO8587U_vTxqVw-OUiqsA.png

@@ -1,6 +1,6 @@
 ---
 author: Bhuvan Malik
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10211466824409328
 title: "JavaScript ES6 Functions: The Good Parts"
 subTitle: "ES6 offers some cool new functional features that make programming in JavaScript much more flexible. Let’s talk about some of them — spec..."
@@ -44,7 +44,7 @@ JavaScript functions have a unique feature that allows for you to pass any numbe
 
 
 
-<iframe width="700" height="250" src="/media/892f1c2222afb0ee00b86e2cef152610?postId=9f61c72b1e86" data-media-id="892f1c2222afb0ee00b86e2cef152610" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/892f1c2222afb0ee00b86e2cef152610?postId=9f61c72b1e86" data-media-id="892f1c2222afb0ee00b86e2cef152610" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -62,7 +62,7 @@ Let’s improve the above code, shall we?
 
 
 
-<iframe width="700" height="250" src="/media/be34ba286b8fef44df84f4d9b31f9c6c?postId=9f61c72b1e86" data-media-id="be34ba286b8fef44df84f4d9b31f9c6c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/be34ba286b8fef44df84f4d9b31f9c6c?postId=9f61c72b1e86" data-media-id="be34ba286b8fef44df84f4d9b31f9c6c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -87,7 +87,7 @@ A nice feature of default parameters is that the default parameter doesn’t nec
 
 
 
-<iframe width="700" height="250" src="/media/23459da53af322313ce7a67a4204bd3e?postId=9f61c72b1e86" data-media-id="23459da53af322313ce7a67a4204bd3e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/23459da53af322313ce7a67a4204bd3e?postId=9f61c72b1e86" data-media-id="23459da53af322313ce7a67a4204bd3e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -117,7 +117,7 @@ Here’s an example:
 
 
 
-<iframe width="700" height="250" src="/media/67f382f6f399cb7de3862168399a6734?postId=9f61c72b1e86" data-media-id="67f382f6f399cb7de3862168399a6734" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/67f382f6f399cb7de3862168399a6734?postId=9f61c72b1e86" data-media-id="67f382f6f399cb7de3862168399a6734" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -42,7 +42,7 @@ Often you would like to ask for user confirmation before proceeding. The first c
 
 
 
-<iframe width="700" height="250" src="/media/7df1a16aca7827c49233523d31f0c698?postId=cf552aef0d2f" data-media-id="7df1a16aca7827c49233523d31f0c698" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7df1a16aca7827c49233523d31f0c698?postId=cf552aef0d2f" data-media-id="7df1a16aca7827c49233523d31f0c698" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -71,7 +71,7 @@ Yeoman generator can call (`composeWith`) another generator from another package
 
 
 
-<iframe width="700" height="250" src="/media/dd623160a5db4f36b0669c11c9c0eef1?postId=cf552aef0d2f" data-media-id="dd623160a5db4f36b0669c11c9c0eef1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dd623160a5db4f36b0669c11c9c0eef1?postId=cf552aef0d2f" data-media-id="dd623160a5db4f36b0669c11c9c0eef1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -87,7 +87,7 @@ Yeoman provides flexible APIs for file handling to cover many scenarios. But it 
 
 
 
-<iframe width="700" height="250" src="/media/9462c9591444ed7f400d58fbb32b5b44?postId=cf552aef0d2f" data-media-id="9462c9591444ed7f400d58fbb32b5b44" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9462c9591444ed7f400d58fbb32b5b44?postId=cf552aef0d2f" data-media-id="9462c9591444ed7f400d58fbb32b5b44" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ Here’s an example that demonstrates all of these advantages together into one 
 
 
 
-<iframe width="700" height="250" src="/media/5e711fb25576ea40a04972a0308d56d8?postId=cf552aef0d2f" data-media-id="5e711fb25576ea40a04972a0308d56d8" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5e711fb25576ea40a04972a0308d56d8?postId=cf552aef0d2f" data-media-id="5e711fb25576ea40a04972a0308d56d8" allowfullscreen="" frameborder="0"></iframe>
 
 
 

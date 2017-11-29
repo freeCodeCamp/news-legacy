@@ -1,7 +1,7 @@
 ---
 author: Patrick Hund
 authorTwitter: https://twitter.com/wiekatz
-authorFacebook: false
+authorFacebook: none
 title: "SEO vs. React: Web Crawlers are Smarter Than You Think"
 subTitle: "Many people still worry that if you build a websites using tools like React, Angular, or Ember, it will hurt your search engine ranking...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*T1b83o47E1AI0lTpwzHVvA.png
@@ -66,7 +66,7 @@ I recently tweeted a lament about SEO consultants nitpicking about my beloved Re
 
 
 
-<iframe width="500" height="250" src="/media/955d2ba28194547a63d59534631dc0c5?postId=74ce5015c0c9" data-media-id="955d2ba28194547a63d59534631dc0c5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F572202555908710400%2Fx_cLOj41_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/955d2ba28194547a63d59534631dc0c5?postId=74ce5015c0c9" data-media-id="955d2ba28194547a63d59534631dc0c5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F572202555908710400%2Fx_cLOj41_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

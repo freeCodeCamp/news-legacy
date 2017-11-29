@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "Craftsmanship, design, and code"
 subTitle: "Last week I received the following question from someone on Twitter:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*z9jJCBg9crE_YfP8hTA_Bg.png
@@ -56,7 +56,7 @@ This kind of perspective encourages developers and designers to hone their skill
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/e3d131b8bcdc10aae885e082480bc556?postId=6d93eba3e7fe" data-media-id="e3d131b8bcdc10aae885e082480bc556" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/e3d131b8bcdc10aae885e082480bc556?postId=6d93eba3e7fe" data-media-id="e3d131b8bcdc10aae885e082480bc556" allowfullscreen="" frameborder="0"></iframe>
 
 
 

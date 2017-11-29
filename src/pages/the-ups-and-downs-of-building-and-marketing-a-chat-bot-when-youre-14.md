@@ -1,7 +1,7 @@
 ---
 author: Alec Jones
 authorTwitter: https://twitter.com/AlecOfJones
-authorFacebook: false
+authorFacebook: none
 title: "What it’s like to build and market a chatbot when you’re only 14 years old"
 subTitle: "I’m going to tell you everything I learned while coding a popular Facebook Messenger bot, and my crazy first week of marketing it (which ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*_GOaInCDqke1b_hpbQTflQ.jpeg

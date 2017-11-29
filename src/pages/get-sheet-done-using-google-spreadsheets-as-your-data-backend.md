@@ -1,7 +1,7 @@
 ---
 author: Gilad Dayagi
 authorTwitter: https://twitter.com/giladaya
-authorFacebook: false
+authorFacebook: none
 title: "Get Sheet Done — using Google Spreadsheets as your data backend"
 subTitle: "If you want to rapidly prototype your next web apps, try using Google Spreadsheets as your data backend...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ulO04x_24taM1kWjlBHW7w.jpeg

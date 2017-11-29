@@ -1,7 +1,7 @@
 ---
 author: Cecily Carver
 authorTwitter: https://twitter.com/cecilycarver
-authorFacebook: false
+authorFacebook: none
 title: "Things I Wish Someone Had Told Me When I Was Learning How to Code"
 subTitle: "And what I’ve learned from teaching others"
 coverSrc: placeholder

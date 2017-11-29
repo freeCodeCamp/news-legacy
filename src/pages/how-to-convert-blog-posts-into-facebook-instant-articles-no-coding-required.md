@@ -1,7 +1,7 @@
 ---
 author: Nicholas Walsh
 authorTwitter: https://twitter.com/TheNickWalsh
-authorFacebook: false
+authorFacebook: none
 title: "How to convert blog posts into Facebook Instant Articles — no coding required"
 subTitle: "A friend of mine asked me to help convert articles that were previously posted to their site into Facebook Instant Articles. Afterwards, ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KILZRpvD0Ew9jU3NuZ_FnQ.png
@@ -102,7 +102,7 @@ Switch back to the template that we have open in Sublime. Search for the Highlig
 
 
 
-<iframe data-width="1280" data-height="720" width="700" height="394" src="/media/1474e358401b83fe548a43a7aa80f5a4?postId=fefea28c8701" data-media-id="1474e358401b83fe548a43a7aa80f5a4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FActiveScratchyHartebeest-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1280" data-height="720" width="700" height="394" src="https://medium.freecodecamp.org/media/1474e358401b83fe548a43a7aa80f5a4?postId=fefea28c8701" data-media-id="1474e358401b83fe548a43a7aa80f5a4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FActiveScratchyHartebeest-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -177,7 +177,7 @@ Let's change it to: **July 24th, 2017\. 6:30 PM**</pre>
 
 
 
-<iframe data-width="1920" data-height="1080" width="700" height="394" src="/media/4ce3d983eac88f5ad7e1a3ebc6dcd6fa?postId=fefea28c8701" data-media-id="4ce3d983eac88f5ad7e1a3ebc6dcd6fa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FWeeklyTheseFawn-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1920" data-height="1080" width="700" height="394" src="https://medium.freecodecamp.org/media/4ce3d983eac88f5ad7e1a3ebc6dcd6fa?postId=fefea28c8701" data-media-id="4ce3d983eac88f5ad7e1a3ebc6dcd6fa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FWeeklyTheseFawn-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -197,7 +197,7 @@ The source code is likely hundreds (or even thousands) of lines. An easy to tric
 
 
 
-<iframe data-width="1920" data-height="1080" width="700" height="394" src="/media/cf25c058dc3f5f390989d289520375d2?postId=fefea28c8701" data-media-id="cf25c058dc3f5f390989d289520375d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FJitterySimilarGoldenmantledgroundsquirrel-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1920" data-height="1080" width="700" height="394" src="https://medium.freecodecamp.org/media/cf25c058dc3f5f390989d289520375d2?postId=fefea28c8701" data-media-id="cf25c058dc3f5f390989d289520375d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FJitterySimilarGoldenmantledgroundsquirrel-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -215,7 +215,7 @@ Highlight this entire line, and paste over the body content that we copied from 
 
 
 
-<iframe data-width="1920" data-height="1080" width="700" height="394" src="/media/1dc310972a101ed3e926ab475864cccb?postId=fefea28c8701" data-media-id="1dc310972a101ed3e926ab475864cccb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FBleakAfraidInchworm-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1920" data-height="1080" width="700" height="394" src="https://medium.freecodecamp.org/media/1dc310972a101ed3e926ab475864cccb?postId=fefea28c8701" data-media-id="1dc310972a101ed3e926ab475864cccb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FBleakAfraidInchworm-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -247,7 +247,7 @@ In the guide, it tells us the following, so that’s what we’ll do:
 
 
 
-<iframe data-width="1920" data-height="1080" width="700" height="394" src="/media/a35b7391fa6d334fd0788c2e0a3a30ad?postId=fefea28c8701" data-media-id="a35b7391fa6d334fd0788c2e0a3a30ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FSereneSingleHorse-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1920" data-height="1080" width="700" height="394" src="https://medium.freecodecamp.org/media/a35b7391fa6d334fd0788c2e0a3a30ad?postId=fefea28c8701" data-media-id="a35b7391fa6d334fd0788c2e0a3a30ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FSereneSingleHorse-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Ugo Cupcic
 authorTwitter: https://twitter.com/ugocupcic
-authorFacebook: false
+authorFacebook: none
 title: "How I taught my robot to realize how bad it was at holding things"
 subTitle: "As the Chief Technical Architect of the Shadow Robot Company, I spend a lot of time thinking about grasping things with our robots. This ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*14ZzW3BGzORaYeo_xHvFWA.jpeg
@@ -108,7 +108,7 @@ Since I don’t trust simulations to run for too long — call it a strong b
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/52336e6e778fe8401f35cc1ae577dbed?postId=5e3d5a908745" data-media-id="52336e6e778fe8401f35cc1ae577dbed" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FYTxWfz0DSiU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/52336e6e778fe8401f35cc1ae577dbed?postId=5e3d5a908745" data-media-id="52336e6e778fe8401f35cc1ae577dbed" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FYTxWfz0DSiU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ Now that we trained our Neural Net we can use it to predict the grasp quality in
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/2eacfceb42e3fcbca0a7ca097aa4fe6d?postId=5e3d5a908745" data-media-id="2eacfceb42e3fcbca0a7ca097aa4fe6d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpuaYbOsHnF8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/2eacfceb42e3fcbca0a7ca097aa4fe6d?postId=5e3d5a908745" data-media-id="2eacfceb42e3fcbca0a7ca097aa4fe6d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpuaYbOsHnF8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

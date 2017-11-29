@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "Here are 250 Ivy League courses you can take online right now for free"
 subTitle: "The 8 Ivy League schools are among the most prestigious colleges in the world. They include Brown, Harvard, Cornell, Princeton, Dartmouth..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*y7C-hEBSpvyMlZRBUNG2gg.png

@@ -72,7 +72,7 @@ The ultimate penalty? “_Unfortunately, Magnify has stopped working._”
 
 
 
-<iframe data-width="435" data-height="355" width="435" height="355" src="/media/3a7419365191106610517cce05cdaee3?postId=acb16da33d41" data-media-id="3a7419365191106610517cce05cdaee3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F8ykJ4yAnwgK2I%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="355" width="435" height="355" src="https://medium.freecodecamp.org/media/3a7419365191106610517cce05cdaee3?postId=acb16da33d41" data-media-id="3a7419365191106610517cce05cdaee3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F8ykJ4yAnwgK2I%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -90,7 +90,7 @@ Phew! That was really really close.
 
 
 
-<iframe data-width="435" data-height="258" width="435" height="258" src="/media/7f9f08a4301020e60376f06b79085c1a?postId=acb16da33d41" data-media-id="7f9f08a4301020e60376f06b79085c1a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F1guRIRFV5gN4ikrUakg%2F200.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="258" width="435" height="258" src="https://medium.freecodecamp.org/media/7f9f08a4301020e60376f06b79085c1a?postId=acb16da33d41" data-media-id="7f9f08a4301020e60376f06b79085c1a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F1guRIRFV5gN4ikrUakg%2F200.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -113,7 +113,7 @@ Never ever — and I repeat never ever — roll out an update to your so
 
 
 
-<iframe data-width="435" data-height="329" width="435" height="329" src="/media/b6e31eebd3e82800c2d34d858400de7e?postId=acb16da33d41" data-media-id="b6e31eebd3e82800c2d34d858400de7e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FSleBZRB44y9H2%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="329" width="435" height="329" src="https://medium.freecodecamp.org/media/b6e31eebd3e82800c2d34d858400de7e?postId=acb16da33d41" data-media-id="b6e31eebd3e82800c2d34d858400de7e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FSleBZRB44y9H2%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

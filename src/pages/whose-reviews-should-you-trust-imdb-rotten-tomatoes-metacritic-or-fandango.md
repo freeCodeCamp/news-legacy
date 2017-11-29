@@ -1,7 +1,7 @@
 ---
 author: Alexandru Olteanu
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Whose ratings should you trust? IMDB, Rotten Tomatoes, Metacritic, or Fandango?"
 subTitle: "A data scientist investigates"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*xHF26U0WHM9YuBWo9V7AAQ.jpeg

@@ -66,7 +66,7 @@ Google is not only successful in bringing down the error rates for its speech re
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/35485929f524f824106a5f7ceac536bd?postId=40d3accd42" data-media-id="35485929f524f824106a5f7ceac536bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F839721704163155970%2FLI_TRk1z_400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/35485929f524f824106a5f7ceac536bd?postId=40d3accd42" data-media-id="35485929f524f824106a5f7ceac536bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F839721704163155970%2FLI_TRk1z_400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ On that note, check out this video of a high school student’s effort to solve 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/6a9d4efc96f0581292397f90492ea4d9?postId=40d3accd42" data-media-id="6a9d4efc96f0581292397f90492ea4d9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEl4OCwR6qxo%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/6a9d4efc96f0581292397f90492ea4d9?postId=40d3accd42" data-media-id="6a9d4efc96f0581292397f90492ea4d9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEl4OCwR6qxo%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ Many people will be watching to see how this battle turns out.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/5e658246720e9460233b7d0170c38eca?postId=40d3accd42" data-media-id="5e658246720e9460233b7d0170c38eca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F864898855552274432%2Fpu%2Fimg%2FFHL2OIsz5GGoM7mt.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/5e658246720e9460233b7d0170c38eca?postId=40d3accd42" data-media-id="5e658246720e9460233b7d0170c38eca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F864898855552274432%2Fpu%2Fimg%2FFHL2OIsz5GGoM7mt.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -181,7 +181,7 @@ Right from the day it is unveiled, Google Photos (previously known as Picasa) wa
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/62fb3504464f52bdef78f0a4b75c703e?postId=40d3accd42" data-media-id="62fb3504464f52bdef78f0a4b75c703e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSN_7r0mFf5Y%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/62fb3504464f52bdef78f0a4b75c703e?postId=40d3accd42" data-media-id="62fb3504464f52bdef78f0a4b75c703e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSN_7r0mFf5Y%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -201,7 +201,7 @@ Today, there’s no equivalent open video service to YouTube, which makes big mo
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/14ccb0f2a424c260b7f6facf4325562c?postId=40d3accd42" data-media-id="14ccb0f2a424c260b7f6facf4325562c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F864905584989962240%2Fimg%2FPTUj8JhEuZU_L5Ot.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/14ccb0f2a424c260b7f6facf4325562c?postId=40d3accd42" data-media-id="14ccb0f2a424c260b7f6facf4325562c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Famplify_video_thumb%2F864905584989962240%2Fimg%2FPTUj8JhEuZU_L5Ot.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

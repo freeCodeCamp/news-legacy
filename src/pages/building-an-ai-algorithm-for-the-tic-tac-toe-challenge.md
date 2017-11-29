@@ -1,6 +1,6 @@
 ---
 author: Ben Carp
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/278018276026925
 title: "Building an AI algorithm for the Tic-Tac-Toe challenge"
 subTitle: "As part of the freeCodeCamp curriculum, I was challenged build a Tic-Tac-Toe web app. It was a real pleasure...."

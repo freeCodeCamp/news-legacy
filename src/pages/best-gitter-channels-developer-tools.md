@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels: Developer Tools"
 subTitle: "Developer tools have become essential to any kind of serious software development, also in the open source setting. They can ease the dai..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*r5xNWOKnYtQXSC576TKJRw.png

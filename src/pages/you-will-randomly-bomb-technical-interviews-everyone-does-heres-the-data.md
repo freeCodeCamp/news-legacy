@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "You will randomly bomb technical interviews. Everyone does. Here’s the data."
 subTitle: "When you listen to hundreds of technical interviews day in and day out, you start to notice patterns. Or in this case, a lack of patterns..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*lMhV31jCihawNepX82s7CQ.jpeg

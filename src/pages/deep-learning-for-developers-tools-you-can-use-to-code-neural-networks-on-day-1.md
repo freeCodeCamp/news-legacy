@@ -130,7 +130,7 @@ Here is the code for our neural network:
 
 
 
-<iframe width="700" height="250" src="/media/3e96e9afeb8eb46deca91b482135f2b4?postId=34c4435ae6b" data-media-id="3e96e9afeb8eb46deca91b482135f2b4" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3e96e9afeb8eb46deca91b482135f2b4?postId=34c4435ae6b" data-media-id="3e96e9afeb8eb46deca91b482135f2b4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -244,7 +244,7 @@ The easiest solution for cloud GPUs is [FloydHub](https://www.floydhub.com/). If
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/486fde65bfda9f1488f9863f9201e926?postId=34c4435ae6b" data-media-id="486fde65bfda9f1488f9863f9201e926" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbyLQ9kgjTdQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/486fde65bfda9f1488f9863f9201e926?postId=34c4435ae6b" data-media-id="486fde65bfda9f1488f9863f9201e926" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbyLQ9kgjTdQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -358,7 +358,7 @@ The first two experiments are called `[experiment-0-few-layers.ipynb](https://gi
 
 
 
-<iframe width="700" height="250" src="/media/681b5e417697f0ca9981775afaf04b77?postId=34c4435ae6b" data-media-id="681b5e417697f0ca9981775afaf04b77" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/681b5e417697f0ca9981775afaf04b77?postId=34c4435ae6b" data-media-id="681b5e417697f0ca9981775afaf04b77" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -404,7 +404,7 @@ This is an example of a neural network with a dropout layer.
 
 
 
-<iframe width="700" height="250" src="/media/6a3a2926026a862b25d0f7f2be89b6f1?postId=34c4435ae6b" data-media-id="6a3a2926026a862b25d0f7f2be89b6f1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6a3a2926026a862b25d0f7f2be89b6f1?postId=34c4435ae6b" data-media-id="6a3a2926026a862b25d0f7f2be89b6f1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -438,7 +438,7 @@ Say you want to describe a horse. If the description is too detailed, you exclud
 
 
 
-<iframe width="700" height="250" src="/media/6a3bec74cf140ca20ef48e0025275eea?postId=34c4435ae6b" data-media-id="6a3bec74cf140ca20ef48e0025275eea" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6a3bec74cf140ca20ef48e0025275eea?postId=34c4435ae6b" data-media-id="6a3bec74cf140ca20ef48e0025275eea" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -472,7 +472,7 @@ Another core hyper parameter is batch size, the amount of data to use for each t
 
 
 
-<iframe width="700" height="250" src="/media/5f4a2972ee12953759d2e44f6c37d60f?postId=34c4435ae6b" data-media-id="5f4a2972ee12953759d2e44f6c37d60f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5f4a2972ee12953759d2e44f6c37d60f?postId=34c4435ae6b" data-media-id="5f4a2972ee12953759d2e44f6c37d60f" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -504,7 +504,7 @@ The final experiment is a comparison between a network with small, medium, and l
 
 
 
-<iframe width="700" height="250" src="/media/66ceb04de985f311c4e69f93a6374616?postId=34c4435ae6b" data-media-id="66ceb04de985f311c4e69f93a6374616" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/66ceb04de985f311c4e69f93a6374616?postId=34c4435ae6b" data-media-id="66ceb04de985f311c4e69f93a6374616" allowfullscreen="" frameborder="0"></iframe>
 
 
 

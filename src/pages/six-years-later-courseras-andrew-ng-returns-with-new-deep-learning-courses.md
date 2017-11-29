@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "Six years later, Coursera’s Andrew Ng returns with new Deep Learning courses"
 subTitle: "On August 15 2011, Stanford professor Andrew Ng uploaded an intro video to YouTube for his free online Machine Learning course. On that s..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*p_wrnuhmSaou2I_N.jpg
@@ -40,7 +40,7 @@ The popularity of his Machine Learning course would lead him and Daphne Koller (
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/cb240c78882b7e35705866326891eba4?postId=3c41b1e00647" data-media-id="cb240c78882b7e35705866326891eba4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe0WKJLovaZg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/cb240c78882b7e35705866326891eba4?postId=3c41b1e00647" data-media-id="cb240c78882b7e35705866326891eba4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe0WKJLovaZg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ The Specialization is targeted towards those learners who are trying to break in
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/df630393d8848ad25d1e075d81963cd1?postId=3c41b1e00647" data-media-id="df630393d8848ad25d1e075d81963cd1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDG0EvExVoAEYzhJ.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/df630393d8848ad25d1e075d81963cd1?postId=3c41b1e00647" data-media-id="df630393d8848ad25d1e075d81963cd1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDG0EvExVoAEYzhJ.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels: Node.js"
 subTitle: "Node.js is a JavaScript runtime environment and a library. It allows to run JavaScript code in the backend, outside a browser by making u..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*CnEM2dWtPhrTJMbWZKMd8Q.png

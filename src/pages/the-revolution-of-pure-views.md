@@ -1,7 +1,7 @@
 ---
 author: Puppybits
 authorTwitter: https://twitter.com/puppybits
-authorFacebook: false
+authorFacebook: none
 title: "Functional Programming is taking over UIs with Pure Views."
 subTitle: "The last couple years have seen a huge improvement in how UIs are developed by using Purely Functional Views. In functional programming a..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*iqyzwSonyQR8eBQRduP3cg.jpeg

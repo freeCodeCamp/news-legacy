@@ -1,7 +1,7 @@
 ---
 author: Mariya Yao
 authorTwitter: https://twitter.com/thinkmariya
-authorFacebook: false
+authorFacebook: none
 title: "If we want AI to work for us — not against us — we need collaborative design"
 subTitle: "The trope “there’s an app for that” is becoming “there’s an AI for that.”..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*VBJAnRAdaf13nnzc0J5Ehg.jpeg

@@ -114,7 +114,7 @@ The main difference between the dataset and the rowset is that when populating t
 
 
 
-<iframe width="700" height="250" src="/media/5963c0c744347913e8e6bc4ceacb4ac5?postId=fd6ff7599052" data-media-id="5963c0c744347913e8e6bc4ceacb4ac5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5963c0c744347913e8e6bc4ceacb4ac5?postId=fd6ff7599052" data-media-id="5963c0c744347913e8e6bc4ceacb4ac5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -140,7 +140,7 @@ This is a pretty common type of reducing operation that is often applied to rows
 
 
 
-<iframe width="700" height="250" src="/media/f6473e8d8b2767800c65c86f5c73c141?postId=fd6ff7599052" data-media-id="f6473e8d8b2767800c65c86f5c73c141" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f6473e8d8b2767800c65c86f5c73c141?postId=fd6ff7599052" data-media-id="f6473e8d8b2767800c65c86f5c73c141" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -219,7 +219,7 @@ Treeize is able to recognize reoccurring patterns in the rowsets. It transforms 
 
 
 
-<iframe width="700" height="250" src="/media/151bdb1c4941cf532e35c64773f87a13?postId=fd6ff7599052" data-media-id="151bdb1c4941cf532e35c64773f87a13" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/151bdb1c4941cf532e35c64773f87a13?postId=fd6ff7599052" data-media-id="151bdb1c4941cf532e35c64773f87a13" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

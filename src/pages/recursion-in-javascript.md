@@ -38,7 +38,7 @@ Here’s how we’d write that in JavaScript:
 
 
 
-<iframe width="700" height="250" src="/media/beb51989b1bb20195c118714dfef3db4?postId=1608032c7a1f" data-media-id="beb51989b1bb20195c118714dfef3db4" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/beb51989b1bb20195c118714dfef3db4?postId=1608032c7a1f" data-media-id="beb51989b1bb20195c118714dfef3db4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -68,7 +68,7 @@ If you got stuck (or you’re the decidedly _unambitious_ type), here’s my sol
 
 
 
-<iframe width="700" height="250" src="/media/ea229cabbb21f710ba4b76d6ba59cead?postId=1608032c7a1f" data-media-id="ea229cabbb21f710ba4b76d6ba59cead" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ea229cabbb21f710ba4b76d6ba59cead?postId=1608032c7a1f" data-media-id="ea229cabbb21f710ba4b76d6ba59cead" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -90,7 +90,7 @@ For our final example, we’re going to write a **map()** function. We want to b
 
 
 
-<iframe width="700" height="250" src="/media/a81449621098c07732d6b3cbb6123311?postId=1608032c7a1f" data-media-id="a81449621098c07732d6b3cbb6123311" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a81449621098c07732d6b3cbb6123311?postId=1608032c7a1f" data-media-id="a81449621098c07732d6b3cbb6123311" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ Anyway, here’s how I did it:
 
 
 
-<iframe width="700" height="250" src="/media/aa803107272941a0177d4b17eded8823?postId=1608032c7a1f" data-media-id="aa803107272941a0177d4b17eded8823" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/aa803107272941a0177d4b17eded8823?postId=1608032c7a1f" data-media-id="aa803107272941a0177d4b17eded8823" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Adam Naor
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "I camped out with a tech billionaire. The advice he gave me was priceless."
 subTitle: "We sat around a small campfire, gazing up through the cold California air at a dazzling canopy of stars...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*ZRmZQGbD7e1GHBOJHzE3Ug.png

@@ -1,7 +1,7 @@
 ---
 author: Ugo Cupcic
 authorTwitter: https://twitter.com/ugocupcic
-authorFacebook: false
+authorFacebook: none
 title: "What it's Like to be a Robot in 2017..."
 subTitle: "What will a state-of-the-art robot be able to do in 2017? There are many different types of robots out there, from humanoid robots to ind..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*1wfeIn-huOS_O8YkE2D2BA.png
@@ -109,7 +109,7 @@ Finally, it’s possible to close the loop using the different sensors available
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/5a5cc0c88ff24e6792f667b9efc8b047?postId=dc41368894a0" data-media-id="5a5cc0c88ff24e6792f667b9efc8b047" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FV8JGWT473hM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/5a5cc0c88ff24e6792f667b9efc8b047?postId=dc41368894a0" data-media-id="5a5cc0c88ff24e6792f667b9efc8b047" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FV8JGWT473hM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

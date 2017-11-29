@@ -204,7 +204,7 @@ As the meeting ends, the stakeholder from Kopernik surprises us with a short tha
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c5eb215a6be320c661b105dc14966426?postId=86f911040484" data-media-id="c5eb215a6be320c661b105dc14966426" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c5eb215a6be320c661b105dc14966426?postId=86f911040484" data-media-id="c5eb215a6be320c661b105dc14966426" allowfullscreen="" frameborder="0"></iframe>
 
 
 

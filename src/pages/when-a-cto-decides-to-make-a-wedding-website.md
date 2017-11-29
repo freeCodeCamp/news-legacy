@@ -1,7 +1,7 @@
 ---
 author: Cory Zue
 authorTwitter: https://twitter.com/czue
-authorFacebook: false
+authorFacebook: none
 title: "When a CTO Decides to Make a Wedding Website"
 subTitle: "An open-source, responsive, Django-powered wedding website and invitation + guest management system with 250+ commits, unit tests, and more."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*vVOogQpEJW26iPDp.png
@@ -489,7 +489,7 @@ Thanks for reading!
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/f70c4a38341c43d71609f0325e61d28b?postId=256061b64e7f" data-media-id="f70c4a38341c43d71609f0325e61d28b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/f70c4a38341c43d71609f0325e61d28b?postId=256061b64e7f" data-media-id="f70c4a38341c43d71609f0325e61d28b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

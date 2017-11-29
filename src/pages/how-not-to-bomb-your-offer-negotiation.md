@@ -1,7 +1,7 @@
 ---
 author: Haseeb Qureshi
 authorTwitter: https://twitter.com/hosseeb
-authorFacebook: false
+authorFacebook: none
 title: "How not to bomb your offer negotiation"
 subTitle: "So you’ve maneuvered through the initial offer conversation. You’ve lined up counteroffers from other companies. Now it’s time to enter t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*pU1kb1JfF45YbKgZ2zm9dg.png

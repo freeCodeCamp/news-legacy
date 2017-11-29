@@ -1,7 +1,7 @@
 ---
 author: Daryll Santos
 authorTwitter: https://twitter.com/daryllsann
-authorFacebook: false
+authorFacebook: none
 title: "So how do we fix Twitter? A user interface revamp would be a good place to start."
 subTitle: "It’s no secret that Twitter has been struggling to grow its user base. To fix this, they’ve laid out a long-term strategy to turn around ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*GDw1gx2_EiVcPuclc8WXJQ.png

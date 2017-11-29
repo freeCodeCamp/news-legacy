@@ -1,7 +1,7 @@
 ---
 author: Mariya Diminsky
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Learn Node.js with Brigadier Fluffykins Part III: Request Object, Configure Routes, Serve Files"
 subTitle: "Welcome to Part III of Learn Node.js With Brigadier Fluffykins, a series created to help you easily understand Node.js ❤..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*4E7_DswXy8rFF2Dzrq1H3A.jpeg
@@ -89,7 +89,7 @@ You can also just create your own file with the same name — _server.js_ an
 
 
 
-<iframe width="700" height="250" src="/media/69ee0b76b0de633dfb61a43bab19b370?postId=7666f783dc10" data-media-id="69ee0b76b0de633dfb61a43bab19b370" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/69ee0b76b0de633dfb61a43bab19b370?postId=7666f783dc10" data-media-id="69ee0b76b0de633dfb61a43bab19b370" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -123,7 +123,7 @@ When you print the _url_ and _method_ properties of the _request object_ what do
 
 
 
-<iframe width="700" height="250" src="/media/0e63a1116d3f008e111664c7e081c629?postId=7666f783dc10" data-media-id="0e63a1116d3f008e111664c7e081c629" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0e63a1116d3f008e111664c7e081c629?postId=7666f783dc10" data-media-id="0e63a1116d3f008e111664c7e081c629" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -151,7 +151,7 @@ Let’s try printing the headers and then accessing one. Be aware that it comes 
 
 
 
-<iframe width="700" height="250" src="/media/01f46c2975c2a7378bb54df886dcf3cb?postId=7666f783dc10" data-media-id="01f46c2975c2a7378bb54df886dcf3cb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/01f46c2975c2a7378bb54df886dcf3cb?postId=7666f783dc10" data-media-id="01f46c2975c2a7378bb54df886dcf3cb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -191,7 +191,7 @@ Comment out STEP #2.2 and uncomment STEP #2.3 or just copy and paste this into y
 
 
 
-<iframe width="700" height="250" src="/media/183faa27dba925f665f2ea31a4118d54?postId=7666f783dc10" data-media-id="183faa27dba925f665f2ea31a4118d54" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/183faa27dba925f665f2ea31a4118d54?postId=7666f783dc10" data-media-id="183faa27dba925f665f2ea31a4118d54" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -241,7 +241,7 @@ Let’s try this out, change your home page request to this:
 
 
 
-<iframe width="700" height="250" src="/media/a5f014e934ba09eed5a3698d043a19f7?postId=7666f783dc10" data-media-id="a5f014e934ba09eed5a3698d043a19f7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a5f014e934ba09eed5a3698d043a19f7?postId=7666f783dc10" data-media-id="a5f014e934ba09eed5a3698d043a19f7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -279,7 +279,7 @@ Either paste this into your _server.js_ or uncomment STEP #2.4 and comment out S
 
 
 
-<iframe width="700" height="250" src="/media/4d4ac117dd8a473d21856341b26d268c?postId=7666f783dc10" data-media-id="4d4ac117dd8a473d21856341b26d268c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4d4ac117dd8a473d21856341b26d268c?postId=7666f783dc10" data-media-id="4d4ac117dd8a473d21856341b26d268c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -291,7 +291,7 @@ This should be in your _index.html_ file:
 
 
 
-<iframe width="700" height="250" src="/media/9d9794ed52d4427d2f4128c6a6876681?postId=7666f783dc10" data-media-id="9d9794ed52d4427d2f4128c6a6876681" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9d9794ed52d4427d2f4128c6a6876681?postId=7666f783dc10" data-media-id="9d9794ed52d4427d2f4128c6a6876681" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

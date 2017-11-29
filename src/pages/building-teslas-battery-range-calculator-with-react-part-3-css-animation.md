@@ -1,7 +1,7 @@
 ---
 author: Matthew Choi
 authorTwitter: https://twitter.com/MatthewChoi7
-authorFacebook: false
+authorFacebook: none
 title: "Building Tesla’s Battery Range Calculator with React (Part 3: CSS Animation)"
 subTitle: "This is the third part of Building Tesla’s Battery Range Calculator with React series...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*8hlNoLDBy5XWZct5tAtPoA.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/building-teslas-battery-range-calculator-wi
 id: building-teslas-battery-range-calculator-with-react-part-3-css-animation-797476dc1b37
 date: 2017-04-12T15:38:36.894Z
 tags: [
-  "CSS",
-  "React",
-  "Web Development",
-  "Design",
-  "JavaScript"
+	"CSS",
+	"React",
+	"Web Development",
+	"Design",
+	"JavaScript"
 ]
 ---
 # Building Tesla’s Battery Range Calculator with React (Part 3: CSS Animation)
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8hlNoLDBy5XWZct5tAtPoA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*8hlNoLDBy5XWZct5tAtPoA.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*8hlNoLDBy5XWZct5tAtPoA.png"&gt;</noscript>
 
 
 
@@ -70,11 +67,8 @@ Just like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*eosqc6eBuYjLsLsQ.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="51"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*eosqc6eBuYjLsLsQ."&gt;</noscript>
 
 
 
@@ -109,11 +103,9 @@ Here is a simple example. In this example, the background color of one element i
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.KWeNwe.small.fca743e7-36f4-452c-a71b-bacd1af85042.png&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="44"></canvas>
 
-<iframe data-width="800" data-height="600" width="700" height="525" data-src="/media/16e5c1747595ecaaa3561bdcecf0a855?postId=797476dc1b37" data-media-id="16e5c1747595ecaaa3561bdcecf0a855" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.KWeNwe.small.fca743e7-36f4-452c-a71b-bacd1af85042.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" data-src="https://medium.freecodecamp.org/media/16e5c1747595ecaaa3561bdcecf0a855?postId=797476dc1b37" data-media-id="16e5c1747595ecaaa3561bdcecf0a855" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.KWeNwe.small.fca743e7-36f4-452c-a71b-bacd1af85042.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="800" data-height="600" width="700" height="525" src="/media/16e5c1747595ecaaa3561bdcecf0a855?postId=797476dc1b37" data-media-id="16e5c1747595ecaaa3561bdcecf0a855" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.KWeNwe.small.fca743e7-36f4-452c-a71b-bacd1af85042.png&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -131,11 +123,8 @@ To create a CSS animation, you need two steps :
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*CbLQQOKYyRDohXwk.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*CbLQQOKYyRDohXwk."&gt;</noscript>
 
 
 
@@ -159,11 +148,9 @@ Here’s what we’re starting with. It’s got a Tesla header, some title and a
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.zZjEbK.small.b14b27d9-dc48-4a18-bd9a-0f2cfaaa7d22.png&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="44"></canvas>
 
-<iframe data-width="800" data-height="600" width="700" height="525" data-src="/media/8cfc21bafff890a831fc150b9f60b434?postId=797476dc1b37" data-media-id="8cfc21bafff890a831fc150b9f60b434" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.zZjEbK.small.b14b27d9-dc48-4a18-bd9a-0f2cfaaa7d22.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" data-src="https://medium.freecodecamp.org/media/8cfc21bafff890a831fc150b9f60b434?postId=797476dc1b37" data-media-id="8cfc21bafff890a831fc150b9f60b434" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.zZjEbK.small.b14b27d9-dc48-4a18-bd9a-0f2cfaaa7d22.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="800" data-height="600" width="700" height="525" src="/media/8cfc21bafff890a831fc150b9f60b434?postId=797476dc1b37" data-media-id="8cfc21bafff890a831fc150b9f60b434" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.zZjEbK.small.b14b27d9-dc48-4a18-bd9a-0f2cfaaa7d22.png&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -185,11 +172,8 @@ First, define the animation sequence using keyframes. Then apply the animate-pop
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*JFGV83BhzDdZApUn.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*JFGV83BhzDdZApUn."&gt;</noscript>
 
 
 
@@ -209,11 +193,9 @@ Now you can see that the three elements appear slowly increasing in size over 6 
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.QpxpWK.small.a8856fc5-2621-42cf-a9b5-4cc5c14a06a8.png&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="44"></canvas>
 
-<iframe data-width="800" data-height="600" width="700" height="525" data-src="/media/1e72454f88963ff328d46a91fa9814d0?postId=797476dc1b37" data-media-id="1e72454f88963ff328d46a91fa9814d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.QpxpWK.small.a8856fc5-2621-42cf-a9b5-4cc5c14a06a8.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" data-src="https://medium.freecodecamp.org/media/1e72454f88963ff328d46a91fa9814d0?postId=797476dc1b37" data-media-id="1e72454f88963ff328d46a91fa9814d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.QpxpWK.small.a8856fc5-2621-42cf-a9b5-4cc5c14a06a8.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="800" data-height="600" width="700" height="525" src="/media/1e72454f88963ff328d46a91fa9814d0?postId=797476dc1b37" data-media-id="1e72454f88963ff328d46a91fa9814d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.QpxpWK.small.a8856fc5-2621-42cf-a9b5-4cc5c14a06a8.png&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -241,11 +223,8 @@ It’s important that they are essentially based on the **Bezier curve**.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*5T1qzxZKI8BCti9n.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*5T1qzxZKI8BCti9n."&gt;</noscript>
 
 
 
@@ -273,11 +252,8 @@ Here is a fantastic [tool](http://cubic-bezier.com/) to visualize how cubic-bezi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*GA_uq9VnfsYodUVL.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*GA_uq9VnfsYodUVL."&gt;</noscript>
 
 
 
@@ -297,11 +273,9 @@ Here’s an example of applying custom speed instead of ease-out.
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.NpBZQQ.small.5ce936e0-ab77-4230-a08e-ae91f21f229a.png&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="44"></canvas>
 
-<iframe data-width="800" data-height="600" width="700" height="525" data-src="/media/fab6b60067baa20dc14e7f876aa712e6?postId=797476dc1b37" data-media-id="fab6b60067baa20dc14e7f876aa712e6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.NpBZQQ.small.5ce936e0-ab77-4230-a08e-ae91f21f229a.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" data-src="https://medium.freecodecamp.org/media/fab6b60067baa20dc14e7f876aa712e6?postId=797476dc1b37" data-media-id="fab6b60067baa20dc14e7f876aa712e6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.NpBZQQ.small.5ce936e0-ab77-4230-a08e-ae91f21f229a.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="800" data-height="600" width="700" height="525" src="/media/fab6b60067baa20dc14e7f876aa712e6?postId=797476dc1b37" data-media-id="fab6b60067baa20dc14e7f876aa712e6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F956247.NpBZQQ.small.5ce936e0-ab77-4230-a08e-ae91f21f229a.png&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -330,11 +304,8 @@ Let’s look at the entire layout of our app. The component structure of the app
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*uZ5xPaH4Dx681Pjs.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="70"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*uZ5xPaH4Dx681Pjs."&gt;</noscript>
 
 
 
@@ -358,11 +329,8 @@ Don’t forget to click the Add to Favorites button and grab the keyframes code 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*PIVWuwNHtEMnFojd.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*PIVWuwNHtEMnFojd."&gt;</noscript>
 
 
 
@@ -394,11 +362,8 @@ First, open the **Header.css** file and paste the animation properties and keyfr
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*HukM4NRUS6m8Kqg2.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*HukM4NRUS6m8Kqg2."&gt;</noscript>
 
 
 
@@ -427,11 +392,8 @@ Note that the title <h1> element is defined in App.js / App.css.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*VoXL1zKOOT2q1THD.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*VoXL1zKOOT2q1THD."&gt;</noscript>
 
 
 
@@ -478,11 +440,8 @@ At this point, you should see this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*bR16Rxvlnxllgsx1.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*bR16Rxvlnxllgsx1."&gt;</noscript>
 
 
 
@@ -502,11 +461,8 @@ This time, let’s give the TeslaStats component a **slit-in-horizontal** animat
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*spbWOTQeCqrUVXKL.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="22"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*spbWOTQeCqrUVXKL."&gt;</noscript>
 
 
 
@@ -535,11 +491,8 @@ Provide the same animation effects as applied to the TeslaStats component. Give 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*t1pOPhXRCkOvZLUU.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*t1pOPhXRCkOvZLUU."&gt;</noscript>
 
 
 
@@ -560,11 +513,8 @@ Here’s what you should be seeing:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*3tU3pt8uwr98NHYQ.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*3tU3pt8uwr98NHYQ."&gt;</noscript>
 
 
 
@@ -586,11 +536,8 @@ When user clicks the Speed, Temperature counters and Wheels, we are going to giv
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*5gWZanCv_hi6Jy-S.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*5gWZanCv_hi6Jy-S."&gt;</noscript>
 
 
 
@@ -618,11 +565,8 @@ The following figure shows this flow well.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*o2yXNpGMcBekZR1D.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="57" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*o2yXNpGMcBekZR1D."&gt;</noscript>
 
 
 
@@ -657,11 +601,8 @@ First, let’s define the animation code that we want to apply through Animista 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*a3c4Fxjs2OnA_gDH.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*a3c4Fxjs2OnA_gDH."&gt;</noscript>
 
 
 
@@ -697,11 +638,8 @@ You can see the whole flow through the following image.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*3z3xL_MnAS6HgCkf.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*3z3xL_MnAS6HgCkf."&gt;</noscript>
 
 
 
@@ -727,11 +665,8 @@ To solve this problem, add **animationEffect** to the local state and setTimeout
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*v0uFl9IgHSsmpl8J.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="68"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*v0uFl9IgHSsmpl8J."&gt;</noscript>
 
 
 
@@ -761,11 +696,8 @@ First, **bounce-in-top** is already defined in TeslaCar.css, so let’s define a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*ASYtBrbYI-GbVMdR.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="23"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*ASYtBrbYI-GbVMdR."&gt;</noscript>
 
 
 
@@ -786,11 +718,8 @@ You should have a fully working Tesla range calculator with animation:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*SbSA60aSiFXYfjDP.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*SbSA60aSiFXYfjDP."&gt;</noscript>
 
 
 

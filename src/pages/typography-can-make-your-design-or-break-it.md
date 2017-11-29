@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "Typography can make or break your design: a process for choosing type"
 subTitle: "One of the most important skills you can learn as a designer is how to choose type. This is because text is one of the primary ways desig..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*BVoyx8ImTwpRv36xVy6RyQ.png

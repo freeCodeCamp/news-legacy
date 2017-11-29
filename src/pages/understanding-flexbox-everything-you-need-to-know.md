@@ -1,7 +1,7 @@
 ---
 author: Ohans Emmanuel
 authorTwitter: https://twitter.com/OhansEmmanuel
-authorFacebook: false
+authorFacebook: none
 title: "Understanding Flexbox: Everything you need to know"
 subTitle: "This article will cover all the fundamental concepts you need to get good with the CSS Flexbox model. It’s a long one, so I hope you’re r..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*l65gLk36q9uBzujX3LNz1A.png
@@ -2294,7 +2294,7 @@ Update your HTML document and have these within the `.content` section.
 <pre name="04a2" id="04a2" class="graf graf--pre graf-after--pre">           
             <i class="fa fa-play">  Play all</i>  
             <i class="fa fa-plus">  Add to</i>  
-            <i class="fa fa-ellipsis-h"> &nbsp;More</i>  
+            <i class="fa fa-ellipsis-h">  More</i>  
             
      </pre>
 

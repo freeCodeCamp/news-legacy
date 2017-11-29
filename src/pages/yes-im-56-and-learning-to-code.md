@@ -1,7 +1,7 @@
 ---
 author: VM Vaughn
 authorTwitter: https://twitter.com/vmvaughn
-authorFacebook: false
+authorFacebook: none
 title: "I’m learning to code at 56. Here’s an epic beat-down of my critical inner self."
 subTitle: "I’m 56 years old and learning to code...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*RNkyx-Zq7w61eR74nMYgnA.jpeg

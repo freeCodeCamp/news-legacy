@@ -1,7 +1,7 @@
 ---
 author: rajaraodv
 authorTwitter: https://twitter.com/rajaraodv
-authorFacebook: false
+authorFacebook: none
 title: "Why Redux need reducers to be “pure functions”"
 subTitle: "You may have heard that Redux depends on “pure functions” from functional programming. Well, what exactly does that mean?..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*NkvKvkRk8RcMgQLJoIIBsQ.png

@@ -1,7 +1,7 @@
 ---
 author: Michel Sassano
 authorTwitter: https://twitter.com/SassanoM
-authorFacebook: false
+authorFacebook: none
 title: "Let’s Enhance! How we found @rogerkver’s $1,000 wallet obfuscated private key"
 subTitle: "Before we even start: We do not know the journalists who recorded the interview and we do not know Roger Ver. Anyone who had access to th..."
 coverSrc: https://cdn-images-1.medium.com/max/1200/1*8kWT7sPCk3qu-fimhbLxAg.png
@@ -22,7 +22,7 @@ tags: [
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/66cc43b810d6c6d4bd4e80f335945d70?postId=8514e74a5433" data-media-id="66cc43b810d6c6d4bd4e80f335945d70" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhN0_1pU4U5w%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/66cc43b810d6c6d4bd4e80f335945d70?postId=8514e74a5433" data-media-id="66cc43b810d6c6d4bd4e80f335945d70" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhN0_1pU4U5w%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -229,7 +229,7 @@ We decided to send the screenshots to our experts. With much results :)
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/630692acdba5bf429a7e67a7b1f48ccb?postId=8514e74a5433" data-media-id="630692acdba5bf429a7e67a7b1f48ccb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLhF_56SxrGk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/630692acdba5bf429a7e67a7b1f48ccb?postId=8514e74a5433" data-media-id="630692acdba5bf429a7e67a7b1f48ccb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLhF_56SxrGk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

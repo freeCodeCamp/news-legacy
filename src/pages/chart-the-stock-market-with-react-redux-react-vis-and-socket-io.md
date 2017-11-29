@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/chart-the-stock-market-with-react-redux-rea
 id: chart-the-stock-market-with-react-redux-react-vis-and-socket-io-18caf312693c
 date: 2017-10-13T07:27:45.523Z
 tags: [
-  "JavaScript",
-  "Web Development",
-  "Tech",
-  "Data Science",
-  "Design"
+	"JavaScript",
+	"Web Development",
+	"Tech",
+	"Data Science",
+	"Design"
 ]
 ---
 # How I built an app that follows the Stock Market for a freeCodeCamp challenge.
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*ztwOJDHFao9iHsFv.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/0*ztwOJDHFao9iHsFv.)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*ztwOJDHFao9iHsFv."&gt;</noscript>
 
 
 
@@ -73,11 +70,8 @@ It looks like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hlgmfwpKNkFmt6VTaFor3A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*hlgmfwpKNkFmt6VTaFor3A.gif"&gt;</noscript>
 
 
 
@@ -166,11 +160,9 @@ Server: index.js:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/e2e602ab503618293d559982590c5670?postId=18caf312693c" data-media-id="e2e602ab503618293d559982590c5670" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/e2e602ab503618293d559982590c5670?postId=18caf312693c" data-media-id="e2e602ab503618293d559982590c5670" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/e2e602ab503618293d559982590c5670?postId=18caf312693c" data-media-id="e2e602ab503618293d559982590c5670" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -328,11 +320,9 @@ export function checkDB(stocks) {
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/c86305475de03a11653ad2d9f923c505?postId=18caf312693c" data-media-id="c86305475de03a11653ad2d9f923c505" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/c86305475de03a11653ad2d9f923c505?postId=18caf312693c" data-media-id="c86305475de03a11653ad2d9f923c505" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/c86305475de03a11653ad2d9f923c505?postId=18caf312693c" data-media-id="c86305475de03a11653ad2d9f923c505" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F22077628%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -363,11 +353,6 @@ For the deployment to Heroku it’s important:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hlgmfwpKNkFmt6VTaFor3A.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*hlgmfwpKNkFmt6VTaFor3A.gif"&gt;</noscript>
 
 
 
@@ -383,11 +368,10 @@ For the deployment to Heroku it’s important:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*mmxgFfkpPzjEdnuS.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*mmxgFfkpPzjEdnuS.png"&gt;</noscript>
+
+
 
 
 

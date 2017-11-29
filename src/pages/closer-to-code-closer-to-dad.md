@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Closer to Code, Closer to Dad"
 subTitle: "I never actually thought I could understand code. To me, code was some complicated language that people learned through years of trial an..."
 coverSrc: https://cdn-images-1.medium.com/max/800/0*4wKP4fJAZ0NvDg_A.jpg

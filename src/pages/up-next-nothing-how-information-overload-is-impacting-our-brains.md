@@ -92,7 +92,7 @@ We encounter so many notifications. And we touch our phones [2,617 times](https:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/13ff481eb2e9ed92cdc1f51c7534570a?postId=d70cf9b2c05" data-media-id="13ff481eb2e9ed92cdc1f51c7534570a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDIcI6F3VwAAfRrf.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/13ff481eb2e9ed92cdc1f51c7534570a?postId=d70cf9b2c05" data-media-id="13ff481eb2e9ed92cdc1f51c7534570a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDIcI6F3VwAAfRrf.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -104,7 +104,7 @@ Facebook…
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/93d178de48acfc1002edaf385aa37b44?postId=d70cf9b2c05" data-media-id="93d178de48acfc1002edaf385aa37b44" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDIhKpblXUAAZAsz.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/93d178de48acfc1002edaf385aa37b44?postId=d70cf9b2c05" data-media-id="93d178de48acfc1002edaf385aa37b44" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDIhKpblXUAAZAsz.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -158,7 +158,7 @@ _"The feedback on this session has been overwhelming....we have to roll this out
 
 
 
-<iframe data-width="560" data-height="315" width="560" height="315" src="/media/ce897302b019b7363db344a774aa9722?postId=d70cf9b2c05" data-media-id="ce897302b019b7363db344a774aa9722" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpe.tedcdn.com%2Fimages%2Fted%2F4a626f9af48088c77513d59edf931e9d9e8f881c_240x180.jpg%3Flang%3Den&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="560" data-height="315" width="560" height="315" src="https://medium.freecodecamp.org/media/ce897302b019b7363db344a774aa9722?postId=d70cf9b2c05" data-media-id="ce897302b019b7363db344a774aa9722" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpe.tedcdn.com%2Fimages%2Fted%2F4a626f9af48088c77513d59edf931e9d9e8f881c_240x180.jpg%3Flang%3Den&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -188,7 +188,7 @@ Thanks so much for reading! If you liked the article, give me some claps so more
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/adb7fff9508569b6f767244e002d27f1?postId=d70cf9b2c05" data-media-id="adb7fff9508569b6f767244e002d27f1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/adb7fff9508569b6f767244e002d27f1?postId=d70cf9b2c05" data-media-id="adb7fff9508569b6f767244e002d27f1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

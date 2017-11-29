@@ -102,7 +102,7 @@ A year later, I heard [Pablo Almunia](https://twitter.com/pabloalmunia) describe
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/929cabaec8fb1f64f3cab1aed51e0345?postId=d8f7c428b637" data-media-id="929cabaec8fb1f64f3cab1aed51e0345" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSSUXXzN26zg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/929cabaec8fb1f64f3cab1aed51e0345?postId=d8f7c428b637" data-media-id="929cabaec8fb1f64f3cab1aed51e0345" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSSUXXzN26zg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -182,7 +182,7 @@ I can’t express how I felt in that moment. Everyone in my life was so happy fo
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/d2f146bf601d193c6b4540432a1edf7f?postId=d8f7c428b637" data-media-id="d2f146bf601d193c6b4540432a1edf7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F834419959136649218%2Fpu%2Fimg%2FueqQooG59j6CjAjx.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/d2f146bf601d193c6b4540432a1edf7f?postId=d8f7c428b637" data-media-id="d2f146bf601d193c6b4540432a1edf7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F834419959136649218%2Fpu%2Fimg%2FueqQooG59j6CjAjx.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

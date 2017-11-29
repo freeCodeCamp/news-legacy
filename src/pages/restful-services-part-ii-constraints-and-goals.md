@@ -1,7 +1,7 @@
 ---
 author: Sanchit Gera
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "RESTful Services Part II : Constraints and Goals"
 subTitle: "In Part I of this series I wrote about HTTP and its constructs as they apply to web service design...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*dum9oGRK7CWpbIOsmmyDcg.jpeg

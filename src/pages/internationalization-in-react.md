@@ -95,7 +95,7 @@ The library provides two ways to format strings, numbers, and dates: **React** *
 
 
 
-<iframe width="700" height="250" src="/media/00b78e1e3cdc4b0432b4125a04e3dfbb?postId=7264738274a0" data-media-id="00b78e1e3cdc4b0432b4125a04e3dfbb" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/00b78e1e3cdc4b0432b4125a04e3dfbb?postId=7264738274a0" data-media-id="00b78e1e3cdc4b0432b4125a04e3dfbb" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -109,7 +109,7 @@ Component
 
 
 
-<iframe width="700" height="250" src="/media/ef9779c11134f63c89135b18bd0f1e34?postId=7264738274a0" data-media-id="ef9779c11134f63c89135b18bd0f1e34" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ef9779c11134f63c89135b18bd0f1e34?postId=7264738274a0" data-media-id="ef9779c11134f63c89135b18bd0f1e34" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -137,7 +137,7 @@ Let’s assume we have an existing React application that we’re working from. 
 
 
 
-<iframe width="700" height="250" src="/media/445882fb2c2584f1d20659a016565789?postId=7264738274a0" data-media-id="445882fb2c2584f1d20659a016565789" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/445882fb2c2584f1d20659a016565789?postId=7264738274a0" data-media-id="445882fb2c2584f1d20659a016565789" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -149,7 +149,7 @@ Next, we’ll need to install the babel plugin for React Intl:
 
 
 
-<iframe width="700" height="250" src="/media/c5c439d8c43ab07f6b5865fd29c5c252?postId=7264738274a0" data-media-id="c5c439d8c43ab07f6b5865fd29c5c252" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c5c439d8c43ab07f6b5865fd29c5c252?postId=7264738274a0" data-media-id="c5c439d8c43ab07f6b5865fd29c5c252" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -161,7 +161,7 @@ To actually have the babel plugin do its magic, we need to set up our **.babelr
 
 
 
-<iframe width="700" height="250" src="/media/57fa407140c8cb38786b8e3198a4e9d5?postId=7264738274a0" data-media-id="57fa407140c8cb38786b8e3198a4e9d5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/57fa407140c8cb38786b8e3198a4e9d5?postId=7264738274a0" data-media-id="57fa407140c8cb38786b8e3198a4e9d5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -195,7 +195,7 @@ For this sample project, I’m going to assume we’re supporting 4 languages: E
 
 
 
-<iframe width="700" height="250" src="/media/bb200e6c67817af13a40eb10c3be91e4?postId=7264738274a0" data-media-id="bb200e6c67817af13a40eb10c3be91e4" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bb200e6c67817af13a40eb10c3be91e4?postId=7264738274a0" data-media-id="bb200e6c67817af13a40eb10c3be91e4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -217,7 +217,7 @@ To do this, we first define the messages to pass to **IntlProvider** based on th
 
 
 
-<iframe width="700" height="250" src="/media/29792f23c46ee7806270d31978336316?postId=7264738274a0" data-media-id="29792f23c46ee7806270d31978336316" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/29792f23c46ee7806270d31978336316?postId=7264738274a0" data-media-id="29792f23c46ee7806270d31978336316" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -229,7 +229,7 @@ In this setup, we’re assuming that our translated data will live in **build/lo
 
 
 
-<iframe width="700" height="250" src="/media/80a2fc965ef5942efa34bd75bb033bd0?postId=7264738274a0" data-media-id="80a2fc965ef5942efa34bd75bb033bd0" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/80a2fc965ef5942efa34bd75bb033bd0?postId=7264738274a0" data-media-id="80a2fc965ef5942efa34bd75bb033bd0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -249,7 +249,7 @@ All credit goes to the React Intl library authors for generating this script bel
 
 
 
-<iframe width="700" height="250" src="/media/62a356fcd5eb80105371ca777f132d81?postId=7264738274a0" data-media-id="62a356fcd5eb80105371ca777f132d81" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/62a356fcd5eb80105371ca777f132d81?postId=7264738274a0" data-media-id="62a356fcd5eb80105371ca777f132d81" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -279,7 +279,7 @@ To convert this, we’ll use the **FormattedMessage** component:
 
 
 
-<iframe width="700" height="250" src="/media/91036d12b3aa77d97fd9a193533d4214?postId=7264738274a0" data-media-id="91036d12b3aa77d97fd9a193533d4214" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/91036d12b3aa77d97fd9a193533d4214?postId=7264738274a0" data-media-id="91036d12b3aa77d97fd9a193533d4214" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -301,7 +301,7 @@ Next, let’s look at the Subheader, which is slightly more involved:
 
 
 
-<iframe width="700" height="250" src="/media/8da9c3afb2b7c82550e1a8be013b3ca4?postId=7264738274a0" data-media-id="8da9c3afb2b7c82550e1a8be013b3ca4" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8da9c3afb2b7c82550e1a8be013b3ca4?postId=7264738274a0" data-media-id="8da9c3afb2b7c82550e1a8be013b3ca4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -317,7 +317,7 @@ Another slick feature is **FormattedRelative**, which will render the formatted 
 
 
 
-<iframe width="700" height="250" src="/media/11e3cd60a040986b4a0807f0603c7099?postId=7264738274a0" data-media-id="11e3cd60a040986b4a0807f0603c7099" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/11e3cd60a040986b4a0807f0603c7099?postId=7264738274a0" data-media-id="11e3cd60a040986b4a0807f0603c7099" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -339,7 +339,7 @@ Let’s try this approach for the widget headers and body. First, we use **defin
 
 
 
-<iframe width="700" height="250" src="/media/4fb36cfed13f80af5b79e54bd07caec4?postId=7264738274a0" data-media-id="4fb36cfed13f80af5b79e54bd07caec4" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4fb36cfed13f80af5b79e54bd07caec4?postId=7264738274a0" data-media-id="4fb36cfed13f80af5b79e54bd07caec4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -351,7 +351,7 @@ Then, assuming we have a Widget component that expects header and body props, we
 
 
 
-<iframe width="700" height="250" src="/media/a20a1a1e718cf1e94307826d64aa49da?postId=7264738274a0" data-media-id="a20a1a1e718cf1e94307826d64aa49da" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a20a1a1e718cf1e94307826d64aa49da?postId=7264738274a0" data-media-id="a20a1a1e718cf1e94307826d64aa49da" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -377,7 +377,7 @@ First, we install the **intl** package from npm:
 
 
 
-<iframe width="700" height="250" src="/media/9103178f0ca1f481ff8f0ea4003e6e71?postId=7264738274a0" data-media-id="9103178f0ca1f481ff8f0ea4003e6e71" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9103178f0ca1f481ff8f0ea4003e6e71?postId=7264738274a0" data-media-id="9103178f0ca1f481ff8f0ea4003e6e71" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -389,7 +389,7 @@ Next, we’ll write a simple if-statement to only load the polyfill if there is 
 
 
 
-<iframe width="700" height="250" src="/media/408d042d48df912f29c3cbe8507ed5c1?postId=7264738274a0" data-media-id="408d042d48df912f29c3cbe8507ed5c1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/408d042d48df912f29c3cbe8507ed5c1?postId=7264738274a0" data-media-id="408d042d48df912f29c3cbe8507ed5c1" allowfullscreen="" frameborder="0"></iframe>
 
 
 

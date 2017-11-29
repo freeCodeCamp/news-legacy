@@ -1,3 +1,5 @@
+@import (less) '../css/globals.less';
+
 ul, a {
   color: #333;
   text-decoration: none;
@@ -9,7 +11,7 @@ ul {
 
 hr {
   margin: 15px 0 !important;
-  background-color: hsla(120, 100%, 20%, 0.4) !important;
+  background-color: @brand-primary !important;
 }
 
 .center-wrap {
@@ -20,7 +22,7 @@ hr {
 
 .article-meta {
   font-size: 14px;
-  color: hsla(120, 100%, 20%, 0.6);
+  color: @brand-primary;
 }
 
 .excerpt {
@@ -37,9 +39,13 @@ hr {
   border: none;
   padding: 10px 15px;
   box-shadow: none;
+  &:hover {
+    color: #333;
+    text-decoration: none;
+  }
 }
 
 .img-wrap {
-  max-height: 50vh;
+  max-height: 480px;
   overflow: hidden;
 }

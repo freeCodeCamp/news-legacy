@@ -1,7 +1,7 @@
 ---
 author: Luca Matteis
 authorTwitter: https://twitter.com/lmatteis
-authorFacebook: false
+authorFacebook: none
 title: "Test-Driven Development with React and Redux, using Redux TDD"
 subTitle: "React and Redux have introduced a lot of functional programming concepts to the development of User Interfaces (UIs). This allows us to t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0ern_Rqaw5d5tTuYRs78IQ.jpeg
@@ -414,7 +414,7 @@ Here’s a video showcasing the iterative process of writing these test using a 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/dcf575837a9962106192644e97ecddc1?postId=3fd3be299918" data-media-id="dcf575837a9962106192644e97ecddc1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlW1ytOEZx3Y%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/dcf575837a9962106192644e97ecddc1?postId=3fd3be299918" data-media-id="dcf575837a9962106192644e97ecddc1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlW1ytOEZx3Y%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/8-npm-tricks-you-can-use-to-impress-your-co
 id: 8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e
 date: 2017-05-13T18:43:08.203Z
 tags: [
-  "JavaScript",
-  "Front End Development",
-  "Nodejs",
-  "Web Development",
-  "Programming"
+	"JavaScript",
+	"Front End Development",
+	"Nodejs",
+	"Web Development",
+	"Programming"
 ]
 ---
 # 8 npm Tricks You Can Use to Impress Your Colleagues
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*r04YgvldF8rsv-sfttkvnA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*r04YgvldF8rsv-sfttkvnA.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*r04YgvldF8rsv-sfttkvnA.jpeg"&gt;</noscript>
 
 
 
@@ -82,11 +79,8 @@ We all know `npm init`, it’s the first thing we do when creating a new package
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KUNw_1A1fsRr9NmT3LwYYw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*KUNw_1A1fsRr9NmT3LwYYw.gif"&gt;</noscript>
 
 
 
@@ -102,11 +96,8 @@ But, all those questions are quite annoying and we gonna modify it anyway, so wh
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ulJ_vkyVLK1XJV8vQACY5w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ulJ_vkyVLK1XJV8vQACY5w.gif"&gt;</noscript>
 
 
 
@@ -122,11 +113,8 @@ Another command we all use is `npm test`. Most of us use it every day, several t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tIo4abpF5oV20lEED8C7Aw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*tIo4abpF5oV20lEED8C7Aw.gif"&gt;</noscript>
 
 
 
@@ -142,11 +130,8 @@ Fortunately, there’s `npm t`, which does exactly that!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_KEOMP_Ht8_1YBCAfpRQXg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_KEOMP_Ht8_1YBCAfpRQXg.gif"&gt;</noscript>
 
 
 
@@ -164,11 +149,8 @@ One way to discover is to open the package.json file and check the `scripts` sec
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nssr6lw0OPnTTeT0SAzlyw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nssr6lw0OPnTTeT0SAzlyw.gif"&gt;</noscript>
 
 
 
@@ -182,11 +164,8 @@ We can do better of course, so we simply run `npm run` and get a list of all the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0BIxAq0Q8B2J26Gyf9nvFg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0BIxAq0Q8B2J26Gyf9nvFg.gif"&gt;</noscript>
 
 
 
@@ -200,11 +179,8 @@ Additional option is to install `ntl` (`npm i -g ntl`), and then run `ntl` in th
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*XjqtKLbzaIkUwSXPL92Mtg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*XjqtKLbzaIkUwSXPL92Mtg.gif"&gt;</noscript>
 
 
 
@@ -224,11 +200,8 @@ Meet `npm ls --depth 0`.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*MEg_C4RKrXQuh_RqgW9Whg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*MEg_C4RKrXQuh_RqgW9Whg.gif"&gt;</noscript>
 
 
 
@@ -242,11 +215,8 @@ To list the globally-installed packages, we can run the same with `-g` flag, `np
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3t0VjKip9sWm9symlyrtig.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3t0VjKip9sWm9symlyrtig.gif"&gt;</noscript>
 
 
 
@@ -272,11 +242,8 @@ Let’s run `./node_modules/.bin/mocha` in our project’s directory to see it 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5EaZSvL7T0aDCGGDB4GYjA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*5EaZSvL7T0aDCGGDB4GYjA.gif"&gt;</noscript>
 
 
 
@@ -306,11 +273,8 @@ What you might be surprised to find out, is that you can have pre and post scrip
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*T29YCsfoUA-nauh0mPXvMA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*T29YCsfoUA-nauh0mPXvMA.gif"&gt;</noscript>
 
 
 
@@ -332,11 +296,8 @@ An easier way is to run `npm version` with `major`, `minor` or `patch`.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pC68Ok-wR4Wm0HdWpQlCrg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*pC68Ok-wR4Wm0HdWpQlCrg.gif"&gt;</noscript>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Stefanos Vardalos
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How I became an Associate Android Developer certified by Google"
 subTitle: "If you already work with Android Development, or you want to start your journey in mobile development, there is a way to certify your ski..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*tL4LDELZeOYC1igsxKyD9g.png

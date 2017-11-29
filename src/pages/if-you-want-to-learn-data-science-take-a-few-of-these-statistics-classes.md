@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "If you want to learn Data Science, take a few of these statistics classes"
 subTitle: "A year ago, I was a numbers geek with no coding background. After trying an online programming course, I was so inspired that I enrolled ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*RGoEmvfDk2gzUGzVe3y0Cg.jpeg
@@ -139,7 +139,7 @@ The University of Texas at Austin’s [edX page](https://www.edx.org/school/uta
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c074e0621859c26ba149431cc733c333?postId=9bbabab098b9" data-media-id="c074e0621859c26ba149431cc733c333" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLXfoZGmg-rE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c074e0621859c26ba149431cc733c333?postId=9bbabab098b9" data-media-id="c074e0621859c26ba149431cc733c333" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLXfoZGmg-rE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -179,7 +179,7 @@ Duke University’s [Coursera page](https://www.coursera.org/duke).
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/97f871de44584da1f89c16c5aaaf16c5?postId=9bbabab098b9" data-media-id="97f871de44584da1f89c16c5aaaf16c5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoVmGdcGtjsg%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/97f871de44584da1f89c16c5aaaf16c5?postId=9bbabab098b9" data-media-id="97f871de44584da1f89c16c5aaaf16c5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoVmGdcGtjsg%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -211,7 +211,7 @@ MIT’s [edX page](https://www.edx.org/school/mitx).
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/cc9efeefbd2acb444349ab5e892f9142?postId=9bbabab098b9" data-media-id="cc9efeefbd2acb444349ab5e892f9142" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Faf5embKsb2g%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/cc9efeefbd2acb444349ab5e892f9142?postId=9bbabab098b9" data-media-id="cc9efeefbd2acb444349ab5e892f9142" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Faf5embKsb2g%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -230,7 +230,7 @@ Our #1 pick had a weighted average rating of 4.48 out of 5 stars over 20 reviews
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/77aa6b40f377662e131fb02c9ac9e222?postId=9bbabab098b9" data-media-id="77aa6b40f377662e131fb02c9ac9e222" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsfD9DwNgV9o%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/77aa6b40f377662e131fb02c9ac9e222?postId=9bbabab098b9" data-media-id="77aa6b40f377662e131fb02c9ac9e222" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsfD9DwNgV9o%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -245,7 +245,7 @@ Our #1 pick had a weighted average rating of 4.48 out of 5 stars over 20 reviews
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ce540e740ef0d03af300e9243502e683?postId=9bbabab098b9" data-media-id="ce540e740ef0d03af300e9243502e683" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP4pjl7bWf9o%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ce540e740ef0d03af300e9243502e683?postId=9bbabab098b9" data-media-id="ce540e740ef0d03af300e9243502e683" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP4pjl7bWf9o%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

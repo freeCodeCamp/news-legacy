@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "Developing Data Scientists and Engineers"
 subTitle: "Free Code Camp asked 15,000 people who they are, and how they’re learning to code. I isolated those focused on data science and data engineering."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*DxygbN_QYglkW6NtkxmJbw.jpeg

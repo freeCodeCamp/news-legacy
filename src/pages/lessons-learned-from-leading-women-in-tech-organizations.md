@@ -1,7 +1,7 @@
 ---
 author: Alaina Kafkes
 authorTwitter: https://twitter.com/alainakafkes
-authorFacebook: false
+authorFacebook: none
 title: "Lessons Learned from Leading Women in Tech Organizations"
 subTitle: "Without keeping life’s stressors in check, any well-intentioned community leader could crumble as an individual while simultaneously atte..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*FVxaOt4HZJ7JDT6IfvtS-w.jpeg
@@ -52,7 +52,7 @@ Soon after being chosen as co-president of WiC, I approached my fellow WiC co-pr
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/dc22e0a28ee34bda76aff4c76af4b9fc?postId=37eca542b2a5" data-media-id="dc22e0a28ee34bda76aff4c76af4b9fc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F786938723724386305%2FdZuxhBmM_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/dc22e0a28ee34bda76aff4c76af4b9fc?postId=37eca542b2a5" data-media-id="dc22e0a28ee34bda76aff4c76af4b9fc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F786938723724386305%2FdZuxhBmM_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -103,7 +103,7 @@ I’ve found a few common characteristics shared by WiC’s most attended events
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/3712f7c38d98514fe740ecb9cc512dee?postId=37eca542b2a5" data-media-id="3712f7c38d98514fe740ecb9cc512dee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3d9XosUcAAfoTL.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/3712f7c38d98514fe740ecb9cc512dee?postId=37eca542b2a5" data-media-id="3712f7c38d98514fe740ecb9cc512dee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3d9XosUcAAfoTL.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -123,7 +123,7 @@ Besides building a interwoven community, connecting members with related interes
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/7c4e13bdbeb0ceb2e9d126ddff2957db?postId=37eca542b2a5" data-media-id="7c4e13bdbeb0ceb2e9d126ddff2957db" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCqzoHZtXYAEOcuM.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/7c4e13bdbeb0ceb2e9d126ddff2957db?postId=37eca542b2a5" data-media-id="7c4e13bdbeb0ceb2e9d126ddff2957db" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCqzoHZtXYAEOcuM.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Simon Waters
 authorTwitter: https://twitter.com/developersimon
-authorFacebook: false
+authorFacebook: none
 title: "How to build a Hackintosh for coding"
 subTitle: "Let’s talk about Hackintosh-ing — the installation of Mac OS X on PC hardware...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*FYqYWh0SOJVBpuZUKDBtAg.jpeg

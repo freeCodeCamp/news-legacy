@@ -1,7 +1,7 @@
 ---
 author: Adam Watt
 authorTwitter: https://twitter.com/InTechMansTerms
-authorFacebook: false
+authorFacebook: none
 title: "How to setup Continuous Deployment to AWS S3 using CircleCI in just 30 minutes"
 subTitle: "Continuous Deployment might seem complicated at first, but don’t be intimidated. In this tutorial, I’ll show you how to implement Continu..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*iEPDwncshci0-coGQn96Cg.jpeg
@@ -74,7 +74,7 @@ Below is the modified circle.yml file you will be using:
 
 
 
-<iframe width="700" height="250" src="/media/d570a7115b33f4942c6cc2ed82121e16?postId=a8e268284098" data-media-id="d570a7115b33f4942c6cc2ed82121e16" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d570a7115b33f4942c6cc2ed82121e16?postId=a8e268284098" data-media-id="d570a7115b33f4942c6cc2ed82121e16" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -218,7 +218,7 @@ By the way, the HTTP address provided above is your access endpoint. But if you 
 
 
 
-<iframe width="700" height="250" src="/media/08185a505b6a123202edc9d509240103?postId=a8e268284098" data-media-id="08185a505b6a123202edc9d509240103" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/08185a505b6a123202edc9d509240103?postId=a8e268284098" data-media-id="08185a505b6a123202edc9d509240103" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

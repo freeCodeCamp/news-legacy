@@ -1,7 +1,7 @@
 ---
 author: Ayo Isaiah
 authorTwitter: https://twitter.com/AyIsaiah
-authorFacebook: false
+authorFacebook: none
 title: "How to choose the right laptop for programming"
 subTitle: "Choosing the right laptop for programming can be a tough process...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*DZijrz0okINfcApuohG9RA.jpeg

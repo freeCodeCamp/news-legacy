@@ -1,7 +1,7 @@
 ---
 author: Ahmed Rizwan
 authorTwitter: https://twitter.com/sudo_rizwan
-authorFacebook: false
+authorFacebook: none
 title: "Simplifying RecyclerView Adapters with Rx &amp; Databinding"
 subTitle: "I recently wanted to dive deeper into Rx. So I experimented with Rx and the RecyclerView Adapters, and the results were pretty interestin..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*q63b1qjfmWKwQt_MPjYhDQ.png

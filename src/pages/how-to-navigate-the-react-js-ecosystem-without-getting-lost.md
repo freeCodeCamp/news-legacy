@@ -1,7 +1,7 @@
 ---
 author: Marius Espejo
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to navigate the React.js ecosystem without getting lost"
 subTitle: "In the world of software development it’s often hard to find one direct path for learning something new. Should you read a book? Follow a..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*aD0tWP4vXjrs1FTFlgkKAg.jpeg

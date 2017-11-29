@@ -1,7 +1,7 @@
 ---
 author: Developer Davo
 authorTwitter: https://twitter.com/DeveloperDavo
-authorFacebook: false
+authorFacebook: none
 title: "What I learned by developing enterprise software for the first time"
 subTitle: "In this article, I’ll share ten lessons I learned from my first project as a self-taught software developer. I was working for a consulti..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*B1ynrF6ECoTQyPmwWRAxag.jpeg

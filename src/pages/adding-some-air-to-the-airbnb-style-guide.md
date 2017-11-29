@@ -68,7 +68,7 @@ While I agree with most of the rules in the style guide, here is a list of overr
 
 
 
-<iframe width="700" height="250" src="/media/9ae8799913b24adaa118e14e57a84134?postId=3df40e31c57a" data-media-id="9ae8799913b24adaa118e14e57a84134" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9ae8799913b24adaa118e14e57a84134?postId=3df40e31c57a" data-media-id="9ae8799913b24adaa118e14e57a84134" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -84,7 +84,7 @@ The tabs VS spaces war can potentially ruin friendships, and possibly even sabot
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/6b753341dc57e39f534315c648060739?postId=3df40e31c57a" data-media-id="6b753341dc57e39f534315c648060739" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/6b753341dc57e39f534315c648060739?postId=3df40e31c57a" data-media-id="6b753341dc57e39f534315c648060739" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -108,7 +108,7 @@ So what do those rules mean? Well, have a look at the following code. It technic
 
 
 
-<iframe width="700" height="250" src="/media/8d3a83778cb9cd6213f4d6a477322c4d?postId=3df40e31c57a" data-media-id="8d3a83778cb9cd6213f4d6a477322c4d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8d3a83778cb9cd6213f4d6a477322c4d?postId=3df40e31c57a" data-media-id="8d3a83778cb9cd6213f4d6a477322c4d" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -122,7 +122,7 @@ Now have a look at the same code, but with the extra spacing rules applied:
 
 
 
-<iframe width="700" height="250" src="/media/74f540d07eed62eba0daf68577912dd3?postId=3df40e31c57a" data-media-id="74f540d07eed62eba0daf68577912dd3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/74f540d07eed62eba0daf68577912dd3?postId=3df40e31c57a" data-media-id="74f540d07eed62eba0daf68577912dd3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -172,7 +172,7 @@ Have a look at this code:
 
 
 
-<iframe width="700" height="250" src="/media/1eda4934648b69a4d8902d44c124f889?postId=3df40e31c57a" data-media-id="1eda4934648b69a4d8902d44c124f889" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1eda4934648b69a4d8902d44c124f889?postId=3df40e31c57a" data-media-id="1eda4934648b69a4d8902d44c124f889" allowfullscreen="" frameborder="0"></iframe>
 
 
 

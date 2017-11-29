@@ -1,7 +1,7 @@
 ---
 author: Glenn Gonda
 authorTwitter: https://twitter.com/alohaglenn
-authorFacebook: false
+authorFacebook: none
 title: "A Creative Strategy Guaranteed to Crush the $100 Challenge"
 subTitle: "Before I became a software engineer, I made my living as a recording studio engineer. I have a non-traditional background and I actually ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*YTCWlF3u-jcEbeNA71LiLA.jpeg

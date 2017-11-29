@@ -89,7 +89,7 @@ At the end of the file, add an [extension](http://theappspace.com/i-%E2%9D%A4-sw
 
 
 
-<iframe width="700" height="250" src="/media/c2d04d7d526d0c4ec96fbb79469939b7?postId=a9bba26d9c4d" data-media-id="c2d04d7d526d0c4ec96fbb79469939b7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c2d04d7d526d0c4ec96fbb79469939b7?postId=a9bba26d9c4d" data-media-id="c2d04d7d526d0c4ec96fbb79469939b7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -117,7 +117,7 @@ I have written an example implementation. This assumes in most cases people will
 
 
 
-<iframe width="700" height="250" src="/media/0418dce9ad00ef7140a680ef31af2146?postId=a9bba26d9c4d" data-media-id="0418dce9ad00ef7140a680ef31af2146" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0418dce9ad00ef7140a680ef31af2146?postId=a9bba26d9c4d" data-media-id="0418dce9ad00ef7140a680ef31af2146" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -145,7 +145,7 @@ In order to drag the marker, you will need to use a long press. If you need to b
 
 
 
-<iframe width="700" height="250" src="/media/8c80ed06e54594f7c8eef62c1dc32d10?postId=a9bba26d9c4d" data-media-id="8c80ed06e54594f7c8eef62c1dc32d10" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8c80ed06e54594f7c8eef62c1dc32d10?postId=a9bba26d9c4d" data-media-id="8c80ed06e54594f7c8eef62c1dc32d10" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -163,7 +163,7 @@ What if you need to change the `GMSMarker` position while the user is tapping on
 
 
 
-<iframe width="700" height="250" src="/media/c5760b2cb3a339b824c6a531cc1a6a8d?postId=a9bba26d9c4d" data-media-id="c5760b2cb3a339b824c6a531cc1a6a8d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c5760b2cb3a339b824c6a531cc1a6a8d?postId=a9bba26d9c4d" data-media-id="c5760b2cb3a339b824c6a531cc1a6a8d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -185,7 +185,7 @@ To create a polyline, you will need to create a path using `GMSMutablePath`. It 
 
 
 
-<iframe width="700" height="250" src="/media/e22244e7de4224fdb31034c4519ac4b9?postId=a9bba26d9c4d" data-media-id="e22244e7de4224fdb31034c4519ac4b9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e22244e7de4224fdb31034c4519ac4b9?postId=a9bba26d9c4d" data-media-id="e22244e7de4224fdb31034c4519ac4b9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -215,7 +215,7 @@ For example, `GMSPolygon`will draw a shape. You can then use `fillColor` to fill
 
 
 
-<iframe width="700" height="250" src="/media/c2e2955ccf0b3c9790f4d0dc0a8a6c3a?postId=a9bba26d9c4d" data-media-id="c2e2955ccf0b3c9790f4d0dc0a8a6c3a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c2e2955ccf0b3c9790f4d0dc0a8a6c3a?postId=a9bba26d9c4d" data-media-id="c2e2955ccf0b3c9790f4d0dc0a8a6c3a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -237,7 +237,7 @@ To achieve this, we need to use the`GMSCircle` class. Here, we are not passing a
 
 
 
-<iframe width="700" height="250" src="/media/5b5b4c35cd5b9e42768d0ffd4d38ebf9?postId=a9bba26d9c4d" data-media-id="5b5b4c35cd5b9e42768d0ffd4d38ebf9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5b5b4c35cd5b9e42768d0ffd4d38ebf9?postId=a9bba26d9c4d" data-media-id="5b5b4c35cd5b9e42768d0ffd4d38ebf9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F18553031%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -314,7 +314,7 @@ If you have found something useful, please clap👏 or share this story to sprea
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/f00a4df5766dfd54db32ea3b92288dfe?postId=a9bba26d9c4d" data-media-id="f00a4df5766dfd54db32ea3b92288dfe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/f00a4df5766dfd54db32ea3b92288dfe?postId=a9bba26d9c4d" data-media-id="f00a4df5766dfd54db32ea3b92288dfe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

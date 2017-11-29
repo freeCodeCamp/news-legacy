@@ -1,6 +1,6 @@
 ---
 author: Bhawana Singh
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1361529907235773
 title: "The 10 best face recognition apps for Android and iOS"
 subTitle: "Here are some of the best apps for facial recognition and fingerprint biometrics. These can help secure your software and your your Andro..."

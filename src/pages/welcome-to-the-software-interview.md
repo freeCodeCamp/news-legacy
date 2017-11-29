@@ -1,7 +1,7 @@
 ---
 author: Jose Aguinaga
 authorTwitter: https://twitter.com/jjperezaguinaga
-authorFacebook: false
+authorFacebook: none
 title: "What if companies interviewed translators the way they interview coders?"
 subTitle: "Candidate: Is this the right place for the interview?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*kx6KdhaaGWHini5tuAHNmQ.jpeg

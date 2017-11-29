@@ -1,7 +1,7 @@
 ---
 author: Christian Sepulveda
 authorTwitter: https://twitter.com/csepulv
-authorFacebook: false
+authorFacebook: none
 title: "How to build an Electron app using create-react-app. No webpack configuration or “ejecting” necessary."
 subTitle: "I recently built an Electron app using create-react-app. I didn’t need to muck about with Webpack, or “eject” my app, either. I’ll walk y..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*PQwgjFvq8KcaNOyjZqC5ig.jpeg

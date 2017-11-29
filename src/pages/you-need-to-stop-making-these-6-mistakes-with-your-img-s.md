@@ -1,7 +1,7 @@
 ---
 author: Anthony Ng
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Don’t ruin your &lt;img&gt;"
 subTitle: "As developers and designers, it’s our duty to ensure the best user experience possible. And you know what one huge part of that experienc..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*fXZTuZFmYlUNbu1OLfHm3w.jpeg

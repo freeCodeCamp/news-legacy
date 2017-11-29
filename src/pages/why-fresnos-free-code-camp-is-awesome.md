@@ -1,7 +1,7 @@
 ---
 author: Rick G
 authorTwitter: https://twitter.com/rickagz
-authorFacebook: false
+authorFacebook: none
 title: "How a bunch of strangers in Fresno found a venue, threw coding events, and got developer jobs"
 subTitle: "One year ago, I moved back from South Korea. I was living on my savings from a couple teaching gigs, not quite sure what to do next...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Kjdp_hzjF9PLIMS922_SpA.png

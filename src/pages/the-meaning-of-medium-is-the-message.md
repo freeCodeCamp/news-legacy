@@ -1,6 +1,6 @@
 ---
 author: Andrew McLuhan
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10153278312971628
 title: "The Meaning of ‘Medium’ is the Message."
 subTitle: "Much of the the confusion around the statement “the medium is the message” can be avoided if the reader is willing to first consider the ..."

@@ -1,7 +1,7 @@
 ---
 author: Vijayabharathi Balasubramanian
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to use Travis CI and GitHub for your web development workflow’s heavy lifting"
 subTitle: "It’s common to hack together apps on CodePen when you are starting out. But there will be a time when you will want to publish your own w..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KuG9pmpZOl03m_EM9eAQCw.jpeg

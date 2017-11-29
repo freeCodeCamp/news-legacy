@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "Dive into Deep Learning with 15 free online courses"
 subTitle: "Every day brings new headlines for how deep learning is changing the world around us. A few examples:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*10J-DLRWCaGE1GM_A7TFVg.jpeg
@@ -84,7 +84,7 @@ Prominent review (by [Christopher Kelly](https://www.class-central.com/mooc/6679
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/ac48772806999283de23fe916ed40543?postId=bf247d289cc0" data-media-id="ac48772806999283de23fe916ed40543" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9YVSZJ3mkic%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/ac48772806999283de23fe916ed40543?postId=bf247d289cc0" data-media-id="ac48772806999283de23fe916ed40543" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9YVSZJ3mkic%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -190,7 +190,7 @@ It isn’t organized like a traditional online course, but its organizers (inclu
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/e1d0062f07e2a6a3d4fb887fc4dfec5f?postId=bf247d289cc0" data-media-id="e1d0062f07e2a6a3d4fb887fc4dfec5f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F733514604031008768%2FlN57xjep_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/e1d0062f07e2a6a3d4fb887fc4dfec5f?postId=bf247d289cc0" data-media-id="e1d0062f07e2a6a3d4fb887fc4dfec5f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F733514604031008768%2FlN57xjep_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -383,7 +383,7 @@ Artificial Intelligence is transforming our world in dramatic and beneficial way
 
 
 
-<iframe data-width="1920" data-height="1080" width="980" height="551" src="/media/41017c93b2ec9736d709a6b69600c6be?postId=bf247d289cc0" data-media-id="41017c93b2ec9736d709a6b69600c6be" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F613869925_1280.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1920" data-height="1080" width="980" height="551" src="https://medium.freecodecamp.org/media/41017c93b2ec9736d709a6b69600c6be?postId=bf247d289cc0" data-media-id="41017c93b2ec9736d709a6b69600c6be" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F613869925_1280.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

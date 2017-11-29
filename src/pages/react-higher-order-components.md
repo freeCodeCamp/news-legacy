@@ -1,7 +1,7 @@
 ---
 author: Adam Recvlohe
 authorTwitter: https://twitter.com/adamrecvlohe
-authorFacebook: false
+authorFacebook: none
 title: "How to use React’s higher-order components"
 subTitle: "When React first hit the scene, it brought with it a new way of developing front-end architectures. It was regarded as the “View” in Mode..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg

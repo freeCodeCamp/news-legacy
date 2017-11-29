@@ -1,7 +1,7 @@
 ---
 author: Edd Yerburgh
 authorTwitter: https://twitter.com/EddYerburgh
-authorFacebook: false
+authorFacebook: none
 title: "Vue Test Utils and Jest: how to write simple unit tests for your front end"
 subTitle: "In this tutorial I’m going to show you how to test Vue components...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KlrR7EWfaDgtcW5hJGFjHQ.jpeg
@@ -74,7 +74,7 @@ Check out this file:
 
 
 
-<iframe width="700" height="250" src="/media/af5891488edf200128e43f4e9cf5db21?postId=c384d7abc321" data-media-id="af5891488edf200128e43f4e9cf5db21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/af5891488edf200128e43f4e9cf5db21?postId=c384d7abc321" data-media-id="af5891488edf200128e43f4e9cf5db21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ Copy the code below into the file:
 
 
 
-<iframe width="700" height="250" src="/media/743393b744dc33fc3f3fdbcd10f420aa?postId=c384d7abc321" data-media-id="743393b744dc33fc3f3fdbcd10f420aa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/743393b744dc33fc3f3fdbcd10f420aa?postId=c384d7abc321" data-media-id="743393b744dc33fc3f3fdbcd10f420aa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -166,7 +166,7 @@ Copy the code below into `src/components/__tests__/MessageToggle.spec.js`
 
 
 
-<iframe width="700" height="250" src="/media/c8a325834ab964813499683cd0ad3614?postId=c384d7abc321" data-media-id="c8a325834ab964813499683cd0ad3614" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c8a325834ab964813499683cd0ad3614?postId=c384d7abc321" data-media-id="c8a325834ab964813499683cd0ad3614" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -180,7 +180,7 @@ Ok, let’s add a more complicated test that performs an action on the `Messaget
 
 
 
-<iframe width="700" height="250" src="/media/84cf2da1c1f38a55d62265be75684675?postId=c384d7abc321" data-media-id="84cf2da1c1f38a55d62265be75684675" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/84cf2da1c1f38a55d62265be75684675?postId=c384d7abc321" data-media-id="84cf2da1c1f38a55d62265be75684675" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -204,7 +204,7 @@ Create a file `/src/components/__tests__/List.spec.js`, and paste in the code be
 
 
 
-<iframe width="700" height="250" src="/media/fe834f540ab6c6a1487449ca863b0e0b?postId=c384d7abc321" data-media-id="fe834f540ab6c6a1487449ca863b0e0b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fe834f540ab6c6a1487449ca863b0e0b?postId=c384d7abc321" data-media-id="fe834f540ab6c6a1487449ca863b0e0b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -238,7 +238,7 @@ Now update List.spec.js to include a snapshot test:
 
 
 
-<iframe width="700" height="250" src="/media/3b18fc089eda92a46ba70dfd816c755e?postId=c384d7abc321" data-media-id="3b18fc089eda92a46ba70dfd816c755e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3b18fc089eda92a46ba70dfd816c755e?postId=c384d7abc321" data-media-id="3b18fc089eda92a46ba70dfd816c755e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: James Y Rauhut
 authorTwitter: https://twitter.com/seejamescode
-authorFacebook: false
+authorFacebook: none
 title: "How to Design a Progressive Web App News Website"
 subTitle: "A lot of my work lately has been making design system specs and tools for IBM. Yet, I needed a break back into product design. So over th..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vx2DokMCll5imkF7cFP0EQ.png

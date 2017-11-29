@@ -46,7 +46,7 @@ I started with a straight forward implementation written in Scala. The code, wit
 
 
 
-<iframe width="700" height="250" src="/media/fb214db25f15fac57f239bd11d6bc030?postId=52e4c3696e53" data-media-id="fb214db25f15fac57f239bd11d6bc030" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13002533%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fb214db25f15fac57f239bd11d6bc030?postId=52e4c3696e53" data-media-id="fb214db25f15fac57f239bd11d6bc030" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13002533%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -66,7 +66,7 @@ My next implementation, again in Scala, replaces the fourth loop with the calcul
 
 
 
-<iframe width="700" height="250" src="/media/95ce1d99defa3f6fa411677492308a2b?postId=52e4c3696e53" data-media-id="95ce1d99defa3f6fa411677492308a2b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13002533%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/95ce1d99defa3f6fa411677492308a2b?postId=52e4c3696e53" data-media-id="95ce1d99defa3f6fa411677492308a2b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13002533%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ In the third version, we use a Hashmap to store the sum (key) and the correspond
 
 
 
-<iframe width="700" height="250" src="/media/9ea49bf16e6de5442a46e482a3d44a9f?postId=52e4c3696e53" data-media-id="9ea49bf16e6de5442a46e482a3d44a9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13002533%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9ea49bf16e6de5442a46e482a3d44a9f?postId=52e4c3696e53" data-media-id="9ea49bf16e6de5442a46e482a3d44a9f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13002533%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

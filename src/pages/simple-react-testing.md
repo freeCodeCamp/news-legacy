@@ -1,7 +1,7 @@
 ---
 author: Anthony Ng
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Let’s test React components with TDD, Mocha, Chai, and jsdom"
 subTitle: "In this tutorial, we’ll learn how to write tests for React Components...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*CrB6isZN6YXeM1rWmnjxHw.png

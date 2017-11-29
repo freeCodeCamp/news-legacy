@@ -1,7 +1,7 @@
 ---
 author: Jose Marcial Portilla
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to Install Scala and Apache Spark on MacOS"
 subTitle: "Here is a Step by Step guide to installing Scala and Apache Spark on MacOS...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*Pa7PO1v7bANI7C-eHMS_PQ.png

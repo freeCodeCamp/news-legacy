@@ -1,7 +1,7 @@
 ---
 author: Kenny Kuchera
 authorTwitter: https://twitter.com/KennyKuchera
-authorFacebook: false
+authorFacebook: none
 title: "How to hack a car — a quick crash-course"
 subTitle: "The goal of this article is to get you started hacking cars — fast, cheap, and easy. In order to do this, we’ll spoof the RPM gauge as an..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*LVuumyKElZ0zrQRQgjjSpw.jpeg

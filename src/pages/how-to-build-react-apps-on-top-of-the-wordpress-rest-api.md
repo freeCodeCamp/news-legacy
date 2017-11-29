@@ -1,7 +1,7 @@
 ---
 author: Andrey Pokrovskiy
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to build React apps on top of the WordPress REST API"
 subTitle: "UPDATE 06/16/2017:
 I updated the project to use ReactRouter 4 and Webpack 2. Some parts were refactored and simplified. Included links to..."
@@ -64,7 +64,7 @@ Let’s name the project “wp-api-react”. To follow along, first thing you ne
 
 
 
-<iframe width="700" height="250" src="/media/c0d497a2d69684ff7f598041f9469952?postId=bcc632808025" data-media-id="c0d497a2d69684ff7f598041f9469952" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c0d497a2d69684ff7f598041f9469952?postId=bcc632808025" data-media-id="c0d497a2d69684ff7f598041f9469952" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -82,7 +82,7 @@ Paste this in `webpack.dev.config.js`:
 
 
 
-<iframe width="700" height="250" src="/media/cc668be20c99d2af739efec5de192b2b?postId=bcc632808025" data-media-id="cc668be20c99d2af739efec5de192b2b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cc668be20c99d2af739efec5de192b2b?postId=bcc632808025" data-media-id="cc668be20c99d2af739efec5de192b2b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ And this in `webpack.production.config.js`:
 
 
 
-<iframe width="700" height="250" src="/media/df62ef296aef2cda77eef290294f2313?postId=bcc632808025" data-media-id="df62ef296aef2cda77eef290294f2313" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/df62ef296aef2cda77eef290294f2313?postId=bcc632808025" data-media-id="df62ef296aef2cda77eef290294f2313" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ Create “src” folder in the project root and create `index.html` inside of it
 
 
 
-<iframe width="700" height="250" src="/media/9a84f281ac59c20c3537512c19d360c9?postId=bcc632808025" data-media-id="9a84f281ac59c20c3537512c19d360c9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9a84f281ac59c20c3537512c19d360c9?postId=bcc632808025" data-media-id="9a84f281ac59c20c3537512c19d360c9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -127,7 +127,7 @@ By now the folder structure should look like this:
 
 
 
-<iframe width="700" height="250" src="/media/4716cd9528f8c3fce752968373c31224?postId=bcc632808025" data-media-id="4716cd9528f8c3fce752968373c31224" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4716cd9528f8c3fce752968373c31224?postId=bcc632808025" data-media-id="4716cd9528f8c3fce752968373c31224" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -139,7 +139,7 @@ By now the folder structure should look like this:
 
 
 
-<iframe width="700" height="250" src="/media/3fcf4622dac183c728e6ec526d877d87?postId=bcc632808025" data-media-id="3fcf4622dac183c728e6ec526d877d87" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3fcf4622dac183c728e6ec526d877d87?postId=bcc632808025" data-media-id="3fcf4622dac183c728e6ec526d877d87" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ Create `Alt.js` inside of the “alt” folder and paste this in the file:
 
 
 
-<iframe width="700" height="250" src="/media/b8274cfc1823406c6f5a7de8cf7019b0?postId=bcc632808025" data-media-id="b8274cfc1823406c6f5a7de8cf7019b0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b8274cfc1823406c6f5a7de8cf7019b0?postId=bcc632808025" data-media-id="b8274cfc1823406c6f5a7de8cf7019b0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -178,7 +178,7 @@ Create `DataActions.js` in the “actions” folder. This file will have all the
 
 
 
-<iframe width="700" height="250" src="/media/4f42682bed2656316d1147288162dc5f?postId=bcc632808025" data-media-id="4f42682bed2656316d1147288162dc5f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4f42682bed2656316d1147288162dc5f?postId=bcc632808025" data-media-id="4f42682bed2656316d1147288162dc5f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -192,7 +192,7 @@ Create `DataStore.js` in “stores” folder. This file will be listening to Dat
 
 
 
-<iframe width="700" height="250" src="/media/19f3bcfbb62413845a2f9b79453b8696?postId=bcc632808025" data-media-id="19f3bcfbb62413845a2f9b79453b8696" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/19f3bcfbb62413845a2f9b79453b8696?postId=bcc632808025" data-media-id="19f3bcfbb62413845a2f9b79453b8696" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -204,7 +204,7 @@ To get data from the WordPress API and make it available for the app you need to
 
 
 
-<iframe width="700" height="250" src="/media/766ded690ade0bb5ee80a8de8a51e0b6?postId=bcc632808025" data-media-id="766ded690ade0bb5ee80a8de8a51e0b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/766ded690ade0bb5ee80a8de8a51e0b6?postId=bcc632808025" data-media-id="766ded690ade0bb5ee80a8de8a51e0b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -218,7 +218,7 @@ To access it simply include the `DataStore.js` in any component and call the app
 
 
 
-<iframe width="700" height="250" src="/media/ae516ac2f1fb26a91ca6c8a495c0b544?postId=bcc632808025" data-media-id="ae516ac2f1fb26a91ca6c8a495c0b544" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ae516ac2f1fb26a91ca6c8a495c0b544?postId=bcc632808025" data-media-id="ae516ac2f1fb26a91ca6c8a495c0b544" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -236,7 +236,7 @@ Right now there are no routes set in the app other than the index route. If you 
 
 
 
-<iframe width="700" height="250" src="/media/09378ed9e01d51f679e438095114b400?postId=bcc632808025" data-media-id="09378ed9e01d51f679e438095114b400" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/09378ed9e01d51f679e438095114b400?postId=bcc632808025" data-media-id="09378ed9e01d51f679e438095114b400" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -258,7 +258,7 @@ Let’s assume we have two pages with slugs “home” and “about”. We need 
 
 
 
-<iframe width="700" height="250" src="/media/a69d28963a96e33c53a8d56d05fd8309?postId=bcc632808025" data-media-id="a69d28963a96e33c53a8d56d05fd8309" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a69d28963a96e33c53a8d56d05fd8309?postId=bcc632808025" data-media-id="a69d28963a96e33c53a8d56d05fd8309" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -285,7 +285,7 @@ Now we’re going to add a global navigation that will reflect all WordPress bac
 
 
 
-<iframe width="700" height="250" src="/media/a6cd9efe44d7bee65199f6498c7f0c35?postId=bcc632808025" data-media-id="a6cd9efe44d7bee65199f6498c7f0c35" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a6cd9efe44d7bee65199f6498c7f0c35?postId=bcc632808025" data-media-id="a6cd9efe44d7bee65199f6498c7f0c35" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -299,7 +299,7 @@ Include the `Header.js` component into `index.js` and you’ll see the dynamic n
 
 
 
-<iframe width="700" height="250" src="/media/f9e77e3c2d067abd2e70cd1a610fc3b1?postId=bcc632808025" data-media-id="f9e77e3c2d067abd2e70cd1a610fc3b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f9e77e3c2d067abd2e70cd1a610fc3b1?postId=bcc632808025" data-media-id="f9e77e3c2d067abd2e70cd1a610fc3b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F12819752%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

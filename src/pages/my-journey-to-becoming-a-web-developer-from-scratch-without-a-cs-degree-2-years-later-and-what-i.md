@@ -1,6 +1,6 @@
 ---
 author: Sergei Garcia
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1793825250854268
 title: "My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)"
 subTitle: "First, let me introduce myself. My name is Sergei Garcia, and I’m a full-time front end developer with 2 years experience. In that time, ..."

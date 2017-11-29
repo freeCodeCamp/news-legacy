@@ -1,7 +1,7 @@
 ---
 author: Jaime J. Rios
 authorTwitter: https://twitter.com/jaimejrivers
-authorFacebook: false
+authorFacebook: none
 title: "Transcending the Technical Interview"
 subTitle: "“Wow. What a chastening and shameful experience that was.”..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*szngyckZ_80UDRDC5h0oAQ.jpeg

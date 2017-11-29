@@ -1,7 +1,7 @@
 ---
 author: Irene Kuo
 authorTwitter: https://twitter.com/irekuo
-authorFacebook: false
+authorFacebook: none
 title: "Guerrilla Usability Testing the New Experiences Feature on Airbnb’s iOS App"
 subTitle: "Airbnb recently came out with Experiences, which are activities designed and led by hosts. I encountered some problems when using the new..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*RFAjky3MMTttnIrSeRZYpg.jpeg

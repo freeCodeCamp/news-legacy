@@ -1,7 +1,7 @@
 ---
 author: Fabio Hiroki
 authorTwitter: https://twitter.com/fabiohiroki
-authorFacebook: false
+authorFacebook: none
 title: "Let’s explore the benefits of Cycle.js and Model-View-Intent"
 subTitle: "In the current software development ecosystem, it's not surprising that Model-View-Controller (MVC) architecture doesn’t have a great rep..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*r980RzYbz7ShlZEYsd089A.jpeg

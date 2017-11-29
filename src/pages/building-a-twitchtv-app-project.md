@@ -1,7 +1,7 @@
 ---
 author: Ayo Isaiah
 authorTwitter: https://twitter.com/AyIsaiah
-authorFacebook: false
+authorFacebook: none
 title: "Building a TwitchTV Status App"
 subTitle: "Last week, I tackled the last of the Intermediate Front-End Projects which involved building a TwitchTv App using the Twitch API to displ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*9j9Qs6T6aOVoclHT5bKILw.jpeg

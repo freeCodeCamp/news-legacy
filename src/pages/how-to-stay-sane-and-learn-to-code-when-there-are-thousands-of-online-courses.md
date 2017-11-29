@@ -1,7 +1,7 @@
 ---
 author: Travis Chan
 authorTwitter: https://twitter.com/travychan
-authorFacebook: false
+authorFacebook: none
 title: "How to stay sane and learn to code when there are thousands of online courses"
 subTitle: "We live in the information age. Information about anything we can think of is accessible to us, at the tip of our fingertips. While this ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*wuQDtZQjdEhwQhGMkwVUsw.jpeg

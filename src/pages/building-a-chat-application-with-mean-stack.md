@@ -1,7 +1,7 @@
 ---
 author: Sudheesh Shetty
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to build your own real-time chat app"
 subTitle: "Messaging apps are surging in popularity. The past few years have brought apps like WhatsApp, Telegram, Signal, and Line...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*q9WivDkg8ALSxw1jG1y1Jw.jpeg

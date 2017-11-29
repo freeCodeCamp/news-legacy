@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "The 6 most desirable coding jobs (and the types of people drawn to each)"
 subTitle: "Free Code Camp asked 15,000 people who they are, and how they’re learning to code. I separated them by their job preference, then explored their differences."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*g4XcQbA156OfOKVlMox2Tw.png

@@ -1,7 +1,7 @@
 ---
 author: benjamin bannister
 authorTwitter: https://twitter.com/mrbenbannister
-authorFacebook: false
+authorFacebook: none
 title: "The Future of the iPhone X: From the Realistic to the Absurd"
 subTitle: "As a user and fan of the iPhone, I filmed a spoof video for an imaginary product called The iPhone X3...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QzmPP_NX-jthlR-bn4019w.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/the-future-of-the-iphone-x-from-the-realist
 id: the-future-of-the-iphone-x-from-the-realistic-to-the-absurd-f33bee3288ea
 date: 2017-09-28T14:30:09.714Z
 tags: [
-  "Apple",
-  "iPhone",
-  "Design",
-  "Tech",
-  "Startup"
+	"Apple",
+	"iPhone",
+	"Design",
+	"Tech",
+	"Startup"
 ]
 ---
 # The Future of the iPhone X: From the Realistic to the Absurd
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*QzmPP_NX-jthlR-bn4019w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*QzmPP_NX-jthlR-bn4019w.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*QzmPP_NX-jthlR-bn4019w.png"&gt;</noscript>
 
 
 
@@ -54,11 +51,9 @@ As a user and fan of the iPhone, I filmed a spoof video for an imaginary product
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQRDl_UypTx4%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<iframe data-width="854" data-height="480" width="700" height="393" data-src="/media/54c2362f76a0f23730e4d79028f921f3?postId=f33bee3288ea" data-media-id="54c2362f76a0f23730e4d79028f921f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQRDl_UypTx4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0" src="/media/54c2362f76a0f23730e4d79028f921f3?postId=f33bee3288ea"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" data-src="https://medium.freecodecamp.org/media/54c2362f76a0f23730e4d79028f921f3?postId=f33bee3288ea" data-media-id="54c2362f76a0f23730e4d79028f921f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQRDl_UypTx4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0" src="/media/54c2362f76a0f23730e4d79028f921f3?postId=f33bee3288ea"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="854" data-height="480" width="700" height="393" src="/media/54c2362f76a0f23730e4d79028f921f3?postId=f33bee3288ea" data-media-id="54c2362f76a0f23730e4d79028f921f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQRDl_UypTx4%2Fhqdefault.jpg&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -76,11 +71,8 @@ Wireless Qi charging is finally here on the newest iPhones! This would otherwise
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*lQx-2Pi3CNojzzpYd4P6XA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*lQx-2Pi3CNojzzpYd4P6XA.gif"&gt;</noscript>
 
 
 
@@ -106,11 +98,8 @@ In the video, a male character enters the New York City Subway by scanning his p
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IacDcIm-vmHAFa5iyBoFew.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*IacDcIm-vmHAFa5iyBoFew.gif"&gt;</noscript>
 
 
 
@@ -136,11 +125,8 @@ Imagine your phone showing a holographic projection in front of you that overlay
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*V5ESdz8vJ3r62W4pK8ocLA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*V5ESdz8vJ3r62W4pK8ocLA.gif"&gt;</noscript>
 
 
 
@@ -162,11 +148,8 @@ I had my phone stolen one time from a very bold pickpocket. It was in a crowded 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9MWPYesP4uNzrnxWNSBqDQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9MWPYesP4uNzrnxWNSBqDQ.gif"&gt;</noscript>
 
 
 
@@ -190,11 +173,8 @@ In the video, we see a woman giving a presentation. We initially assume the proj
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*T28AYx4_M4P77G0OCZyUZw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*T28AYx4_M4P77G0OCZyUZw.gif"&gt;</noscript>
 
 
 
@@ -214,11 +194,9 @@ Take something as cool as these Halloween projection effects. They all look awes
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3hKdN8OQhRA%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<iframe data-width="854" data-height="480" width="700" height="393" data-src="/media/71534b3f09f03c2fa29c7db8c1e70043?postId=f33bee3288ea" data-media-id="71534b3f09f03c2fa29c7db8c1e70043" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3hKdN8OQhRA%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" data-src="https://medium.freecodecamp.org/media/71534b3f09f03c2fa29c7db8c1e70043?postId=f33bee3288ea" data-media-id="71534b3f09f03c2fa29c7db8c1e70043" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3hKdN8OQhRA%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="854" data-height="480" width="700" height="393" src="/media/71534b3f09f03c2fa29c7db8c1e70043?postId=f33bee3288ea" data-media-id="71534b3f09f03c2fa29c7db8c1e70043" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3hKdN8OQhRA%2Fhqdefault.jpg&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -238,11 +216,8 @@ I was just having fun with this feature. Past news report that Apple bought an e
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*p_qvKm4JrwFYOSgsMtSzdw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*p_qvKm4JrwFYOSgsMtSzdw.gif"&gt;</noscript>
 
 
 
@@ -270,11 +245,8 @@ What else could Apple have done to make us smile? I decided everyone likes kitte
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hBB5nDIvcKBVnSUVohalcQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*hBB5nDIvcKBVnSUVohalcQ.gif"&gt;</noscript>
 
 
 
@@ -342,11 +314,8 @@ Here are scans of the original storyboards used for filming. As with most things
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Q51hhEOVdO267ii9qJqzjA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Q51hhEOVdO267ii9qJqzjA.png"&gt;</noscript>
 
 
 
@@ -364,11 +333,8 @@ Here are scans of the original storyboards used for filming. As with most things
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*h6KbMoKG2jh5qlxr7E2D_A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*h6KbMoKG2jh5qlxr7E2D_A.png"&gt;</noscript>
 
 
 
@@ -386,11 +352,8 @@ Here are scans of the original storyboards used for filming. As with most things
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ME_9T8TujIMVhblpxBDNAw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*ME_9T8TujIMVhblpxBDNAw.png"&gt;</noscript>
 
 
 
@@ -408,11 +371,8 @@ Here are scans of the original storyboards used for filming. As with most things
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*HetFb-d4QZ00Lt6QB35jUg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*HetFb-d4QZ00Lt6QB35jUg.jpeg"&gt;</noscript>
 
 
 
@@ -430,11 +390,8 @@ Here are scans of the original storyboards used for filming. As with most things
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*M64dYqkg3M1LNL0ccQn0wg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*M64dYqkg3M1LNL0ccQn0wg.jpeg"&gt;</noscript>
 
 
 
@@ -452,11 +409,8 @@ Here are scans of the original storyboards used for filming. As with most things
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vaLTbvJRBWMWeR6fWSLxaA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*vaLTbvJRBWMWeR6fWSLxaA.png"&gt;</noscript>
 
 
 
@@ -474,11 +428,8 @@ Here are scans of the original storyboards used for filming. As with most things
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5S2XFLZPMSTWqjvPebKXqw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*5S2XFLZPMSTWqjvPebKXqw.png"&gt;</noscript>
 
 
 
@@ -496,11 +447,8 @@ Here are scans of the original storyboards used for filming. As with most things
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cqdkl5Q3gqD29TLL-Jqg2g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*cqdkl5Q3gqD29TLL-Jqg2g.png"&gt;</noscript>
 
 
 
@@ -550,11 +498,8 @@ Here are scans of the original storyboards used for filming. As with most things
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*EiPW3Y4kKstQD7JZoM_dFw.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*EiPW3Y4kKstQD7JZoM_dFw.png"&gt;</noscript>
 
 ](http://www.benjaminbannister.com/) 
 

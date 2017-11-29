@@ -1,7 +1,7 @@
 ---
 author: Zell Liew
 authorTwitter: https://twitter.com/zellwk
-authorFacebook: false
+authorFacebook: none
 title: "Building a CRUD Application with Express and MongoDB — Part 2"
 subTitle: "This article is the second part on creating a CRUD application with Express and MongoDB. We’re going to venture deep into the last two op..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*X0yjvqfSbtopiKwuOiUAsw.png

@@ -1,7 +1,7 @@
 ---
 author: David Valdman
 authorTwitter: https://twitter.com/dmvaldman
-authorFacebook: false
+authorFacebook: none
 title: "Descartes, Berkeley and Functional Reactive Programming"
 subTitle: "Functional reactive programming is laden with unfamiliar terminology to the newcomer: pure functions, immutability, monads, etc. But bene..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*eZcgzUUKk-PnETNqIXMfcw.png

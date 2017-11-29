@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/the-practical-guide-to-becoming-a-professio
 id: the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90
 date: 2016-06-21T06:46:22.924Z
 tags: [
-  "Web Development",
-  "Programming",
-  "Coding",
-  "Learning To Code",
-  "Tech"
+	"Web Development",
+	"Programming",
+	"Coding",
+	"Learning To Code",
+	"Tech"
 ]
 ---
 # The Practical Guide to Becoming a Professional Web Developer
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PcdVjpFt9JgG1rKFTw6p_A.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*PcdVjpFt9JgG1rKFTw6p_A.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*PcdVjpFt9JgG1rKFTw6p_A.jpeg"&gt;</noscript>
 
 
 
@@ -68,11 +65,8 @@ Money is not the most important thing. You need to ❤ **LOVE** ❤ what you do!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*I5Lyn44SoqmY0EXC6xMkAw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*I5Lyn44SoqmY0EXC6xMkAw.gif"&gt;</noscript>
 
 
 
@@ -90,11 +84,8 @@ This guide is all about helping you get familiar with as many areas of web devel
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EtmtTWd25RQpzrEoEqijrw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*EtmtTWd25RQpzrEoEqijrw.gif"&gt;</noscript>
 
 
 
@@ -181,7 +172,7 @@ If you’ve been exposed to both ends, it’s time to make a choice. If not, ple
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/e51eccc6c68249e37df7be8c1f41d03c?postId=2f255bc25c90" data-media-id="e51eccc6c68249e37df7be8c1f41d03c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/e51eccc6c68249e37df7be8c1f41d03c?postId=2f255bc25c90" data-media-id="e51eccc6c68249e37df7be8c1f41d03c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -217,11 +208,8 @@ Follow this [intermediate HTML tutorial](http://htmldog.com/guides/html/intermed
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Uo_ErBHstor1npe-538pzA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="17"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Uo_ErBHstor1npe-538pzA.png"&gt;</noscript>
 
 
 
@@ -264,11 +252,8 @@ Here’s what seems to be in demand at the time of this writing:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*RUXF0w7ydtbqDYGuZvGVKA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="25"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*RUXF0w7ydtbqDYGuZvGVKA.png"&gt;</noscript>
 
 
 
@@ -315,11 +300,8 @@ Congratulations! You now have the key skills needed to be a Front End Developer!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_bxllkmtVm0q6wztSZwWmg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_bxllkmtVm0q6wztSZwWmg.gif"&gt;</noscript>
 
 
 
@@ -337,11 +319,8 @@ Excellent! The first step, is choosing a language. On the back-end, there are ma
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*I42k4jmp3M-DZoRav5QZlQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*I42k4jmp3M-DZoRav5QZlQ.png"&gt;</noscript>
 
 
 
@@ -389,11 +368,8 @@ There’s a lot of PHP in the marketplace but, at least according to this datase
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EERAuKppN6kQQc1LRk2Jlw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*EERAuKppN6kQQc1LRk2Jlw.gif"&gt;</noscript>
 
 
 
@@ -451,11 +427,8 @@ I confess, that’s a bit of a cheeky title for what I am about to suggest here,
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ksjyo7o5QLDH-1hKRzZpqg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Ksjyo7o5QLDH-1hKRzZpqg.gif"&gt;</noscript>
 
 
 
@@ -473,11 +446,8 @@ Check this out…
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*WfjP2oWKh6z-nZBLg8jSqg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*WfjP2oWKh6z-nZBLg8jSqg.png"&gt;</noscript>
 
 
 

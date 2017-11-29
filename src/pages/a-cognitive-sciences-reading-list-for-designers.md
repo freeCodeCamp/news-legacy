@@ -1,7 +1,7 @@
 ---
 author: Andy Fitzgerald
 authorTwitter: https://twitter.com/andybywire
-authorFacebook: false
+authorFacebook: none
 title: "A Cognitive Sciences Reading List for Designers"
 subTitle: "If you’ve ever done any contextual inquiry or usability testing, you’ve probably observed first hand the difference between what people s..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*oKOl5SS8hsaDWETEAOFGlQ.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Sean Smith
 authorTwitter: https://twitter.com/bonham_000
-authorFacebook: false
+authorFacebook: none
 title: "How I went from zero to San Francisco software engineer in 12 months"
 subTitle: "One year ago, I was working part-time as a route setter at a rock climbing gym in Tennessee. Today I’m working as a software engineer at ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0bol3LjETDtx6kC1tVDxOQ.jpeg

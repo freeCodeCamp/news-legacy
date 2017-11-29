@@ -1,7 +1,7 @@
 ---
 author: Mark Watson
 authorTwitter: https://twitter.com/markwatsonatx
-authorFacebook: false
+authorFacebook: none
 title: "Have you had “The Talk” with your chatbot about graph data structures?"
 subTitle: "A coming-of-age story for your database model"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*AeUDHuLM_pyfNZ3ZP5znyQ.png
@@ -202,7 +202,7 @@ A “more personal experience” for Recipe Bot means allowing users to request 
 
 
 
-<iframe width="700" height="250" src="/media/bd2ab2e520daca0b22726341140052af?postId=3aaf5c3ae52c" data-media-id="bd2ab2e520daca0b22726341140052af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F7252838%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bd2ab2e520daca0b22726341140052af?postId=3aaf5c3ae52c" data-media-id="bd2ab2e520daca0b22726341140052af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F7252838%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -226,7 +226,7 @@ You can find popular recipes that use onions by issuing the following query. (I�
 
 
 
-<iframe width="700" height="250" src="/media/2f4ddd512952698aa5f80f84f4fead61?postId=3aaf5c3ae52c" data-media-id="2f4ddd512952698aa5f80f84f4fead61" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F7252838%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2f4ddd512952698aa5f80f84f4fead61?postId=3aaf5c3ae52c" data-media-id="2f4ddd512952698aa5f80f84f4fead61" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F7252838%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -264,7 +264,7 @@ You can access these recommended recipes at index 1.
 
 
 
-<iframe width="700" height="250" src="/media/822aa1016dd24f13f6b2854aa0690a93?postId=3aaf5c3ae52c" data-media-id="822aa1016dd24f13f6b2854aa0690a93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F7252838%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/822aa1016dd24f13f6b2854aa0690a93?postId=3aaf5c3ae52c" data-media-id="822aa1016dd24f13f6b2854aa0690a93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F7252838%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

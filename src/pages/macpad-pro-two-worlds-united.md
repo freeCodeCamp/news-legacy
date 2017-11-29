@@ -1,7 +1,7 @@
 ---
 author: benjamin bannister
 authorTwitter: https://twitter.com/mrbenbannister
-authorFacebook: false
+authorFacebook: none
 title: "What Would an Apple MacPad Pro Look Like?"
 subTitle: "Apple has created many near-magical devices that enrich our lives. Their products exude ultra premium design, with a multitude of useful ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QmBaLRzm5Z414PcZ-zLm6A.jpeg

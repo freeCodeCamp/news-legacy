@@ -1,19 +1,19 @@
 ---
 author: Haseeb Qureshi
 authorTwitter: https://twitter.com/hosseeb
-authorFacebook: false
+authorFacebook: none
 title: "That time I had to crack my own Reddit password"
 subTitle: "(Kinda.)"
-coverSrc: 
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*ZAFlM8eSiuGVRo9P-8L6MQ.jpeg
 url: https://medium.freecodecamp.org/the-time-i-had-to-crack-my-own-reddit-password-a6077c0a13b4
 id: the-time-i-had-to-crack-my-own-reddit-password-a6077c0a13b4
 date: 2017-04-06T07:04:21.889Z
 tags: [
-  "Web Development",
-  "Security",
-  "Humor",
-  "Tech",
-  "Ruby"
+	"Web Development",
+	"Security",
+	"Humor",
+	"Tech",
+	"Ruby"
 ]
 ---
 # That time I had to crack my own Reddit password
@@ -28,11 +28,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ZAFlM8eSiuGVRo9P-8L6MQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*ZAFlM8eSiuGVRo9P-8L6MQ.jpeg"&gt;</noscript>
+![](https://cdn-images-1.medium.com/max/2000/1*ZAFlM8eSiuGVRo9P-8L6MQ.jpeg)
+
 
 
 
@@ -56,11 +55,9 @@ Luckily, I know this about myself. This allows me to consciously engineer my lif
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgOH54eiriYIwM%2Fgiphy.gif&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe data-width="500" data-height="281" width="500" height="281" data-src="/media/408c6e77705a7bba3ae26bf5bcf5afd1?postId=a6077c0a13b4" data-media-id="408c6e77705a7bba3ae26bf5bcf5afd1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgOH54eiriYIwM%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="281" width="500" height="281" data-src="https://medium.freecodecamp.org/media/408c6e77705a7bba3ae26bf5bcf5afd1?postId=a6077c0a13b4" data-media-id="408c6e77705a7bba3ae26bf5bcf5afd1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgOH54eiriYIwM%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="500" data-height="281" width="500" height="281" src="/media/408c6e77705a7bba3ae26bf5bcf5afd1?postId=a6077c0a13b4" data-media-id="408c6e77705a7bba3ae26bf5bcf5afd1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgOH54eiriYIwM%2Fgiphy.gif&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -82,11 +79,8 @@ So it occurred to me: how about I lock myself out of my account?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8Zpw3ipnu92ehqA_6T-o8w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*8Zpw3ipnu92ehqA_6T-o8w.gif"&gt;</noscript>
 
 
 
@@ -106,11 +100,9 @@ Unfortunately it turns out, friends are very susceptible to social engineering. 
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FuB6rsQFg5yPzW%2F200.gif&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe data-width="435" data-height="326" width="435" height="326" data-src="/media/8ccfe8f832a8c9c67a077fb06cd9d217?postId=a6077c0a13b4" data-media-id="8ccfe8f832a8c9c67a077fb06cd9d217" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FuB6rsQFg5yPzW%2F200.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="326" width="435" height="326" data-src="https://medium.freecodecamp.org/media/8ccfe8f832a8c9c67a077fb06cd9d217?postId=a6077c0a13b4" data-media-id="8ccfe8f832a8c9c67a077fb06cd9d217" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FuB6rsQFg5yPzW%2F200.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="435" data-height="326" width="435" height="326" src="/media/8ccfe8f832a8c9c67a077fb06cd9d217?postId=a6077c0a13b4" data-media-id="8ccfe8f832a8c9c67a077fb06cd9d217" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FuB6rsQFg5yPzW%2F200.gif&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -126,11 +118,6 @@ After a few rounds of this failure mode, I needed a more robust solution. A litt
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iMtDCzvNYVF9UOeiIbU7Ww.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*iMtDCzvNYVF9UOeiIbU7Ww.png"&gt;</noscript>
 
 
 
@@ -142,11 +129,10 @@ After a few rounds of this failure mode, I needed a more robust solution. A litt
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7QCLp-4HnnDwgj1FSnRstw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7QCLp-4HnnDwgj1FSnRstw.png"&gt;</noscript>
+
+
 
 
 
@@ -164,11 +150,8 @@ A bit sketchy looking, but hey, any port in a storm.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*TOUIDOIRHiVySUWt46n3mw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*TOUIDOIRHiVySUWt46n3mw.gif"&gt;</noscript>
 
 
 
@@ -190,11 +173,8 @@ I decide to scrounge up my old account and find my Reddit password.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sAr_MYJtJVkNq6uHiVQxtQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sAr_MYJtJVkNq6uHiVQxtQ.gif"&gt;</noscript>
 
 
 
@@ -220,11 +200,8 @@ I pulled up the app on my mobile phone and tried it:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*DvLUtm_ZGOaTGKy1bOuyYQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*DvLUtm_ZGOaTGKy1bOuyYQ.gif"&gt;</noscript>
 
 
 
@@ -240,11 +217,8 @@ Okay. So it’s indexing the subject for sure. What about the body?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*esw6gkV0G-M1JKaPAqipLA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*esw6gkV0G-M1JKaPAqipLA.gif"&gt;</noscript>
 
 
 
@@ -272,11 +246,8 @@ We also have a subject line as part of the string we’re querying. And we know 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*XvaVCyWtSdqKSz59HKnNDw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*XvaVCyWtSdqKSz59HKnNDw.png"&gt;</noscript>
 
 
 
@@ -298,11 +269,8 @@ We keep trying letters one by one until we hit a match for something that’s no
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*fdoVAq3t5naQ5G9yARr0RA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*fdoVAq3t5naQ5G9yARr0RA.png"&gt;</noscript>
 
 
 
@@ -318,11 +286,8 @@ We’ll potentially have to iterate through every character in our alphabet to f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GJ5xKZzTe0F5un-Iz11pXg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*GJ5xKZzTe0F5un-Iz11pXg.png"&gt;</noscript>
 
 
 
@@ -336,11 +301,8 @@ I’ll keep building this substring until it eventually hits the end and no char
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*E9ri3Rf8LBPxUTjgs5BvPQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*E9ri3Rf8LBPxUTjgs5BvPQ.png"&gt;</noscript>
 
 
 
@@ -354,11 +316,8 @@ But that’s not enough — most likely, there will be a prefix to the strin
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*F_n0WGRP_8RJdFtR-v0b1g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*F_n0WGRP_8RJdFtR-v0b1g.png"&gt;</noscript>
 
 
 
@@ -382,11 +341,9 @@ This is actually doable.
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F119cVU19ICcAKc%2Fgiphy.gif&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe data-width="435" data-height="433" width="435" height="433" data-src="/media/cf2c01e9e9ff78a095663ad17f69c6a1?postId=a6077c0a13b4" data-media-id="cf2c01e9e9ff78a095663ad17f69c6a1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F119cVU19ICcAKc%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="433" width="435" height="433" data-src="https://medium.freecodecamp.org/media/cf2c01e9e9ff78a095663ad17f69c6a1?postId=a6077c0a13b4" data-media-id="cf2c01e9e9ff78a095663ad17f69c6a1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F119cVU19ICcAKc%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="435" data-height="433" width="435" height="433" src="/media/cf2c01e9e9ff78a095663ad17f69c6a1?postId=a6077c0a13b4" data-media-id="cf2c01e9e9ff78a095663ad17f69c6a1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F119cVU19ICcAKc%2Fgiphy.gif&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -412,11 +369,9 @@ I’ll start by making an API class.
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/36596f46d8262ccacdfa09d2158a128e?postId=a6077c0a13b4" data-media-id="36596f46d8262ccacdfa09d2158a128e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/36596f46d8262ccacdfa09d2158a128e?postId=a6077c0a13b4" data-media-id="36596f46d8262ccacdfa09d2158a128e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/36596f46d8262ccacdfa09d2158a128e?postId=a6077c0a13b4" data-media-id="36596f46d8262ccacdfa09d2158a128e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -456,11 +411,8 @@ So how do we sign in? We need to send in our [cookies](http://stackoverflow.com/
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PSxZtW4wppyzRXMdBWgGWw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PSxZtW4wppyzRXMdBWgGWw.gif"&gt;</noscript>
 
 
 
@@ -480,11 +432,9 @@ So I add these to the script. (This is a fake cookie, just for illustration.)
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/a4e98d75030aa2609ca07fe2b32fa92c?postId=a6077c0a13b4" data-media-id="a4e98d75030aa2609ca07fe2b32fa92c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/a4e98d75030aa2609ca07fe2b32fa92c?postId=a6077c0a13b4" data-media-id="a4e98d75030aa2609ca07fe2b32fa92c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/a4e98d75030aa2609ca07fe2b32fa92c?postId=a6077c0a13b4" data-media-id="a4e98d75030aa2609ca07fe2b32fa92c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -506,11 +456,8 @@ We’ve got the scraping down, now we just have to parse the result. Luckily, th
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cZT37Ji9j8sm8dobFpiAWQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*cZT37Ji9j8sm8dobFpiAWQ.png"&gt;</noscript>
 
 
 
@@ -524,11 +471,9 @@ We’ve got the scraping down, now we just have to parse the result. Luckily, th
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/27b7a2af717f603f7a98161484ebcc4a?postId=a6077c0a13b4" data-media-id="27b7a2af717f603f7a98161484ebcc4a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/27b7a2af717f603f7a98161484ebcc4a?postId=a6077c0a13b4" data-media-id="27b7a2af717f603f7a98161484ebcc4a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/27b7a2af717f603f7a98161484ebcc4a?postId=a6077c0a13b4" data-media-id="27b7a2af717f603f7a98161484ebcc4a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -560,11 +505,9 @@ So here’s the stubbed API, with a random secret string:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/382d8610d09db7c99b989a8d27f2ed07?postId=a6077c0a13b4" data-media-id="382d8610d09db7c99b989a8d27f2ed07" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/382d8610d09db7c99b989a8d27f2ed07?postId=a6077c0a13b4" data-media-id="382d8610d09db7c99b989a8d27f2ed07" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/382d8610d09db7c99b989a8d27f2ed07?postId=a6077c0a13b4" data-media-id="382d8610d09db7c99b989a8d27f2ed07" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -590,11 +533,9 @@ Let’s start with initialization. We’ll inject the API, and other than that w
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/1fcdf8f2ecda54dce8295b5573128fa6?postId=a6077c0a13b4" data-media-id="1fcdf8f2ecda54dce8295b5573128fa6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/1fcdf8f2ecda54dce8295b5573128fa6?postId=a6077c0a13b4" data-media-id="1fcdf8f2ecda54dce8295b5573128fa6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/1fcdf8f2ecda54dce8295b5573128fa6?postId=a6077c0a13b4" data-media-id="1fcdf8f2ecda54dce8295b5573128fa6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -610,11 +551,9 @@ Now let’s write three methods, following the steps we outlined.
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/2c9414647b265cb67e7d0536a995d0d0?postId=a6077c0a13b4" data-media-id="2c9414647b265cb67e7d0536a995d0d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/2c9414647b265cb67e7d0536a995d0d0?postId=a6077c0a13b4" data-media-id="2c9414647b265cb67e7d0536a995d0d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/2c9414647b265cb67e7d0536a995d0d0?postId=a6077c0a13b4" data-media-id="2c9414647b265cb67e7d0536a995d0d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -642,11 +581,9 @@ That’s all the setup we need. Now time to write `find_starting_letter`. This n
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/e7cb6eb525d5a7d4843feff70a685124?postId=a6077c0a13b4" data-media-id="e7cb6eb525d5a7d4843feff70a685124" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/e7cb6eb525d5a7d4843feff70a685124?postId=a6077c0a13b4" data-media-id="e7cb6eb525d5a7d4843feff70a685124" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/e7cb6eb525d5a7d4843feff70a685124?postId=a6077c0a13b4" data-media-id="e7cb6eb525d5a7d4843feff70a685124" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -668,11 +605,9 @@ I’m going to do this recursively, because it makes the structure very elegant.
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/198715f5ef600ea045466a25379a292a?postId=a6077c0a13b4" data-media-id="198715f5ef600ea045466a25379a292a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/198715f5ef600ea045466a25379a292a?postId=a6077c0a13b4" data-media-id="198715f5ef600ea045466a25379a292a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/198715f5ef600ea045466a25379a292a?postId=a6077c0a13b4" data-media-id="198715f5ef600ea045466a25379a292a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -724,11 +659,9 @@ Awesome. We’ve got a suffix, now just to build backward and complete the strin
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/037eca1a170408ebfad7c871b8751460?postId=a6077c0a13b4" data-media-id="037eca1a170408ebfad7c871b8751460" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/037eca1a170408ebfad7c871b8751460?postId=a6077c0a13b4" data-media-id="037eca1a170408ebfad7c871b8751460" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/037eca1a170408ebfad7c871b8751460?postId=a6077c0a13b4" data-media-id="037eca1a170408ebfad7c871b8751460" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -744,11 +677,9 @@ In fact, there’s only two lines of difference here: how we construct the `gues
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/a307fa52c7c0a94582080d0b23614ab9?postId=a6077c0a13b4" data-media-id="a307fa52c7c0a94582080d0b23614ab9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/a307fa52c7c0a94582080d0b23614ab9?postId=a6077c0a13b4" data-media-id="a307fa52c7c0a94582080d0b23614ab9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/a307fa52c7c0a94582080d0b23614ab9?postId=a6077c0a13b4" data-media-id="a307fa52c7c0a94582080d0b23614ab9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -764,11 +695,9 @@ Now these other calls simply reduce to:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/53292ffb6bd86296136c8a14eb1647a8?postId=a6077c0a13b4" data-media-id="53292ffb6bd86296136c8a14eb1647a8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/53292ffb6bd86296136c8a14eb1647a8?postId=a6077c0a13b4" data-media-id="53292ffb6bd86296136c8a14eb1647a8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/53292ffb6bd86296136c8a14eb1647a8?postId=a6077c0a13b4" data-media-id="53292ffb6bd86296136c8a14eb1647a8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -834,11 +763,9 @@ Beautiful. Now let’s just add some more print statements and a bit of extra lo
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe width="700" height="250" data-src="/media/deb13dae52829c211208210896e97571?postId=a6077c0a13b4" data-media-id="deb13dae52829c211208210896e97571" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/deb13dae52829c211208210896e97571?postId=a6077c0a13b4" data-media-id="deb13dae52829c211208210896e97571" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/deb13dae52829c211208210896e97571?postId=a6077c0a13b4" data-media-id="deb13dae52829c211208210896e97571" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10965087%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -858,11 +785,8 @@ Cross your fingers…
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*NR-y9WthtHg4DVjLDwikVA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*NR-y9WthtHg4DVjLDwikVA.gif"&gt;</noscript>
 
 
 
@@ -890,11 +814,9 @@ Recall our original formula for the number of iterations: `A(N/2 + 2)`. The true
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F26xBI73gWquCBBCDe%2Fgiphy.gif&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe data-width="435" data-height="267" width="435" height="267" data-src="/media/0b662180e1d701cf9053c53992241531?postId=a6077c0a13b4" data-media-id="0b662180e1d701cf9053c53992241531" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F26xBI73gWquCBBCDe%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="267" width="435" height="267" data-src="https://medium.freecodecamp.org/media/0b662180e1d701cf9053c53992241531?postId=a6077c0a13b4" data-media-id="0b662180e1d701cf9053c53992241531" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F26xBI73gWquCBBCDe%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="435" data-height="267" width="435" height="267" src="/media/0b662180e1d701cf9053c53992241531?postId=a6077c0a13b4" data-media-id="0b662180e1d701cf9053c53992241531" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F26xBI73gWquCBBCDe%2Fgiphy.gif&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 

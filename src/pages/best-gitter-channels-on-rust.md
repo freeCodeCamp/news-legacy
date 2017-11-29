@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels on: Rust"
 subTitle: "Rust is a programming language developed by Mozilla Research, and backed up by a big open source community. Its development started in 20..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*2yuPQ8h2O2R0dDV3gPro2w.png

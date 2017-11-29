@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "How to interview your interviewers"
 subTitle: "For the last few semesters, I’ve had the distinct pleasure of guest-lecturing MIT’s required technical communication class for computer s..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9HXoTl3j1TYMVGH0zkGNJg.jpeg

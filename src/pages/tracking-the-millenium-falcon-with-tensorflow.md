@@ -22,7 +22,7 @@ tags: [
 
 
 
-<iframe data-width="800" data-height="450" width="700" height="394" src="/media/2f35dc44fd9c2d00f3a51e9dc835bef3?postId=c8c86419225e" data-media-id="2f35dc44fd9c2d00f3a51e9dc835bef3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FQuickFortunateBlackandtancoonhound-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="450" width="700" height="394" src="https://medium.freecodecamp.org/media/2f35dc44fd9c2d00f3a51e9dc835bef3?postId=c8c86419225e" data-media-id="2f35dc44fd9c2d00f3a51e9dc835bef3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FQuickFortunateBlackandtancoonhound-size_restricted.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -390,7 +390,7 @@ Here’s what we get when we run our model over all the frames in this clip from
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/83d34cd0e66f62ba42bafe28f888678e?postId=c8c86419225e" data-media-id="83d34cd0e66f62ba42bafe28f888678e" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FxW2hpkoaIiM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/83d34cd0e66f62ba42bafe28f888678e?postId=c8c86419225e" data-media-id="83d34cd0e66f62ba42bafe28f888678e" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FxW2hpkoaIiM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

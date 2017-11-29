@@ -1,7 +1,7 @@
 ---
 author: Den McHenry
 authorTwitter: https://twitter.com/DenMcH
-authorFacebook: false
+authorFacebook: none
 title: "Class Struggle in the 21st Century"
 subTitle: "Not that kind of class struggle. I’m talking CSS classes, which — Whoa! What was that?! Wait a minute. Important message incoming...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*sb3Lz9kaHSrMrWLosD2AqA.jpeg

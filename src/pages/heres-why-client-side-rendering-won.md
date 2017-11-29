@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "Here’s Why Client-side Rendering Won"
 subTitle: "A decade ago, nearly everyone was rendering their web applications on the server using technologies like ASP.NET, Ruby on Rails, Java, an..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*w7wu8p5kO8mYGGedd-zOZg.png

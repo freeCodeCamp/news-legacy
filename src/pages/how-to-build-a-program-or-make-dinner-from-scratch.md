@@ -1,7 +1,7 @@
 ---
 author: Vicky Lai
 authorTwitter: https://twitter.com/hivickylai
-authorFacebook: false
+authorFacebook: none
 title: "How to code a satellite algorithm and cook paella from scratch"
 subTitle: "What if I told you that by the end of this article, you’d be able to calculate the orbital period of satellites around Earth using their ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*EmnGVhrODQmeMxn7.

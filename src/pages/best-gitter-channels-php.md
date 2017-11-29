@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels: PHP"
 subTitle: "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especiall..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*lb-83fOg2lCnRcKjXbX2lg.png

@@ -96,7 +96,7 @@ Let's begin implementing the `Channel` structure that will contain the logic of 
 
 
 
-<iframe width="700" height="250" src="/media/29e8d04ac195c820bc1879e7208b0ed6?postId=cc58418460bb" data-media-id="29e8d04ac195c820bc1879e7208b0ed6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/29e8d04ac195c820bc1879e7208b0ed6?postId=cc58418460bb" data-media-id="29e8d04ac195c820bc1879e7208b0ed6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ Let’s have a look at the implementation of the “reader”:
 
 
 
-<iframe width="700" height="250" src="/media/2c19a7c9276fd9306337f7f1f1b7f275?postId=cc58418460bb" data-media-id="2c19a7c9276fd9306337f7f1f1b7f275" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2c19a7c9276fd9306337f7f1f1b7f275?postId=cc58418460bb" data-media-id="2c19a7c9276fd9306337f7f1f1b7f275" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -132,7 +132,7 @@ We will leave aside the parsing and processing of incoming packets, as it is not
 
 
 
-<iframe width="700" height="250" src="/media/90b879f9c3ea5b1cabcdec73d3c75894?postId=cc58418460bb" data-media-id="90b879f9c3ea5b1cabcdec73d3c75894" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/90b879f9c3ea5b1cabcdec73d3c75894?postId=cc58418460bb" data-media-id="90b879f9c3ea5b1cabcdec73d3c75894" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -152,7 +152,7 @@ We already have a simple `Channel` implementation, now we need to get a WebSocke
 
 
 
-<iframe width="700" height="250" src="/media/588d7410a57ef158a16fe462632002d7?postId=cc58418460bb" data-media-id="588d7410a57ef158a16fe462632002d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/588d7410a57ef158a16fe462632002d7?postId=cc58418460bb" data-media-id="588d7410a57ef158a16fe462632002d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -190,7 +190,7 @@ If we look at the [conn.Read() implementation](https://github.com/golang/go/blob
 
 
 
-<iframe width="700" height="250" src="/media/fbe4e47f736d9ebf492ee6c0a7a4ca75?postId=cc58418460bb" data-media-id="fbe4e47f736d9ebf492ee6c0a7a4ca75" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fbe4e47f736d9ebf492ee6c0a7a4ca75?postId=cc58418460bb" data-media-id="fbe4e47f736d9ebf492ee6c0a7a4ca75" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -206,7 +206,7 @@ We see a `read()` syscall from the connection file descriptor. If read returns t
 
 
 
-<iframe width="700" height="250" src="/media/fcde047edad13ed4748488b6ad4444a8?postId=cc58418460bb" data-media-id="fcde047edad13ed4748488b6ad4444a8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fcde047edad13ed4748488b6ad4444a8?postId=cc58418460bb" data-media-id="fcde047edad13ed4748488b6ad4444a8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -226,7 +226,7 @@ Suppose we have [netpoll implementation](https://godoc.org/github.com/mailru/eas
 
 
 
-<iframe width="700" height="250" src="/media/9704216fd6f73469da0ed02b517795f7?postId=cc58418460bb" data-media-id="9704216fd6f73469da0ed02b517795f7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9704216fd6f73469da0ed02b517795f7?postId=cc58418460bb" data-media-id="9704216fd6f73469da0ed02b517795f7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -240,7 +240,7 @@ It is easier with the `Channel.writer()` because we can run the goroutine and al
 
 
 
-<iframe width="700" height="250" src="/media/b869fe307994999e83fdd32c3e5e164a?postId=cc58418460bb" data-media-id="b869fe307994999e83fdd32c3e5e164a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b869fe307994999e83fdd32c3e5e164a?postId=cc58418460bb" data-media-id="b869fe307994999e83fdd32c3e5e164a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -272,7 +272,7 @@ We can restrict the number of packets handled simultaneously using a goroutine p
 
 
 
-<iframe width="700" height="250" src="/media/c3272bbc2a8aa9793ca89168fcce6657?postId=cc58418460bb" data-media-id="c3272bbc2a8aa9793ca89168fcce6657" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c3272bbc2a8aa9793ca89168fcce6657?postId=cc58418460bb" data-media-id="c3272bbc2a8aa9793ca89168fcce6657" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -286,7 +286,7 @@ Now our code with `netpoll` looks as follows:
 
 
 
-<iframe width="700" height="250" src="/media/a460991a8125aa64603a07691619909c?postId=cc58418460bb" data-media-id="a460991a8125aa64603a07691619909c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a460991a8125aa64603a07691619909c?postId=cc58418460bb" data-media-id="a460991a8125aa64603a07691619909c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -302,7 +302,7 @@ Similarly, we’ll change `Send()`:
 
 
 
-<iframe width="700" height="250" src="/media/08d5fb05e2cc35d3a3ede66a6d27524f?postId=cc58418460bb" data-media-id="08d5fb05e2cc35d3a3ede66a6d27524f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/08d5fb05e2cc35d3a3ede66a6d27524f?postId=cc58418460bb" data-media-id="08d5fb05e2cc35d3a3ede66a6d27524f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -320,7 +320,7 @@ Let’s deviate a little from the WebSocket protocol. As was already mentioned, 
 
 
 
-<iframe width="700" height="250" src="/media/9b2a28d152e605e1ea60b9f5d5785264?postId=cc58418460bb" data-media-id="9b2a28d152e605e1ea60b9f5d5785264" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9b2a28d152e605e1ea60b9f5d5785264?postId=cc58418460bb" data-media-id="9b2a28d152e605e1ea60b9f5d5785264" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -347,7 +347,7 @@ If we had a library with such API, we could read packets from the connection as 
 
 
 
-<iframe width="700" height="250" src="/media/65b6a7a5902d1c163a50908bbab523ba?postId=cc58418460bb" data-media-id="65b6a7a5902d1c163a50908bbab523ba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/65b6a7a5902d1c163a50908bbab523ba?postId=cc58418460bb" data-media-id="65b6a7a5902d1c163a50908bbab523ba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -384,7 +384,7 @@ That is what the server code could look like:
 
 
 
-<iframe width="700" height="250" src="/media/c40bf79dd6260cec86bee82cb31413c7?postId=cc58418460bb" data-media-id="c40bf79dd6260cec86bee82cb31413c7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c40bf79dd6260cec86bee82cb31413c7?postId=cc58418460bb" data-media-id="c40bf79dd6260cec86bee82cb31413c7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F675117%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

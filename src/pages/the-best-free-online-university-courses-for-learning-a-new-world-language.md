@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "The best free online university courses for learning a new world language"
 subTitle: "Up until a few years ago, language classes cost hundreds of dollars, and came on CDs or DVDs. But now you can now learn English, Chinese,..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*gOfBY31x1Zb_tLzVoJkjaQ.jpeg
@@ -46,7 +46,7 @@ To get a sense of what I’m talking about, take a look at the intro video for e
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/29ad40e63eef56dc76349e3bc4a6c7e0?postId=ccf42ad1b5d5" data-media-id="29ad40e63eef56dc76349e3bc4a6c7e0" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/29ad40e63eef56dc76349e3bc4a6c7e0?postId=ccf42ad1b5d5" data-media-id="29ad40e63eef56dc76349e3bc4a6c7e0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -70,7 +70,7 @@ Note that some of these courses are self-paced, and others operate on a fixed sc
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/af213bd5f1c373d2584f66119670775e?postId=ccf42ad1b5d5" data-media-id="af213bd5f1c373d2584f66119670775e" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/af213bd5f1c373d2584f66119670775e?postId=ccf42ad1b5d5" data-media-id="af213bd5f1c373d2584f66119670775e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -127,7 +127,7 @@ _The Open University via FutureLearn_ Learn how to describe people and what they
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/25191c746f125ee9b0575f142134b82d?postId=ccf42ad1b5d5" data-media-id="25191c746f125ee9b0575f142134b82d" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/25191c746f125ee9b0575f142134b82d?postId=ccf42ad1b5d5" data-media-id="25191c746f125ee9b0575f142134b82d" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -157,7 +157,7 @@ _Spanish for Beginners — iversity_
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/24d943ec36fccd16805f3e755fbf084e?postId=ccf42ad1b5d5" data-media-id="24d943ec36fccd16805f3e755fbf084e" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/24d943ec36fccd16805f3e755fbf084e?postId=ccf42ad1b5d5" data-media-id="24d943ec36fccd16805f3e755fbf084e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -232,7 +232,7 @@ _The Open University via FutureLearn_ In the third Italian for Beginners course,
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/8a525d051937abacf9917aeed9294f5c?postId=ccf42ad1b5d5" data-media-id="8a525d051937abacf9917aeed9294f5c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/8a525d051937abacf9917aeed9294f5c?postId=ccf42ad1b5d5" data-media-id="8a525d051937abacf9917aeed9294f5c" allowfullscreen="" frameborder="0"></iframe>
 
 
 

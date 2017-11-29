@@ -1,7 +1,7 @@
 ---
 author: Michael Gardner
 authorTwitter: https://twitter.com/gkee42
-authorFacebook: false
+authorFacebook: none
 title: "How Europe’s push for Open Banking is forcing banking apps to improve their UX"
 subTitle: "How you see and interact with your online bank accounts is about to change. That’s because Europe is forcing change into the financial ma..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*UD1aAtumz-BkvNNQE7DO-w.png

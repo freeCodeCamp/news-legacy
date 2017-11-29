@@ -1,7 +1,7 @@
 ---
 author: Briana Marie
 authorTwitter: https://twitter.com/brianamarie132
-authorFacebook: false
+authorFacebook: none
 title: "How to Contribute to Free Code Camp’s Video Challenges"
 subTitle: "Free Code Camp is launching short instructional videos, called Video Challenges, aimed at teaching useful software engineering concepts t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*LM9MyL3PP0lqm2-zMR2-LQ.jpeg
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/let-s-go-for-a-hike-here-s-your-map-4301df6
 id: let-s-go-for-a-hike-here-s-your-map-4301df6e3801
 date: 2016-01-12T08:30:58.170Z
 tags: [
-  "Education",
-  "Tech",
-  "Teaching",
-  "Open Source",
-  "Design"
+	"Education",
+	"Tech",
+	"Teaching",
+	"Open Source",
+	"Design"
 ]
 ---
 # How to Contribute to Free Code Camp’s Video Challenges
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*LM9MyL3PP0lqm2-zMR2-LQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*LM9MyL3PP0lqm2-zMR2-LQ.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*LM9MyL3PP0lqm2-zMR2-LQ.jpeg"&gt;</noscript>
 
 
 
@@ -64,11 +61,8 @@ Some things matter a lot when you’re teaching. Some of those thing have to do 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*WrN42jrij_sRZGNDluTRkw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*WrN42jrij_sRZGNDluTRkw.gif"&gt;</noscript>
 
 
 
@@ -84,11 +78,8 @@ Okay, but what else?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EsmE-cacVTO7GzeARvTIzg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*EsmE-cacVTO7GzeARvTIzg.gif"&gt;</noscript>
 
 
 
@@ -108,11 +99,8 @@ The key distinction of a Video Challenge is that you should be able to watch it 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*M9Bw_We98e04-7aBu17xNA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*M9Bw_We98e04-7aBu17xNA.gif"&gt;</noscript>
 
 
 
@@ -130,11 +118,8 @@ Studies show that blue tones alert us, and orange tones make us feel tired and r
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*D1N8HW4bw6ReSJBwN_WMuw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*D1N8HW4bw6ReSJBwN_WMuw.gif"&gt;</noscript>
 
 
 
@@ -152,11 +137,8 @@ These short videos need to be jam-packed with information. Writing a simple expl
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*yZMMde_qF_UnT6Mj-wAAjQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*yZMMde_qF_UnT6Mj-wAAjQ.gif"&gt;</noscript>
 
 
 
@@ -172,11 +154,8 @@ Stand up, don’t sit. Your posture should exude energy.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jbMYdYA2wNFy3_FW9IkayA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jbMYdYA2wNFy3_FW9IkayA.gif"&gt;</noscript>
 
 
 
@@ -192,11 +171,8 @@ Dress professionally, like you’re going to be presenting in front of thousands
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6RSTI3hryyJLyzT6yr-0Sw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6RSTI3hryyJLyzT6yr-0Sw.gif"&gt;</noscript>
 
 
 
@@ -216,11 +192,8 @@ Contrast also helps gives cues about the content. There is a lot of context to b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hzA6XbDznCNb74SvM1NamA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*hzA6XbDznCNb74SvM1NamA.gif"&gt;</noscript>
 
 
 
@@ -242,11 +215,8 @@ Changes in vocal tone catch people’s attention, and we want their attention wh
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*c4pSX94gciBWT08ijVg2GQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*c4pSX94gciBWT08ijVg2GQ.gif"&gt;</noscript>
 
 
 
@@ -266,11 +236,8 @@ Whatever your process, the outcome needs to be the same — get out the cont
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*UlBjscGm6qeLMk0tuhpH6w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*UlBjscGm6qeLMk0tuhpH6w.gif"&gt;</noscript>
 
 
 
@@ -290,11 +257,8 @@ It may sound simple, but breaking complex concepts down into something a beginne
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9vBUihNzU5K_8zrunc7rUw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="51"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9vBUihNzU5K_8zrunc7rUw.gif"&gt;</noscript>
 
 
 
@@ -312,11 +276,8 @@ Try to make the visual transition as smooth and seamless as possible so users do
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*DXgOv01JEKwL_N7oWiqKMw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*DXgOv01JEKwL_N7oWiqKMw.gif"&gt;</noscript>
 
 
 

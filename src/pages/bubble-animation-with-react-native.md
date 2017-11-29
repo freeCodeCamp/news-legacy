@@ -58,7 +58,7 @@ I had `View` holding the background color. This includes `Animated.View` for the
 
 
 
-<iframe width="700" height="250" src="/media/5b83a9d738a848f58a2e3e7bf133c214?postId=72674eab073a" data-media-id="5b83a9d738a848f58a2e3e7bf133c214" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5b83a9d738a848f58a2e3e7bf133c214?postId=72674eab073a" data-media-id="5b83a9d738a848f58a2e3e7bf133c214" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -76,7 +76,7 @@ Then, I animated the bubble by expanding from 0 to max using the CSS transform s
 
 
 
-<iframe width="700" height="250" src="/media/9cb145a22976829a299f59a2eeac7901?postId=72674eab073a" data-media-id="9cb145a22976829a299f59a2eeac7901" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9cb145a22976829a299f59a2eeac7901?postId=72674eab073a" data-media-id="9cb145a22976829a299f59a2eeac7901" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ The above animation needed to trigger based on user interaction. First I used `T
 
 
 
-<iframe width="700" height="250" src="/media/eee7af064e66dca96551849d2ae52e22?postId=72674eab073a" data-media-id="eee7af064e66dca96551849d2ae52e22" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/eee7af064e66dca96551849d2ae52e22?postId=72674eab073a" data-media-id="eee7af064e66dca96551849d2ae52e22" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ I positioned the bubble according to the gif, which animated from the bottom. I 
 
 
 
-<iframe width="700" height="250" src="/media/a9e13b647ea6e938950f287b7d56b6bb?postId=72674eab073a" data-media-id="a9e13b647ea6e938950f287b7d56b6bb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a9e13b647ea6e938950f287b7d56b6bb?postId=72674eab073a" data-media-id="a9e13b647ea6e938950f287b7d56b6bb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -132,7 +132,7 @@ Now I restructured the code by moving the bubble logic into a separate component
 
 
 
-<iframe width="700" height="250" src="/media/291a8565c6bdefd82e611f83877481f0?postId=72674eab073a" data-media-id="291a8565c6bdefd82e611f83877481f0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/291a8565c6bdefd82e611f83877481f0?postId=72674eab073a" data-media-id="291a8565c6bdefd82e611f83877481f0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -142,7 +142,7 @@ Now I restructured the code by moving the bubble logic into a separate component
 
 
 
-<iframe width="700" height="250" src="/media/e43c4696325a6714937c5801493caa65?postId=72674eab073a" data-media-id="e43c4696325a6714937c5801493caa65" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e43c4696325a6714937c5801493caa65?postId=72674eab073a" data-media-id="e43c4696325a6714937c5801493caa65" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -154,7 +154,7 @@ Then it was time when to tackle the color. To make the bubble animate with the n
 
 
 
-<iframe width="700" height="250" src="/media/636999836dd909b53aa7d495cbc47db3?postId=72674eab073a" data-media-id="636999836dd909b53aa7d495cbc47db3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/636999836dd909b53aa7d495cbc47db3?postId=72674eab073a" data-media-id="636999836dd909b53aa7d495cbc47db3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ Then it was time when to tackle the color. To make the bubble animate with the n
 
 
 
-<iframe width="700" height="250" src="/media/732d7375d47acef095f285d4ba33efa4?postId=72674eab073a" data-media-id="732d7375d47acef095f285d4ba33efa4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/732d7375d47acef095f285d4ba33efa4?postId=72674eab073a" data-media-id="732d7375d47acef095f285d4ba33efa4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -186,7 +186,7 @@ I passed a callback to the `start` method which executed when the transition com
 
 
 
-<iframe width="700" height="250" src="/media/697f48eba5a50ebd67ac8756a5028d7d?postId=72674eab073a" data-media-id="697f48eba5a50ebd67ac8756a5028d7d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/697f48eba5a50ebd67ac8756a5028d7d?postId=72674eab073a" data-media-id="697f48eba5a50ebd67ac8756a5028d7d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -196,7 +196,7 @@ I passed a callback to the `start` method which executed when the transition com
 
 
 
-<iframe width="700" height="250" src="/media/14e894b9b99f830ee1f728ec595bd74a?postId=72674eab073a" data-media-id="14e894b9b99f830ee1f728ec595bd74a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/14e894b9b99f830ee1f728ec595bd74a?postId=72674eab073a" data-media-id="14e894b9b99f830ee1f728ec595bd74a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -218,7 +218,7 @@ I created a new component called `Swipe`. It contains all the logic for the gest
 
 
 
-<iframe width="700" height="250" src="/media/684217ea5adccf3ac8dabac453df690d?postId=72674eab073a" data-media-id="684217ea5adccf3ac8dabac453df690d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/684217ea5adccf3ac8dabac453df690d?postId=72674eab073a" data-media-id="684217ea5adccf3ac8dabac453df690d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -230,7 +230,7 @@ I used `PanResponder`which reconciles several touches into a single gesture. It 
 
 
 
-<iframe width="700" height="250" src="/media/758761553621d21ad1c8700c52f9d573?postId=72674eab073a" data-media-id="758761553621d21ad1c8700c52f9d573" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/758761553621d21ad1c8700c52f9d573?postId=72674eab073a" data-media-id="758761553621d21ad1c8700c52f9d573" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -244,7 +244,7 @@ First I needed to figure out which direction the user is swiping. I only need to
 
 
 
-<iframe width="700" height="250" src="/media/2fa515cef691b7f8daa3c1d63140d2c4?postId=72674eab073a" data-media-id="2fa515cef691b7f8daa3c1d63140d2c4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2fa515cef691b7f8daa3c1d63140d2c4?postId=72674eab073a" data-media-id="2fa515cef691b7f8daa3c1d63140d2c4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -256,7 +256,7 @@ If it was a valid swipe, I triggered the appropriate action.
 
 
 
-<iframe width="700" height="250" src="/media/0e65d207183aedb487c6d04c739ae4cd?postId=72674eab073a" data-media-id="0e65d207183aedb487c6d04c739ae4cd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0e65d207183aedb487c6d04c739ae4cd?postId=72674eab073a" data-media-id="0e65d207183aedb487c6d04c739ae4cd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -274,7 +274,7 @@ Yes! You guessed it right. I have gotten what I wanted to achieve with the gestu
 
 
 
-<iframe width="700" height="250" src="/media/01e7f7e1d08720dc53686418ebbfd4fe?postId=72674eab073a" data-media-id="01e7f7e1d08720dc53686418ebbfd4fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/01e7f7e1d08720dc53686418ebbfd4fe?postId=72674eab073a" data-media-id="01e7f7e1d08720dc53686418ebbfd4fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3153663%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

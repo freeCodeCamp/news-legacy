@@ -1,7 +1,7 @@
 ---
 author: Peter Gleeson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How Machines Make Sense of Big Data: an Introduction to Clustering Algorithms"
 subTitle: "Take a look at the image below. It’s a collection of bugs and creepy-crawlies of different shapes and sizes. Take a moment to categorize ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*dT8VX9g8ig6lxmobTRmCiA.jpeg

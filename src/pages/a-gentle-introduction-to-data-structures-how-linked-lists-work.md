@@ -1,7 +1,7 @@
 ---
 author: Michael Olorunnisola
 authorTwitter: https://twitter.com/MikeOlor
-authorFacebook: false
+authorFacebook: none
 title: "A Gentle Introduction to Data Structures: How Linked Lists Work"
 subTitle: "Have you ever built a Rube Goldberg Machine? If not, maybe you’ve built an elaborate line of dominoes?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*a75WWf1cQX8wcKN0nEYMJQ.jpeg
@@ -369,7 +369,7 @@ One last thing to note: you may have realized that you didn’t actually delete 
 
 
 
-<iframe width="500" height="250" src="/media/b9a5f751f97b420ca4e62eb782fff20b?postId=5adc793897dd" data-media-id="b9a5f751f97b420ca4e62eb782fff20b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000147359764%2F54dc9a5c34e912f34db8662d53d16a39_bigger.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/b9a5f751f97b420ca4e62eb782fff20b?postId=5adc793897dd" data-media-id="b9a5f751f97b420ca4e62eb782fff20b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000147359764%2F54dc9a5c34e912f34db8662d53d16a39_bigger.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

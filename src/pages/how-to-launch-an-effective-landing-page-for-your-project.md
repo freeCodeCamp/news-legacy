@@ -1,7 +1,7 @@
 ---
 author: Christian-Peter Heimbach
 authorTwitter: https://twitter.com/cpheimbach
-authorFacebook: false
+authorFacebook: none
 title: "How to launch an effective landing page for your project"
 subTitle: "I began my career 10 years ago doing online marketing and advertising for video games. Since then, I’ve worked on all sides of the indust..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*c2fnj3CUGMY6nZ0BxX9eiw.jpeg

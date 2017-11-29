@@ -1,7 +1,7 @@
 ---
 author: Shubhi Asthana
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Series and DataFrame in Python"
 subTitle: "A couple of months ago, I took the online course “Using Python for Research” offered by Harvard University on edX. While taking the cours..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QH4RGlNwXUFnJSytytvb6A.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Linda Xie
 authorTwitter: https://twitter.com/ljxie
-authorFacebook: false
+authorFacebook: none
 title: "How to join the digital currency industry"
 subTitle: "One of the questions that I get asked most often is how to get a start in the blockchain industry. It’s a fun and exciting space to be in..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*IvTkjcwLQnnx4M005uZkfw@2x.jpeg

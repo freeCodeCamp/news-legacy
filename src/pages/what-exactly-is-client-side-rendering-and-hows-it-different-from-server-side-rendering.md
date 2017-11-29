@@ -1,7 +1,7 @@
 ---
 author: Juan Vega
 authorTwitter: https://twitter.com/juanvega878
-authorFacebook: false
+authorFacebook: none
 title: "Client-side vs. server-side rendering: why it’s not all black and white"
 subTitle: "Since the dawn of time, the conventional method for getting your HTML up onto a screen was by using server-side rendering. It was the onl..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ezyfYx8OjGnPbxDTlzV9Kg.jpeg

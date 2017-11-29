@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "10 Steps to Plan Better so you can Write Less Code"
 subTitle: "An ounce of preparation is worth a pound of cure. That’s true in medicine, and that’s definitely true in software development...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*lO6S-555VY0QioGFss2SQw.jpeg

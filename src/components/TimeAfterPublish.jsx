@@ -3,20 +3,26 @@ import differenceInMinutes from 'date-fns/difference_in_minutes';
 import format from 'date-fns/format';
 import { TimeAfterPublishPropTypes as propTypes } from '../propTypes';
 
+import './time-after-publish.less';
+
+function pluralise(num, unit) {
+  return num !== 1 ? `${unit}s` : unit;
+}
+
 const TimeAfterPublish = ({ date }) => {
   const difference = differenceInMinutes(Date.now(), new Date(date));
   // TODO: Allow for days, weeks, months, years
   let timeSince = format(Date(date), 'MM-DD-YYYY');
   if (difference < 60) {
-    timeSince = `${difference}minutes ago`;
+    timeSince = `${difference} ${pluralise(difference, 'minute')} ago`;
   }
   if (difference < 24 * 60) {
     const hours = Math.floor(difference / 60);
-    timeSince = `${hours}hours ago`;
+    timeSince = `${hours} ${pluralise(hours, 'hour')} ago`;
   }
   if (difference < 28 * (24 * 60)) {
     const days = Math.floor(difference / 60 / 24);
-    timeSince = `${days} days ago`;
+    timeSince = `${days} ${pluralise(days, 'day')} ago`;
   }
   return (
     <span className='since-pub'>

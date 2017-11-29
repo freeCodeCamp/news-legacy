@@ -1,7 +1,7 @@
 ---
 author: Déborah Mesquita
 authorTwitter: https://twitter.com/dehhmesquita
-authorFacebook: false
+authorFacebook: none
 title: "A gentle introduction to D3: how to build a reusable bubble chart"
 subTitle: "Getting Started with D3"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Ywul1VdNkWbdFz3x5iVYCA.jpeg

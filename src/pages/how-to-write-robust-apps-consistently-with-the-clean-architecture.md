@@ -74,7 +74,7 @@ In our counters sample, thereâ€™s a very obvious Entity: the `Counter` itself.
 
 
 
-<iframe width="700" height="250" src="/media/39b3a934b6f9c8aa110f254f65fa410c?postId=9bdca93e17b" data-media-id="39b3a934b6f9c8aa110f254f65fa410c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/39b3a934b6f9c8aa110f254f65fa410c?postId=9bdca93e17b" data-media-id="39b3a934b6f9c8aa110f254f65fa410c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ In our sample, we have a Use Case for `incrementing` or `decrementing` our `coun
 
 
 
-<iframe width="700" height="250" src="/media/398ecf4335f1c642856ce18b9355c740?postId=9bdca93e17b" data-media-id="398ecf4335f1c642856ce18b9355c740" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/398ecf4335f1c642856ce18b9355c740?postId=9bdca93e17b" data-media-id="398ecf4335f1c642856ce18b9355c740" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ In our sample, we have several Interface Adapters. One of them is the React comp
 
 
 
-<iframe width="700" height="250" src="/media/b0bde76b5698d53c0075c37f840c8a93?postId=9bdca93e17b" data-media-id="b0bde76b5698d53c0075c37f840c8a93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b0bde76b5698d53c0075c37f840c8a93?postId=9bdca93e17b" data-media-id="b0bde76b5698d53c0075c37f840c8a93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -122,7 +122,7 @@ Note that the component does not use a `Counter` instance to present its value, 
 
 
 
-<iframe width="700" height="250" src="/media/f8905857103836c115ebcc0aa4b24527?postId=9bdca93e17b" data-media-id="f8905857103836c115ebcc0aa4b24527" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f8905857103836c115ebcc0aa4b24527?postId=9bdca93e17b" data-media-id="f8905857103836c115ebcc0aa4b24527" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -166,7 +166,7 @@ The answer lies in an element that weâ€™ve mentioned before: **Gateways**. Theyâ
 
 
 
-<iframe width="700" height="250" src="/media/8ccc418e36a9920287f843c098eff90a?postId=9bdca93e17b" data-media-id="8ccc418e36a9920287f843c098eff90a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8ccc418e36a9920287f843c098eff90a?postId=9bdca93e17b" data-media-id="8ccc418e36a9920287f843c098eff90a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -176,7 +176,7 @@ The answer lies in an element that weâ€™ve mentioned before: **Gateways**. Theyâ
 
 
 
-<iframe width="700" height="250" src="/media/90c3b99e893c45a0c6b1e8888618873d?postId=9bdca93e17b" data-media-id="90c3b99e893c45a0c6b1e8888618873d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/90c3b99e893c45a0c6b1e8888618873d?postId=9bdca93e17b" data-media-id="90c3b99e893c45a0c6b1e8888618873d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3356696%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

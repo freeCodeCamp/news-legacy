@@ -38,7 +38,7 @@ Today, colorization is usually done by hand in Photoshop. To appreciate all the 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/5262de6e215aca6ab020904c0794ad6f?postId=53d9b4449f8d" data-media-id="5262de6e215aca6ab020904c0794ad6f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvubuBrcAwtY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/5262de6e215aca6ab020904c0794ad6f?postId=53d9b4449f8d" data-media-id="5262de6e215aca6ab020904c0794ad6f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvubuBrcAwtY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

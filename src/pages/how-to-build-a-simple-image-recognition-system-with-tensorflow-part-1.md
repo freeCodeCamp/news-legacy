@@ -1,7 +1,7 @@
 ---
 author: Wolfgang Beyer
 authorTwitter: https://twitter.com/woolfib
-authorFacebook: false
+authorFacebook: none
 title: "How to Build a Simple Image Recognition System with TensorFlow (Part 1)"
 subTitle: "This isn’t a general introduction to Artificial Intelligence, Machine Learning or Deep Learning. There are already lots of great articles..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*7euCCTB_Qoxogrw2bK_HHQ.png
@@ -104,7 +104,7 @@ Alright, now we’re finally ready to go. Let’s look at the main file of our e
 
 
 
-<iframe width="700" height="250" src="/media/82525922749f6bdbd2884c84806d7097?postId=d6a775ef75d" data-media-id="82525922749f6bdbd2884c84806d7097" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/82525922749f6bdbd2884c84806d7097?postId=d6a775ef75d" data-media-id="82525922749f6bdbd2884c84806d7097" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ Then we are importing TensorFlow, numpy for numerical calculations, and the time
 
 
 
-<iframe width="700" height="250" src="/media/676db875da6e48ae049cdce6087d7878?postId=d6a775ef75d" data-media-id="676db875da6e48ae049cdce6087d7878" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/676db875da6e48ae049cdce6087d7878?postId=d6a775ef75d" data-media-id="676db875da6e48ae049cdce6087d7878" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ To get back to our code, `load_data()` returns a dictionary containing
 
 
 
-<iframe width="700" height="250" src="/media/051cf505ed6f72bfe246e04ea97c6d53?postId=d6a775ef75d" data-media-id="051cf505ed6f72bfe246e04ea97c6d53" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/051cf505ed6f72bfe246e04ea97c6d53?postId=d6a775ef75d" data-media-id="051cf505ed6f72bfe246e04ea97c6d53" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ The placeholder for the class label information contains integer values (`tf.int
 
 
 
-<iframe width="700" height="250" src="/media/8370003480b4e5f12ffcaa6d6712d838?postId=d6a775ef75d" data-media-id="8370003480b4e5f12ffcaa6d6712d838" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8370003480b4e5f12ffcaa6d6712d838?postId=d6a775ef75d" data-media-id="8370003480b4e5f12ffcaa6d6712d838" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -208,7 +208,7 @@ Think of an image which is totally black. All its pixel values would be 0, there
 
 
 
-<iframe width="700" height="250" src="/media/eb1adca379f40e46ce3c325ee6302752?postId=d6a775ef75d" data-media-id="eb1adca379f40e46ce3c325ee6302752" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/eb1adca379f40e46ce3c325ee6302752?postId=d6a775ef75d" data-media-id="eb1adca379f40e46ce3c325ee6302752" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -228,7 +228,7 @@ Calculating class values for all 10 classes for multiple images in a single step
 
 
 
-<iframe width="700" height="250" src="/media/264c90dccfc7acaf6b256c6b8a40ad75?postId=d6a775ef75d" data-media-id="264c90dccfc7acaf6b256c6b8a40ad75" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/264c90dccfc7acaf6b256c6b8a40ad75?postId=d6a775ef75d" data-media-id="264c90dccfc7acaf6b256c6b8a40ad75" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -248,7 +248,7 @@ Luckily TensorFlow handles all the details for us by providing a function that d
 
 
 
-<iframe width="700" height="250" src="/media/dae74e3c6958e4272a9524935456ad67?postId=d6a775ef75d" data-media-id="dae74e3c6958e4272a9524935456ad67" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dae74e3c6958e4272a9524935456ad67?postId=d6a775ef75d" data-media-id="dae74e3c6958e4272a9524935456ad67" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -266,7 +266,7 @@ The process of categorizing input images, comparing the predicted results to the
 
 
 
-<iframe width="700" height="250" src="/media/10019f1d41719718489134e343a797ab?postId=d6a775ef75d" data-media-id="10019f1d41719718489134e343a797ab" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/10019f1d41719718489134e343a797ab?postId=d6a775ef75d" data-media-id="10019f1d41719718489134e343a797ab" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -278,7 +278,7 @@ These two lines measure the model’s accuracy. `argmax` of `logits` along dimen
 
 
 
-<iframe width="700" height="250" src="/media/0780c6ab0cfbb03cdb6274f6061eb4df?postId=d6a775ef75d" data-media-id="0780c6ab0cfbb03cdb6274f6061eb4df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0780c6ab0cfbb03cdb6274f6061eb4df?postId=d6a775ef75d" data-media-id="0780c6ab0cfbb03cdb6274f6061eb4df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -292,7 +292,7 @@ Then we start the iterative training process which is to be repeated `max_steps`
 
 
 
-<iframe width="700" height="250" src="/media/d9de022d4d54972076a0b7aea2ae401c?postId=d6a775ef75d" data-media-id="d9de022d4d54972076a0b7aea2ae401c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d9de022d4d54972076a0b7aea2ae401c?postId=d6a775ef75d" data-media-id="d9de022d4d54972076a0b7aea2ae401c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -310,7 +310,7 @@ Here the first line of code picks `batch_size` random indices between 0 and the 
 
 
 
-<iframe width="700" height="250" src="/media/9f331397d4bdc7101287762053c4310b?postId=d6a775ef75d" data-media-id="9f331397d4bdc7101287762053c4310b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9f331397d4bdc7101287762053c4310b?postId=d6a775ef75d" data-media-id="9f331397d4bdc7101287762053c4310b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -322,7 +322,7 @@ Every 100 iterations we check the model’s current accuracy on the training dat
 
 
 
-<iframe width="700" height="250" src="/media/ab94147ceffb8637da9dc90fcd5c3be5?postId=d6a775ef75d" data-media-id="ab94147ceffb8637da9dc90fcd5c3be5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ab94147ceffb8637da9dc90fcd5c3be5?postId=d6a775ef75d" data-media-id="ab94147ceffb8637da9dc90fcd5c3be5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -336,7 +336,7 @@ We therefore only need to feed the batch of training data to the model. This is 
 
 
 
-<iframe width="700" height="250" src="/media/47b975d71fe855653e2d8ab77f96a5d4?postId=d6a775ef75d" data-media-id="47b975d71fe855653e2d8ab77f96a5d4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/47b975d71fe855653e2d8ab77f96a5d4?postId=d6a775ef75d" data-media-id="47b975d71fe855653e2d8ab77f96a5d4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -348,7 +348,7 @@ After the training is completed, we evaluate the model on the test set. This is 
 
 
 
-<iframe width="700" height="250" src="/media/edf4f7e48ab1e916c83e070d2acac258?postId=d6a775ef75d" data-media-id="edf4f7e48ab1e916c83e070d2acac258" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/edf4f7e48ab1e916c83e070d2acac258?postId=d6a775ef75d" data-media-id="edf4f7e48ab1e916c83e070d2acac258" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F100017%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

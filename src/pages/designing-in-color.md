@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "Designing in color"
 subTitle: "Color is a powerful force in the hands of a designer. It draws your eye, evokes emotion, and communicates meaning. To give you an idea of..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*swrEZXQYr_JS9tG5vP0hYw.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/designing-in-color-abd358660a7b
 id: designing-in-color-abd358660a7b
 date: 2016-06-07T12:27:27.390Z
 tags: [
-  "Design",
-  "UX",
-  "Web Development",
-  "User Experience",
-  "Tech"
+	"Design",
+	"UX",
+	"Web Development",
+	"User Experience",
+	"Tech"
 ]
 ---
 # Designing in color
@@ -50,11 +50,8 @@ This article is designed to serve as a guide to help you come up with color pale
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9yK9NSMPkTKydMBNcwlnmw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9yK9NSMPkTKydMBNcwlnmw.png"&gt;</noscript>
 
 
 
@@ -84,11 +81,8 @@ The purpose of your design should serve as a guide for you as you choose your co
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JSq4dylCICTghEu2-oVC4Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*JSq4dylCICTghEu2-oVC4Q.png"&gt;</noscript>
 
 
 
@@ -106,11 +100,8 @@ While some meanings of color are universal across audiences, others are not. Gre
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EWoRBath30IwXlTE4IliOw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*EWoRBath30IwXlTE4IliOw.png"&gt;</noscript>
 
 
 
@@ -142,11 +133,8 @@ The usual suspect for color palette inspiration are sites like [Dribbble](http:/
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*OdeGb0Xk-rTK48O6y9oGvg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*OdeGb0Xk-rTK48O6y9oGvg.png"&gt;</noscript>
 
 
 
@@ -162,11 +150,8 @@ If you want something different, look for color inspiration in the design of oth
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7nd9Fw5PakxA7DWytfMz-Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7nd9Fw5PakxA7DWytfMz-Q.png"&gt;</noscript>
 
 
 
@@ -182,11 +167,8 @@ You don’t have to go to Korea to find color inspiration. It’s everywhere, in
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*1b12Qt0HEFr8ezQc7obDhw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*1b12Qt0HEFr8ezQc7obDhw.png"&gt;</noscript>
 
 
 
@@ -208,11 +190,8 @@ For an example of a design system, check out the design system of [Salesforce](h
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PjoC46xkLRyQR2BnZTkpAg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PjoC46xkLRyQR2BnZTkpAg.jpeg"&gt;</noscript>
 
 
 
@@ -238,11 +217,8 @@ The primary color is the color you most often use for important buttons and acce
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0QNmagorcKgNG_mLDibQYA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="18"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0QNmagorcKgNG_mLDibQYA.png"&gt;</noscript>
 
 
 
@@ -256,11 +232,8 @@ The secondary color is the color you use to differentiate secondary actions from
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PhT74LSWHk4__X5RseKq8Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PhT74LSWHk4__X5RseKq8Q.png"&gt;</noscript>
 
 
 
@@ -280,11 +253,8 @@ For a basic color palettes, I like to put my colors side by side, just like an a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ZRcWzTmUo3Ydz2R0-kLpFg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ZRcWzTmUo3Ydz2R0-kLpFg.png"&gt;</noscript>
 
 
 
@@ -307,11 +277,8 @@ As I mentioned in the last section, colors will have different roles in your des
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Fvk4qA0xpoFClIAlmg0nig.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Fvk4qA0xpoFClIAlmg0nig.png"&gt;</noscript>
 
 
 
@@ -327,11 +294,8 @@ As an example, here is [Invision’s](https://www.invisionapp.com/) color palett
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*becutEEFQmvIWeLjBeKvBw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*becutEEFQmvIWeLjBeKvBw.png"&gt;</noscript>
 
 
 
@@ -345,11 +309,8 @@ A geometric representation could look something like this.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*FAMOU47ynYQCEXL1izwXMw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="26"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*FAMOU47ynYQCEXL1izwXMw.png"&gt;</noscript>
 
 
 
@@ -365,11 +326,8 @@ To give you an idea of how to apply colors to design systems, let’s take a loo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Qc0eyQgET7vnnfWWG1SgJw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Qc0eyQgET7vnnfWWG1SgJw.png"&gt;</noscript>
 
 
 
@@ -385,11 +343,8 @@ For most pages, Airbnb uses foggy grey as a background. You can see that they us
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Vg5Oo5i5K_QDkL3uCwheSA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Vg5Oo5i5K_QDkL3uCwheSA.png"&gt;</noscript>
 
 
 
@@ -403,11 +358,8 @@ Kazan, the turquoise color, is used to catch and engage your eye. Notice how it 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9zYNQp_396HxbUEDFOnuCw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9zYNQp_396HxbUEDFOnuCw.png"&gt;</noscript>
 
 
 
@@ -421,11 +373,8 @@ For error messages, Airbnb uses a light red, arguably a shade of rausch. The red
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-brdYdBfSMzMdTz4N0JHOg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*-brdYdBfSMzMdTz4N0JHOg.png"&gt;</noscript>
 
 
 
@@ -439,11 +388,8 @@ Start off without any color in your design. Focus on layout and placement of ele
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Sh16esT2Lh46xrP8E_tkxw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Sh16esT2Lh46xrP8E_tkxw.png"&gt;</noscript>
 
 
 
@@ -489,11 +435,8 @@ _P.S. If you liked this article, it would mean a lot if you hit the recommend bu
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*mxQhZLqG7l5dMLvxYAklgw.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*mxQhZLqG7l5dMLvxYAklgw.png"&gt;</noscript>
 
 ](http://mrwhite.space/signup) 
 
@@ -501,11 +444,8 @@ _P.S. If you liked this article, it would mean a lot if you hit the recommend bu
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*UOsjAdUZ9O0QSyfXOpQPbA.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*UOsjAdUZ9O0QSyfXOpQPbA.png"&gt;</noscript>
 
 ](https://twitter.com/JonathanZWhite) 
 

@@ -1,7 +1,7 @@
 ---
 author: Thomas Noe
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Hello World! The Pythonic way"
 subTitle: "The first program developers are often introduced to is the infamous Hello World. It doesn’t matter what language you’re using, you have ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*FkG7dPq9aReiWXbrcmL_1g.png

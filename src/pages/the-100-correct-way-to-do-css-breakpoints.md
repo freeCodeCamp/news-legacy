@@ -1,7 +1,7 @@
 ---
 author: David Gilbertson
 authorTwitter: https://twitter.com/D__Gilbertson
-authorFacebook: false
+authorFacebook: none
 title: "The 100% correct way to do CSS breakpoints"
 subTitle: "For the next minute or so, I want you to forget about CSS. Forget about web development. Forget about digital user interfaces...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*l9rwwtUMoiRJOb7uGEkhFg.jpeg
@@ -210,7 +210,7 @@ At first I did the below snippet as a simplified example. But really I think it 
 
 
 
-<iframe width="700" height="250" src="/media/580dd549b784c7959aa0c6bc0754a792?postId=88d6a5ba1862" data-media-id="580dd549b784c7959aa0c6bc0754a792" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4443482%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/580dd549b784c7959aa0c6bc0754a792?postId=88d6a5ba1862" data-media-id="580dd549b784c7959aa0c6bc0754a792" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4443482%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -230,7 +230,7 @@ Another criticism might be that I’ve got eight mixins here. Surely a single mi
 
 
 
-<iframe width="700" height="250" src="/media/b4778a77bc15dcac3e478ec8e16cfd43?postId=88d6a5ba1862" data-media-id="b4778a77bc15dcac3e478ec8e16cfd43" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4443482%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b4778a77bc15dcac3e478ec8e16cfd43?postId=88d6a5ba1862" data-media-id="b4778a77bc15dcac3e478ec8e16cfd43" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4443482%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -251,7 +251,7 @@ If you want to do that, go bananas, but there are two reasons I wouldn’t:
 
 
 
-<iframe width="700" height="250" src="/media/e090930cd2ad663eb98fa90d4912333d?postId=88d6a5ba1862" data-media-id="e090930cd2ad663eb98fa90d4912333d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4443482%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e090930cd2ad663eb98fa90d4912333d?postId=88d6a5ba1862" data-media-id="e090930cd2ad663eb98fa90d4912333d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4443482%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

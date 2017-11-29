@@ -1,7 +1,7 @@
 ---
 author: Haseeb Qureshi
 authorTwitter: https://twitter.com/hosseeb
-authorFacebook: false
+authorFacebook: none
 title: "10 Principles I Want to Live By"
 subTitle: "I just came home from a vow of silence at a meditation center in northern California. It’s a strange feeling coming back to city life aft..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*W3bSf7ni68rbzw8Wy_tJTg.jpeg

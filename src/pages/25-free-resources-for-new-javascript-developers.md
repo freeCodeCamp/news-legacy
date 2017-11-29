@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "25 Free Resources for New JavaScript Developers"
 subTitle: "We asked our campers to share their favorite free resources for new JavaScript developers on Camper News. The list includes some time-tes..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*81jS3rSbDGcLm00VJEeW-Q.jpeg

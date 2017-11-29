@@ -1,7 +1,7 @@
 ---
 author: Rishal Hurbans
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "To prototype or not to prototype: that is the question."
 subTitle: "I’ve been involved in a number of projects that required the development of prototypes in a short period of time. These prototypes helped..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0oSxm4hhXCeNXKKBiMqd8w.png

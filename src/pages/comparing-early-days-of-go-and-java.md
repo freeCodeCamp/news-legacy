@@ -1,7 +1,7 @@
 ---
 author: Harshavardhana
 authorTwitter: https://twitter.com/y4m4
-authorFacebook: false
+authorFacebook: none
 title: "Comparing early days of Go and Java"
 subTitle: "In the last 2 years Golang (or simply ‘Go’) has raised to the ranks of mainstream programming languages like Java, Python and C/C++. Comp..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*DwcjXJc0_86RsSMD0TpfFQ.jpeg

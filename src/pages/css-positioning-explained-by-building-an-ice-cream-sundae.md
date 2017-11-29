@@ -60,7 +60,7 @@ If you had to explain the structure of an ice cream sundae with HTML, it would p
 
 
 
-<iframe width="700" height="250" src="/media/782aa4e94f4b3383b8066fb87f045350?postId=831cb884bfa9" data-media-id="782aa4e94f4b3383b8066fb87f045350" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/782aa4e94f4b3383b8066fb87f045350?postId=831cb884bfa9" data-media-id="782aa4e94f4b3383b8066fb87f045350" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ You can go even further. If you set each iceCreamScoop within the glass div to *
 
 
 
-<iframe width="700" height="250" src="/media/a1d8f81aaaa65af8c25e723a62966b53?postId=831cb884bfa9" data-media-id="a1d8f81aaaa65af8c25e723a62966b53" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a1d8f81aaaa65af8c25e723a62966b53?postId=831cb884bfa9" data-media-id="a1d8f81aaaa65af8c25e723a62966b53" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -136,7 +136,7 @@ One last note: position absolute is calculated based on the nearest parent that 
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/89d1bc98693fc144bdfaf3f859ba2d46?postId=831cb884bfa9" data-media-id="89d1bc98693fc144bdfaf3f859ba2d46" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/89d1bc98693fc144bdfaf3f859ba2d46?postId=831cb884bfa9" data-media-id="89d1bc98693fc144bdfaf3f859ba2d46" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

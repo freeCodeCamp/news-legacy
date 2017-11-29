@@ -54,7 +54,7 @@ You can also try the Auto Alt Text by downloading [it here](http://www.abhinavsu
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/18e3e0380a076799225aeb8a7f813b52?postId=84598eebabdb" data-media-id="18e3e0380a076799225aeb8a7f813b52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fc1S4iB360m8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/18e3e0380a076799225aeb8a7f813b52?postId=84598eebabdb" data-media-id="18e3e0380a076799225aeb8a7f813b52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fc1S4iB360m8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

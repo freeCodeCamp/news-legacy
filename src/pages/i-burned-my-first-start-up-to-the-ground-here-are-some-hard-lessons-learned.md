@@ -1,6 +1,6 @@
 ---
 author: Omer Goldberg
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10153022250492073
 title: "I burned my first startup to the ground. Here are some hard lessons learned."
 subTitle: "It’s been nearly 12 months since my first startup went up in flames. I’m going to tell you how it all happened, in hopes that my mistakes..."

@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/remember-that-86-million-license-plate-scan
 id: remember-that-86-million-license-plate-scanner-i-replicated-heres-what-happened-next-9f3c64e8f22b
 date: 2017-10-24T05:14:14.817Z
 tags: [
-  "Tech",
-  "JavaScript",
-  "Machine Learning",
-  "Startup",
-  "Politics"
+	"Tech",
+	"JavaScript",
+	"Machine Learning",
+	"Startup",
+	"Politics"
 ]
 ---
 # Remember the $86 million license plate scanner I replicated? I caught someone with it.
@@ -32,11 +32,11 @@ Pedants have pointed out the lack of training, support, and usual enterprise IT 
 
 Before we get too deep into the results, I’d like to go over one thing that I feel was lost in the [original post](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9). The concept for this project started completely separate from the $86 million BlueNet project. It was by no means an attempt to knock it off.
 
-It started the nagging thought that since [OpenCV](https://opencv.org/) exists and the VicRoads website has license plate checks, there must be a way to combine the two or use something better.
+It started with the nagging thought that since [OpenCV](https://opencv.org/) exists and the VicRoads website has license plate checks, there must be a way to combine the two or use something better.
 
 It was only when I began my write-up that I stumbled upon BlueNet. While discovering BlueNet and its price tag gave me a great editorial angle, with the code already written. There were bound to be some inconsistencies between the projects.
 
-I also believe part of the reason this blew up was the convenient timing of a report of [wasteful government IT spending in Australia](http://www.abc.net.au/news/2017-08-28/federal-governments-$10bn-bill-rivals-newstart-cost/8849562). The Federal Government’s IT bill has shot up from $5.9 billion to $10 billion, and it delivered dubious value for that blow out. Media researchers who contacted me were quick to link the two, but this is not something I am quick to encourage.
+I also believe part of the reason this blew up was the convenient timing of a report on [wasteful government IT spending in Australia](http://www.abc.net.au/news/2017-08-28/federal-governments-$10bn-bill-rivals-newstart-cost/8849562). The Federal Government’s IT bill has shot up from $5.9 billion to $10 billion, and it delivered dubious value for that blow out. Media researchers who contacted me were quick to link the two, but this is not something I am quick to encourage.
 
 #### **A Disclaimer**
 
@@ -60,11 +60,9 @@ I will go into detail about ideal camera setups, detection regions, and more aft
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo549Iu5d2Ks%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<iframe data-width="854" data-height="480" width="980" height="551" data-src="/media/d54ad92e93c4aa385735f87413ea08a6?postId=9f3c64e8f22b" data-media-id="d54ad92e93c4aa385735f87413ea08a6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo549Iu5d2Ks%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" data-src="https://medium.freecodecamp.org/media/d54ad92e93c4aa385735f87413ea08a6?postId=9f3c64e8f22b" data-media-id="d54ad92e93c4aa385735f87413ea08a6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo549Iu5d2Ks%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="854" data-height="480" width="980" height="551" src="/media/d54ad92e93c4aa385735f87413ea08a6?postId=9f3c64e8f22b" data-media-id="d54ad92e93c4aa385735f87413ea08a6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo549Iu5d2Ks%2Fhqdefault.jpg&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -100,7 +98,7 @@ Because of this, some implied that I cherry-picked my source images. To that I c
 
 When I built my initial proof of concept (again, focusing on validating an idea, not replicating BlueNet), I used a small sample set of less than ten images. Since camera setup is one of, if not _the most,_ important factors in [ALPR,](http://www.theiacp.org/ALPR) I selected them for ideal characteristics that enhance recognition.
 
-And the end of the day, it is very simple to take a fragile proof of concept and break it. The true innovation and challenge comes from taking a proof of concept, and _making it work_. Throughout my professional career, many senior developers have told me that things can’t be done or at least can’t be done in a timely manner. Sometimes they were right. Often, they were just risk averse.
+At the end of the day, it is very simple to take a fragile proof of concept and break it. The true innovation and challenge comes from taking a proof of concept, and _making it work_. Throughout my professional career, many senior developers have told me that things can’t be done or at least can’t be done in a timely manner. Sometimes they were right. Often, they were just risk averse.
 
 > “Nothing is impossible until it is proven to be.”
 
@@ -112,7 +110,7 @@ This project is so exciting and different for me because it has a clear success 
 
 #### Optical Zoom
 
-The most obvious solution in hindsight is the use of an [optical zoom](https://www.digitaltrends.com/photography/digital-cameras-digital-zoom-vs-optical-zoom/). Though I explore other important factors below, none lead to the sheer increase in recognition as this. In general, professional ALPR solutions are offset at an angle, trained on where the license plate will be, and zoomed into the area to maximize clarity.
+The most obvious solution in hindsight is the use of an [optical zoom](https://www.digitaltrends.com/photography/digital-cameras-digital-zoom-vs-optical-zoom/). Though I explore other important factors below, none lead to such a sheer increase in recognition as this. In general, professional ALPR solutions are offset at an angle, trained on where the license plate will be, and zoomed into the area to maximize clarity.
 
 This means the **more zoom, more pixels to play with**.
 
@@ -132,11 +130,8 @@ The viewing angle of 30**°** is often referenced as the standard for ideal plat
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tVk-4iB99Y65ILWrsxbWmw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*tVk-4iB99Y65ILWrsxbWmw.gif"&gt;</noscript>
 
 
 
@@ -152,11 +147,8 @@ If I had to guess I’d say a mostly forward-facing array would be the ideal set
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sQ2gt2ChTKJExl8spIpo6w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sQ2gt2ChTKJExl8spIpo6w.png"&gt;</noscript>
 
 
 
@@ -174,11 +166,8 @@ When compositing the video, I thought about stabilizing the footage. Instead I o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VSdNQ8RAcaH6Yy2boa5Xqw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="53" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*VSdNQ8RAcaH6Yy2boa5Xqw.gif"&gt;</noscript>
 
 
 
@@ -214,11 +203,9 @@ To better explain how high-performance vehicle recognition could couple with slo
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEqL8xW7ukw8%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<iframe data-width="854" data-height="480" width="980" height="551" data-src="/media/82ba4af06212e42a47ac0a060d2940fe?postId=9f3c64e8f22b" data-media-id="82ba4af06212e42a47ac0a060d2940fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEqL8xW7ukw8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" data-src="https://medium.freecodecamp.org/media/82ba4af06212e42a47ac0a060d2940fe?postId=9f3c64e8f22b" data-media-id="82ba4af06212e42a47ac0a060d2940fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEqL8xW7ukw8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="854" data-height="480" width="980" height="551" src="/media/82ba4af06212e42a47ac0a060d2940fe?postId=9f3c64e8f22b" data-media-id="82ba4af06212e42a47ac0a060d2940fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEqL8xW7ukw8%2Fhqdefault.jpg&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -244,11 +231,8 @@ A different manifestation of _frame rate_ is largely influenced upon shutter spe
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*uCdnYdomqAQBZYMJjZEI_A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*uCdnYdomqAQBZYMJjZEI_A.png"&gt;</noscript>
 
 
 
@@ -276,11 +260,8 @@ I also found that the main node-openalpr package defaults to US country processi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*I0t_Xoyayj3sMwLs-px3Pg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="22"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*I0t_Xoyayj3sMwLs-px3Pg.png"&gt;</noscript>
 
 
 
@@ -298,11 +279,8 @@ There is clearly a lot to be desired when it comes to Australian-based data sets
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*K0v8vubrzykpVRk9rpx0qQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="71"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*K0v8vubrzykpVRk9rpx0qQ.png"&gt;</noscript>
 
 
 
@@ -322,11 +300,8 @@ In my limited testing experience, I wasn’t able to find a planar warp that wor
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kpJTyMZdn4tjoTDMHEqsuA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="67" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*kpJTyMZdn4tjoTDMHEqsuA.png"&gt;</noscript>
 
 
 
@@ -340,9 +315,9 @@ The planar warp tool provided with Open ALPR
 
 Numerous readers reached out after the last post to share their own experiences and ideas. Perhaps one of the more interesting solutions shared with me was by [Auror](https://www.auror.co/) in New Zealand.
 
-They employ fixed ALPR cameras in petrol stations to report on people stealing petrol. This in itself is not particularly new and revolutionary. But when coupled with their network, they can automatically alert when known offenders have returned, or are targeting petrol stations in the area.
+They employ fixed ALPR cameras in petrol stations to report on people stealing petrol. This in itself is not particularly new and revolutionary. But when coupled with their network, they can automatically raise an alert when known offenders have returned, or are targeting petrol stations in the area.
 
-Independent developers in Israel, South Africa, and Argentina have shown interest in building their own hacked-together versions of BlueNet. Some will probably fare better than others, as places like Israel use a seven digit with no alphabet characters on their license plates.
+Independent developers in Israel, South Africa, and Argentina have shown interest in building their own hacked-together versions of BlueNet. Some will probably fare better than others, as places like Israel use a seven digit license plates with no alphabet characters.
 
 ### Key Takeaways
 
@@ -356,7 +331,7 @@ The $86 million question still remains — if you can build a half-arsed sol
 
 My solution is not even in the same solar system as the 99.999% accurate scanner that some internet commenters seem to expect. But then again, BlueNet only has to meet a 95% accuracy target.
 
-So if $1 million gets you to 80% accuracy, and maybe $10 million gets you to 90% accuracy — when do you stop spending? Furthermore, considering the technology has proven commercial applications here in Oceania, how much more taxpayer money should be poured into a proprietary, close-sourced solution when local startups could benefit? We are supposed to be an “innovation nation” after all.
+So if $1 million gets you to 80% accuracy, and maybe $10 million gets you to 90% accuracy — when do you stop spending? Furthermore, considering that the technology has proven commercial applications here in Oceania, how much more taxpayer money should be poured into a proprietary, close-sourced solution when local startups could benefit? Australia is supposed to be an “innovation nation” after all.
 
 
 

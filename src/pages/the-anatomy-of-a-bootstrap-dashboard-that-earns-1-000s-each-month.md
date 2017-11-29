@@ -51,7 +51,7 @@ I will try to give as much information as I can, with hopes that this tutorial w
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/0c89972346ee78f59dae85c7d4faf72d?postId=ed3404010d25" data-media-id="0c89972346ee78f59dae85c7d4faf72d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCCpgya-UIAA8uar.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/0c89972346ee78f59dae85c7d4faf72d?postId=ed3404010d25" data-media-id="0c89972346ee78f59dae85c7d4faf72d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCCpgya-UIAA8uar.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -318,7 +318,7 @@ This was the view that made us feel happy, it was just perfect for us 😍. We a
 
 
 
-<iframe data-width="1460" data-height="1048" width="980" height="703" src="/media/0fade35a8307c7d356dfb07539292a61?postId=ed3404010d25" data-media-id="0fade35a8307c7d356dfb07539292a61" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F624596572_1280.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1460" data-height="1048" width="980" height="703" src="https://medium.freecodecamp.org/media/0fade35a8307c7d356dfb07539292a61?postId=ed3404010d25" data-media-id="0fade35a8307c7d356dfb07539292a61" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F624596572_1280.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -328,7 +328,7 @@ This was the view that made us feel happy, it was just perfect for us 😍. We a
 
 
 
-<iframe data-width="1296" data-height="588" width="980" height="445" src="/media/3dab2fb960b84ed6597187fc8f77fbe7?postId=ed3404010d25" data-media-id="3dab2fb960b84ed6597187fc8f77fbe7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F624597221_1280.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1296" data-height="588" width="980" height="445" src="https://medium.freecodecamp.org/media/3dab2fb960b84ed6597187fc8f77fbe7?postId=ed3404010d25" data-media-id="3dab2fb960b84ed6597187fc8f77fbe7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F624597221_1280.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

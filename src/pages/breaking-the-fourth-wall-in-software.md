@@ -475,7 +475,7 @@ I was invited by the [RED Academy](http://www.redacademy.com) to deliver the tal
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/c39c0a8b78d76b5493700380a9414b53?postId=d08a25df34b7" data-media-id="c39c0a8b78d76b5493700380a9414b53" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/c39c0a8b78d76b5493700380a9414b53?postId=d08a25df34b7" data-media-id="c39c0a8b78d76b5493700380a9414b53" allowfullscreen="" frameborder="0"></iframe>
 
 
 

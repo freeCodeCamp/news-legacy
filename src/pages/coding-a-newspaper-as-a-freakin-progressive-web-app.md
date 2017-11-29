@@ -1,7 +1,7 @@
 ---
 author: James Y Rauhut
 authorTwitter: https://twitter.com/seejamescode
-authorFacebook: false
+authorFacebook: none
 title: "How to Code a Progressive Web App News Website"
 subTitle: "For the last two weeks, I worked on a personal project called The Global Upvote. The Global Upvote aggregates top voted stories from acro..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*UIn33AVqRy28zwx7SIojaw.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/coding-a-newspaper-as-a-freakin-progressive
 id: coding-a-newspaper-as-a-freakin-progressive-web-app-e456d4a2b9cd
 date: 2017-09-15T19:06:46.015Z
 tags: [
-  "Web Development",
-  "JavaScript",
-  "Tech",
-  "React",
-  "Startup"
+	"Web Development",
+	"JavaScript",
+	"Tech",
+	"React",
+	"Startup"
 ]
 ---
 # How to Code a Progressive Web App News Website
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*UIn33AVqRy28zwx7SIojaw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*UIn33AVqRy28zwx7SIojaw.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*UIn33AVqRy28zwx7SIojaw.png"&gt;</noscript>
 
 
 
@@ -63,11 +60,8 @@ I knew there were two parts of content I wanted to capture from Reddit:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*x9icKS2tqenCBsHIIoUplA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*x9icKS2tqenCBsHIIoUplA.png"&gt;</noscript>
 
 
 
@@ -97,11 +91,8 @@ The second half of offline-mode was saving new stories to the user’s device ev
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ptMVuLFpcpsiPe2zODTRBw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ptMVuLFpcpsiPe2zODTRBw.gif"&gt;</noscript>
 
 
 
@@ -119,11 +110,8 @@ I had determined that I wanted the user to be able to save the experience as the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*HKaL30NSVszDGUvnsLWXug.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*HKaL30NSVszDGUvnsLWXug.gif"&gt;</noscript>
 
 
 
@@ -141,11 +129,8 @@ From a development standpoint, I loved all the different solutions I could put t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*effdRY2gN-xIf_F5J2WJlA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="11"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*effdRY2gN-xIf_F5J2WJlA.png"&gt;</noscript>
 
 
 

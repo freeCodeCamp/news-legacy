@@ -1,7 +1,7 @@
 ---
 author: Léna Faure
 authorTwitter: https://twitter.com/lenafaure
-authorFacebook: false
+authorFacebook: none
 title: "The developer’s workflow in practice — how we built our MVP in 30 days"
 subTitle: "As a web developer, I often get to start projects from scratch and make decisions for a bunch of elements, from the technical stack to th..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*oYtXYYF7F0cBuv2SWm78xA.jpeg
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/the-developers-workflow-in-practice-how-we-
 id: the-developers-workflow-in-practice-how-we-built-our-mvp-in-30-days-c60d804695a8
 date: 2017-10-24T21:05:32.511Z
 tags: [
-  "Tech",
-  "Programming",
-  "JavaScript",
-  "Development",
-  "Startup"
+	"Tech",
+	"Programming",
+	"JavaScript",
+	"Development",
+	"Startup"
 ]
 ---
 # The developer’s workflow in practice — how we built our MVP in 30 days
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*oYtXYYF7F0cBuv2SWm78xA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*oYtXYYF7F0cBuv2SWm78xA.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*oYtXYYF7F0cBuv2SWm78xA.jpeg"&gt;</noscript>
 
 
 
@@ -62,11 +59,8 @@ Some context first: AlloAnim is a web app designed to help the City of Paris fin
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vOTtrNbhxh2QW8lnp7yLWA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*vOTtrNbhxh2QW8lnp7yLWA.png"&gt;</noscript>
 
 
 
@@ -104,11 +98,8 @@ The main take-away of Agile is that you have to work in very close collaboration
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*EJYimcsD-XYcC9NR.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*EJYimcsD-XYcC9NR."&gt;</noscript>
 
 
 
@@ -130,11 +121,8 @@ We engaged in a meaningful conversation about how she currently handled her staf
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KGtwidYUm7DQ1OxN_9mIzA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*KGtwidYUm7DQ1OxN_9mIzA.jpeg"&gt;</noscript>
 
 
 
@@ -160,11 +148,8 @@ User stories fit together to form a Story Map, which is the global visual plan f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*B7p8epBm1iEI8gXx.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*B7p8epBm1iEI8gXx."&gt;</noscript>
 
 
 
@@ -202,11 +187,8 @@ Team members update the task board continuously throughout the sprint by writing
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*GvC5snIP_0CHeDkT.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*GvC5snIP_0CHeDkT."&gt;</noscript>
 
 
 
@@ -231,11 +213,8 @@ To make the meeting efficient and to-the-point, the strategy Christophe shared w
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*B5AxgQYSFi5FsSxDQwCUvA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*B5AxgQYSFi5FsSxDQwCUvA.jpeg"&gt;</noscript>
 
 
 
@@ -261,11 +240,8 @@ The search functionality on [Dribbble](https://dribbble.com/) lets you pick the 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6_-A_4N6yX5906d1BbLv0w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6_-A_4N6yX5906d1BbLv0w.png"&gt;</noscript>
 
 
 
@@ -281,11 +257,8 @@ The search functionality on [Dribbble](https://dribbble.com/) lets you pick the 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*LpvHYk-wlawKxZee81ahLQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="54" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*LpvHYk-wlawKxZee81ahLQ.png"&gt;</noscript>
 
 
 
@@ -301,11 +274,8 @@ The search functionality on [Dribbble](https://dribbble.com/) lets you pick the 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*QAUkKlRc8iSJSVWfjQv4Lg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*QAUkKlRc8iSJSVWfjQv4Lg.png"&gt;</noscript>
 
 
 
@@ -327,11 +297,8 @@ Some developers prefer to focus on the back end first. Once they get everything 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*9dlrcKmkImRLApKt.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*9dlrcKmkImRLApKt."&gt;</noscript>
 
 
 
@@ -351,11 +318,8 @@ Below are some screenshots of the MVP in action!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*xJX4CoOwV62CIKSHZMKGeA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*xJX4CoOwV62CIKSHZMKGeA.gif"&gt;</noscript>
 
 
 
@@ -375,11 +339,8 @@ Signing Up
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3xw4lw0G-WQbJzbzahZ6cw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*3xw4lw0G-WQbJzbzahZ6cw.gif"&gt;</noscript>
 
 
 
@@ -403,11 +364,8 @@ So I set out to build a full Javascript weekly availability scheduler, and then 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*jnA1RfrKBBXR9nb7.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*jnA1RfrKBBXR9nb7."&gt;</noscript>
 
 
 
@@ -421,11 +379,8 @@ So I set out to build a full Javascript weekly availability scheduler, and then 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*VJzZki_YqMw6J-Q1.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*VJzZki_YqMw6J-Q1."&gt;</noscript>
 
 
 
@@ -439,11 +394,8 @@ So I set out to build a full Javascript weekly availability scheduler, and then 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*V0srF2EvciBWjQPdvH14eQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*V0srF2EvciBWjQPdvH14eQ.png"&gt;</noscript>
 
 
 
@@ -459,11 +411,8 @@ The final step is to make the app live. I found [**Heroku**](https://www.heroku.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5bUSm3xfd7nFNU-KyJPItw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*5bUSm3xfd7nFNU-KyJPItw.png"&gt;</noscript>
 
 
 
@@ -491,11 +440,8 @@ Sticky notes are life. Nothing good in the world would happen without them.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VzopnLtVd7gpi1uKnR_6Ag.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*VzopnLtVd7gpi1uKnR_6Ag.jpeg"&gt;</noscript>
 
 
 
@@ -519,11 +465,8 @@ After a selection process and a one-month acceleration, a two-person team (Produ
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*G0PLL0-Apbg8a8GX2xgO8Q.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*G0PLL0-Apbg8a8GX2xgO8Q.jpeg"&gt;</noscript>
 
 
 

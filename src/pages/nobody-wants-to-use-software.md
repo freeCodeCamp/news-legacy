@@ -1,7 +1,7 @@
 ---
 author: Bertil Muth
 authorTwitter: https://twitter.com/BertilMuth
-authorFacebook: false
+authorFacebook: none
 title: "Nobody wants to use software"
 subTitle: "Why you should rethink software development"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*7XkKCDFbdMDTpzIGahpMTA.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Anthony Ng
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "My First Open Source Adventure"
 subTitle: "The idea of open source has always resonated with me. What’s not to like about people volunteering their time and knowledge for the commo..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*d-pS9aIt4Fywwa0QJGgCvg.jpeg

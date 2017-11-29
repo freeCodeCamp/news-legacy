@@ -1,7 +1,7 @@
 ---
 author: James Wright
 authorTwitter: https://twitter.com/jamesseanwright
-authorFacebook: false
+authorFacebook: none
 title: "Introducing Type Safety To Your JavaScript Project? Think Again"
 subTitle: "I’ve heard various counter-arguments regarding type safety in JavaScript since I first published this article, and while I still believe ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*0o35DC9HRHPhjwYMHwbz_g.jpeg

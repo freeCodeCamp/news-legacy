@@ -76,7 +76,7 @@ Arrow functions allow you to write anonymous functions in a much more compact wa
 
 
 
-<iframe width="700" height="250" src="/media/fcd66e4b0d746cf43f64cef28857ca98?postId=f98eccb4841" data-media-id="fcd66e4b0d746cf43f64cef28857ca98" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fcd66e4b0d746cf43f64cef28857ca98?postId=f98eccb4841" data-media-id="fcd66e4b0d746cf43f64cef28857ca98" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ Function-scoped variable behavior has long been the climax of any JavaScript int
 
 
 
-<iframe width="700" height="250" src="/media/ccbb7c5123a686edbdff44b12b558f73?postId=f98eccb4841" data-media-id="ccbb7c5123a686edbdff44b12b558f73" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ccbb7c5123a686edbdff44b12b558f73?postId=f98eccb4841" data-media-id="ccbb7c5123a686edbdff44b12b558f73" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ Talking about expressiveness, destructuring offers tons of ways of saying more w
 
 
 
-<iframe width="700" height="250" src="/media/cca449eb7a301090610770662986ceb2?postId=f98eccb4841" data-media-id="cca449eb7a301090610770662986ceb2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cca449eb7a301090610770662986ceb2?postId=f98eccb4841" data-media-id="cca449eb7a301090610770662986ceb2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ Default parameters are pretty straight-forward, and are already present in many 
 
 
 
-<iframe width="700" height="250" src="/media/be55835fc21a84052be9efca22b3664a?postId=f98eccb4841" data-media-id="be55835fc21a84052be9efca22b3664a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/be55835fc21a84052be9efca22b3664a?postId=f98eccb4841" data-media-id="be55835fc21a84052be9efca22b3664a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -140,7 +140,7 @@ Ok, we’ve been playing around with the syntax, we’ve made some cool function
 
 
 
-<iframe width="700" height="250" src="/media/f48332fbab4c5ba590bda6d550e65208?postId=f98eccb4841" data-media-id="f48332fbab4c5ba590bda6d550e65208" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f48332fbab4c5ba590bda6d550e65208?postId=f98eccb4841" data-media-id="f48332fbab4c5ba590bda6d550e65208" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -158,7 +158,7 @@ What if we can do something like this instead?
 
 
 
-<iframe width="700" height="250" src="/media/d16f2a2582b4a3b5070c6e3215d10ca3?postId=f98eccb4841" data-media-id="d16f2a2582b4a3b5070c6e3215d10ca3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d16f2a2582b4a3b5070c6e3215d10ca3?postId=f98eccb4841" data-media-id="d16f2a2582b4a3b5070c6e3215d10ca3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -196,7 +196,7 @@ ES2015 brings a sugaring syntax which uses prototypal object creation in the bac
 
 
 
-<iframe width="700" height="250" src="/media/08c6d0db2ac1d18b9ec800dd3985cc4c?postId=f98eccb4841" data-media-id="08c6d0db2ac1d18b9ec800dd3985cc4c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/08c6d0db2ac1d18b9ec800dd3985cc4c?postId=f98eccb4841" data-media-id="08c6d0db2ac1d18b9ec800dd3985cc4c" allowfullscreen="" frameborder="0"></iframe>
 
 
 

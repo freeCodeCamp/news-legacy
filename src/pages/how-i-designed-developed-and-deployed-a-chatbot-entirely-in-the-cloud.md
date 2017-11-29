@@ -22,7 +22,7 @@ tags: [
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/5e8509539ebca09c9075004ad5360659?postId=a60614eb94f2" data-media-id="5e8509539ebca09c9075004ad5360659" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5Zoddm5GPPQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/5e8509539ebca09c9075004ad5360659?postId=a60614eb94f2" data-media-id="5e8509539ebca09c9075004ad5360659" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5Zoddm5GPPQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -56,7 +56,7 @@ Let’s look at some examples:
 
 
 
-<iframe width="700" height="250" src="/media/9277d9de92d4991a8c1c5f273caf1d6b?postId=66feb44f6a44" data-media-id="9277d9de92d4991a8c1c5f273caf1d6b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9277d9de92d4991a8c1c5f273caf1d6b?postId=66feb44f6a44" data-media-id="9277d9de92d4991a8c1c5f273caf1d6b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -72,7 +72,7 @@ In this example we’ll demonstrate that a closure contains any and all local va
 
 
 
-<iframe width="700" height="250" src="/media/5cc13d3eefcc275a0eb4608c0112151f?postId=66feb44f6a44" data-media-id="5cc13d3eefcc275a0eb4608c0112151f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5cc13d3eefcc275a0eb4608c0112151f?postId=66feb44f6a44" data-media-id="5cc13d3eefcc275a0eb4608c0112151f" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ For a practical example of this concept in action in the browser, see the exampl
 
 
 
-<iframe width="700" height="250" src="/media/36835224392aa9b148fcd80ba361ba22?postId=66feb44f6a44" data-media-id="36835224392aa9b148fcd80ba361ba22" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/36835224392aa9b148fcd80ba361ba22?postId=66feb44f6a44" data-media-id="36835224392aa9b148fcd80ba361ba22" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -170,7 +170,7 @@ Abstractly, the environment looks like this in pseudocode:
 
 
 
-<iframe width="700" height="250" src="/media/9eae9d2e61e56773726fc6b7eed1fd93?postId=66feb44f6a44" data-media-id="9eae9d2e61e56773726fc6b7eed1fd93" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9eae9d2e61e56773726fc6b7eed1fd93?postId=66feb44f6a44" data-media-id="9eae9d2e61e56773726fc6b7eed1fd93" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -190,7 +190,7 @@ Let’s look at an example of this nesting structure:
 
 
 
-<iframe width="700" height="250" src="/media/36fc07f85b9e9264f8a95545a331cab1?postId=66feb44f6a44" data-media-id="36fc07f85b9e9264f8a95545a331cab1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/36fc07f85b9e9264f8a95545a331cab1?postId=66feb44f6a44" data-media-id="36fc07f85b9e9264f8a95545a331cab1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -224,7 +224,7 @@ At this point, you might be wondering how dynamic scope and static scope are dif
 
 
 
-<iframe width="700" height="250" src="/media/f5538a1882f82719d3ac3f75ca7f6b0e?postId=66feb44f6a44" data-media-id="f5538a1882f82719d3ac3f75ca7f6b0e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f5538a1882f82719d3ac3f75ca7f6b0e?postId=66feb44f6a44" data-media-id="f5538a1882f82719d3ac3f75ca7f6b0e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -242,7 +242,7 @@ Dynamic scope, on the other hand, gives us a stack of variable definitions track
 
 
 
-<iframe width="700" height="250" src="/media/d2eedb27daf64aa0fbbd767120ed540e?postId=66feb44f6a44" data-media-id="d2eedb27daf64aa0fbbd767120ed540e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d2eedb27daf64aa0fbbd767120ed540e?postId=66feb44f6a44" data-media-id="d2eedb27daf64aa0fbbd767120ed540e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -266,7 +266,7 @@ Coming back to the nested structure example:
 
 
 
-<iframe width="700" height="250" src="/media/fb8def38995de4d0b3b7bc4338ada4f9?postId=66feb44f6a44" data-media-id="fb8def38995de4d0b3b7bc4338ada4f9" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fb8def38995de4d0b3b7bc4338ada4f9?postId=66feb44f6a44" data-media-id="fb8def38995de4d0b3b7bc4338ada4f9" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -278,7 +278,7 @@ Based on our understanding of how environments work, we can say that the environ
 
 
 
-<iframe width="700" height="250" src="/media/1fc02aba19689886b6c954c50fddb055?postId=66feb44f6a44" data-media-id="1fc02aba19689886b6c954c50fddb055" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1fc02aba19689886b6c954c50fddb055?postId=66feb44f6a44" data-media-id="1fc02aba19689886b6c954c50fddb055" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -298,7 +298,7 @@ One canonical example/mistake is when there’s a for-loop and we try to associa
 
 
 
-<iframe width="700" height="250" src="/media/5833fc7ed55ab77befab4dc45ed0efaa?postId=66feb44f6a44" data-media-id="5833fc7ed55ab77befab4dc45ed0efaa" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5833fc7ed55ab77befab4dc45ed0efaa?postId=66feb44f6a44" data-media-id="5833fc7ed55ab77befab4dc45ed0efaa" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -310,7 +310,7 @@ Going back to what we just learned, it becomes super easy to spot the mistake he
 
 
 
-<iframe width="700" height="250" src="/media/72ee0af5e241fd663c156a47b6e9ae70?postId=66feb44f6a44" data-media-id="72ee0af5e241fd663c156a47b6e9ae70" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/72ee0af5e241fd663c156a47b6e9ae70?postId=66feb44f6a44" data-media-id="72ee0af5e241fd663c156a47b6e9ae70" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -324,7 +324,7 @@ One way to fix this is to create an additional enclosing context for each functi
 
 
 
-<iframe width="700" height="250" src="/media/1cad2df5199a0c674b9af54d65dfc0c3?postId=66feb44f6a44" data-media-id="1cad2df5199a0c674b9af54d65dfc0c3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1cad2df5199a0c674b9af54d65dfc0c3?postId=66feb44f6a44" data-media-id="1cad2df5199a0c674b9af54d65dfc0c3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -338,7 +338,7 @@ Another, rather clever approach is to use **let** instead of **var**, since **le
 
 
 
-<iframe width="700" height="250" src="/media/084259adfe561e35472435e2402c6ba9?postId=66feb44f6a44" data-media-id="084259adfe561e35472435e2402c6ba9" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/084259adfe561e35472435e2402c6ba9?postId=66feb44f6a44" data-media-id="084259adfe561e35472435e2402c6ba9" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -354,7 +354,7 @@ In this example, we’ll show how each _call_ to a function creates a new separa
 
 
 
-<iframe width="700" height="250" src="/media/6953ba0c5fd72f7edeec2ad3d0636a1e?postId=66feb44f6a44" data-media-id="6953ba0c5fd72f7edeec2ad3d0636a1e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6953ba0c5fd72f7edeec2ad3d0636a1e?postId=66feb44f6a44" data-media-id="6953ba0c5fd72f7edeec2ad3d0636a1e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -368,7 +368,7 @@ In this example, we can see that each call to the function **iCantThinkOfAName**
 
 
 
-<iframe width="700" height="250" src="/media/9a2eb27589a838057dd4f4c1b213db57?postId=66feb44f6a44" data-media-id="9a2eb27589a838057dd4f4c1b213db57" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9a2eb27589a838057dd4f4c1b213db57?postId=66feb44f6a44" data-media-id="9a2eb27589a838057dd4f4c1b213db57" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -380,7 +380,7 @@ What we can observe is that **mysteriousCalculator** is in the global scope, and
 
 
 
-<iframe width="700" height="250" src="/media/64f0d43aa5d7a5e2450c64eca938bf2b?postId=66feb44f6a44" data-media-id="64f0d43aa5d7a5e2450c64eca938bf2b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/64f0d43aa5d7a5e2450c64eca938bf2b?postId=66feb44f6a44" data-media-id="64f0d43aa5d7a5e2450c64eca938bf2b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -396,7 +396,7 @@ One final example to demonstrate an important use of closures: to maintain a pri
 
 
 
-<iframe width="700" height="250" src="/media/44c62d4b776fffbb3036f581de9400ae?postId=66feb44f6a44" data-media-id="44c62d4b776fffbb3036f581de9400ae" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/44c62d4b776fffbb3036f581de9400ae?postId=66feb44f6a44" data-media-id="44c62d4b776fffbb3036f581de9400ae" allowfullscreen="" frameborder="0"></iframe>
 
 
 

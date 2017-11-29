@@ -1,7 +1,7 @@
 ---
 author: Chris Loveless
 authorTwitter: https://twitter.com/shifthawke
-authorFacebook: false
+authorFacebook: none
 title: "Sharing My Coding Journey"
 subTitle: "I’ve thought about blogging my coding journey for a while, but nobody would read it unless I pestered them to...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ZpA1WOb-mV5HDi5T38QJWg.jpeg

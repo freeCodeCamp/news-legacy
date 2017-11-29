@@ -1,7 +1,7 @@
 ---
 author: Rick West
 authorTwitter: https://twitter.com/rick_west8
-authorFacebook: false
+authorFacebook: none
 title: "Why striving for perfection might be holding you back as a newbie web developer"
 subTitle: "I am a perfectionist. Or, at least, I like to think I am. Either way, I’m definitely somewhere close...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*LfbuYtihzNhWoK9P_s8MjQ.jpeg

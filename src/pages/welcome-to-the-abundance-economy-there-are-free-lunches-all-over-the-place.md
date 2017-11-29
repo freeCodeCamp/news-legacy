@@ -182,7 +182,7 @@ Before Wikipedia, the most popular encyclopedia was written by paid experts, and
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/70b9dfa7c1b85bfee4c86d7cbd8be9ac?postId=b9d0a417fd1a" data-media-id="70b9dfa7c1b85bfee4c86d7cbd8be9ac" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaosNMvldmAk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/70b9dfa7c1b85bfee4c86d7cbd8be9ac?postId=b9d0a417fd1a" data-media-id="70b9dfa7c1b85bfee4c86d7cbd8be9ac" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaosNMvldmAk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

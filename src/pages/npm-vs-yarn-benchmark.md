@@ -1,7 +1,7 @@
 ---
 author: Alberto Varela
 authorTwitter: https://twitter.com/artberri
-authorFacebook: false
+authorFacebook: none
 title: "So I benchmarked Yarn against the 4 most popular CI tools."
 subTitle: "Yarn is a recently launched alternative for npm as Node.js dependency manager. It claims to be much faster and reliable than its predeces..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*e6JtRXnqMpMRnpAu.png

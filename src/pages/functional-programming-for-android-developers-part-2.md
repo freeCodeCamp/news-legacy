@@ -320,7 +320,7 @@ I did a whole talk on immutability and concurrency at Droidcon India. Enjoy!
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/77eb6effeadb0e8ce1fd46d5f9efdc2c?postId=5c0834669d1a" data-media-id="77eb6effeadb0e8ce1fd46d5f9efdc2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlE9XnvBV-ys%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/77eb6effeadb0e8ce1fd46d5f9efdc2c?postId=5c0834669d1a" data-media-id="77eb6effeadb0e8ce1fd46d5f9efdc2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlE9XnvBV-ys%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Jonathan Solórzano-Hamilton
 authorTwitter: https://twitter.com/jhsolor
-authorFacebook: false
+authorFacebook: none
 title: "How to bridge stateful and event-sourced systems (and beat the gorilla)"
 subTitle: "You have a shiny new CQRS system, it’s “dev complete,” and you’re about to start integration testing. And the 800-pound gorilla that was ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*otKCFIv0UWdahz2Ecyyi1Q.jpeg

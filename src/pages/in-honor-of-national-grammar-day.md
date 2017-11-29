@@ -1,7 +1,7 @@
 ---
 author: Pete Considine
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "In Honor of National Grammar Day"
 subTitle: "When I’m not coding, reading about coding, or solving coding problems, I’m a managing editor for a business technology-related educator i..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*PO0Z0bmKZmZn8CnJy2BlTw.jpeg

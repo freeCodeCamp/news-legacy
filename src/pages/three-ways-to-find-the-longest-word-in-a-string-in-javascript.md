@@ -68,7 +68,7 @@ In this article, I’m going to explain three approaches. First with a FOR loop,
 
 
 
-<iframe width="700" height="250" src="/media/b7f359a5f0028062439ced7db3f6b756?postId=a2fb04c9757c" data-media-id="b7f359a5f0028062439ced7db3f6b756" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b7f359a5f0028062439ced7db3f6b756?postId=a2fb04c9757c" data-media-id="b7f359a5f0028062439ced7db3f6b756" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ If you don’t add the space in the parenthesis, you will have this output:
 
 
 
-<iframe width="700" height="250" src="/media/02dc048d200a7d599711b40dbb12d4df?postId=a2fb04c9757c" data-media-id="02dc048d200a7d599711b40dbb12d4df" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/02dc048d200a7d599711b40dbb12d4df?postId=a2fb04c9757c" data-media-id="02dc048d200a7d599711b40dbb12d4df" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -136,7 +136,7 @@ If you don’t add the space in the parenthesis, you will have this output:
 
 
 
-<iframe width="700" height="250" src="/media/2ea73b6a07ca46a70dfd2163dc55f6fb?postId=a2fb04c9757c" data-media-id="2ea73b6a07ca46a70dfd2163dc55f6fb" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2ea73b6a07ca46a70dfd2163dc55f6fb?postId=a2fb04c9757c" data-media-id="2ea73b6a07ca46a70dfd2163dc55f6fb" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -188,7 +188,7 @@ where the length of the second element is compared to the length of the first el
 
 
 
-<iframe width="700" height="250" src="/media/14220e4356a1d917770a1dfeccf1ae5c?postId=a2fb04c9757c" data-media-id="14220e4356a1d917770a1dfeccf1ae5c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/14220e4356a1d917770a1dfeccf1ae5c?postId=a2fb04c9757c" data-media-id="14220e4356a1d917770a1dfeccf1ae5c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ where the length of the second element is compared to the length of the first el
 
 
 
-<iframe width="700" height="250" src="/media/2aec961dc84b01dc4b80222a97f32583?postId=a2fb04c9757c" data-media-id="2aec961dc84b01dc4b80222a97f32583" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2aec961dc84b01dc4b80222a97f32583?postId=a2fb04c9757c" data-media-id="2aec961dc84b01dc4b80222a97f32583" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -240,7 +240,7 @@ You can provide an initial value as the second argument to reduce, here we will 
 
 
 
-<iframe width="700" height="250" src="/media/9db6e9609ba6049120359b7e862f20f1?postId=a2fb04c9757c" data-media-id="9db6e9609ba6049120359b7e862f20f1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9db6e9609ba6049120359b7e862f20f1?postId=a2fb04c9757c" data-media-id="9db6e9609ba6049120359b7e862f20f1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -252,7 +252,7 @@ You can provide an initial value as the second argument to reduce, here we will 
 
 
 
-<iframe width="700" height="250" src="/media/32a1d2529a0b0d1d8a5319a7cf4e422c?postId=a2fb04c9757c" data-media-id="32a1d2529a0b0d1d8a5319a7cf4e422c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/32a1d2529a0b0d1d8a5319a7cf4e422c?postId=a2fb04c9757c" data-media-id="32a1d2529a0b0d1d8a5319a7cf4e422c" allowfullscreen="" frameborder="0"></iframe>
 
 
 

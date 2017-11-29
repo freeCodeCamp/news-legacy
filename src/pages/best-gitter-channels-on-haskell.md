@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels on: Haskell"
 subTitle: "Haskell is a standardized, general-purpose, purely functional programming language. It uses non-strict semantics and strong static typing..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*7RDo4aMeIFuUFZ_zspkFLg.png

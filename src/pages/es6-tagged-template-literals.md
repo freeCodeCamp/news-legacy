@@ -1,7 +1,7 @@
 ---
 author: Sanket Meghani
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "ES6 Tagged Template Literals"
 subTitle: "You may already be familiar with ES6 template literals, which allows string interpolation like this:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ZG68vCYoeNM8ID1pC3-f-A.png
@@ -33,7 +33,7 @@ Tags are just normal functions, but to be useful they have to be invoked differe
 
 
 
-<iframe width="700" height="250" src="/media/7c47f90da7344938fc040e29dd3d693d?postId=48a70ef3ed4d" data-media-id="7c47f90da7344938fc040e29dd3d693d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F7963375%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7c47f90da7344938fc040e29dd3d693d?postId=48a70ef3ed4d" data-media-id="7c47f90da7344938fc040e29dd3d693d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F7963375%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -57,7 +57,7 @@ This allows us to use function expressions as interpolated values which can be c
 
 
 
-<iframe width="700" height="250" src="/media/ea70675d40428af86f8f10c3569eae28?postId=48a70ef3ed4d" data-media-id="ea70675d40428af86f8f10c3569eae28" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F7963375%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ea70675d40428af86f8f10c3569eae28?postId=48a70ef3ed4d" data-media-id="ea70675d40428af86f8f10c3569eae28" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F7963375%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

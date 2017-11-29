@@ -1,7 +1,7 @@
 ---
 author: Ohans Emmanuel
 authorTwitter: https://twitter.com/OhansEmmanuel
-authorFacebook: false
+authorFacebook: none
 title: "The Ultimate Guide to Flexbox — Learning Through Examples"
 subTitle: "What’s the best way to understand Flexbox? Learn the fundamentals, then build lots of stuff. And that’s exactly what we’re going to do in..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9vcCT6S_dFJqR6yed6Vmqw.png

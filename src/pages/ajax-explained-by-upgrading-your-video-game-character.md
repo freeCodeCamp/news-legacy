@@ -79,7 +79,7 @@ Here’s the finished code you would use to store the sword:
 
 
 
-<iframe width="700" height="250" src="/media/a69aa042e865df7c8c2d2d1923a02352?postId=17d26305163c" data-media-id="a69aa042e865df7c8c2d2d1923a02352" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a69aa042e865df7c8c2d2d1923a02352?postId=17d26305163c" data-media-id="a69aa042e865df7c8c2d2d1923a02352" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -93,7 +93,7 @@ Relational databases are a little outside the scope of this tutorial, but if you
 
 
 
-<iframe width="700" height="250" src="/media/813092ed53bdfac4961df557288d67b5?postId=17d26305163c" data-media-id="813092ed53bdfac4961df557288d67b5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/813092ed53bdfac4961df557288d67b5?postId=17d26305163c" data-media-id="813092ed53bdfac4961df557288d67b5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -150,7 +150,7 @@ You might structure your GET like this:
 
 
 
-<iframe width="700" height="250" src="/media/435a28b68f0296dbd105499af1052cdf?postId=17d26305163c" data-media-id="435a28b68f0296dbd105499af1052cdf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/435a28b68f0296dbd105499af1052cdf?postId=17d26305163c" data-media-id="435a28b68f0296dbd105499af1052cdf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -172,7 +172,7 @@ You would want to allow the user to sort the choices dynamically. So you would u
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=17d26305163c" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=17d26305163c" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

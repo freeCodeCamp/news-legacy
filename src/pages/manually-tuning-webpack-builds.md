@@ -32,7 +32,7 @@ After a couple of weeks I noticed at several points we had pretty big spikes in 
 
 
 
-<iframe width="500" height="250" src="/media/cee1c28aaf14f06ce24903396d006080?postId=284923f47f44" data-media-id="cee1c28aaf14f06ce24903396d006080" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/cee1c28aaf14f06ce24903396d006080?postId=284923f47f44" data-media-id="cee1c28aaf14f06ce24903396d006080" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -44,7 +44,7 @@ NPM makes it very easy to install many versions of modules. That is fine in serv
 
 
 
-<iframe width="700" height="250" src="/media/edfcbcf647d6f55f9af8de352b2abb27?postId=284923f47f44" data-media-id="edfcbcf647d6f55f9af8de352b2abb27" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/edfcbcf647d6f55f9af8de352b2abb27?postId=284923f47f44" data-media-id="edfcbcf647d6f55f9af8de352b2abb27" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -64,7 +64,7 @@ And with that magic you get a list like this:
 
 
 
-<iframe width="700" height="250" src="/media/643b8db4ea0cad03ddf2bf383524aee2?postId=284923f47f44" data-media-id="643b8db4ea0cad03ddf2bf383524aee2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/643b8db4ea0cad03ddf2bf383524aee2?postId=284923f47f44" data-media-id="643b8db4ea0cad03ddf2bf383524aee2" allowfullscreen="" frameborder="0"></iframe>
 
 
 

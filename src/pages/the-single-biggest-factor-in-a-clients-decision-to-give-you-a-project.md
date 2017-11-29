@@ -1,7 +1,7 @@
 ---
 author: Robert Williams
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Getting hired as a freelancer comes down to one thing: trust."
 subTitle: "When I ask freelancers what they think is the most important factor in landing a client project, they usually respond:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*jsO3j6dT6Yjl_QFrtj4EbA.png

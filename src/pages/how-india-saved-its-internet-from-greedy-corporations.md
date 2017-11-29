@@ -56,7 +56,7 @@ Thankfully, the comedy group All Indian Bakchod stepped in to help communicate t
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/479abe8bef4028ff6f48077097863850?postId=55b418fdb696" data-media-id="479abe8bef4028ff6f48077097863850" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmfY1NKrzqi0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/479abe8bef4028ff6f48077097863850?postId=55b418fdb696" data-media-id="479abe8bef4028ff6f48077097863850" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmfY1NKrzqi0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -82,7 +82,7 @@ All Indian Bakchod again moved in to cast light on these corrupt actions with a 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/61655c442b38219b603a87b17bd2e67c?postId=55b418fdb696" data-media-id="61655c442b38219b603a87b17bd2e67c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FW0w_YhZUYeA%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/61655c442b38219b603a87b17bd2e67c?postId=55b418fdb696" data-media-id="61655c442b38219b603a87b17bd2e67c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FW0w_YhZUYeA%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -148,7 +148,7 @@ And All India Bakchod came back with a third video:
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/fe7092b601fc259b134c929f86abc019?postId=55b418fdb696" data-media-id="fe7092b601fc259b134c929f86abc019" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAAQWsTFF0BM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/fe7092b601fc259b134c929f86abc019?postId=55b418fdb696" data-media-id="fe7092b601fc259b134c929f86abc019" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAAQWsTFF0BM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

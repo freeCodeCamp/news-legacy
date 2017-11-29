@@ -1,7 +1,7 @@
 ---
 author: Jake Soenneker
 authorTwitter: https://twitter.com/soenneker
-authorFacebook: false
+authorFacebook: none
 title: "How to get your users to actually update your app"
 subTitle: "The software development cycle is accelerating, and the web supports it beautifully. There’s no need to send new binaries to your users. ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*94NdJI6DWSeplX9gibc2hA.png

@@ -66,7 +66,7 @@ Sarah Jeong, a law and technology journalist who covered the trial [in detail](h
 
 
 
-<iframe width="500" height="250" src="/media/19b349d7bd9b3c3dc8ede74c869204c6?postId=4e24b4a368b5" data-media-id="19b349d7bd9b3c3dc8ede74c869204c6" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/19b349d7bd9b3c3dc8ede74c869204c6?postId=4e24b4a368b5" data-media-id="19b349d7bd9b3c3dc8ede74c869204c6" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Mariya Diminsky
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Learn Node.js with Brigadier Fluffykins Part I: Sync, Async, and Creating Your First Server!"
 subTitle: "Welcome to Part I of Learn Node.js With Brigadier Fluffykins, a series created to help you easily understand Node.js ❤..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*4E7_DswXy8rFF2Dzrq1H3A.jpeg
@@ -9,14 +9,18 @@ url: https://medium.freecodecamp.org/learn-node-js-with-brigadier-fluffykins-i-b
 id: learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108
 date: 2016-07-11T22:02:13.248Z
 tags: [
-  "Nodejs",
-  "JavaScript",
-  "Web Development",
-  "Tutorial",
-  "Education"
+	"Nodejs",
+	"JavaScript",
+	"Web Development",
+	"Tutorial",
+	"Education"
 ]
 ---
 # Learn Node.js with Brigadier Fluffykins Part I: Sync, Async, and Creating Your First Server!
+
+
+
+
 
 
 
@@ -32,13 +36,25 @@ tags: [
 
 
 
+
+
+
+
+
 Welcome to Part I of **Learn Node.js With Brigadier Fluffykins**, a series created to help you easily understand Node.js ❤
 
 A new adventure has arrived! I will be taking you step by step from initial Node.js install to creating your first server, to customizing your responses, understanding streams and events, as well as using frameworks. Let’s begin.
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*7IURnff2RaD8iM8yePIw7g.gif)
+
+
+
+
+
+
+
+
 
 
 
@@ -91,7 +107,14 @@ For example, when you go to type in:
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*h25IAJDGMkJCigVgEIe9sA.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -105,7 +128,14 @@ For now, let’s explore how Node.js handles these requests compared to the old-
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*6dwqGXgG5KqeyaY5t9e3EQ.gif)
+
+
+
+
+
+
+
+
 
 Brigadier Fluffykins is annoyed.
 
@@ -121,7 +151,14 @@ With Node.js, both the client and server can initiate two-way connections allowi
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*gqJjtuAlpWqAE-XYPb3uDQ.gif)
+
+
+
+
+
+
+
+
 
 Brigadier Fluffykins is happy.
 
@@ -165,7 +202,14 @@ Now that you have Node.js installed, you access the _node_ command in your termi
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*PNTv39xLvpnUDCf1_U2WPw.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -175,7 +219,14 @@ Let’s create a file called _bunny.js_ in your code editor (such as Sublime, Br
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*qjT_0nqvKxZhsBpFBW7RjQ.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -185,7 +236,14 @@ Now find where your file is located. In my case, I moved to Desktop, then the fo
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*Dl5AnRH5MqdIKEHgNpfwBQ.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -210,7 +268,13 @@ Follow steps 1–5, or download this [zip](https://drive.google.com/file/d/0Byvu
 
 
 
-<iframe width="700" height="250" src="/media/7be885e7663fd7a6d31bdf3826aa72f1?postId=b9e54a45e108" data-media-id="7be885e7663fd7a6d31bdf3826aa72f1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
+
+
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/7be885e7663fd7a6d31bdf3826aa72f1?postId=b9e54a45e108" data-media-id="7be885e7663fd7a6d31bdf3826aa72f1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+
+
+
 
 
 
@@ -222,7 +286,13 @@ Follow steps 1–5, or download this [zip](https://drive.google.com/file/d/0Byvu
 
 
 
-<iframe width="700" height="250" src="/media/42d4926a7c35cdea1d7e0a8a8509f286?postId=b9e54a45e108" data-media-id="42d4926a7c35cdea1d7e0a8a8509f286" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
+
+
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/42d4926a7c35cdea1d7e0a8a8509f286?postId=b9e54a45e108" data-media-id="42d4926a7c35cdea1d7e0a8a8509f286" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+
+
+
 
 
 
@@ -232,7 +302,14 @@ Ok now run _node bunnySync.js_ in your terminal:
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*kzaUvCp7OHuMEfV67lWAqQ.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -244,7 +321,13 @@ In _bunnyAsync.js_ paste this in — make sure it’s the right file name:
 
 
 
-<iframe width="700" height="250" src="/media/7396268d36a58f12ad3578785d3eedd3?postId=b9e54a45e108" data-media-id="7396268d36a58f12ad3578785d3eedd3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
+
+
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/7396268d36a58f12ad3578785d3eedd3?postId=b9e54a45e108" data-media-id="7396268d36a58f12ad3578785d3eedd3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+
+
+
 
 
 
@@ -254,7 +337,14 @@ Ok now run _node bunnyAsync.js_ in your terminal:
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*tL06luIR_nMsqkt4IGQNNQ.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -270,7 +360,13 @@ Woohoo! I am so excited for you! We’ll be going through several examples, so e
 
 
 
-<iframe width="700" height="250" src="/media/7431c093d2c865dac759bc637467b111?postId=b9e54a45e108" data-media-id="7431c093d2c865dac759bc637467b111" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
+
+
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/7431c093d2c865dac759bc637467b111?postId=b9e54a45e108" data-media-id="7431c093d2c865dac759bc637467b111" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+
+
+
 
 
 
@@ -288,7 +384,14 @@ Go to your url header and type _localhost:3000_ to see the response you just sen
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*nCQ0iw-v8uC9Q_Q9JNlI8w.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -302,7 +405,14 @@ Here’s what would happen if we set our headers to 404:
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*cwAzc_fo5gxFfbmwiaAFJA.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -330,7 +440,14 @@ You should see this:
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*lVqQlQiXJo3d_ZtScjXBbw.png)
+
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "React Pattern: Centralized PropTypes"
 subTitle: "Avoid repeating yourself by centralizing PropTypes"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*fjBw8m5BiLqjW9BHfmySfg.jpeg
@@ -42,7 +42,7 @@ There are three popular ways to handle types in React: [PropTypes](https://react
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/4b8b6f3e6af52c262c3cc65c0ca4d204?postId=f981ff672f3b" data-media-id="4b8b6f3e6af52c262c3cc65c0ca4d204" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/4b8b6f3e6af52c262c3cc65c0ca4d204?postId=f981ff672f3b" data-media-id="4b8b6f3e6af52c262c3cc65c0ca4d204" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -61,7 +61,7 @@ Here’s a PropType example:
 
 
 
-<iframe width="700" height="250" src="/media/e019278c6f44de68391613cd427f60bf?postId=f981ff672f3b" data-media-id="e019278c6f44de68391613cd427f60bf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1688997%3Fs%3D400%26v%3D4&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e019278c6f44de68391613cd427f60bf?postId=f981ff672f3b" data-media-id="e019278c6f44de68391613cd427f60bf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1688997%3Fs%3D400%26v%3D4&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -81,7 +81,7 @@ I prefer centralizing PropTypes in /types/index.js.
 
 
 
-<iframe width="700" height="250" src="/media/7f8c95bf8547914ded554ae773b5c67d?postId=f981ff672f3b" data-media-id="7f8c95bf8547914ded554ae773b5c67d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1688997%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7f8c95bf8547914ded554ae773b5c67d?postId=f981ff672f3b" data-media-id="7f8c95bf8547914ded554ae773b5c67d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1688997%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -95,7 +95,7 @@ And here’s how I use the PropType I declared above:
 
 
 
-<iframe width="700" height="250" src="/media/d25d344201d77c812adc57179733deae?postId=f981ff672f3b" data-media-id="d25d344201d77c812adc57179733deae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1688997%3Fs%3D400%26v%3D4&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d25d344201d77c812adc57179733deae?postId=f981ff672f3b" data-media-id="d25d344201d77c812adc57179733deae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1688997%3Fs%3D400%26v%3D4&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -115,7 +115,7 @@ Here’s a [working example on CodeSandbox](https://codesandbox.io/s/3vw24xnlqm)
 
 
 
-<iframe data-width="1000" data-height="500" width="700" height="350" src="/media/b3048fa80cab9fa3dbbfde4ebdaef4c4?postId=f981ff672f3b" data-media-id="b3048fa80cab9fa3dbbfde4ebdaef4c4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fcodesandbox.io%2Fstatic%2Fimg%2Fbanner.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1000" data-height="500" width="700" height="350" src="https://medium.freecodecamp.org/media/b3048fa80cab9fa3dbbfde4ebdaef4c4?postId=f981ff672f3b" data-media-id="b3048fa80cab9fa3dbbfde4ebdaef4c4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fcodesandbox.io%2Fstatic%2Fimg%2Fbanner.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

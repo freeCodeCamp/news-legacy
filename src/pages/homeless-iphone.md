@@ -1,7 +1,7 @@
 ---
 author: Fabrice Dubois
 authorTwitter: https://twitter.com/FabDubois
-authorFacebook: false
+authorFacebook: none
 title: "Homeless iPhone"
 subTitle: "So, apparently the next iPhone won’t have a physical Home button. There’s been much speculation already about what that means for the use..."
 coverSrc: 
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/homeless-iphone-20c154fabbf7
 id: homeless-iphone-20c154fabbf7
 date: 2017-08-11T11:20:23.814Z
 tags: [
-  "Design",
-  "UX",
-  "Apple",
-  "Tech",
-  "Technology"
+	"Design",
+	"UX",
+	"Apple",
+	"Tech",
+	"Technology"
 ]
 ---
 # Homeless iPhone
@@ -41,11 +41,8 @@ When I tried the first iOS 11 beta on iPad, what struck me most was the new app 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*SPuGeAvril2K3EXODukfkw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*SPuGeAvril2K3EXODukfkw.png"&gt;</noscript>
 
 
 
@@ -67,11 +64,8 @@ What would it take to adapt it for the iPhone? That’s what I tried to do.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*buZ9x-KNBl_O-4DXrawxvA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*buZ9x-KNBl_O-4DXrawxvA.gif"&gt;</noscript>
 
 
 
@@ -89,11 +83,8 @@ That’s it. Let’s decompose the movie into separate clips to discuss the diff
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PxfTl1WEQhbOnrUQ2L50ew.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PxfTl1WEQhbOnrUQ2L50ew.gif"&gt;</noscript>
 
 
 
@@ -111,11 +102,8 @@ The favorite apps bar, as on iPad and on macOS, is called Dock and can be reveal
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3MUpCSujRh6EJa321FpCJw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3MUpCSujRh6EJa321FpCJw.gif"&gt;</noscript>
 
 
 
@@ -133,11 +121,8 @@ The level-2 cache, that you access if you continue swiping up. I nickname it lev
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ove5RDNUYJs3ot_7lkE3mg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Ove5RDNUYJs3ot_7lkE3mg.gif"&gt;</noscript>
 
 
 
@@ -157,11 +142,8 @@ Once again, this is what the iPad implementation does anyway. In order to ensure
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jo62ioqzypjPAWukdkDr5g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jo62ioqzypjPAWukdkDr5g.gif"&gt;</noscript>
 
 
 
@@ -201,11 +183,8 @@ The design could work surprisingly well in landscape. The layout wouldn’t rota
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iqbA-uPZ8CRGVfrM3wC4nQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*iqbA-uPZ8CRGVfrM3wC4nQ.png"&gt;</noscript>
 
 
 

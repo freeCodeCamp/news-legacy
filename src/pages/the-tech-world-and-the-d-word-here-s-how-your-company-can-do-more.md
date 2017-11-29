@@ -1,7 +1,7 @@
 ---
 author: Robyn Hartung Lundin
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "The tech world and the ‘D’ word: here’s how your company can do more."
 subTitle: "Unless you’ve been living under a rock with no access to news outlets or social media, you’re aware that diversity in tech is a huge issu..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*vEwAYK52oyPfaWAQWaw1OA.jpeg

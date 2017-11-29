@@ -143,7 +143,7 @@ The _types_ file contains the names of the actions that you are dispatching in y
 
 
 
-<iframe width="700" height="250" src="/media/a52c8722602c05cdfb503e30d46506d1?postId=6115955638be" data-media-id="a52c8722602c05cdfb503e30d46506d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a52c8722602c05cdfb503e30d46506d1?postId=6115955638be" data-media-id="a52c8722602c05cdfb503e30d46506d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -157,7 +157,7 @@ This file contains all the action creator functions.
 
 
 
-<iframe width="700" height="250" src="/media/3f90a1809546223f6ab7468ccd916f74?postId=6115955638be" data-media-id="3f90a1809546223f6ab7468ccd916f74" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3f90a1809546223f6ab7468ccd916f74?postId=6115955638be" data-media-id="3f90a1809546223f6ab7468ccd916f74" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -177,7 +177,7 @@ If the operation only dispatches a single action — doesn’t actually use 
 
 
 
-<iframe width="700" height="250" src="/media/9ca8027767e9b9664c0a6a60a61b1ad2?postId=6115955638be" data-media-id="9ca8027767e9b9664c0a6a60a61b1ad2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9ca8027767e9b9664c0a6a60a61b1ad2?postId=6115955638be" data-media-id="9ca8027767e9b9664c0a6a60a61b1ad2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -195,7 +195,7 @@ If a feature has more facets, you should definitely use multiple reducers to han
 
 
 
-<iframe width="700" height="250" src="/media/a881e27aba92093662797ef842eb4f0e?postId=6115955638be" data-media-id="a881e27aba92093662797ef842eb4f0e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a881e27aba92093662797ef842eb4f0e?postId=6115955638be" data-media-id="a881e27aba92093662797ef842eb4f0e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -215,7 +215,7 @@ Selector functions take a slice of the application state and return some data ba
 
 
 
-<iframe width="700" height="250" src="/media/8ecd0037bb466a0046edf5819aa1c49d?postId=6115955638be" data-media-id="8ecd0037bb466a0046edf5819aa1c49d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8ecd0037bb466a0046edf5819aa1c49d?postId=6115955638be" data-media-id="8ecd0037bb466a0046edf5819aa1c49d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -233,7 +233,7 @@ This file specifies what gets exported from the duck folder. It will:
 
 
 
-<iframe width="700" height="250" src="/media/cff9ae9b195ea5d62ec14e2a12274597?postId=6115955638be" data-media-id="cff9ae9b195ea5d62ec14e2a12274597" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cff9ae9b195ea5d62ec14e2a12274597?postId=6115955638be" data-media-id="cff9ae9b195ea5d62ec14e2a12274597" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -249,7 +249,7 @@ Testing your Redux code is fairly straight-forward:
 
 
 
-<iframe width="700" height="250" src="/media/fe362f6ecc40b9948488307743e248a7?postId=6115955638be" data-media-id="fe362f6ecc40b9948488307743e248a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fe362f6ecc40b9948488307743e248a7?postId=6115955638be" data-media-id="fe362f6ecc40b9948488307743e248a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F9945366%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Peter Gleeson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How a self-taught teenager built an operating system that runs in your browser"
 subTitle: "Arizona teenager Aaron Adams built and maintains this awe-inspiring solo project. Developed entirely in the cloud using c9.io’s online de..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*3GSXtqHjyCFn-zqJncrhOA.png

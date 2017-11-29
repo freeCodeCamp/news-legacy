@@ -1,7 +1,7 @@
 ---
 author: Juan Vega
 authorTwitter: https://twitter.com/juanvega878
-authorFacebook: false
+authorFacebook: none
 title: "React’s JSX vs Vue’s templates: a showdown on the front end"
 subTitle: "React.js and Vue.js are two of the most popular JavaScript libraries on the planet. They're both powerful and relatively easy to pick up ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QH4RGlNwXUFnJSytytvb6A.jpeg

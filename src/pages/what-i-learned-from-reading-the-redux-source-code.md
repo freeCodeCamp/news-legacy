@@ -1,7 +1,7 @@
 ---
 author: Anthony Ng
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "What I learned from reading the Redux source code"
 subTitle: "I’ve always heard that reading code is a good way to expand your horizons as a developer...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*BpaqVMW2RjQAg9cFHcX1pw.png

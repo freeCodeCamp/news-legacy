@@ -1,7 +1,7 @@
 ---
 author: Nik Custodio
 authorTwitter: https://twitter.com/nik5ter
-authorFacebook: false
+authorFacebook: none
 title: "Smart Contracts for Dummies"
 subTitle: "If you still don’t get what the heck a Smart Contract is…"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*lsZWlQRE0lWRLzx-BpxR8A.jpeg
@@ -250,7 +250,7 @@ Throughout history, automation has always been applied to the _bottom_ of compan
 
 
 
-<iframe data-width="640" data-height="480" width="980" height="735" src="/media/beb6f8a17cf5c10247ee886475e88bff?postId=a1ba1e0b9575" data-media-id="beb6f8a17cf5c10247ee886475e88bff" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6Wkx60XgMIs%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="980" height="735" src="https://medium.freecodecamp.org/media/beb6f8a17cf5c10247ee886475e88bff?postId=a1ba1e0b9575" data-media-id="beb6f8a17cf5c10247ee886475e88bff" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6Wkx60XgMIs%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

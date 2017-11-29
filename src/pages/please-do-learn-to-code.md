@@ -144,7 +144,7 @@ But coding detractors are probably incorrect about their inability to learn codi
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f62edb6a20aad2e005dd4b7e1bce8dd8?postId=233597dd141c" data-media-id="f62edb6a20aad2e005dd4b7e1bce8dd8" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f62edb6a20aad2e005dd4b7e1bce8dd8?postId=233597dd141c" data-media-id="f62edb6a20aad2e005dd4b7e1bce8dd8" allowfullscreen="" frameborder="0"></iframe>
 
 
 

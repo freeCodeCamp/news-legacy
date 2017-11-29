@@ -1,7 +1,7 @@
 ---
 author: Beau Carnes
 authorTwitter: https://twitter.com/CarnesBeau
-authorFacebook: false
+authorFacebook: none
 title: "How to contribute to freeCodeCamp’s YouTube channel"
 subTitle: "The freeCodeCamp community is committed to helping busy adults learn to code. We already publish lots of technical articles here on Mediu..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OFPlMfIZWT7n-Q7UCfD5cg.png
@@ -150,7 +150,7 @@ Here are two videos that will give you an examples of what the community is look
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/0378d120b12086304d23b299fb8dfbd6?postId=b86bce4c865" data-media-id="0378d120b12086304d23b299fb8dfbd6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP2TcQ3h0ipQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/0378d120b12086304d23b299fb8dfbd6?postId=b86bce4c865" data-media-id="0378d120b12086304d23b299fb8dfbd6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP2TcQ3h0ipQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ Here are two videos that will give you an examples of what the community is look
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/baea7d086cfc2426284302eb087c1293?postId=b86bce4c865" data-media-id="baea7d086cfc2426284302eb087c1293" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFa4cRMaTDUI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/baea7d086cfc2426284302eb087c1293?postId=b86bce4c865" data-media-id="baea7d086cfc2426284302eb087c1293" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFa4cRMaTDUI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -196,7 +196,7 @@ Yes. [Cody Seibert](https://twitter.com/CodyLSeibert) is particularly good at th
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a9dec5073630862dfbc0d2cf825a79f0?postId=b86bce4c865" data-media-id="a9dec5073630862dfbc0d2cf825a79f0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbcPahhyYEIk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a9dec5073630862dfbc0d2cf825a79f0?postId=b86bce4c865" data-media-id="a9dec5073630862dfbc0d2cf825a79f0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbcPahhyYEIk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

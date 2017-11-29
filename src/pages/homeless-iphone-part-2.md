@@ -1,7 +1,7 @@
 ---
 author: Fabrice Dubois
 authorTwitter: https://twitter.com/FabDubois
-authorFacebook: false
+authorFacebook: none
 title: "Homeless iPhone (Part 2)"
 subTitle: "Pause. Rewind. Deep dive in the design process...."
 coverSrc: 
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/homeless-iphone-part-2-1f7b3acc8a6c
 id: homeless-iphone-part-2-1f7b3acc8a6c
 date: 2017-08-24T12:30:13.011Z
 tags: [
-  "Design",
-  "iPhone",
-  "Prototyping",
-  "User Experience",
-  "Apple"
+	"Design",
+	"iPhone",
+	"Prototyping",
+	"User Experience",
+	"Apple"
 ]
 ---
 # Homeless iPhone (Part 2)
@@ -52,11 +52,8 @@ For this project I used two A3 sheets. Let’s comment the key screens:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4Mvw-7X4soi0LMJnQyPbtg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*4Mvw-7X4soi0LMJnQyPbtg.png"&gt;</noscript>
 
 
 
@@ -82,11 +79,8 @@ Sheet 1 of 2
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*C3B7I5P_nNEmhXkVGwm9Tw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*C3B7I5P_nNEmhXkVGwm9Tw.png"&gt;</noscript>
 
 
 
@@ -128,11 +122,8 @@ You can try the prototypes below if you use [Principle](http://principleformac.c
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tPJ7AoXCrslSc3l_3D1-XQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*tPJ7AoXCrslSc3l_3D1-XQ.gif"&gt;</noscript>
 
 
 
@@ -150,11 +141,8 @@ So this chevron based interaction looks silly, in hindsight. Pay attention to th
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sGtQXmfIjiLBlzViEBsGLg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sGtQXmfIjiLBlzViEBsGLg.gif"&gt;</noscript>
 
 
 
@@ -172,11 +160,8 @@ There’s another aspect: this model is inconsistent with my target one, whereby
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*QOR4ScIr8ws-egv4QIukjQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="47" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*QOR4ScIr8ws-egv4QIukjQ.png"&gt;</noscript>
 
 
 
@@ -190,11 +175,8 @@ Main mental model layers in iOS 11
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*buZ9x-KNBl_O-4DXrawxvA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*buZ9x-KNBl_O-4DXrawxvA.gif"&gt;</noscript>
 
 
 
@@ -223,11 +205,8 @@ On my journey I drifted away from my initial goal several times and accidentally
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*mV0KdYLSHOqbXx-TZm1Djw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="62"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*mV0KdYLSHOqbXx-TZm1Djw.png"&gt;</noscript>
 
 
 

@@ -135,7 +135,7 @@ There is a Stack, a Heap, and a Queue. You can read books on this subject and st
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a661a28c8cc4ab11cdfc9f9487ebd139?postId=f9031fbd8b69" data-media-id="a661a28c8cc4ab11cdfc9f9487ebd139" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8aGhZQkoFbQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a661a28c8cc4ab11cdfc9f9487ebd139?postId=f9031fbd8b69" data-media-id="a661a28c8cc4ab11cdfc9f9487ebd139" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8aGhZQkoFbQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -60,3 +60,9 @@ export const TilesPropTypes = {
 export const TimeAfterPublishPropTypes = {
   date: PropTypes.string.isRequired
 };
+
+export const SearchBarPropTypes = {
+  handleChange: PropTypes.func.isRequired,
+  handleSubmit: PropTypes.func.isRequired,
+  value: PropTypes.string
+};

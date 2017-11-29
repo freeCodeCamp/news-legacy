@@ -1,7 +1,7 @@
 ---
 author: Zell Liew
 authorTwitter: https://twitter.com/zellwk
-authorFacebook: false
+authorFacebook: none
 title: "How to get hired as a junior web developer (it’s hard but you can do it!)"
 subTitle: "It seems impossible to get a job as a web developer. Each job posting you see says that you need to know React, Vue, Angular, Node, Gulp,..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*fWN53ARki1wXUEhhE5kapw.jpeg

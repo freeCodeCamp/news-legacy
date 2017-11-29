@@ -1,6 +1,6 @@
 ---
 author: Todd Chaffee
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10154009118138217
 title: "How to write reliable browser tests using Selenium and Node.js"
 subTitle: "There are many good articles on how to get started with automated browser testing using the NodeJS version of Selenium...."

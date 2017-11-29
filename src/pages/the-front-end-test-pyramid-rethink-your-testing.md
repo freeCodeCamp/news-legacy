@@ -1,7 +1,7 @@
 ---
 author: Edd Yerburgh
 authorTwitter: https://twitter.com/EddYerburgh
-authorFacebook: false
+authorFacebook: none
 title: "The Front-End Test Pyramid: How to Rethink Your Testing"
 subTitle: "If you’re testing front end apps, you should know about the front-end test pyramid...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*6A85taNWuTlwoqas2ei4aQ.jpeg

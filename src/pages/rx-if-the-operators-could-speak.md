@@ -1,7 +1,7 @@
 ---
 author: Ahmed Rizwan
 authorTwitter: https://twitter.com/sudo_rizwan
-authorFacebook: false
+authorFacebook: none
 title: "Rx — If the Operators could speak!"
 subTitle: "If the operators could talk, how exactly would they tell us what they do?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*U9DEpj0xpch6t3VdCxAZVA.png

@@ -1,7 +1,7 @@
 ---
 author: Ian Belcher
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Mitigating Monoliths"
 subTitle: "This article documents the problems we experienced with monolithic architecture, our transition to a new service-based system, and the re..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Eap9PGXC5R-cx5Pd0Yvnww.png

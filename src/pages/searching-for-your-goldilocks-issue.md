@@ -1,7 +1,7 @@
 ---
 author: Alaina Kafkes
 authorTwitter: https://twitter.com/alainakafkes
-authorFacebook: false
+authorFacebook: none
 title: "How to Find Your Open Source Goldilocks Zone"
 subTitle: "Not too easy. Not too hard. Just right."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*zR6cMDv0LZFIC-6TckW5Pw.jpeg
@@ -40,7 +40,7 @@ A few Fridays ago, I decided to participate in an amazing initiative that my fri
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/f1237b39aa7a732ac30ecfff4c69d4d7?postId=f23b3a718de" data-media-id="f1237b39aa7a732ac30ecfff4c69d4d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F786938723724386305%2FdZuxhBmM_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/f1237b39aa7a732ac30ecfff4c69d4d7?postId=f23b3a718de" data-media-id="f1237b39aa7a732ac30ecfff4c69d4d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F786938723724386305%2FdZuxhBmM_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

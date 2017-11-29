@@ -1,7 +1,7 @@
 ---
 author: Déborah Mesquita
 authorTwitter: https://twitter.com/dehhmesquita
-authorFacebook: false
+authorFacebook: none
 title: "How I built a game that won the 2016 Azure Machine Learning Award"
 subTitle: "Every year, Microsoft hosts the Imagine Cup. Young developers often call it the “Olympics of Technology” and consider it one of the top c..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*JQcCZ8tOoE-MztriV1QKTg.jpeg

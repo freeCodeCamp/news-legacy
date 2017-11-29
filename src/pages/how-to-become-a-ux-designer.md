@@ -68,7 +68,7 @@ If you’re a freelancer, throw in a style guide for free for your next client. 
 
 
 
-<iframe data-width="640" data-height="640" width="640" height="640" src="/media/19c2bbcb910cb2fc577f00508dbe8344?postId=8f5c8567aefd" data-media-id="19c2bbcb910cb2fc577f00508dbe8344" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F12394189_574855662677015_1803503277_n.jpg%3Fig_cache_key%3DMTE0MzU3MDAzMzM5MjQwMDc3OA%253D%253D.2&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="640" width="640" height="640" src="https://medium.freecodecamp.org/media/19c2bbcb910cb2fc577f00508dbe8344?postId=8f5c8567aefd" data-media-id="19c2bbcb910cb2fc577f00508dbe8344" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F12394189_574855662677015_1803503277_n.jpg%3Fig_cache_key%3DMTE0MzU3MDAzMzM5MjQwMDc3OA%253D%253D.2&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -88,7 +88,7 @@ If you aren’t yet part of a company, see Thing #4 below.
 
 
 
-<iframe data-width="640" data-height="640" width="640" height="640" src="/media/308ce389b4517af6769a6f4305a835f8?postId=8f5c8567aefd" data-media-id="308ce389b4517af6769a6f4305a835f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13739373_1630432127268142_1651859509_n.jpg%3Fig_cache_key%3DMTMwNjUxMzQ2MDI4NDkxOTg3Mg%253D%253D.2&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="640" width="640" height="640" src="https://medium.freecodecamp.org/media/308ce389b4517af6769a6f4305a835f8?postId=8f5c8567aefd" data-media-id="308ce389b4517af6769a6f4305a835f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13739373_1630432127268142_1651859509_n.jpg%3Fig_cache_key%3DMTMwNjUxMzQ2MDI4NDkxOTg3Mg%253D%253D.2&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ The way I learnt web design originally was downloading entire websites to learn 
 
 
 
-<iframe data-width="640" data-height="640" width="640" height="640" src="/media/60fd4df9fb6abce8b47ad5131d1670d4?postId=8f5c8567aefd" data-media-id="60fd4df9fb6abce8b47ad5131d1670d4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13694596_117964948640953_41277346_n.jpg%3Fig_cache_key%3DMTI5NzcyMzcxMTU4MzY4NjMwOQ%253D%253D.2&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="640" width="640" height="640" src="https://medium.freecodecamp.org/media/60fd4df9fb6abce8b47ad5131d1670d4?postId=8f5c8567aefd" data-media-id="60fd4df9fb6abce8b47ad5131d1670d4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13694596_117964948640953_41277346_n.jpg%3Fig_cache_key%3DMTI5NzcyMzcxMTU4MzY4NjMwOQ%253D%253D.2&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ Nothing starts until your pencil hits that paper. Before that point its just an 
 
 
 
-<iframe data-width="640" data-height="748" width="640" height="748" src="/media/cc0e8059f9800d09088bff714ac3c1b1?postId=8f5c8567aefd" data-media-id="cc0e8059f9800d09088bff714ac3c1b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fp640x640%2F15035602_1335282063162862_6358778968119705600_n.jpg%3Fig_cache_key%3DMTM4MjUxMTQxODk1OTk4MDgxNw%253D%253D.2&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="748" width="640" height="748" src="https://medium.freecodecamp.org/media/cc0e8059f9800d09088bff714ac3c1b1?postId=8f5c8567aefd" data-media-id="cc0e8059f9800d09088bff714ac3c1b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fp640x640%2F15035602_1335282063162862_6358778968119705600_n.jpg%3Fig_cache_key%3DMTM4MjUxMTQxODk1OTk4MDgxNw%253D%253D.2&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

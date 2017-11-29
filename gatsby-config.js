@@ -15,6 +15,9 @@ module.exports = {
       resolve: 'gatsby-transformer-remark'
     },
     {
+      resolve: 'gatsby-plugin-less'
+    },
+    {
       resolve: 'fcc-no-sourcemaps'
     }
   ]

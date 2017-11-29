@@ -1,7 +1,7 @@
 ---
 author: Garreth Dottin
 authorTwitter: https://twitter.com/garreth_dottin
-authorFacebook: false
+authorFacebook: none
 title: "If you want recruiters to take you seriously, build a strong personal narrative."
 subTitle: "We’ve all been there. Hunched over a desk. Scrolling through job boards. Looking for some trace of hope that you’ll ever work again...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*ekagHm5o4NEJqCkY.

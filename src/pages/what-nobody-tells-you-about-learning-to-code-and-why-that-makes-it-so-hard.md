@@ -1,7 +1,7 @@
 ---
 author: Joyce Akiko
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "What Nobody Tells You About Learning To Code — And Why That Makes It So Hard"
 subTitle: "Are you familiar with the article Why Learning to Code is So Damn Hard?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*AwGb23K0GhjwsLuTkNfCCA.jpeg

@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/i-built-an-app-that-uses-workers-location-h
 id: i-built-an-app-that-uses-workers-location-history-to-combat-wage-theft-dedca8380ce3
 date: 2017-03-20T03:15:26.566Z
 tags: [
-  "JavaScript",
-  "Startup",
-  "Tech",
-  "Technology",
-  "Politics"
+	"JavaScript",
+	"Startup",
+	"Tech",
+	"Technology",
+	"Politics"
 ]
 ---
 # How we built an app that uses worker location history to combat wage theft
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_aZNPDabvxQwQcQFFstppw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*_aZNPDabvxQwQcQFFstppw.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*_aZNPDabvxQwQcQFFstppw.jpeg"&gt;</noscript>
 
 
 
@@ -68,11 +65,8 @@ We were tasked with creating a website to analyze a client’s Google Location H
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4W30SgcN-c_9LTKeMgvmBg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4W30SgcN-c_9LTKeMgvmBg.png"&gt;</noscript>
 
 
 
@@ -90,11 +84,8 @@ Our optimal user flow worked out to the following (note, I am putting pictures o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-3cpBWAKrItGs6aBO1DQMA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*-3cpBWAKrItGs6aBO1DQMA.png"&gt;</noscript>
 
 
 
@@ -108,11 +99,8 @@ Our optimal user flow worked out to the following (note, I am putting pictures o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Y14G8JE71UK-zAGjUWgfcQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Y14G8JE71UK-zAGjUWgfcQ.png"&gt;</noscript>
 
 
 
@@ -126,11 +114,8 @@ Our optimal user flow worked out to the following (note, I am putting pictures o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*P75v5oDxY74CWzPAHPQ8AA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*P75v5oDxY74CWzPAHPQ8AA.png"&gt;</noscript>
 
 
 
@@ -144,11 +129,8 @@ Our optimal user flow worked out to the following (note, I am putting pictures o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JV8XXJYStQGBrFtZbdro2w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*JV8XXJYStQGBrFtZbdro2w.png"&gt;</noscript>
 
 
 
@@ -162,11 +144,8 @@ Our optimal user flow worked out to the following (note, I am putting pictures o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*oNhqpzCGT9pfIqCaZuhMEQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="67"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*oNhqpzCGT9pfIqCaZuhMEQ.png"&gt;</noscript>
 
 
 
@@ -185,11 +164,8 @@ On top of everything, all of this had to be done on the front end to avoid priva
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*czxPP4M2LYSxY8x7TOMh0Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*czxPP4M2LYSxY8x7TOMh0Q.png"&gt;</noscript>
 
 
 
@@ -205,11 +181,8 @@ My LocationHistory.json alone was about 59.9 MB in size (I had an Android phone 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*DzE2c4KueoQpWGFP2DQcsg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*DzE2c4KueoQpWGFP2DQcsg.png"&gt;</noscript>
 
 
 
@@ -223,11 +196,8 @@ In fact, when running this on a more powerful machine, we can take a memory snap
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*aFxnJ_BIf3OMdqs0X38dcg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="18"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*aFxnJ_BIf3OMdqs0X38dcg.png"&gt;</noscript>
 
 
 
@@ -245,11 +215,8 @@ The first solution I thought of was to try and split the file into more manageab
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7u3tcBZJbOa4ofZxNk77Kw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="56" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7u3tcBZJbOa4ofZxNk77Kw.png"&gt;</noscript>
 
 
 
@@ -265,11 +232,8 @@ So now I needed a way to keep track of half completed objects/objects that were 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*s4QCcGJ5AgN7WSIkDLmwzw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*s4QCcGJ5AgN7WSIkDLmwzw.png"&gt;</noscript>
 
 
 
@@ -307,11 +271,9 @@ Per Oboe documentation, the `locations` node should be targeted and any sub obje
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/ce85e2f731b7648ac45fa9763efe045f?postId=dedca8380ce3" data-media-id="ce85e2f731b7648ac45fa9763efe045f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/ce85e2f731b7648ac45fa9763efe045f?postId=dedca8380ce3" data-media-id="ce85e2f731b7648ac45fa9763efe045f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/ce85e2f731b7648ac45fa9763efe045f?postId=dedca8380ce3" data-media-id="ce85e2f731b7648ac45fa9763efe045f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -327,11 +289,9 @@ Next, we need to figure out a way to pass in chunks to this function. The chunki
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/b6753eaf88beed7e0f766530b2eafcc3?postId=dedca8380ce3" data-media-id="b6753eaf88beed7e0f766530b2eafcc3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/b6753eaf88beed7e0f766530b2eafcc3?postId=dedca8380ce3" data-media-id="b6753eaf88beed7e0f766530b2eafcc3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/b6753eaf88beed7e0f766530b2eafcc3?postId=dedca8380ce3" data-media-id="b6753eaf88beed7e0f766530b2eafcc3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -357,11 +317,9 @@ Initializing the map on a div with `id='mapid'` is fairly straightforward:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/7b876600af8dceafa62ab8b4ebfa146a?postId=dedca8380ce3" data-media-id="7b876600af8dceafa62ab8b4ebfa146a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/7b876600af8dceafa62ab8b4ebfa146a?postId=dedca8380ce3" data-media-id="7b876600af8dceafa62ab8b4ebfa146a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/7b876600af8dceafa62ab8b4ebfa146a?postId=dedca8380ce3" data-media-id="7b876600af8dceafa62ab8b4ebfa146a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -375,11 +333,8 @@ However, displaying over 1 million location data points requires much more than 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*aR5oEw6Kw8h7-tl48OAmOA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="22"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*aR5oEw6Kw8h7-tl48OAmOA.png"&gt;</noscript>
 
 
 
@@ -395,11 +350,8 @@ An existing implementation of marker clustering for leaflet exists already with 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*eX2jgZL6dF-KgrUQeG0_fA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*eX2jgZL6dF-KgrUQeG0_fA.png"&gt;</noscript>
 
 
 
@@ -417,11 +369,9 @@ Going back to our oboe.js instance code, we can edit it slightly to account for 
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/6b4b8a5a5e18d769d42c62e693c8390b?postId=dedca8380ce3" data-media-id="6b4b8a5a5e18d769d42c62e693c8390b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/6b4b8a5a5e18d769d42c62e693c8390b?postId=dedca8380ce3" data-media-id="6b4b8a5a5e18d769d42c62e693c8390b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/6b4b8a5a5e18d769d42c62e693c8390b?postId=dedca8380ce3" data-media-id="6b4b8a5a5e18d769d42c62e693c8390b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4992430%3Fv%3D3%26s%3D400&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -437,11 +387,8 @@ After making all the changes above, I was finally able to do some basic tests to
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9ouk2MFIkmCGVW8n9PdhdA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9ouk2MFIkmCGVW8n9PdhdA.png"&gt;</noscript>
 
 
 
@@ -455,11 +402,8 @@ The results were stunning. Although loading the file straight into memory was fa
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vb6Dlz81oBQ628Oo1iXdsQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*vb6Dlz81oBQ628Oo1iXdsQ.gif"&gt;</noscript>
 
 
 

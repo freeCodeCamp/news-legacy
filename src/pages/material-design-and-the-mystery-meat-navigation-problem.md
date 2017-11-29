@@ -1,6 +1,6 @@
 ---
 author: Teo Yu Siang
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/100002462870902
 title: "Material Design and the Mystery Meat Navigation Problem"
 subTitle: "In March 2016, Google updated Material Design to add bottom navigation bars to its UI library. This new bar is positioned at the bottom o..."
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/material-design-and-the-mystery-meat-naviga
 id: material-design-and-the-mystery-meat-navigation-problem-65425fb5b52e
 date: 2017-01-27T04:20:09.020Z
 tags: [
-  "Design",
-  "UX",
-  "Material Design",
-  "UX Design",
-  "Mobile"
+	"Design",
+	"UX",
+	"Material Design",
+	"UX Design",
+	"Mobile"
 ]
 ---
 # Material Design and the Mystery Meat Navigation Problem
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*zWh3_7qHGS1sWYzzEnhaXw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*zWh3_7qHGS1sWYzzEnhaXw.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*zWh3_7qHGS1sWYzzEnhaXw.png"&gt;</noscript>
 
 
 
@@ -116,11 +113,8 @@ The triangle icon might resemble a “Back” arrow, but what does a circle and 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qWVdCU42G-lG7eSbZlKM6w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*qWVdCU42G-lG7eSbZlKM6w.png"&gt;</noscript>
 
 
 
@@ -138,11 +132,8 @@ Floating action buttons are special buttons that appear above other UI elements 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hPN6UkK-K8eqOg1hku7tOA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*hPN6UkK-K8eqOg1hku7tOA.png"&gt;</noscript>
 
 
 
@@ -164,11 +155,8 @@ Below is a list of what—according to Material Design’s [guidelines](https://
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BMA7KdNuzz4cddxDhmB63Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*BMA7KdNuzz4cddxDhmB63Q.png"&gt;</noscript>
 
 
 
@@ -184,11 +172,8 @@ Ok, that’s a simple one to warm you up. It represents “Directions”.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*LW2lc1e1PM8gVXthHKxOnA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*LW2lc1e1PM8gVXthHKxOnA.png"&gt;</noscript>
 
 
 
@@ -204,11 +189,8 @@ What about this? If you’re an iOS or Mac user, you might say “Safari.” It 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cQVQWpZpVL9xFK68izqnaw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*cQVQWpZpVL9xFK68izqnaw.png"&gt;</noscript>
 
 
 
@@ -224,11 +206,8 @@ Things are getting fun (or frustrating) now! Could this be “Open in contacts�
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*p41V3QDCC2KA-X8aBVkpig.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*p41V3QDCC2KA-X8aBVkpig.png"&gt;</noscript>
 
 
 
@@ -246,11 +225,8 @@ Ready for the final round? Here’s the worst (and most used) icon:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EinN5ETEGQvQg7Kqj6QxQA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*EinN5ETEGQvQg7Kqj6QxQA.png"&gt;</noscript>
 
 
 
@@ -274,11 +250,6 @@ Precisely because the “+” button _seems_ so easy to understand, it ends up b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*QdSRFZaopoago9rt_Nm7Fg.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*QdSRFZaopoago9rt_Nm7Fg.jpeg"&gt;</noscript>
 
 
 
@@ -290,11 +261,10 @@ Precisely because the “+” button _seems_ so easy to understand, it ends up b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*C8xd-9jD6i0Y90RPGiAixA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*C8xd-9jD6i0Y90RPGiAixA.jpeg"&gt;</noscript>
+
+
 
 
 
@@ -318,11 +288,6 @@ What makes things worse is how the same icons have different meanings in differe
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*P0Wxq6bslWnTkEeljhCzhA.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*P0Wxq6bslWnTkEeljhCzhA.jpeg"&gt;</noscript>
 
 
 
@@ -334,11 +299,6 @@ What makes things worse is how the same icons have different meanings in differe
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*C8xd-9jD6i0Y90RPGiAixA.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*C8xd-9jD6i0Y90RPGiAixA.jpeg"&gt;</noscript>
 
 
 
@@ -350,11 +310,12 @@ What makes things worse is how the same icons have different meanings in differe
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*snHWx3UIWQbYagUG9C3Z9Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*snHWx3UIWQbYagUG9C3Z9Q.png"&gt;</noscript>
+
+
+
+
 
 
 
@@ -386,11 +347,8 @@ For bottom navigation bars with 3 views, Google’s guidelines specify that both
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7ZdLILAMcJqfjT8a8a8qzA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="11"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7ZdLILAMcJqfjT8a8a8qzA.png"&gt;</noscript>
 
 
 
@@ -406,11 +364,8 @@ But for bottom navigation bars with 4 or 5 views, Google specifies that inactive
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*s-Vu3NgTGSZdX-M8jTATjQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="11"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*s-Vu3NgTGSZdX-M8jTATjQ.png"&gt;</noscript>
 
 
 
@@ -440,11 +395,6 @@ Except tab bars in iOS manage to contain 5 icons, and still display the icon and
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*wQybu0QMLaPBFy0QP2_bmA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*wQybu0QMLaPBFy0QP2_bmA.png"&gt;</noscript>
 
 
 
@@ -456,11 +406,6 @@ Except tab bars in iOS manage to contain 5 icons, and still display the icon and
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*eVkt9IFCNeDeDY8X9U1FCA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*eVkt9IFCNeDeDY8X9U1FCA.png"&gt;</noscript>
 
 
 
@@ -472,11 +417,12 @@ Except tab bars in iOS manage to contain 5 icons, and still display the icon and
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*astdtlBLMGhtJrFuOdMgCw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*astdtlBLMGhtJrFuOdMgCw.png"&gt;</noscript>
+
+
+
+
 
 
 
@@ -500,11 +446,8 @@ When Material Design was launched in 2014, it was to much fanfare. It’s bold, 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VVu9-gZfLh-4cTFJFxtKUg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*VVu9-gZfLh-4cTFJFxtKUg.gif"&gt;</noscript>
 
 
 
@@ -524,11 +467,8 @@ That’s not to say that mystery meat navigation is a Google-only problem. Sure,
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*mKt0ihzJISQ9jvNLX5UUIw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*mKt0ihzJISQ9jvNLX5UUIw.png"&gt;</noscript>
 
 
 

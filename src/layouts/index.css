@@ -620,3 +620,17 @@ pre tt:after {
     font-size: 100%;
   }
 }
+html,
+body,
+div,
+span,
+a,
+li,
+td,
+th {
+  font-family: 'Lato', sans-serif;
+}
+bold {
+  font-family: 'Lato-Bold', sans-serif;
+  font-weight: Bold;
+}

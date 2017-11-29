@@ -1,7 +1,7 @@
 ---
 author: Rob Welan
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How I Built My First Multi-Platform Mobile App using JavaScript and XDK"
 subTitle: "I have to admit up-front: I have a over a decade of experience developing applications...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*JPG9MEIETXS4prNXFzxifw.png

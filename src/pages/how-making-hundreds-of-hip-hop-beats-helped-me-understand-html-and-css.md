@@ -151,7 +151,7 @@ For purposes of this exercise, I will deconstruct the following beat, titled “
 
 
 
-<iframe data-width="800" data-height="166" width="700" height="145" src="/media/61e989e0674e8433eb7bc4c6a8741c7c?postId=cb7c61e847cf" data-media-id="61e989e0674e8433eb7bc4c6a8741c7c" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000075789161-oh26mw-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="166" width="700" height="145" src="https://medium.freecodecamp.org/media/61e989e0674e8433eb7bc4c6a8741c7c?postId=cb7c61e847cf" data-media-id="61e989e0674e8433eb7bc4c6a8741c7c" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000075789161-oh26mw-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -189,7 +189,7 @@ Let’s take a listen to the **initial drums** for the reference beat, “Clear 
 
 
 
-<iframe data-width="800" data-height="166" width="700" height="145" src="/media/770364144f1ed5e44af4609e572f8684?postId=cb7c61e847cf" data-media-id="770364144f1ed5e44af4609e572f8684" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000203765326-qf92up-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="166" width="700" height="145" src="https://medium.freecodecamp.org/media/770364144f1ed5e44af4609e572f8684?postId=cb7c61e847cf" data-media-id="770364144f1ed5e44af4609e572f8684" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000203765326-qf92up-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -252,7 +252,7 @@ Here’s the sonic equivalent of styling the drums (with the processed effects):
 
 
 
-<iframe data-width="800" data-height="166" width="700" height="145" src="/media/2f2685394cc4d42a8fc1dfac6fe7bce5?postId=cb7c61e847cf" data-media-id="2f2685394cc4d42a8fc1dfac6fe7bce5" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000203765178-0eo4lb-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="166" width="700" height="145" src="https://medium.freecodecamp.org/media/2f2685394cc4d42a8fc1dfac6fe7bce5?postId=cb7c61e847cf" data-media-id="2f2685394cc4d42a8fc1dfac6fe7bce5" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000203765178-0eo4lb-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -282,7 +282,7 @@ Using “Clear Skies Ahead” as an example, the below clip details the 3-step p
 
 
 
-<iframe data-width="800" data-height="166" width="700" height="145" src="/media/433605a9f0aea4ea35792dc1d1ea454b?postId=cb7c61e847cf" data-media-id="433605a9f0aea4ea35792dc1d1ea454b" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000203765073-pcr8jq-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="166" width="700" height="145" src="https://medium.freecodecamp.org/media/433605a9f0aea4ea35792dc1d1ea454b?postId=cb7c61e847cf" data-media-id="433605a9f0aea4ea35792dc1d1ea454b" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000203765073-pcr8jq-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -352,7 +352,7 @@ For “Clear Skies Ahead”, I added the virtual instrument that contained the s
 
 
 
-<iframe data-width="800" data-height="166" width="700" height="145" src="/media/f67068e7671b63483c098916dab68c84?postId=cb7c61e847cf" data-media-id="f67068e7671b63483c098916dab68c84" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000203764877-9lqupi-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="166" width="700" height="145" src="https://medium.freecodecamp.org/media/f67068e7671b63483c098916dab68c84?postId=cb7c61e847cf" data-media-id="f67068e7671b63483c098916dab68c84" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000203764877-9lqupi-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -366,7 +366,7 @@ To illustrate this on my webpage, let’s insert an image gallery that can displ
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/09e6b20a9ccbbe910a92ba63b9eb5610?postId=cb7c61e847cf" data-media-id="09e6b20a9ccbbe910a92ba63b9eb5610" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F4f0f176aeddf4f2a1e7dd6119238e7db%2F%3Fdefault%3D%26s%3D80&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/09e6b20a9ccbbe910a92ba63b9eb5610?postId=cb7c61e847cf" data-media-id="09e6b20a9ccbbe910a92ba63b9eb5610" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F4f0f176aeddf4f2a1e7dd6119238e7db%2F%3Fdefault%3D%26s%3D80&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

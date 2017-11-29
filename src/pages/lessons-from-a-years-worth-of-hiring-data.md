@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "Lessons from a year’s worth of hiring data"
 subTitle: "Before I started interviewing.io (which was inspired in large part by what I learned while working on this post), I worked as a recruiter..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*gZml9fEIcquQNBJNlCq7fg.jpeg

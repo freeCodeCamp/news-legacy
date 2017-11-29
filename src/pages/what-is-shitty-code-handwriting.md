@@ -1,7 +1,7 @@
 ---
 author: Alex Ewerlöf
 authorTwitter: https://twitter.com/alexewerlof
-authorFacebook: false
+authorFacebook: none
 title: "Code Calligraph VS Code Chicken Scratch"
 subTitle: "Over the past 17 years I’ve worked on over 90 projects with many teams. But it wasn’t until I came across Git’s blame feature that I lear..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*D9KCF2ipzxxvUXGu1ya9GA.jpeg

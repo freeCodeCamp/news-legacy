@@ -42,7 +42,7 @@ A few weeks ago I started wondering what sorting algorithms would sound like, an
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f59d4f6c6ff09b201d45fd71bd7b60d8?postId=ce7c5c6cb6ef" data-media-id="f59d4f6c6ff09b201d45fd71bd7b60d8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FO1Tokt4Zvik%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f59d4f6c6ff09b201d45fd71bd7b60d8?postId=ce7c5c6cb6ef" data-media-id="f59d4f6c6ff09b201d45fd71bd7b60d8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FO1Tokt4Zvik%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

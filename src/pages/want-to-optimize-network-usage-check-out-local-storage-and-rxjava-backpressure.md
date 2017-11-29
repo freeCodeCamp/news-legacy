@@ -1,7 +1,7 @@
 ---
 author: Nikita Kozlov
 authorTwitter: https://twitter.com/Nikita_E_Kozlov
-authorFacebook: false
+authorFacebook: none
 title: "Want to optimize network usage? Check out local storage and RxJava backpressure"
 subTitle: "Users love fast, responsive apps. They don’t want to hear how API calls take time. They want to see updates immediately. Right now. Once ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*acDn76XOMsf80_bNbtHnAQ.jpeg
@@ -241,7 +241,7 @@ In pseudo-code, it looks simpler than it sounds:
 
 
 
-<iframe width="700" height="250" src="/media/b0229bc3c487488d2c8119625eb88b03?postId=8b91b1db298a" data-media-id="b0229bc3c487488d2c8119625eb88b03" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8263254%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b0229bc3c487488d2c8119625eb88b03?postId=8b91b1db298a" data-media-id="b0229bc3c487488d2c8119625eb88b03" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8263254%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

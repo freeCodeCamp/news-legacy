@@ -1,7 +1,7 @@
 ---
 author: Andrea Zanin
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Quick and painless automatic updates in Electron"
 subTitle: "Let’s face it: most users won’t go back to your site and download the updates for your brand new Electron app. Instead, you should put in..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*afd_KNE6oIHoqycO5GlDXA.jpeg
@@ -58,7 +58,7 @@ Then, we need to configure our build. In the `package.json` add this snippet:
 
 
 
-<iframe width="700" height="250" src="/media/2c0547008b8ad2c0dde155e24e2d18ec?postId=d993d5408b3a" data-media-id="2c0547008b8ad2c0dde155e24e2d18ec" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2c0547008b8ad2c0dde155e24e2d18ec?postId=d993d5408b3a" data-media-id="2c0547008b8ad2c0dde155e24e2d18ec" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -78,7 +78,7 @@ Now create a file called`electron-builder.yml` with the following content:
 
 
 
-<iframe width="700" height="250" src="/media/35930ff391d529eda6989956decbbe9a?postId=d993d5408b3a" data-media-id="35930ff391d529eda6989956decbbe9a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/35930ff391d529eda6989956decbbe9a?postId=d993d5408b3a" data-media-id="35930ff391d529eda6989956decbbe9a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -98,7 +98,7 @@ Now we need to configure the update logic in our Electron app. Integrate this in
 
 
 
-<iframe width="700" height="250" src="/media/64d7b8df3f3cba47c411a2c392ffa022?postId=d993d5408b3a" data-media-id="64d7b8df3f3cba47c411a2c392ffa022" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fv%3D4%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/64d7b8df3f3cba47c411a2c392ffa022?postId=d993d5408b3a" data-media-id="64d7b8df3f3cba47c411a2c392ffa022" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fv%3D4%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ Here is an example of a HTML page. It displays a button whose caption is either 
 
 
 
-<iframe width="700" height="250" src="/media/d3dd37e5562165e5f2e4efe2e02554b3?postId=d993d5408b3a" data-media-id="d3dd37e5562165e5f2e4efe2e02554b3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d3dd37e5562165e5f2e4efe2e02554b3?postId=d993d5408b3a" data-media-id="d3dd37e5562165e5f2e4efe2e02554b3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

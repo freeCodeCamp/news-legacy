@@ -1,7 +1,7 @@
 ---
 author: Ahmed Rizwan
 authorTwitter: https://twitter.com/sudo_rizwan
-authorFacebook: false
+authorFacebook: none
 title: "RxAndroid and Retrofit 2.0"
 subTitle: "Ok, so this isn’t new or anything, but I thought let’s just make a simple tutorial with the new Retrofit 2.0. This should give us a start..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OlU3vLjcEhu-oKeGeAdqyA.png
@@ -48,7 +48,7 @@ So after you’ve added the dependencies, your gradle files should look somethin
 
 
 
-<iframe width="700" height="250" src="/media/51aa4827614fbe5034a921211a533a83?postId=66dc52725fff" data-media-id="51aa4827614fbe5034a921211a533a83" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/51aa4827614fbe5034a921211a533a83?postId=66dc52725fff" data-media-id="51aa4827614fbe5034a921211a533a83" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -181,7 +181,7 @@ Take a look at this delicious code:
 
 
 
-<iframe width="700" height="250" src="/media/9f6a819d12c32ac54fa001b79e7ff98d?postId=66dc52725fff" data-media-id="9f6a819d12c32ac54fa001b79e7ff98d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9f6a819d12c32ac54fa001b79e7ff98d?postId=66dc52725fff" data-media-id="9f6a819d12c32ac54fa001b79e7ff98d" allowfullscreen="" frameborder="0"></iframe>
 
 
 

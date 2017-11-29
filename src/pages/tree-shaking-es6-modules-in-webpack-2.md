@@ -1,7 +1,7 @@
 ---
 author: Jake Wiesler
 authorTwitter: https://twitter.com/jakewies
-authorFacebook: false
+authorFacebook: none
 title: "Tree-shaking ES6 Modules in webpack 2"
 subTitle: "Webpack 2 was just released from beta last week. It brings with it a variety of anticipated features, including native support for ES6 mo..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*oD1_oAmOuY4X0k5QdqaQow.jpeg

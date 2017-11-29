@@ -1,7 +1,7 @@
 ---
 author: James Y Rauhut
 authorTwitter: https://twitter.com/seejamescode
-authorFacebook: false
+authorFacebook: none
 title: "What I learned from reviewing 50 portfolios on Reddit in 3 crazy days."
 subTitle: "I’ve always enjoyed critiquing applicants’ portfolios at the design studio where I work. And I also often ask for feedback on my own desi..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*kWDEvEcGmI9gjsKInrbQrg.png

@@ -1,7 +1,7 @@
 ---
 author: Den McHenry
 authorTwitter: https://twitter.com/DenMcH
-authorFacebook: false
+authorFacebook: none
 title: "You’re Saying it Wrong"
 subTitle: "Because my opinions are the best opinions"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vgzNZcDIavmDHGfNKs0sSw.jpeg

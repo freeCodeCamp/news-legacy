@@ -82,7 +82,7 @@ Here is an interactive demo of the Gaussian distribution.
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/25a5c532a69782cd986237eab6a291da?postId=dbfdc693184" data-media-id="25a5c532a69782cd986237eab6a291da" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F42549.gRGYRy.small.28f72130-1b8a-4474-bb9f-2a8aa1c6dbe3.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/25a5c532a69782cd986237eab6a291da?postId=dbfdc693184" data-media-id="25a5c532a69782cd986237eab6a291da" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F42549.gRGYRy.small.28f72130-1b8a-4474-bb9f-2a8aa1c6dbe3.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -150,7 +150,7 @@ Now goes the fun part! You can play with t-distribution below:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/8f9bb2bb8e82961e86ec8c8e83c9fedb?postId=dbfdc693184" data-media-id="8f9bb2bb8e82961e86ec8c8e83c9fedb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F42549.XgEyjX.small.4b406a0d-88b5-488e-ba28-93fce0134350.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/8f9bb2bb8e82961e86ec8c8e83c9fedb?postId=dbfdc693184" data-media-id="8f9bb2bb8e82961e86ec8c8e83c9fedb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F42549.XgEyjX.small.4b406a0d-88b5-488e-ba28-93fce0134350.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

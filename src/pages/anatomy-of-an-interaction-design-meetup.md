@@ -1,7 +1,7 @@
 ---
 author: Marty Laurita
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "There weren’t any design events in my city, so I organized one myself."
 subTitle: "Doing something you’ve never done before is inherently exciting...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*bpOJLyijhikcDVfibgokhA.jpeg

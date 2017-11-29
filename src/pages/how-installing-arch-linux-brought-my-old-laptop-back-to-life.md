@@ -1,7 +1,7 @@
 ---
 author: Jonathan Baldie
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How installing Arch Linux brought my old laptop back to life"
 subTitle: "Got an old computer that is too slow to run Windows? Don’t throw it away or sell it. Install Linux on it...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*v8GKu7x5I3KaxPDHWV-hLw.jpeg
@@ -512,7 +512,7 @@ That is also why Arch Linux is perfect for older laptops and PCs. It is so light
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/8d7910f86b6a89d9abfa6b1b2a907db1?postId=1c1c76dd688e" data-media-id="8d7910f86b6a89d9abfa6b1b2a907db1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC86v-9hXkAAoOF0.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/8d7910f86b6a89d9abfa6b1b2a907db1?postId=1c1c76dd688e" data-media-id="8d7910f86b6a89d9abfa6b1b2a907db1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC86v-9hXkAAoOF0.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

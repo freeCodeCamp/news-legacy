@@ -1,6 +1,6 @@
 ---
 author: Allie Vogel
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10153361923079132
 title: "How hating code made me a better designer."
 subTitle: "Product Design through a technical looking glass"

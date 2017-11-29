@@ -1,7 +1,7 @@
 ---
 author: ahmad abdolsaheb
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to make your Tic Tac Toe game unbeatable by using the minimax algorithm"
 subTitle: "I struggled for hours scrolling through tutorials, watching videos, and banging my head on the desk trying to build an unbeatable Tic Tac..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*y2B2auvIpUI0vSLtT2KWyg.jpeg
@@ -44,7 +44,7 @@ Try it for yourself in the following game.
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/c1d3362fda9ca3e54ede72b15b25c27d?postId=9d690bad4b37" data-media-id="c1d3362fda9ca3e54ede72b15b25c27d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fm.cdpn.io%2Fscreenshot-coming-soon-small.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/c1d3362fda9ca3e54ede72b15b25c27d?postId=9d690bad4b37" data-media-id="c1d3362fda9ca3e54ede72b15b25c27d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fm.cdpn.io%2Fscreenshot-coming-soon-small.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -88,7 +88,7 @@ Additionally, you need a function that looks for winning combinations and return
 
 
 
-<iframe width="700" height="250" src="/media/f8957b33d517524b1b96119eb7cddb57?postId=9d690bad4b37" data-media-id="f8957b33d517524b1b96119eb7cddb57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f8957b33d517524b1b96119eb7cddb57?postId=9d690bad4b37" data-media-id="f8957b33d517524b1b96119eb7cddb57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ Now let’s dive into the good parts by defining the Minimax function with two a
 
 
 
-<iframe width="700" height="250" src="/media/6e8930437ad53628756c6bafb33c11a5?postId=9d690bad4b37" data-media-id="6e8930437ad53628756c6bafb33c11a5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6e8930437ad53628756c6bafb33c11a5?postId=9d690bad4b37" data-media-id="6e8930437ad53628756c6bafb33c11a5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ Also, you need to check for terminal states and return a value accordingly. If O
 
 
 
-<iframe width="700" height="250" src="/media/fbf22fcc2df7bd9ad7f7b95de058b813?postId=9d690bad4b37" data-media-id="fbf22fcc2df7bd9ad7f7b95de058b813" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fbf22fcc2df7bd9ad7f7b95de058b813?postId=9d690bad4b37" data-media-id="fbf22fcc2df7bd9ad7f7b95de058b813" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ Finally, Minimax resets _newBoard_ to what it was before and pushes the _move_ o
 
 
 
-<iframe width="700" height="250" src="/media/5d8e298d85aed8a516aa0c6872d31778?postId=9d690bad4b37" data-media-id="5d8e298d85aed8a516aa0c6872d31778" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5d8e298d85aed8a516aa0c6872d31778?postId=9d690bad4b37" data-media-id="5d8e298d85aed8a516aa0c6872d31778" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -146,7 +146,7 @@ At the end, Minimax returns the object stored in _bestMove_.
 
 
 
-<iframe width="700" height="250" src="/media/093ce3f35a5f2e621b0dbbcc55523de2?postId=9d690bad4b37" data-media-id="093ce3f35a5f2e621b0dbbcc55523de2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/093ce3f35a5f2e621b0dbbcc55523de2?postId=9d690bad4b37" data-media-id="093ce3f35a5f2e621b0dbbcc55523de2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F4591597%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -150,7 +150,7 @@ Voilà! Here’s what mine looks like:
 
 
 
-<iframe data-width="760" data-height="500" width="700" height="461" src="/media/b4d740353e4fb9e00f0ffc85a99d39b4?postId=c717393b2f6" data-media-id="b4d740353e4fb9e00f0ffc85a99d39b4" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="760" data-height="500" width="700" height="461" src="https://medium.freecodecamp.org/media/b4d740353e4fb9e00f0ffc85a99d39b4?postId=c717393b2f6" data-media-id="b4d740353e4fb9e00f0ffc85a99d39b4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -240,7 +240,7 @@ If anyone knows a reliable way to track receive/open statistics with plaintext, 
 
 
 
-<iframe data-width="760" data-height="500" width="700" height="461" src="/media/b4d740353e4fb9e00f0ffc85a99d39b4?postId=c717393b2f6" data-media-id="b4d740353e4fb9e00f0ffc85a99d39b4" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="760" data-height="500" width="700" height="461" src="https://medium.freecodecamp.org/media/b4d740353e4fb9e00f0ffc85a99d39b4?postId=c717393b2f6" data-media-id="b4d740353e4fb9e00f0ffc85a99d39b4" allowfullscreen="" frameborder="0"></iframe>
 
 
 

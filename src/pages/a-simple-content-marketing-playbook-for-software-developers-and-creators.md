@@ -1,7 +1,7 @@
 ---
 author: John Saddington
 authorTwitter: https://twitter.com/8BIT
-authorFacebook: false
+authorFacebook: none
 title: "A Simple Content Marketing Playbook for Software Developers and Creators"
 subTitle: "Building stuff can be hard. But as designers, developers, and business builders, it’s one of the most satisfying things that we get to do..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KhaVohUcjKx0fypo9a26Rg.jpeg

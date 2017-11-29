@@ -1,7 +1,7 @@
 ---
 author: Sudheesh Shetty
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to simplify your app’s authentication by using JSON Web Token"
 subTitle: "Every application we come across today implements security measures so that the user data is not misused. Security is always something th..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*_1sCpXcnCbvwlJ6uvAKIhw.png
@@ -124,7 +124,7 @@ Let us create a server, serving at port 3000 which sends the index.html when `/`
 
 
 
-<iframe width="700" height="250" src="/media/8b7c1a680404bc32253a5a605f2dc363?postId=cc15df3f2228" data-media-id="8b7c1a680404bc32253a5a605f2dc363" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3449669%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8b7c1a680404bc32253a5a605f2dc363?postId=cc15df3f2228" data-media-id="8b7c1a680404bc32253a5a605f2dc363" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3449669%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ Let us create a client using HTML, Bootstrap and JavaScript. Our client has two 
 
 
 
-<iframe width="700" height="250" src="/media/90a8952a49251ebf2eeb6beecb490813?postId=cc15df3f2228" data-media-id="90a8952a49251ebf2eeb6beecb490813" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3449669%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/90a8952a49251ebf2eeb6beecb490813?postId=cc15df3f2228" data-media-id="90a8952a49251ebf2eeb6beecb490813" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3449669%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -192,7 +192,7 @@ Final server.js will look like this:
 
 
 
-<iframe width="700" height="250" src="/media/9dba82c285907c63e9e03d3e31f13952?postId=cc15df3f2228" data-media-id="9dba82c285907c63e9e03d3e31f13952" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3449669%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9dba82c285907c63e9e03d3e31f13952?postId=cc15df3f2228" data-media-id="9dba82c285907c63e9e03d3e31f13952" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3449669%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -204,7 +204,7 @@ Final index.html will look like this:
 
 
 
-<iframe width="700" height="250" src="/media/192adf34e3784c0d197bc29bf341c4d3?postId=cc15df3f2228" data-media-id="192adf34e3784c0d197bc29bf341c4d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3449669%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/192adf34e3784c0d197bc29bf341c4d3?postId=cc15df3f2228" data-media-id="192adf34e3784c0d197bc29bf341c4d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F3449669%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

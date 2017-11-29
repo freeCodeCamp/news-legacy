@@ -1,7 +1,7 @@
 ---
 author: DemiPixel
 authorTwitter: https://twitter.com/DemiPixel
-authorFacebook: false
+authorFacebook: none
 title: "Exact Solution for “Exact Change”"
 subTitle: "NOTE: If you’re working through Free Code Camp and haven’t completed this problem, I really recommend try it first!..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*GWYeOS6UQpnQTPOfrtU9VA.jpeg
@@ -134,7 +134,7 @@ Here’s the code and a test case of the $0.30 with dimes and quarters problem. 
 
 
 
-<iframe width="700" height="250" src="/media/e8b5c23c9beab8473cbdfd11a7441c20?postId=81e1d23bfe58" data-media-id="e8b5c23c9beab8473cbdfd11a7441c20" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e8b5c23c9beab8473cbdfd11a7441c20?postId=81e1d23bfe58" data-media-id="e8b5c23c9beab8473cbdfd11a7441c20" allowfullscreen="" frameborder="0"></iframe>
 
 
 

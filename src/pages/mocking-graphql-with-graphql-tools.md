@@ -91,7 +91,7 @@ Here’s a full listing of the root `schema.j`s:
 
 
 
-<iframe width="700" height="250" src="/media/bb26f06f97a4724e4ee2b4eef386c492?postId=42c2dd9d0364" data-media-id="bb26f06f97a4724e4ee2b4eef386c492" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bb26f06f97a4724e4ee2b4eef386c492?postId=42c2dd9d0364" data-media-id="bb26f06f97a4724e4ee2b4eef386c492" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

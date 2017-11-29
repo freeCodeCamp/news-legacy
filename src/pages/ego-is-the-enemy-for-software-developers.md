@@ -1,7 +1,7 @@
 ---
 author: Fatos Morina
 authorTwitter: https://twitter.com/FatosMorina
-authorFacebook: false
+authorFacebook: none
 title: "For Developers, Ego is the Enemy"
 subTitle: "I recently finished reading the book “Ego is the Enemy”, by Ryan Holiday and came up with many valuable advice and I decided to write thi..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Lq5gbR5OGEoSBETJT0FK1w.jpeg
@@ -172,7 +172,7 @@ Brian Acton was not [accepted](https://twitter.com/brianacton/status/3109544383?
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/381fbf165fe4aae0db29f0e322647e7a?postId=585909fb0501" data-media-id="381fbf165fe4aae0db29f0e322647e7a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F85157243%2Facton_400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/381fbf165fe4aae0db29f0e322647e7a?postId=585909fb0501" data-media-id="381fbf165fe4aae0db29f0e322647e7a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F85157243%2Facton_400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -182,7 +182,7 @@ Brian Acton was not [accepted](https://twitter.com/brianacton/status/3109544383?
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/902de42f488efb7a13876c6aae49ac76?postId=585909fb0501" data-media-id="902de42f488efb7a13876c6aae49ac76" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F85157243%2Facton_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/902de42f488efb7a13876c6aae49ac76?postId=585909fb0501" data-media-id="902de42f488efb7a13876c6aae49ac76" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F85157243%2Facton_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

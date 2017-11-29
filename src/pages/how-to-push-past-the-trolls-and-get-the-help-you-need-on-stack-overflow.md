@@ -1,7 +1,7 @@
 ---
 author: KimCrayton1
 authorTwitter: https://twitter.com/KimCrayton1
-authorFacebook: false
+authorFacebook: none
 title: "How to push past the trolls and get the help you need on Stack Overflow"
 subTitle: "When you’re new to coding, Stack Overflow can be a scary place. It’s an amazing resource for newbies. But it’s also a place where bullies..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*o0dmZHGOhcj1B7JVJCDDPg.jpeg

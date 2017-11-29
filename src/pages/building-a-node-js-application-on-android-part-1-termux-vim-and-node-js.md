@@ -1,7 +1,7 @@
 ---
 author: Aurélien Giraud
 authorTwitter: https://twitter.com/aurerua
-authorFacebook: false
+authorFacebook: none
 title: "Building a Node.js application on Android - Part 1: Termux, Vim and Node.js"
 subTitle: "If you are excited about Node.js and own an Android device, no doubt you’ll enjoy running Node.js on it. Thanks to Termux, a terminal emu..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vBw9_VPFiEcxgxDx-Oghzw.png

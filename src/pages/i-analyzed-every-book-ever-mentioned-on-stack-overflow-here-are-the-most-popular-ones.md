@@ -1,7 +1,7 @@
 ---
 author: Vlad Wetzel
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "I analyzed every book ever mentioned on Stack Overflow. Here are the most popular ones."
 subTitle: "Finding your next programming book is hard, and it’s risky...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*tIbZVgZCBSzq7dLUUBnrPQ.jpeg
@@ -76,7 +76,7 @@ All the values were stored between `<row>` tags, so I used a Python script to pa
 
 
 
-<iframe width="700" height="250" src="/media/2bd012e11b703a49e4123a1a316fbd32?postId=eee0891f1786" data-media-id="2bd012e11b703a49e4123a1a316fbd32" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2bd012e11b703a49e4123a1a316fbd32?postId=eee0891f1786" data-media-id="2bd012e11b703a49e4123a1a316fbd32" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ Next decision — batch insert:
 
 
 
-<iframe width="700" height="250" src="/media/2d3e1f43c2488ad3f5ffb88ec31df365?postId=eee0891f1786" data-media-id="2d3e1f43c2488ad3f5ffb88ec31df365" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2d3e1f43c2488ad3f5ffb88ec31df365?postId=eee0891f1786" data-media-id="2d3e1f43c2488ad3f5ffb88ec31df365" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -155,7 +155,7 @@ Since it was “one-time” job, I decided to use PostgreSQL arrays. I wrote a s
 
 
 
-<iframe width="700" height="250" src="/media/440bdc82ba2c1e3f9d4cf44b36042088?postId=eee0891f1786" data-media-id="440bdc82ba2c1e3f9d4cf44b36042088" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/440bdc82ba2c1e3f9d4cf44b36042088?postId=eee0891f1786" data-media-id="440bdc82ba2c1e3f9d4cf44b36042088" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -175,7 +175,7 @@ I visualized the search results with a bar chart. I tried out Hightcharts and D3
 
 
 
-<iframe width="700" height="250" src="/media/40509f93be5fe35fa6bba5aaf37c6b08?postId=eee0891f1786" data-media-id="40509f93be5fe35fa6bba5aaf37c6b08" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/40509f93be5fe35fa6bba5aaf37c6b08?postId=eee0891f1786" data-media-id="40509f93be5fe35fa6bba5aaf37c6b08" allowfullscreen="" frameborder="0"></iframe>
 
 
 

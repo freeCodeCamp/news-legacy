@@ -117,7 +117,7 @@ These samples use this simple NGINX config (which we’ll provide a Docker image
 
 
 
-<iframe width="700" height="250" src="/media/c9d206130bcef1d0ead82e3cb5dc67b7?postId=128fe9e0126c" data-media-id="c9d206130bcef1d0ead82e3cb5dc67b7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1792498%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c9d206130bcef1d0ead82e3cb5dc67b7?postId=128fe9e0126c" data-media-id="c9d206130bcef1d0ead82e3cb5dc67b7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1792498%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

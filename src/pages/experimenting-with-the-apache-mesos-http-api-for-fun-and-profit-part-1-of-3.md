@@ -1,7 +1,7 @@
 ---
 author: Marco Massenzio
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Experimenting with the Apache Mesos HTTP API for Fun and Profit"
 subTitle: "Apache Mesos is a tool used in production at large-scale services like Twitter and Airbnb. Here’s its textbook description:..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*YWIt5Ajh2lAk4e2yj4jO8Q.jpeg

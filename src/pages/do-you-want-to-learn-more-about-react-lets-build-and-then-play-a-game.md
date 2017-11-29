@@ -44,7 +44,7 @@ Wanna play a few rounds? Click the **Start** button below:
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/8a93f032b875ee96a0d710ef0067f1db?postId=218e0da5be44" data-media-id="8a93f032b875ee96a0d710ef0067f1db" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/8a93f032b875ee96a0d710ef0067f1db?postId=218e0da5be44" data-media-id="8a93f032b875ee96a0d710ef0067f1db" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -70,7 +70,7 @@ To keep this article as short as possible and focused on React, I will start wit
 
 
 
-<iframe data-width="800" data-height="250" width="1200" height="375" src="/media/998fc7667fabcc4e355da1b8b2a3e00d?postId=218e0da5be44" data-media-id="998fc7667fabcc4e355da1b8b2a3e00d" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="250" width="1200" height="375" src="https://medium.freecodecamp.org/media/998fc7667fabcc4e355da1b8b2a3e00d?postId=218e0da5be44" data-media-id="998fc7667fabcc4e355da1b8b2a3e00d" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -583,7 +583,7 @@ Thanks for reading.
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/f84ef192a30e1d65b1960de6d2e6c27c?postId=218e0da5be44" data-media-id="f84ef192a30e1d65b1960de6d2e6c27c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/f84ef192a30e1d65b1960de6d2e6c27c?postId=218e0da5be44" data-media-id="f84ef192a30e1d65b1960de6d2e6c27c" allowfullscreen="" frameborder="0"></iframe>
 
 
 

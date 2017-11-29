@@ -1,7 +1,7 @@
 ---
 author: Maxime LaBoissonniere
 authorTwitter: https://twitter.com/maxlaboisson
-authorFacebook: false
+authorFacebook: none
 title: "A painless intro to working with APIs"
 subTitle: "If you work anywhere near the web development industry, you’re sure to hear these three infamous letters: A. P. I...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*2Bqyqu2iVYwmq0x21ocrGg.png
@@ -45,7 +45,7 @@ As developers, you often hear the advice: “don’t re-invent the wheel”.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/6c50510852080375324f2a094164026d?postId=d240fc88a00c" data-media-id="6c50510852080375324f2a094164026d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F477397164453527552%2Fuh2w1u1o_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/6c50510852080375324f2a094164026d?postId=d240fc88a00c" data-media-id="6c50510852080375324f2a094164026d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F477397164453527552%2Fuh2w1u1o_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -224,7 +224,7 @@ While we’re at it, let’s also run `npm install --save request` lib. This wil
 
 
 
-<iframe width="700" height="250" src="/media/daf2669c08c5f725eb5fa702b4749c63?postId=d240fc88a00c" data-media-id="daf2669c08c5f725eb5fa702b4749c63" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F10501855%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/daf2669c08c5f725eb5fa702b4749c63?postId=d240fc88a00c" data-media-id="daf2669c08c5f725eb5fa702b4749c63" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F10501855%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Colt McAnlis
 authorTwitter: https://twitter.com/duhroach
-authorFacebook: false
+authorFacebook: none
 title: "How JPG Works"
 subTitle: "The JPG file format was one of the most technologically impressive advancements to image compression to come on the scene in 1992. Since ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*1YlapM2olkIcSfsba31zPg.jpeg

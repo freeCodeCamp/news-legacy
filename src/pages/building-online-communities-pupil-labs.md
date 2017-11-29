@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Building Online Communities: Pupil Labs"
 subTitle: "Will Patera and Moritz Kassner are the founders of Pupil — a mobile eye tracking platform, which they are building working closely with a..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*GkWBYwtyuYJyjiP706QG-Q.png

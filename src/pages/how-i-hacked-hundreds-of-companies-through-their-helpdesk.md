@@ -1,6 +1,6 @@
 ---
 author: Inti De Ceukelaire
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10208507891347648
 title: "How I hacked hundreds of companies through their helpdesk"
 subTitle: "UPDATE: The Next Web wrote a story about my findings: https://thenextweb.com/security/2017/09/21/ticket-trick-see-hackers-gain-unauthoriz..."

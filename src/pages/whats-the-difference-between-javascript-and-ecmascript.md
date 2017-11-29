@@ -1,7 +1,7 @@
 ---
 author: Michael Aranda
 authorTwitter: https://twitter.com/MichaelAranda0
-authorFacebook: false
+authorFacebook: none
 title: "What’s the difference between JavaScript and ECMAScript?"
 subTitle: "I’ve tried googling “the difference between JavaScript and ECMAScript.”..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*2VBZNF_2sqpenWBm.gif

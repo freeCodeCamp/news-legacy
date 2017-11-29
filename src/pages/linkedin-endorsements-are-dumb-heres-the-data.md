@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "LinkedIn endorsements are dumb. Here’s the data."
 subTitle: "If you’re an engineer who’s been endorsed on LinkedIn for any number of languages/frameworks/skills, you’ve probably noticed that somethi..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QmuV1gwUU_FhRpeNfTTslg.jpeg

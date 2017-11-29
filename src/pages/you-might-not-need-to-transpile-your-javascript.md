@@ -1,7 +1,7 @@
 ---
 author: Alex Ewerlöf
 authorTwitter: https://twitter.com/alexewerlof
-authorFacebook: false
+authorFacebook: none
 title: "You might not need to transpile your JavaScript"
 subTitle: "Popular guides like YouMightNotNeedJQuery.com and You Don’t Need Lodash/Underscore have challenged common industry practices...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*dzbgLnjV6aUOoLKdJwsOBQ.png

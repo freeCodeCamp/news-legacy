@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels on: Go"
 subTitle: "Go, also known as Golang, is a open-source programming language developed at Google in 2007 by Robert Griesemer, Rob Pike and Ken Thompso..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*kaLpxNA9MzUP7EdrOspr-w.png

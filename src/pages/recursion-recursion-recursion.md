@@ -1,7 +1,7 @@
 ---
 author: Michael Olorunnisola
 authorTwitter: https://twitter.com/MikeOlor
-authorFacebook: false
+authorFacebook: none
 title: "Recursion, Recursion, Recursion"
 subTitle: "Before I tell you what recursion is, you should read this article:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*3E0JXxCCMTTKYtlmwONWbA.jpeg

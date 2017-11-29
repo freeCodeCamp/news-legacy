@@ -1,7 +1,7 @@
 ---
 author: Marco Massenzio
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Make your code more “pythonic” using Python’s special methods"
 subTitle: "In his excellent Fluent Python book, Luciano Ramalho talks about Python’s “data model.” He gives some excellent examples of how the langu..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*_vcMHRjT4BItOuz8LNA6FA.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Fatos Morina
 authorTwitter: https://twitter.com/FatosMorina
-authorFacebook: false
+authorFacebook: none
 title: "Vim isn’t that scary. Here are 5 free resources you can use to learn it."
 subTitle: "The unknown things can be frightening. The unknown is usually followed by a type of resistance. Vim is not an exception. Still, despite t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*f2dGSYzu7HjZr8rxPfFTtg.png

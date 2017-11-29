@@ -175,7 +175,7 @@ Let’s take a look.
 
 
 
-<iframe width="700" height="250" src="/media/9fa39a99eceb3437202a3ae72ebc2550?postId=bceacb85490c" data-media-id="9fa39a99eceb3437202a3ae72ebc2550" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9fa39a99eceb3437202a3ae72ebc2550?postId=bceacb85490c" data-media-id="9fa39a99eceb3437202a3ae72ebc2550" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -195,7 +195,7 @@ Let’s test it:
 
 
 
-<iframe width="700" height="250" src="/media/733305ff815b91f2023ba5045bb0d0a3?postId=bceacb85490c" data-media-id="733305ff815b91f2023ba5045bb0d0a3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/733305ff815b91f2023ba5045bb0d0a3?postId=bceacb85490c" data-media-id="733305ff815b91f2023ba5045bb0d0a3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -228,7 +228,7 @@ Here’s the code:
 
 
 
-<iframe width="700" height="250" src="/media/0163fc1aeff32b1f1838876391d5a32b?postId=bceacb85490c" data-media-id="0163fc1aeff32b1f1838876391d5a32b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0163fc1aeff32b1f1838876391d5a32b?postId=bceacb85490c" data-media-id="0163fc1aeff32b1f1838876391d5a32b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -242,7 +242,7 @@ And we do the same thing to insert a `right child node`.
 
 
 
-<iframe width="700" height="250" src="/media/b722fd684b3716665dcfe0569e378232?postId=bceacb85490c" data-media-id="b722fd684b3716665dcfe0569e378232" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b722fd684b3716665dcfe0569e378232?postId=bceacb85490c" data-media-id="b722fd684b3716665dcfe0569e378232" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -276,7 +276,7 @@ So here is the code for the `tree`:
 
 
 
-<iframe width="700" height="250" src="/media/5a13b4ac473626cd52bf04749c69ca8a?postId=bceacb85490c" data-media-id="5a13b4ac473626cd52bf04749c69ca8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5a13b4ac473626cd52bf04749c69ca8a?postId=bceacb85490c" data-media-id="5a13b4ac473626cd52bf04749c69ca8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -341,7 +341,7 @@ This is exactly what we did in the above example.
 
 
 
-<iframe width="700" height="250" src="/media/413dad41f8e94d38c61bac299cd23b52?postId=bceacb85490c" data-media-id="413dad41f8e94d38c61bac299cd23b52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/413dad41f8e94d38c61bac299cd23b52?postId=bceacb85490c" data-media-id="413dad41f8e94d38c61bac299cd23b52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -365,7 +365,7 @@ Now let’s code it.
 
 
 
-<iframe width="700" height="250" src="/media/72c9d64d89fcf46488ce6f6359fdad59?postId=bceacb85490c" data-media-id="72c9d64d89fcf46488ce6f6359fdad59" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/72c9d64d89fcf46488ce6f6359fdad59?postId=bceacb85490c" data-media-id="72c9d64d89fcf46488ce6f6359fdad59" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -393,7 +393,7 @@ Let’s code this.
 
 
 
-<iframe width="700" height="250" src="/media/12fbf35a8bc46bb5c3d1748518ea2988?postId=bceacb85490c" data-media-id="12fbf35a8bc46bb5c3d1748518ea2988" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/12fbf35a8bc46bb5c3d1748518ea2988?postId=bceacb85490c" data-media-id="12fbf35a8bc46bb5c3d1748518ea2988" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -433,7 +433,7 @@ Now let’s code it.
 
 
 
-<iframe width="700" height="250" src="/media/d1230585e59286a4db1dec8a58e0bd8d?postId=bceacb85490c" data-media-id="d1230585e59286a4db1dec8a58e0bd8d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d1230585e59286a4db1dec8a58e0bd8d?postId=bceacb85490c" data-media-id="d1230585e59286a4db1dec8a58e0bd8d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -526,7 +526,7 @@ Now let’s code it.
 
 
 
-<iframe width="700" height="250" src="/media/50a2cf2c538b05b89c9f49e8265d97f4?postId=bceacb85490c" data-media-id="50a2cf2c538b05b89c9f49e8265d97f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/50a2cf2c538b05b89c9f49e8265d97f4?postId=bceacb85490c" data-media-id="50a2cf2c538b05b89c9f49e8265d97f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -572,7 +572,7 @@ Now let’s code it.
 
 
 
-<iframe width="700" height="250" src="/media/bb126cc4bf2d2e26a70b0730421a7400?postId=bceacb85490c" data-media-id="bb126cc4bf2d2e26a70b0730421a7400" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bb126cc4bf2d2e26a70b0730421a7400?postId=bceacb85490c" data-media-id="bb126cc4bf2d2e26a70b0730421a7400" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -592,7 +592,7 @@ Let’s create our `Binary Search Tree` by initializing the `root` `node` with t
 
 
 
-<iframe width="700" height="250" src="/media/bdced89d204ddbfb0323b5dd26745e7c?postId=bceacb85490c" data-media-id="bdced89d204ddbfb0323b5dd26745e7c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bdced89d204ddbfb0323b5dd26745e7c?postId=bceacb85490c" data-media-id="bdced89d204ddbfb0323b5dd26745e7c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -604,7 +604,7 @@ And now we will insert many new `nodes`.
 
 
 
-<iframe width="700" height="250" src="/media/65ec0fd19aa801b2a7219eed4d5514df?postId=bceacb85490c" data-media-id="65ec0fd19aa801b2a7219eed4d5514df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/65ec0fd19aa801b2a7219eed4d5514df?postId=bceacb85490c" data-media-id="65ec0fd19aa801b2a7219eed4d5514df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -616,7 +616,7 @@ For each inserted `node` , we will test if our `find_node` method really works.
 
 
 
-<iframe width="700" height="250" src="/media/bfb26379693c8fb89a717d7bfb2d770c?postId=bceacb85490c" data-media-id="bfb26379693c8fb89a717d7bfb2d770c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bfb26379693c8fb89a717d7bfb2d770c?postId=bceacb85490c" data-media-id="bfb26379693c8fb89a717d7bfb2d770c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -628,7 +628,7 @@ Yeah, it works for these given values! Let’s test for a value that doesn’t e
 
 
 
-<iframe width="700" height="250" src="/media/f37184b1bfde4f01b71bc77dcecfc4f5?postId=bceacb85490c" data-media-id="f37184b1bfde4f01b71bc77dcecfc4f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f37184b1bfde4f01b71bc77dcecfc4f5?postId=bceacb85490c" data-media-id="f37184b1bfde4f01b71bc77dcecfc4f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -648,7 +648,7 @@ Deletion is a more complex algorithm because we need to handle different cases. 
 
 
 
-<iframe width="700" height="250" src="/media/df916beeefbefd89d3eb017db061f57f?postId=bceacb85490c" data-media-id="df916beeefbefd89d3eb017db061f57f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/df916beeefbefd89d3eb017db061f57f?postId=bceacb85490c" data-media-id="df916beeefbefd89d3eb017db061f57f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -662,7 +662,7 @@ If the `node` we want to delete has no children, we simply delete it. The algori
 
 
 
-<iframe width="700" height="250" src="/media/390bc8ef43a11957abab8726d3712f41?postId=bceacb85490c" data-media-id="390bc8ef43a11957abab8726d3712f41" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/390bc8ef43a11957abab8726d3712f41?postId=bceacb85490c" data-media-id="390bc8ef43a11957abab8726d3712f41" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -676,7 +676,7 @@ In this case, our algorithm needs to make the parent of the `node` point to the 
 
 
 
-<iframe width="700" height="250" src="/media/a7d3f69f5f7c45dbfb4227bac06e6ff4?postId=bceacb85490c" data-media-id="a7d3f69f5f7c45dbfb4227bac06e6ff4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a7d3f69f5f7c45dbfb4227bac06e6ff4?postId=bceacb85490c" data-media-id="a7d3f69f5f7c45dbfb4227bac06e6ff4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -690,7 +690,7 @@ It’s time to code.
 
 
 
-<iframe width="700" height="250" src="/media/ac38b3bdb1b1f0b8d3c402d9287524d7?postId=bceacb85490c" data-media-id="ac38b3bdb1b1f0b8d3c402d9287524d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ac38b3bdb1b1f0b8d3c402d9287524d7?postId=bceacb85490c" data-media-id="ac38b3bdb1b1f0b8d3c402d9287524d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -716,7 +716,7 @@ It’s time to code.
 
 
 
-<iframe width="700" height="250" src="/media/0e8170087c29ead741d7a16ae8348e4f?postId=bceacb85490c" data-media-id="0e8170087c29ead741d7a16ae8348e4f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0e8170087c29ead741d7a16ae8348e4f?postId=bceacb85490c" data-media-id="0e8170087c29ead741d7a16ae8348e4f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -728,7 +728,7 @@ It’s time to code.
 
 
 
-<iframe width="700" height="250" src="/media/962ec9e479414b52d733717a5b36eb46?postId=bceacb85490c" data-media-id="962ec9e479414b52d733717a5b36eb46" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/962ec9e479414b52d733717a5b36eb46?postId=bceacb85490c" data-media-id="962ec9e479414b52d733717a5b36eb46" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -742,7 +742,7 @@ We will use this `tree` to test our `remove_node` algorithm.
 
 
 
-<iframe width="700" height="250" src="/media/2e01bc5ae0e80f7309495b38825f3c68?postId=bceacb85490c" data-media-id="2e01bc5ae0e80f7309495b38825f3c68" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2e01bc5ae0e80f7309495b38825f3c68?postId=bceacb85490c" data-media-id="2e01bc5ae0e80f7309495b38825f3c68" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -754,7 +754,7 @@ Let’s remove the `node` with the `value` 8\. It’s a `node` with no child.
 
 
 
-<iframe width="700" height="250" src="/media/e7e329958864acc6583a8fab6dc13cb6?postId=bceacb85490c" data-media-id="e7e329958864acc6583a8fab6dc13cb6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e7e329958864acc6583a8fab6dc13cb6?postId=bceacb85490c" data-media-id="e7e329958864acc6583a8fab6dc13cb6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -766,7 +766,7 @@ Now let’s remove the `node` with the `value` 17\. It’s a `node` with just on
 
 
 
-<iframe width="700" height="250" src="/media/1da826603d836a6877211556ff30fa3f?postId=bceacb85490c" data-media-id="1da826603d836a6877211556ff30fa3f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1da826603d836a6877211556ff30fa3f?postId=bceacb85490c" data-media-id="1da826603d836a6877211556ff30fa3f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -778,7 +778,7 @@ Finally, we will remove a `node` with two children. This is the `root` of our `t
 
 
 
-<iframe width="700" height="250" src="/media/4636fc226a651a7893011ab9d3fe570e?postId=bceacb85490c" data-media-id="4636fc226a651a7893011ab9d3fe570e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4636fc226a651a7893011ab9d3fe570e?postId=bceacb85490c" data-media-id="4636fc226a651a7893011ab9d3fe570e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F5835798%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

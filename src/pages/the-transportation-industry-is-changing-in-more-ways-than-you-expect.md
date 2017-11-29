@@ -1,7 +1,7 @@
 ---
 author: Adam Kell
 authorTwitter: https://twitter.com/adamhkell
-authorFacebook: false
+authorFacebook: none
 title: "Transportation is about to hit exponential changes unlike anything we’ve ever seen before."
 subTitle: "Today’s car is essentially a computer on wheels. Under the hood, you’ll find a complex computer network communicating with several sensor..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*kyffL7IbxnSyyTygC2evGw.jpeg
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/the-transportation-industry-is-changing-in-
 id: the-transportation-industry-is-changing-in-more-ways-than-you-expect-e6a5b7deaf38
 date: 2017-02-27T20:36:51.450Z
 tags: [
-  "Self Driving Cars",
-  "Transportation",
-  "Computer Vision",
-  "Tech",
-  "Startup"
+	"Self Driving Cars",
+	"Transportation",
+	"Computer Vision",
+	"Tech",
+	"Startup"
 ]
 ---
 # **Transportation is about to hit exponential changes unlike anything we’ve ever seen before.**
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kyffL7IbxnSyyTygC2evGw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*kyffL7IbxnSyyTygC2evGw.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*kyffL7IbxnSyyTygC2evGw.jpeg"&gt;</noscript>
 
 
 
@@ -58,11 +55,8 @@ These changes will not only improve the overall driving experience — the n
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*aVmk5tb2NNWAEXpvXQ2eCA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*aVmk5tb2NNWAEXpvXQ2eCA.gif"&gt;</noscript>
 
 
 
@@ -82,11 +76,8 @@ In previous years, the automotive industry has been hacking together hand-me-dow
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sVi1kLWss8Mr5NI1z4KiRQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sVi1kLWss8Mr5NI1z4KiRQ.jpeg"&gt;</noscript>
 
 
 
@@ -104,11 +95,8 @@ Waymo’s autonomous miles driven now number in the [millions](http://www.recode
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*T1tXJ99BdlqxFtH3RHNG8A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*T1tXJ99BdlqxFtH3RHNG8A.png"&gt;</noscript>
 
 
 
@@ -130,11 +118,8 @@ Dedicated hardware is making tasks like vision more efficient by being designed 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nQcEeAswNPyRWgwWnTC14g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nQcEeAswNPyRWgwWnTC14g.png"&gt;</noscript>
 
 
 
@@ -152,11 +137,8 @@ As autonomous vehicles move to become a viable option for mainstream adoption, m
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pTcZBa7xbpbBwoUY23hI6g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*pTcZBa7xbpbBwoUY23hI6g.png"&gt;</noscript>
 
 
 
@@ -174,11 +156,8 @@ The way cars themselves are made is also being transformed by automation. New ma
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*aFABW36NkGdD1HPz.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*aFABW36NkGdD1HPz."&gt;</noscript>
 
 
 
@@ -196,11 +175,8 @@ As an increasing number of conditions are created in which the driver may not be
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*2cT9oNSMT69QnXOp.jpg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*2cT9oNSMT69QnXOp.jpg"&gt;</noscript>
 
 
 
@@ -222,11 +198,8 @@ Car ownership itself may change. On average, car owners currently leave their ca
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*oibBmCu3gNPBGnfw.jpg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*oibBmCu3gNPBGnfw.jpg"&gt;</noscript>
 
 
 

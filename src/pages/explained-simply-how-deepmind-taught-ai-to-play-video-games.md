@@ -1,7 +1,7 @@
 ---
 author: Aman Agarwal (言煜鹰)
 authorTwitter: https://twitter.com/mngrwl
-authorFacebook: false
+authorFacebook: none
 title: "Explained Simply: How DeepMind taught AI to play video games"
 subTitle: "Google’s DeepMind is one of the world’s foremost AI research teams. They’re most famous for creating the AlphaGo player that beat South K..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*1yGJPwNHuhDZLyLq.jpg
@@ -56,7 +56,7 @@ Here’s the original paper if you want to try reading it:
 
 
 
-<iframe data-width="600" data-height="780" width="600" height="780" src="/media/71f48cb2d54451e6a64ccd83b22c9aab?postId=9eb5f38c89ee" data-media-id="71f48cb2d54451e6a64ccd83b22c9aab" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="780" width="600" height="780" src="https://medium.freecodecamp.org/media/71f48cb2d54451e6a64ccd83b22c9aab?postId=9eb5f38c89ee" data-media-id="71f48cb2d54451e6a64ccd83b22c9aab" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -425,7 +425,7 @@ For this paragraph and everything beyond… ‘_Look and marvel at how much bett
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/a75e8d5679a20f95239cdfaeba08b5e0?postId=9eb5f38c89ee" data-media-id="a75e8d5679a20f95239cdfaeba08b5e0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEIyixC9NsLI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/a75e8d5679a20f95239cdfaeba08b5e0?postId=9eb5f38c89ee" data-media-id="a75e8d5679a20f95239cdfaeba08b5e0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEIyixC9NsLI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -437,7 +437,7 @@ Would you like to stay in touch with me? I don’t use it as a newsletter that I
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/23564290a225786d2eabc0f1d24c6d9e?postId=9eb5f38c89ee" data-media-id="23564290a225786d2eabc0f1d24c6d9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/23564290a225786d2eabc0f1d24c6d9e?postId=9eb5f38c89ee" data-media-id="23564290a225786d2eabc0f1d24c6d9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

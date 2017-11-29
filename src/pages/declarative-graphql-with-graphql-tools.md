@@ -190,7 +190,7 @@ The main schema file has become simpler. It provides skeletal structure for furt
 
 
 
-<iframe width="700" height="250" src="/media/557ff856bda659de749d3b04061dfd84?postId=cd1645f94fc" data-media-id="557ff856bda659de749d3b04061dfd84" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/557ff856bda659de749d3b04061dfd84?postId=cd1645f94fc" data-media-id="557ff856bda659de749d3b04061dfd84" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -206,7 +206,7 @@ There is a trick to splitting up a schema this way. Let’s take a look:
 
 
 
-<iframe width="700" height="250" src="/media/2d1912e6a7544358ac56356697a5f21a?postId=cd1645f94fc" data-media-id="2d1912e6a7544358ac56356697a5f21a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2d1912e6a7544358ac56356697a5f21a?postId=cd1645f94fc" data-media-id="2d1912e6a7544358ac56356697a5f21a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -230,7 +230,7 @@ Here’s a modified directory structure, and listings of the new contents:
 
 
 
-<iframe width="700" height="250" src="/media/b991c91399557374c859891d22fd9821?postId=cd1645f94fc" data-media-id="b991c91399557374c859891d22fd9821" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b991c91399557374c859891d22fd9821?postId=cd1645f94fc" data-media-id="b991c91399557374c859891d22fd9821" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -254,7 +254,7 @@ Adding a new schema for a new domain is simple. Create a new domain folder and a
 
 
 
-<iframe width="700" height="250" src="/media/95ef14b0554146b96ce4cbd63bc05b11?postId=cd1645f94fc" data-media-id="95ef14b0554146b96ce4cbd63bc05b11" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/95ef14b0554146b96ce4cbd63bc05b11?postId=cd1645f94fc" data-media-id="95ef14b0554146b96ce4cbd63bc05b11" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

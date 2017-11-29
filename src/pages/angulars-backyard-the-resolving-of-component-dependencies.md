@@ -68,7 +68,7 @@ Here is the `resolveDep` function skeleton from the Angular GitHub repository:
 
 
 
-<iframe width="700" height="250" src="/media/87b4b42e8dfccb3e15c0daf6dafc2a01?postId=2015b40e5bd1" data-media-id="87b4b42e8dfccb3e15c0daf6dafc2a01" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F15105764%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/87b4b42e8dfccb3e15c0daf6dafc2a01?postId=2015b40e5bd1" data-media-id="87b4b42e8dfccb3e15c0daf6dafc2a01" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F15105764%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -97,7 +97,7 @@ The **while** loop implements the stages of checking the source `@Component.prov
 
 
 
-<iframe width="700" height="250" src="/media/1dabcf02c7c3f81180075984292d26de?postId=2015b40e5bd1" data-media-id="1dabcf02c7c3f81180075984292d26de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F15105764%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1dabcf02c7c3f81180075984292d26de?postId=2015b40e5bd1" data-media-id="1dabcf02c7c3f81180075984292d26de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F15105764%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ If come to this part, the dependency can’t be satisfied by any of the componen
 
 
 
-<iframe width="700" height="250" src="/media/d1b4b862e06af4136cb3a1b9657daff3?postId=2015b40e5bd1" data-media-id="d1b4b862e06af4136cb3a1b9657daff3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F15105764%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d1b4b862e06af4136cb3a1b9657daff3?postId=2015b40e5bd1" data-media-id="d1b4b862e06af4136cb3a1b9657daff3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F15105764%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

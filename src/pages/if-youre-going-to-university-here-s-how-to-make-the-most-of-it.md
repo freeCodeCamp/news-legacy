@@ -1,7 +1,7 @@
 ---
 author: Will Abramson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "If you’re going to university, here’s how to make the most of it."
 subTitle: "University, a place people spend at least three years to get a piece of paper. A ticket into some job. The next step along the road. Or a..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ttd5IP_81fafE8BDOhfqwg.jpeg

@@ -95,7 +95,7 @@ An example with just a plain old function, no minion available:
 
 
 
-<iframe width="700" height="250" src="/media/5632ac1b40311ed599bd40e9169001e3?postId=da272f4d9bcd" data-media-id="5632ac1b40311ed599bd40e9169001e3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5632ac1b40311ed599bd40e9169001e3?postId=da272f4d9bcd" data-media-id="5632ac1b40311ed599bd40e9169001e3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -109,7 +109,7 @@ So remember, this is kind of like saying:
 
 
 
-<iframe width="700" height="250" src="/media/5728a706d3e08eb4f4b15bc21578fb63?postId=da272f4d9bcd" data-media-id="5728a706d3e08eb4f4b15bc21578fb63" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5728a706d3e08eb4f4b15bc21578fb63?postId=da272f4d9bcd" data-media-id="5728a706d3e08eb4f4b15bc21578fb63" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -139,7 +139,7 @@ Let’s look at a show/hide sequence to really highlight the importance of these
 
 
 
-<iframe width="700" height="250" src="/media/50cf32ba322c5099fc7da573d11fcc89?postId=da272f4d9bcd" data-media-id="50cf32ba322c5099fc7da573d11fcc89" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/50cf32ba322c5099fc7da573d11fcc89?postId=da272f4d9bcd" data-media-id="50cf32ba322c5099fc7da573d11fcc89" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -151,7 +151,7 @@ In this example, if you read the code in order and didn’t have minions at your
 
 
 
-<iframe width="700" height="250" src="/media/f02d6f8382bc6a0d7dc0d20be69017b3?postId=da272f4d9bcd" data-media-id="f02d6f8382bc6a0d7dc0d20be69017b3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f02d6f8382bc6a0d7dc0d20be69017b3?postId=da272f4d9bcd" data-media-id="f02d6f8382bc6a0d7dc0d20be69017b3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -185,7 +185,7 @@ If there were no callbacks in the above example, line 5 could cause an error bec
 
 
 
-<iframe width="700" height="250" src="/media/05e7899cb09c7183b76dae7d067b1bc0?postId=da272f4d9bcd" data-media-id="05e7899cb09c7183b76dae7d067b1bc0" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/05e7899cb09c7183b76dae7d067b1bc0?postId=da272f4d9bcd" data-media-id="05e7899cb09c7183b76dae7d067b1bc0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -201,7 +201,7 @@ On line 20, I declared the callback function to be reportOrders, but it could be
 
 
 
-<iframe width="700" height="250" src="/media/60006914c2a9f4f9a4b35e19db968ad8?postId=da272f4d9bcd" data-media-id="60006914c2a9f4f9a4b35e19db968ad8" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/60006914c2a9f4f9a4b35e19db968ad8?postId=da272f4d9bcd" data-media-id="60006914c2a9f4f9a4b35e19db968ad8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -233,7 +233,7 @@ Take a look at the following example which uses [Express](http://expressjs.com/)
 
 
 
-<iframe width="700" height="250" src="/media/8e14e6e36db131890810f1553f3b0761?postId=da272f4d9bcd" data-media-id="8e14e6e36db131890810f1553f3b0761" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8e14e6e36db131890810f1553f3b0761?postId=da272f4d9bcd" data-media-id="8e14e6e36db131890810f1553f3b0761" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -253,7 +253,7 @@ To make this as clear as possible, here is the minion-ified code, with minion nu
 
 
 
-<iframe width="700" height="250" src="/media/b8ac6627298468a15cb2955917c4c508?postId=da272f4d9bcd" data-media-id="b8ac6627298468a15cb2955917c4c508" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b8ac6627298468a15cb2955917c4c508?postId=da272f4d9bcd" data-media-id="b8ac6627298468a15cb2955917c4c508" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -291,7 +291,7 @@ Again, the use of 2 separate callbacks in the readResult() function ensures that
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=da272f4d9bcd" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=da272f4d9bcd" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

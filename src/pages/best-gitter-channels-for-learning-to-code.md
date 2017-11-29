@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels for: Learning to Code"
 subTitle: "If you’re learning to code in 2016, you’re in luck — thanks to a huge range of helpful websites, MOOCs, books, and learners’ communities,..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OdoiEncGFDFUmqJvShkOsQ.png

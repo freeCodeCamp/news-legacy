@@ -1,7 +1,7 @@
 ---
 author: Drew Breunig
 authorTwitter: https://twitter.com/dbreunig
-authorFacebook: false
+authorFacebook: none
 title: "The Business Implications of Machine Learning"
 subTitle: "It’s not about what it can do, but the effects of its prioritization"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*gIhT3qj9QU3G7YjaphRxdQ.png

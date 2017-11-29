@@ -1,7 +1,7 @@
 ---
 author: Déborah Mesquita
 authorTwitter: https://twitter.com/dehhmesquita
-authorFacebook: false
+authorFacebook: none
 title: "Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow"
 subTitle: "Developers often say that if you want to get started with machine learning, you should first learn how the algorithms work. But my experi..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*W2vzGrXR1ua5KN-X0m9oMw.jpeg

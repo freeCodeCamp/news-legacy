@@ -1,7 +1,7 @@
 ---
 author: Coding with Cookie
 authorTwitter: https://twitter.com/codingwcookie
-authorFacebook: false
+authorFacebook: none
 title: "How I built a Smart Mirror, with a little help from my daughter and her grandpa"
 subTitle: "This month I built a smart mirror with my dad and daughter. This project spanned across three generations...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0MC93WQzKqFGisGM2WisVQ.png

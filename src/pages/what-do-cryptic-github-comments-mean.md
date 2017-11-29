@@ -1,7 +1,7 @@
 ---
 author: Alex Beregszaszi
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "What do cryptic Github comments mean?"
 subTitle: "Are you new to Github and/or contributing to open source projects? Have you seen short messages like LGTM, ACK, NACK, etc. and wondered w..."
 coverSrc: placeholder

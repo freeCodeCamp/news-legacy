@@ -1,7 +1,7 @@
 ---
 author: Alex Birsan
 authorTwitter: https://twitter.com/alxbrsn
-authorFacebook: false
+authorFacebook: none
 title: "How I hacked Google’s bug tracking system itself for $15,600 in bounties"
 subTitle: "Easy Bugs for Hard Cash"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*WLV9IzSyXD_1JVk-GkJ-ww.jpeg

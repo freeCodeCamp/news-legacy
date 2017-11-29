@@ -52,7 +52,7 @@ Take the app we built for Chasdei Kaduri — a food bank in Toronto.
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/982a7971135fa71c4d1b7a44a9a0ec45?postId=1a0ea9f32d5a" data-media-id="982a7971135fa71c4d1b7a44a9a0ec45" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/982a7971135fa71c4d1b7a44a9a0ec45?postId=1a0ea9f32d5a" data-media-id="982a7971135fa71c4d1b7a44a9a0ec45" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -70,7 +70,7 @@ Or take the app we built for Options Inc — a nonprofit that finds jobs for
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/25ea1879342f6f37b29a750b44263dde?postId=1a0ea9f32d5a" data-media-id="25ea1879342f6f37b29a750b44263dde" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/25ea1879342f6f37b29a750b44263dde?postId=1a0ea9f32d5a" data-media-id="25ea1879342f6f37b29a750b44263dde" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,6 +1,6 @@
 ---
 author: Chet Corcos
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1165511785
 title: "Martian Math"
 subTitle: "We’re going to explore number systems by solving one of my favorite riddles...."

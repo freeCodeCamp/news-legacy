@@ -375,7 +375,7 @@ Paste a CodePen.io URL into Medium, then hit enter:
 
 
 
-<iframe data-width="800" data-height="600" width="980" height="735" src="/media/baac0b5917980fb88695bfef7c2b5304?postId=cb5876d1ef23" data-media-id="baac0b5917980fb88695bfef7c2b5304" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="980" height="735" src="https://medium.freecodecamp.org/media/baac0b5917980fb88695bfef7c2b5304?postId=cb5876d1ef23" data-media-id="baac0b5917980fb88695bfef7c2b5304" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -393,7 +393,7 @@ You can also do this with JSFiddle.net:
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/728bdc27a4497057582d0dec61995199?postId=cb5876d1ef23" data-media-id="728bdc27a4497057582d0dec61995199" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/728bdc27a4497057582d0dec61995199?postId=cb5876d1ef23" data-media-id="728bdc27a4497057582d0dec61995199" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -422,7 +422,7 @@ You can embed Tweets, YouTube videos, and other media by pasting their URLs into
 
 
 
-<iframe width="500" height="250" src="/media/2f7bb09121e8ac606031f0ffa246dffd?postId=cb5876d1ef23" data-media-id="2f7bb09121e8ac606031f0ffa246dffd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCCpgya-UIAA8uar.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/2f7bb09121e8ac606031f0ffa246dffd?postId=cb5876d1ef23" data-media-id="2f7bb09121e8ac606031f0ffa246dffd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCCpgya-UIAA8uar.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -432,7 +432,7 @@ You can embed Tweets, YouTube videos, and other media by pasting their URLs into
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/7be10668421e43072c12b48bac34f35c?postId=cb5876d1ef23" data-media-id="7be10668421e43072c12b48bac34f35c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F36NgPu9OyRM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/7be10668421e43072c12b48bac34f35c?postId=cb5876d1ef23" data-media-id="7be10668421e43072c12b48bac34f35c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F36NgPu9OyRM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -442,7 +442,7 @@ You can embed Tweets, YouTube videos, and other media by pasting their URLs into
 
 
 
-<iframe data-width="800" data-height="166" width="700" height="145" src="/media/33e2e286e4aff1f399b79a4915ae48b1?postId=cb5876d1ef23" data-media-id="33e2e286e4aff1f399b79a4915ae48b1" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000095718543-55ucgs-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="166" width="700" height="145" src="https://medium.freecodecamp.org/media/33e2e286e4aff1f399b79a4915ae48b1?postId=cb5876d1ef23" data-media-id="33e2e286e4aff1f399b79a4915ae48b1" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000095718543-55ucgs-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

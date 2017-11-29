@@ -50,7 +50,7 @@ Here is another, more straightforward example:
 
 
 
-<iframe width="700" height="250" src="/media/7c683ab0ad4f61f293fb450445c5d5ab?postId=28ad4c5b2573" data-media-id="7c683ab0ad4f61f293fb450445c5d5ab" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7c683ab0ad4f61f293fb450445c5d5ab?postId=28ad4c5b2573" data-media-id="7c683ab0ad4f61f293fb450445c5d5ab" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ Here is that process in code:
 
 
 
-<iframe width="700" height="250" src="/media/05d4cca7b0ceaac82dcc42d40670a5b2?postId=28ad4c5b2573" data-media-id="05d4cca7b0ceaac82dcc42d40670a5b2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/05d4cca7b0ceaac82dcc42d40670a5b2?postId=28ad4c5b2573" data-media-id="05d4cca7b0ceaac82dcc42d40670a5b2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ Here is the above example, in an extensible way:
 
 
 
-<iframe width="700" height="250" src="/media/af96c363179a9946e0f7794cbb933364?postId=28ad4c5b2573" data-media-id="af96c363179a9946e0f7794cbb933364" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/af96c363179a9946e0f7794cbb933364?postId=28ad4c5b2573" data-media-id="af96c363179a9946e0f7794cbb933364" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ For sake of comparison, here is the same code without promises:
 
 
 
-<iframe width="700" height="250" src="/media/c26c2a72c3bd029fa4e8e302630eaedb?postId=28ad4c5b2573" data-media-id="c26c2a72c3bd029fa4e8e302630eaedb" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c26c2a72c3bd029fa4e8e302630eaedb?postId=28ad4c5b2573" data-media-id="c26c2a72c3bd029fa4e8e302630eaedb" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ If you understand promises at this point, I am freaking amazed! Let’s dig deep
 
 
 
-<iframe width="700" height="250" src="/media/05d4cca7b0ceaac82dcc42d40670a5b2?postId=28ad4c5b2573" data-media-id="05d4cca7b0ceaac82dcc42d40670a5b2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/05d4cca7b0ceaac82dcc42d40670a5b2?postId=28ad4c5b2573" data-media-id="05d4cca7b0ceaac82dcc42d40670a5b2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -168,7 +168,7 @@ The key to promises is the concept of unfulfilled, fulfilled or rejected. Once y
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=28ad4c5b2573" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=28ad4c5b2573" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

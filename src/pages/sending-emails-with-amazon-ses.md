@@ -1,7 +1,7 @@
 ---
 author: Kangze Huang
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Sending emails with Amazon SES"
 subTitle: "The Complete AWS Web Boilerplate — Tutorial 3"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*6qHAynt7vd0MQr7Yut0LVA.png

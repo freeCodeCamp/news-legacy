@@ -1,7 +1,7 @@
 ---
 author: Richard
 authorTwitter: https://twitter.com/chensformers
-authorFacebook: false
+authorFacebook: none
 title: "How to make an awesome Inventory Management Application in PHP and MySQL"
 subTitle: "You do not need bloated enterprise software to effectively track your inventory. This tutorial will help you develop your own custom inve..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*D8DAUz3T2nustjr2Pnn6QQ.jpeg
@@ -84,7 +84,7 @@ Before we begin coding, we must include the following information in `**conf.php
 
 
 
-<iframe width="700" height="250" src="/media/40491baef58cbd386f3f36257c904470?postId=90bc5996680a" data-media-id="40491baef58cbd386f3f36257c904470" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/40491baef58cbd386f3f36257c904470?postId=90bc5996680a" data-media-id="40491baef58cbd386f3f36257c904470" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -151,7 +151,7 @@ Note the use of the [set_col_format()](https://phpgrid.com/documentation/set_col
 
 
 
-<iframe width="700" height="250" src="/media/a35a512926081e47e59c26f9041d441f?postId=90bc5996680a" data-media-id="a35a512926081e47e59c26f9041d441f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a35a512926081e47e59c26f9041d441f?postId=90bc5996680a" data-media-id="a35a512926081e47e59c26f9041d441f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -173,7 +173,7 @@ First of all, we will add some conditional formatting: whenever the **InventoryO
 
 
 
-<iframe width="700" height="250" src="/media/7d514dc0219e1b76791329346e19ea3a?postId=90bc5996680a" data-media-id="7d514dc0219e1b76791329346e19ea3a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7d514dc0219e1b76791329346e19ea3a?postId=90bc5996680a" data-media-id="7d514dc0219e1b76791329346e19ea3a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -189,7 +189,7 @@ The code below uses a `for` loop to iterate through each row in the **Products**
 
 
 
-<iframe width="700" height="250" src="/media/a8f8424892f7fcc8ecce1bfe5d8c9a58?postId=90bc5996680a" data-media-id="a8f8424892f7fcc8ecce1bfe5d8c9a58" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a8f8424892f7fcc8ecce1bfe5d8c9a58?postId=90bc5996680a" data-media-id="a8f8424892f7fcc8ecce1bfe5d8c9a58" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -205,7 +205,7 @@ Next, on the same page, we need to see the purchases coming in (**Incoming**) an
 
 
 
-<iframe width="700" height="250" src="/media/4803c92a6fc9ed82235a76d4c5033a1b?postId=90bc5996680a" data-media-id="4803c92a6fc9ed82235a76d4c5033a1b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4803c92a6fc9ed82235a76d4c5033a1b?postId=90bc5996680a" data-media-id="4803c92a6fc9ed82235a76d4c5033a1b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -217,7 +217,7 @@ Next, on the same page, we need to see the purchases coming in (**Incoming**) an
 
 
 
-<iframe width="700" height="250" src="/media/039af6ce878e7d9c076273d0e56329e9?postId=90bc5996680a" data-media-id="039af6ce878e7d9c076273d0e56329e9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/039af6ce878e7d9c076273d0e56329e9?postId=90bc5996680a" data-media-id="039af6ce878e7d9c076273d0e56329e9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -229,7 +229,7 @@ Both detail grids use the same foreign key `ProductId` to link to the master dat
 
 
 
-<iframe width="700" height="250" src="/media/b7fa6791c0c957ab23df7dc33fc182f4?postId=90bc5996680a" data-media-id="b7fa6791c0c957ab23df7dc33fc182f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b7fa6791c0c957ab23df7dc33fc182f4?postId=90bc5996680a" data-media-id="b7fa6791c0c957ab23df7dc33fc182f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -241,7 +241,7 @@ Finally, our complete code to manage the **Current Inventory** page is:
 
 
 
-<iframe width="700" height="250" src="/media/5f4546581d903238d76eecd6981700d8?postId=90bc5996680a" data-media-id="5f4546581d903238d76eecd6981700d8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5f4546581d903238d76eecd6981700d8?postId=90bc5996680a" data-media-id="5f4546581d903238d76eecd6981700d8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -277,7 +277,7 @@ The next page is the **Incoming Purchase** page. It is similar to the **Purchase
 
 
 
-<iframe width="700" height="250" src="/media/691436a89755434430bb23ecd07c26d6?postId=90bc5996680a" data-media-id="691436a89755434430bb23ecd07c26d6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/691436a89755434430bb23ecd07c26d6?postId=90bc5996680a" data-media-id="691436a89755434430bb23ecd07c26d6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -289,7 +289,7 @@ The complete code:
 
 
 
-<iframe width="700" height="250" src="/media/3f5506fce834b21f5598b975810b4cb8?postId=90bc5996680a" data-media-id="3f5506fce834b21f5598b975810b4cb8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3f5506fce834b21f5598b975810b4cb8?postId=90bc5996680a" data-media-id="3f5506fce834b21f5598b975810b4cb8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -325,7 +325,7 @@ The next page is the **Outgoing Orders** page. It is similar to the **Orders Det
 
 
 
-<iframe width="700" height="250" src="/media/f9e32dc86021884d45cd3602a499f3f3?postId=90bc5996680a" data-media-id="f9e32dc86021884d45cd3602a499f3f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f9e32dc86021884d45cd3602a499f3f3?postId=90bc5996680a" data-media-id="f9e32dc86021884d45cd3602a499f3f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -387,7 +387,7 @@ Below is the complete code to create our pie chart:
 
 
 
-<iframe width="700" height="250" src="/media/256f00bfbfc8a0c30552a50181846203?postId=90bc5996680a" data-media-id="256f00bfbfc8a0c30552a50181846203" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/256f00bfbfc8a0c30552a50181846203?postId=90bc5996680a" data-media-id="256f00bfbfc8a0c30552a50181846203" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -403,7 +403,7 @@ We also give our chart a unique name, `PieChart`.
 
 
 
-<iframe width="700" height="250" src="/media/e8e7988442bb7365fcfc3583e7ac325c?postId=90bc5996680a" data-media-id="e8e7988442bb7365fcfc3583e7ac325c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e8e7988442bb7365fcfc3583e7ac325c?postId=90bc5996680a" data-media-id="e8e7988442bb7365fcfc3583e7ac325c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -415,7 +415,7 @@ Next, we give it a title. Nothing fancy here.
 
 
 
-<iframe width="700" height="250" src="/media/efb0db4a410fe3f0c638893522764811?postId=90bc5996680a" data-media-id="efb0db4a410fe3f0c638893522764811" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/efb0db4a410fe3f0c638893522764811?postId=90bc5996680a" data-media-id="efb0db4a410fe3f0c638893522764811" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -429,7 +429,7 @@ We can also set the `rendererOptions` property. We will not go into each option 
 
 
 
-<iframe width="700" height="250" src="/media/3c2aa2c42370e7bd36747487882dc530?postId=90bc5996680a" data-media-id="3c2aa2c42370e7bd36747487882dc530" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3c2aa2c42370e7bd36747487882dc530?postId=90bc5996680a" data-media-id="3c2aa2c42370e7bd36747487882dc530" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -441,7 +441,7 @@ We also want to show a legend. The set_legend command below shows the legend to 
 
 
 
-<iframe width="700" height="250" src="/media/746459dd5ad544c1a27006a8d58bff7e?postId=90bc5996680a" data-media-id="746459dd5ad544c1a27006a8d58bff7e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/746459dd5ad544c1a27006a8d58bff7e?postId=90bc5996680a" data-media-id="746459dd5ad544c1a27006a8d58bff7e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -453,7 +453,7 @@ We will also remove the border and the background.
 
 
 
-<iframe width="700" height="250" src="/media/8d32a266c91fcf0c8364ee06c298cc70?postId=90bc5996680a" data-media-id="8d32a266c91fcf0c8364ee06c298cc70" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8d32a266c91fcf0c8364ee06c298cc70?postId=90bc5996680a" data-media-id="8d32a266c91fcf0c8364ee06c298cc70" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -465,7 +465,7 @@ Finally, we draw our chart by giving it a height and width in pixels.
 
 
 
-<iframe width="700" height="250" src="/media/e9eefe5eb94294ed696af200e59c9583?postId=90bc5996680a" data-media-id="e9eefe5eb94294ed696af200e59c9583" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e9eefe5eb94294ed696af200e59c9583?postId=90bc5996680a" data-media-id="e9eefe5eb94294ed696af200e59c9583" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -493,7 +493,7 @@ The following is the Javascript event handler for `jqGridLoadComplete`.
 
 
 
-<iframe width="700" height="250" src="/media/9eb8f68829631a55e1ce65a9d292efe4?postId=90bc5996680a" data-media-id="9eb8f68829631a55e1ce65a9d292efe4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9eb8f68829631a55e1ce65a9d292efe4?postId=90bc5996680a" data-media-id="9eb8f68829631a55e1ce65a9d292efe4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -505,7 +505,7 @@ The complete code:
 
 
 
-<iframe width="700" height="250" src="/media/809597e8f2f5ec4e6561b513e64e72ed?postId=90bc5996680a" data-media-id="809597e8f2f5ec4e6561b513e64e72ed" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/809597e8f2f5ec4e6561b513e64e72ed?postId=90bc5996680a" data-media-id="809597e8f2f5ec4e6561b513e64e72ed" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F24869808%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
