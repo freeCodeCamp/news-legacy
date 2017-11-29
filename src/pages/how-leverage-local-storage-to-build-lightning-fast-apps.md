@@ -1,7 +1,7 @@
 ---
 author: Nikita Kozlov
 authorTwitter: https://twitter.com/Nikita_E_Kozlov
-authorFacebook: false
+authorFacebook: none
 title: "How to leverage Local Storage to build lightning-fast apps"
 subTitle: "Users love fast, responsive apps. They don’t want to hear about how API calls take time. They just want to see updates immediately. Right..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*f0xRT52dcYqbK3JN_6fMgA.jpeg

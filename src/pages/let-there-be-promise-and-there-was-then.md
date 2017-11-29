@@ -1,6 +1,6 @@
 ---
 author: Ivan Orlov
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1417011231658371
 title: "Make your life easier with JavaScript promises"
 subTitle: "If you’re not using Promises in your JavaScript yet, you should give them a try. Today I’ll walk you through situations where promises ar..."

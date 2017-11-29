@@ -1,7 +1,7 @@
 ---
 author: Sanchit Gera
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "RESTful Services Part I : HTTP in a Nutshell"
 subTitle: "The web has, from it’s inception, been structured around the idea of resources. In it’s early days, the web was merely a platform for sha..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vDDox7uxWAuRafuq0WpVOA.jpeg

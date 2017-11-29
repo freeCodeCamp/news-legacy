@@ -1,7 +1,7 @@
 ---
 author: Colm Tuite
 authorTwitter: https://twitter.com/colmtuite
-authorFacebook: false
+authorFacebook: none
 title: "How to construct a design system"
 subTitle: "Tips for designing and building a consistent design system."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9XuqeLVHBBLwog_AsU54DQ.png
@@ -229,7 +229,7 @@ Dave Rupert ran this Twitter poll recently asking where to put code that overrid
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/77bc110a12563046badfbef4812368f6?postId=864adbf2a117" data-media-id="77bc110a12563046badfbef4812368f6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F477460555981025280%2FJUGkf8zv_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/77bc110a12563046badfbef4812368f6?postId=864adbf2a117" data-media-id="77bc110a12563046badfbef4812368f6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F477460555981025280%2FJUGkf8zv_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

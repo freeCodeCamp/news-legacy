@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "2014 in Numbers: My Life Behind the Command Line"
 subTitle: "Resolution for 2015"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*1M15yhE46vnRN7J0COWHpQ.png

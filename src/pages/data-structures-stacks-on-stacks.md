@@ -1,7 +1,7 @@
 ---
 author: Michael Olorunnisola
 authorTwitter: https://twitter.com/MikeOlor
-authorFacebook: false
+authorFacebook: none
 title: "A Gentle Introduction to Data Structures: How Stacks Work"
 subTitle: "Anyone who’s applied for a developer job at a large tech company — and spent days practicing common algorithm interview questions — has p..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*3kenGRftkBau3t6MozALpw.jpeg

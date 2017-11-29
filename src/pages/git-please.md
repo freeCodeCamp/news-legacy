@@ -49,7 +49,7 @@ So what happens if a co-worker had changes committed to a branch that you havenâ
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/18e4009c38b443f7e54e0c30c97f40c6?postId=a182f28efeb5" data-media-id="18e4009c38b443f7e54e0c30c97f40c6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB093CwRCQAEwnD4.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/18e4009c38b443f7e54e0c30c97f40c6?postId=a182f28efeb5" data-media-id="18e4009c38b443f7e54e0c30c97f40c6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB093CwRCQAEwnD4.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,6 +1,6 @@
 ---
 author: Will Hughes
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10153726589728941
 title: "How to Level up as a Developer"
 subTitle: "Being a productive developer is something you can learn through experience, books, or trial and error. But, one of the best ways to becom..."

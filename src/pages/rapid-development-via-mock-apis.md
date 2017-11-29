@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "No API? No Problem! Rapid Development via Mock APIs"
 subTitle: "Create a realistic mock API with Node.js in three quick steps"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Subl5K29BEplXnabKvek-A.jpeg
@@ -73,7 +73,7 @@ Here’s an example schema for generating realistic, randomized user data. I sav
 
 
 
-<iframe width="700" height="250" src="/media/75264369735091a7426f65f2d00c2bf5?postId=e559087be066" data-media-id="75264369735091a7426f65f2d00c2bf5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/75264369735091a7426f65f2d00c2bf5?postId=e559087be066" data-media-id="75264369735091a7426f65f2d00c2bf5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -95,7 +95,7 @@ The script above is calling a Node script called generateMockData. Here’s what
 
 
 
-<iframe width="700" height="250" src="/media/885ec6c887017550548e75d8a8d5f1f5?postId=e559087be066" data-media-id="885ec6c887017550548e75d8a8d5f1f5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/885ec6c887017550548e75d8a8d5f1f5?postId=e559087be066" data-media-id="885ec6c887017550548e75d8a8d5f1f5" allowfullscreen="" frameborder="0"></iframe>
 
 
 

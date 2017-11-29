@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels on: Hardware, IoT &amp; Robotics"
 subTitle: "If you’re into some high-tech tinkering, maker culture & creativity — we have something for you on Gitter as well. Check out those commun..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*1mPYpxUgeRaF2R1MOpG2rA.png

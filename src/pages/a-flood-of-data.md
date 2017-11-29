@@ -58,7 +58,7 @@ We audited our codebase and found a lot of frequent, inefficient writes to our d
 
 
 
-<iframe width="700" height="250" src="/media/5941d54857b7b74aba58043a67a6e52a?postId=714f287d75a0" data-media-id="5941d54857b7b74aba58043a67a6e52a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5941d54857b7b74aba58043a67a6e52a?postId=714f287d75a0" data-media-id="5941d54857b7b74aba58043a67a6e52a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -81,7 +81,7 @@ This way, a camper could only have one solution for each challenge. This dramati
 
 
 
-<iframe width="700" height="250" src="/media/9a727819e410d9e1442c9208bb73dec0?postId=714f287d75a0" data-media-id="9a727819e410d9e1442c9208bb73dec0" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9a727819e410d9e1442c9208bb73dec0?postId=714f287d75a0" data-media-id="9a727819e410d9e1442c9208bb73dec0" allowfullscreen="" frameborder="0"></iframe>
 
 
 

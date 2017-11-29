@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/shared-element-transition-with-react-native
 id: shared-element-transition-with-react-native-159f8bc37f50
 date: 2017-08-14T14:45:29.656Z
 tags: [
-  "React Native",
-  "JavaScript",
-  "Design",
-  "Mobile App Development",
-  "UX"
+	"React Native",
+	"JavaScript",
+	"Design",
+	"Mobile App Development",
+	"UX"
 ]
 ---
 # Shared Element Transition with React Native
@@ -30,13 +30,10 @@ Lets take a look at what we’re going to build. Below is a photo grid example w
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*RG13Z-i12FOPYTpWjSGycw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*RG13Z-i12FOPYTpWjSGycw.gif)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*RG13Z-i12FOPYTpWjSGycw.gif"&gt;</noscript>
 
 
 
@@ -58,11 +55,8 @@ Before we build this, let me tell you how the system works under the hood. Since
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*emtIxiBO1XJu9smNVOvGtw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*emtIxiBO1XJu9smNVOvGtw.png"&gt;</noscript>
 
 
 
@@ -84,11 +78,8 @@ What I am doing is passing the information about the shared element — such
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*az95vUtDaEm2KvrWRN3y7w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*az95vUtDaEm2KvrWRN3y7w.png"&gt;</noscript>
 
 
 
@@ -118,11 +109,8 @@ I have two screens here: Grid and Details. From the Grid screen, we can launch t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*QDbAddlAi48ko-nSlvDM_g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*QDbAddlAi48ko-nSlvDM_g.png"&gt;</noscript>
 
 
 
@@ -144,11 +132,8 @@ When we go from Grid screen to Detail screen we have an opportunity to run two s
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*XCEKJiE3H9p-dI__KpFdxg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*XCEKJiE3H9p-dI__KpFdxg.png"&gt;</noscript>
 
 
 
@@ -168,11 +153,8 @@ Without any transition, this is how the app looks. Clicking on the individual im
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*LrAkXXBKXsb3l8SyHcwbKg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*LrAkXXBKXsb3l8SyHcwbKg.gif"&gt;</noscript>
 
 
 
@@ -190,11 +172,8 @@ Let’s add an exit transition to the first grid screen. Here we use a simple fa
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*2_VtVI16AfqSmJYj8DgsSg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*2_VtVI16AfqSmJYj8DgsSg.png"&gt;</noscript>
 
 
 
@@ -212,11 +191,8 @@ Now that we have done that, here’s how it looks:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_1bgl0JDdXkzZcZYxvo3Cw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_1bgl0JDdXkzZcZYxvo3Cw.gif"&gt;</noscript>
 
 
 
@@ -238,11 +214,8 @@ This is done by assigning an interpolated `Animated` value to the `translateY` p
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6IHPjl_tYKDpMT_bNaTCcw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*6IHPjl_tYKDpMT_bNaTCcw.png"&gt;</noscript>
 
 
 
@@ -260,11 +233,8 @@ And here’s how it looks:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9wAZoACxUArH_FH4C6T2og.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9wAZoACxUArH_FH4C6T2og.gif"&gt;</noscript>
 
 
 
@@ -288,11 +258,8 @@ This layer is triggered when the image in the grid is clicked. It receives infor
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*shY4DhIdKKZka2FjCEPjfw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*shY4DhIdKKZka2FjCEPjfw.png"&gt;</noscript>
 
 
 
@@ -322,11 +289,8 @@ This is a straightforward approach. If we want an element to change from one siz
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ahmLL3FcVPD9GSTGZRpaig.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*ahmLL3FcVPD9GSTGZRpaig.png"&gt;</noscript>
 
 
 
@@ -344,11 +308,8 @@ And here’s how it looks:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ayv6syecHc20d4SCmznZjA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Ayv6syecHc20d4SCmznZjA.gif"&gt;</noscript>
 
 
 
@@ -366,11 +327,8 @@ Here’s a breakdown of the steps for an animation and where it happens:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*NgLjvs4ClbyJiMQcvKxfew.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="20"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*NgLjvs4ClbyJiMQcvKxfew.png"&gt;</noscript>
 
 
 
@@ -412,11 +370,8 @@ We can get the start scale value with a line of JavaScript like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*73-p1inQgaEvZ0ejEmM_7w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*73-p1inQgaEvZ0ejEmM_7w.png"&gt;</noscript>
 
 
 
@@ -451,11 +406,8 @@ const destAspectRatio = destination.width / destination.height;</pre>
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cGCLiZck59cUpzia6IvV9Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*cGCLiZck59cUpzia6IvV9Q.png"&gt;</noscript>
 
 
 
@@ -485,11 +437,8 @@ Now that the scale is correct, we need to get the new position based on the dest
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*coS-v8RB08xYNMkShGipfw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*coS-v8RB08xYNMkShGipfw.png"&gt;</noscript>
 
 
 
@@ -526,11 +475,6 @@ With this found start scale and translate values we can animate using the `Anima
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*fYF1wBHs80AJsekFLfYCKg.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*fYF1wBHs80AJsekFLfYCKg.png"&gt;</noscript>
 
 
 
@@ -546,11 +490,10 @@ With this found start scale and translate values we can animate using the `Anima
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BdXrFs-DwsVGEquZ6NEjIQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*BdXrFs-DwsVGEquZ6NEjIQ.gif"&gt;</noscript>
+
+
 
 
 
@@ -574,11 +517,6 @@ Lets hide the source and destination image during the transition, so that it loo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*DPLf0tE7vASlEIbg7JjMPA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*DPLf0tE7vASlEIbg7JjMPA.png"&gt;</noscript>
 
 
 
@@ -590,11 +528,10 @@ Lets hide the source and destination image during the transition, so that it loo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*G5mENjSMB5JY49rhReHB8w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*G5mENjSMB5JY49rhReHB8w.png"&gt;</noscript>
+
+
 
 
 
@@ -612,11 +549,8 @@ Let now see the output.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*V1gustI5UTFOEVYjis8S2w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*V1gustI5UTFOEVYjis8S2w.gif"&gt;</noscript>
 
 
 
@@ -636,11 +570,6 @@ During transitioning into the detail screen using `Animated.timing()` we change 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*FPg3w8AIvBem6rCYTEcMUw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*FPg3w8AIvBem6rCYTEcMUw.png"&gt;</noscript>
 
 
 
@@ -656,11 +585,10 @@ During transitioning into the detail screen using `Animated.timing()` we change 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*M3FYo2kCWyRE7iJcqBSrtA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*M3FYo2kCWyRE7iJcqBSrtA.gif"&gt;</noscript>
+
+
 
 
 

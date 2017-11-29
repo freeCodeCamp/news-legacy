@@ -251,7 +251,7 @@ The path is the same whether you want to remain a small business or spread your 
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/df43adeedb251f4d575caa5c0c6214a2?postId=800232f391a1" data-media-id="df43adeedb251f4d575caa5c0c6214a2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/df43adeedb251f4d575caa5c0c6214a2?postId=800232f391a1" data-media-id="df43adeedb251f4d575caa5c0c6214a2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

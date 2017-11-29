@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Acknowledging the Tower of Babel"
 subTitle: "Note: this was originally published on our now-defunct blog in May 2015...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*cz8iT-yHCN8JZNiZ.png

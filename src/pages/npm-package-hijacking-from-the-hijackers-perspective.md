@@ -1,7 +1,7 @@
 ---
 author: Nathan Johnson
 authorTwitter: https://twitter.com/nm_johnson
-authorFacebook: false
+authorFacebook: none
 title: "npm Package Hijacking: From the Hijackers Perspective"
 subTitle: "In light of recent events in the javascript community, I would like to share the story of how I came into control of more than 200 heavil..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*DVki0FvyhmyFCkcPPuhMCw.png

@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "Leveling up in CSS"
 subTitle: "CSS seems easy at first. After all, it’s just styling, right?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*pctGU4jDyVlIT2GbiiQ3SQ.png

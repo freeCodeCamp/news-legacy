@@ -1,7 +1,7 @@
 ---
 author: Jose Marcial Portilla
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to become a Data Scientist"
 subTitle: "Hi! I’m Jose Portilla and I’m an instructor on Udemy with over 250,000 students enrolled across various courses on Python for Data Scienc..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*tf44H4SujSpZJjcCm4s2hA.jpeg
@@ -276,7 +276,7 @@ Many companies also do take home tasks, this can be a great opportunity to get s
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/6e170ab4618970e9d440086ed6a284b5?postId=2d829fa33aba" data-media-id="6e170ab4618970e9d440086ed6a284b5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/6e170ab4618970e9d440086ed6a284b5?postId=2d829fa33aba" data-media-id="6e170ab4618970e9d440086ed6a284b5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -60,7 +60,7 @@ How do you choose? Well, here’s my 11-minute answer to this question:
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/e7c571e751fa1bbbdee5ca203f03b7a9?postId=fc0f8f9e158b" data-media-id="e7c571e751fa1bbbdee5ca203f03b7a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVqiEhZYmvKk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/e7c571e751fa1bbbdee5ca203f03b7a9?postId=fc0f8f9e158b" data-media-id="e7c571e751fa1bbbdee5ca203f03b7a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVqiEhZYmvKk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

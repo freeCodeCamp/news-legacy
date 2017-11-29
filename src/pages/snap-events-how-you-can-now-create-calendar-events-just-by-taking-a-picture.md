@@ -1,7 +1,7 @@
 ---
 author: Arjun Krishna Babu
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Snap Event: How you can now create calendar events just by taking a picture"
 subTitle: "Google just published my first Android app, Snap Event, in their Play Store. Snap Event creates calendar events from photographs of the e..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*tKKgP6X-F2JtaXPhgBb_Cg.jpeg

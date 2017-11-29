@@ -1,7 +1,7 @@
 ---
 author: Marco Massenzio
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "From Scrum Master to VP of Engineering: why job titles matter"
 subTitle: "When negotiating a new job, many companies treat the issue of job title with a certain amount of glibness. They seem to be saying, “We ar..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*TnYW4NwpFUKBMPte_NCp_w.jpeg

@@ -1,6 +1,6 @@
 ---
 author: Yağız Gürgül
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1382951268403682
 title: "How I Recreated the Gorillaz Andromeda music video using WebGL"
 subTitle: "I was 14 years old when I first saw Gorillaz — Feel Good Inc music video. I fell in love with it saying “Whaatt? A cartoony music video? ..."
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/how-i-recreated-the-music-video-gorillazs-a
 id: how-i-recreated-the-music-video-gorillazs-andromeda-with-webgl-f9b0fe55fb17
 date: 2017-09-04T19:35:26.055Z
 tags: [
-  "JavaScript",
-  "Music",
-  "Tech",
-  "Design",
-  "Web Development"
+	"JavaScript",
+	"Music",
+	"Tech",
+	"Design",
+	"Web Development"
 ]
 ---
 # How I Recreated the Gorillaz Andromeda music video using WebGL
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9jbUlPQ5H5C49rpKI7NOhQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*9jbUlPQ5H5C49rpKI7NOhQ.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*9jbUlPQ5H5C49rpKI7NOhQ.png"&gt;</noscript>
 
 
 
@@ -60,11 +57,9 @@ That’s when I started to recreate Andromeda music video with WebGL. Feel free 
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9W44NWYwa1g%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<iframe data-width="854" data-height="480" width="980" height="551" data-src="/media/2cfa3ca83f393efa0bb3c41d2d741e04?postId=f9b0fe55fb17" data-media-id="2cfa3ca83f393efa0bb3c41d2d741e04" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9W44NWYwa1g%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" data-src="https://medium.freecodecamp.org/media/2cfa3ca83f393efa0bb3c41d2d741e04?postId=f9b0fe55fb17" data-media-id="2cfa3ca83f393efa0bb3c41d2d741e04" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9W44NWYwa1g%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="854" data-height="480" width="980" height="551" src="/media/2cfa3ca83f393efa0bb3c41d2d741e04?postId=f9b0fe55fb17" data-media-id="2cfa3ca83f393efa0bb3c41d2d741e04" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9W44NWYwa1g%2Fhqdefault.jpg&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -92,11 +87,8 @@ I was going to imitate a similar one. So I sketched the scene below with compone
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*oDEEsoBguL1JcBr3gF_e5Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="73"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*oDEEsoBguL1JcBr3gF_e5Q.png"&gt;</noscript>
 
 
 
@@ -122,11 +114,8 @@ It took some time, but I managed to find the perfect image. Which was totally wo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*p5-J7LfHecsnzdoYkXJyKA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*p5-J7LfHecsnzdoYkXJyKA.gif"&gt;</noscript>
 
 
 
@@ -146,11 +135,8 @@ It’s amazing what you can do with stock geometries in three.js. With [Octahedr
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3LvuOXIAblsJpq8iAGtgvw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3LvuOXIAblsJpq8iAGtgvw.gif"&gt;</noscript>
 
 
 
@@ -164,11 +150,8 @@ As I said before, this project has 500 meteors. Each one has a different movemen
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*M4NXejdznwpNd5KKC_AN5g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*M4NXejdznwpNd5KKC_AN5g.gif"&gt;</noscript>
 
 
 
@@ -201,11 +184,8 @@ When a 3D model is rendered, each pixel on this model needs to know which textur
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pWqB6m1TaqtWJdAIgvpuew.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="70"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*pWqB6m1TaqtWJdAIgvpuew.gif"&gt;</noscript>
 
 
 
@@ -219,11 +199,8 @@ In the video, Saturn also swings. To achieve this movement, I got help from a si
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*aodD5NHKnDyYE1JpWGC1uA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*aodD5NHKnDyYE1JpWGC1uA.gif"&gt;</noscript>
 
 
 
@@ -241,11 +218,8 @@ For the inner glow, I created simple black and white gradient texture. Then I ad
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nKxnVsPHR1feNKSzo3IjMw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nKxnVsPHR1feNKSzo3IjMw.gif"&gt;</noscript>
 
 
 
@@ -263,11 +237,8 @@ You can see the bigger glow in action. Don’t forget that it’s actually a pla
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jGZmX4KwtFk-QGgqhJvpNg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jGZmX4KwtFk-QGgqhJvpNg.gif"&gt;</noscript>
 
 
 
@@ -281,11 +252,8 @@ This is the smaller but brighter glow created with the same technique:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*q1UWZqzb0BN0KzzGc7OAag.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*q1UWZqzb0BN0KzzGc7OAag.gif"&gt;</noscript>
 
 
 
@@ -299,11 +267,8 @@ This is the final result of Saturn with all the glows enabled:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tXAtxUHYYM78lNmAMhhmEw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*tXAtxUHYYM78lNmAMhhmEw.gif"&gt;</noscript>
 
 
 
@@ -325,11 +290,8 @@ You can see the second explosion in action below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*FCPA5ZMBD1ZgrqkLWrdU3Q.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*FCPA5ZMBD1ZgrqkLWrdU3Q.gif"&gt;</noscript>
 
 
 
@@ -343,11 +305,8 @@ You can see the second explosion in action below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*007tX6vx8VO0yrChR-S_iQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*007tX6vx8VO0yrChR-S_iQ.gif"&gt;</noscript>
 
 
 

@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/face-centering-android-library-build-on-top
 id: face-centering-android-library-build-on-top-of-google-vision-api-f88661b97959
 date: 2016-07-20T11:15:42.277Z
 tags: [
-  "Android",
-  "Android App Development",
-  "Open Source",
-  "Technology",
-  "Design"
+	"Android",
+	"Android App Development",
+	"Open Source",
+	"Technology",
+	"Design"
 ]
 ---
 # Face centering Android library build on top of Google Vision API
@@ -22,13 +22,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9MTjfLoGfWIRXjlhMaTucw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*9MTjfLoGfWIRXjlhMaTucw.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9MTjfLoGfWIRXjlhMaTucw.png"&gt;</noscript>
 
 
 
@@ -82,11 +79,8 @@ Here are some results of it:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gi8Ls9bFi9xy_AUOBdpGZw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*gi8Ls9bFi9xy_AUOBdpGZw.jpeg"&gt;</noscript>
 
 
 
@@ -100,11 +94,8 @@ Original image to be cropped.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*1nSGrM0_zXDENBgzzvCyYA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*1nSGrM0_zXDENBgzzvCyYA.png"&gt;</noscript>
 
 
 
@@ -118,11 +109,8 @@ Results after cropping
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0nZsPIqrOd39gRiIGPNH0w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0nZsPIqrOd39gRiIGPNH0w.jpeg"&gt;</noscript>
 
 
 
@@ -136,11 +124,8 @@ Original image
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9MTjfLoGfWIRXjlhMaTucw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9MTjfLoGfWIRXjlhMaTucw.png"&gt;</noscript>
 
 
 
@@ -154,11 +139,8 @@ Results after cropping
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hLKmqcNN9g8gxhL0PpD9Dw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*hLKmqcNN9g8gxhL0PpD9Dw.jpeg"&gt;</noscript>
 
 
 
@@ -172,11 +154,8 @@ Original Image
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*x1rJCnaJTk3bX5az_i60Dg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*x1rJCnaJTk3bX5az_i60Dg.png"&gt;</noscript>
 
 
 
@@ -190,11 +169,8 @@ Results after cropping
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iknGPkWM4PQDBhlWn2UhUw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="49" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*iknGPkWM4PQDBhlWn2UhUw.jpeg"&gt;</noscript>
 
 
 
@@ -208,11 +184,8 @@ Original Image
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8btgf4Ma04OLPIFnFM-ubQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*8btgf4Ma04OLPIFnFM-ubQ.png"&gt;</noscript>
 
 
 

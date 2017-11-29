@@ -68,7 +68,7 @@ In this article, I’m going to explain three approaches. First with a FOR loop,
 
 
 
-<iframe width="700" height="250" src="/media/658ddc5ea646c3a5de346c7a7f10e254?postId=676a9175eb27" data-media-id="658ddc5ea646c3a5de346c7a7f10e254" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/658ddc5ea646c3a5de346c7a7f10e254?postId=676a9175eb27" data-media-id="658ddc5ea646c3a5de346c7a7f10e254" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -142,7 +142,7 @@ We will set the whole string to lower case for normalization purposes.
 
 
 
-<iframe width="700" height="250" src="/media/2b141f29adcf0fb64629c3a4ad0ad087?postId=676a9175eb27" data-media-id="2b141f29adcf0fb64629c3a4ad0ad087" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2b141f29adcf0fb64629c3a4ad0ad087?postId=676a9175eb27" data-media-id="2b141f29adcf0fb64629c3a4ad0ad087" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -154,7 +154,7 @@ We will set the whole string to lower case for normalization purposes.
 
 
 
-<iframe width="700" height="250" src="/media/1620f25ac40f3626ddf4ae4cfd7848b2?postId=676a9175eb27" data-media-id="1620f25ac40f3626ddf4ae4cfd7848b2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1620f25ac40f3626ddf4ae4cfd7848b2?postId=676a9175eb27" data-media-id="1620f25ac40f3626ddf4ae4cfd7848b2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -196,7 +196,7 @@ Instead of using a FOR loop, we will apply the map() method as the condition on 
 
 
 
-<iframe width="700" height="250" src="/media/1fa454a5c5a2af82e613266b03024013?postId=676a9175eb27" data-media-id="1fa454a5c5a2af82e613266b03024013" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1fa454a5c5a2af82e613266b03024013?postId=676a9175eb27" data-media-id="1fa454a5c5a2af82e613266b03024013" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -208,7 +208,7 @@ Instead of using a FOR loop, we will apply the map() method as the condition on 
 
 
 
-<iframe width="700" height="250" src="/media/de059d7c4ee6af313c63a9e333908cc5?postId=676a9175eb27" data-media-id="de059d7c4ee6af313c63a9e333908cc5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/de059d7c4ee6af313c63a9e333908cc5?postId=676a9175eb27" data-media-id="de059d7c4ee6af313c63a9e333908cc5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -248,7 +248,7 @@ We will lowercase and split the string as seen in the first example before apply
 
 
 
-<iframe width="700" height="250" src="/media/e3e4c6ae9a0c2b607a62569608096a95?postId=676a9175eb27" data-media-id="e3e4c6ae9a0c2b607a62569608096a95" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e3e4c6ae9a0c2b607a62569608096a95?postId=676a9175eb27" data-media-id="e3e4c6ae9a0c2b607a62569608096a95" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -260,7 +260,7 @@ We will lowercase and split the string as seen in the first example before apply
 
 
 
-<iframe width="700" height="250" src="/media/c528aefc2c2689dc927644af030c0c8e?postId=676a9175eb27" data-media-id="c528aefc2c2689dc927644af030c0c8e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c528aefc2c2689dc927644af030c0c8e?postId=676a9175eb27" data-media-id="c528aefc2c2689dc927644af030c0c8e" allowfullscreen="" frameborder="0"></iframe>
 
 
 

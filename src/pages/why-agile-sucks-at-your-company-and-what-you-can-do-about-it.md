@@ -1,7 +1,7 @@
 ---
 author: Bertil Muth
 authorTwitter: https://twitter.com/BertilMuth
-authorFacebook: false
+authorFacebook: none
 title: "Why Agile sucks at your company — and what you can do about it."
 subTitle: "Agile development has some serious issues in our industry. Especially in large corporations. I will describe a typical situation first, t..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*gRNnUZOrWC4fXTO0.jpg

@@ -113,7 +113,7 @@ Note that we have to run the webhook on Kubernetes master, in order for the API 
 
 
 
-<iframe width="700" height="250" src="/media/5b0cadd07b005ddb0c6d32146bb75831?postId=ad5567bf6fa8" data-media-id="5b0cadd07b005ddb0c6d32146bb75831" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1916493%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5b0cadd07b005ddb0c6d32146bb75831?postId=ad5567bf6fa8" data-media-id="5b0cadd07b005ddb0c6d32146bb75831" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1916493%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

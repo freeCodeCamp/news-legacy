@@ -1,7 +1,7 @@
 ---
 author: Drew Firment
 authorTwitter: https://twitter.com/drewfirment
-authorFacebook: false
+authorFacebook: none
 title: "How we brought an award-winning tech podcast to life on Alexa, and what we learned along the way"
 subTitle: "Podcasts are even better when controlled by a voice-first interface."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*RVhVxj_vPrV5qeH7WUrwcA.png

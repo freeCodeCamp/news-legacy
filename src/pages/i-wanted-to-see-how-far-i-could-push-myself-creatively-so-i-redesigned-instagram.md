@@ -1,6 +1,6 @@
 ---
 author: Kim Thuy Tu
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10208314498724551
 title: "I wanted to see how far I could push myself creatively. So I redesigned Instagram."
 subTitle: "The challenge: to take an application I love and use everyday, then see how far I could push myself creatively as a designer, by rebuildi..."
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/i-wanted-to-see-how-far-i-could-push-myself
 id: i-wanted-to-see-how-far-i-could-push-myself-creatively-so-i-redesigned-instagram-1ff99f28fa8b
 date: 2017-03-01T23:11:54.836Z
 tags: [
-  "UX",
-  "Design",
-  "Startup",
-  "Life Lessons",
-  "Social Media"
+	"UX",
+	"Design",
+	"Startup",
+	"Life Lessons",
+	"Social Media"
 ]
 ---
 # I wanted to see how far I could push myself creatively. So I redesigned Instagram.
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*S4LAkq31Zteq3EO33eScXA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*S4LAkq31Zteq3EO33eScXA.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*S4LAkq31Zteq3EO33eScXA.jpeg"&gt;</noscript>
 
 
 
@@ -64,11 +61,8 @@ _Side note: I do not work for Instagram, and the views from this case study are 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*fY1kLnuECGj_pfaRLGeVdg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*fY1kLnuECGj_pfaRLGeVdg.png"&gt;</noscript>
 
 
 
@@ -124,11 +118,6 @@ I conducted these interviews either in person or via a phone or video call.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GjjVqC8bvBXKN_sN3sZtTw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="53"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*GjjVqC8bvBXKN_sN3sZtTw.png"&gt;</noscript>
 
 
 
@@ -144,11 +133,10 @@ I conducted these interviews either in person or via a phone or video call.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*w92B4U5ioFl5Bq0Zlo-U0g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*w92B4U5ioFl5Bq0Zlo-U0g.png"&gt;</noscript>
+
+
 
 
 
@@ -191,11 +179,8 @@ I also asked what they liked about Instagram. Here were their top 3 reasons:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*CBQoquuHmXhDXsUyGBMa5w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="26"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*CBQoquuHmXhDXsUyGBMa5w.png"&gt;</noscript>
 
 
 
@@ -225,11 +210,8 @@ Now that you have a better understanding of who I was designing for, we can move
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*b3xODWYizef-lDWFsW3kRQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*b3xODWYizef-lDWFsW3kRQ.png"&gt;</noscript>
 
 
 
@@ -251,11 +233,8 @@ Aside from the repetitive functions within the home page, there were three major
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EvWRTNJsCMeVSuCoRgeH7g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*EvWRTNJsCMeVSuCoRgeH7g.png"&gt;</noscript>
 
 
 
@@ -280,11 +259,8 @@ _Side note: I decided to keep the minimal chromatic design Instagram implemented
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*1z15D-K7NKHGUkUTSp5YOg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="46" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*1z15D-K7NKHGUkUTSp5YOg.gif"&gt;</noscript>
 
 
 
@@ -298,11 +274,8 @@ _Side note: I decided to keep the minimal chromatic design Instagram implemented
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YAU0jfHM8Qy3AOLIZQSm_w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*YAU0jfHM8Qy3AOLIZQSm_w.png"&gt;</noscript>
 
 
 
@@ -367,11 +340,8 @@ One way to make the swipe gestures more intuitive might be to link it with the b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*E5eIeWQHixYSn8YG5Wgxhg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="49" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*E5eIeWQHixYSn8YG5Wgxhg.gif"&gt;</noscript>
 
 
 
@@ -391,11 +361,8 @@ To compromise with Instagram’s current algorithm and the user’s need for chr
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nMsZkZ1DGR97CB_xGcDjwA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="20"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nMsZkZ1DGR97CB_xGcDjwA.gif"&gt;</noscript>
 
 
 
@@ -413,11 +380,8 @@ For example, if the indicator is in the middle. You’ll know that this is not t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iSaLKjKjZJk7ls4dm6y23w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="20"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*iSaLKjKjZJk7ls4dm6y23w.png"&gt;</noscript>
 
 
 
@@ -441,11 +405,8 @@ Research suggests that the most accessible and least painful spot to place the n
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*98Swd5eL6ivuSZ9HPr64bA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="46" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*98Swd5eL6ivuSZ9HPr64bA.gif"&gt;</noscript>
 
 
 
@@ -469,11 +430,6 @@ In my case, I would probably turn on “#coffeefliicks” and “#dametravelers�
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ks_QrmrNFDiLA3Nk-7hn7w.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="51" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*Ks_QrmrNFDiLA3Nk-7hn7w.png"&gt;</noscript>
 
 
 
@@ -485,11 +441,10 @@ In my case, I would probably turn on “#coffeefliicks” and “#dametravelers�
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*spn3C1eZ_Hly2Eg_RstJ0w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="49" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*spn3C1eZ_Hly2Eg_RstJ0w.gif"&gt;</noscript>
+
+
 
 
 
@@ -519,11 +474,6 @@ You can easily remove or add people to your favs by clicking on the heart locate
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*G9-FDFFD-hX24GNA5K1NhA.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="51" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*G9-FDFFD-hX24GNA5K1NhA.gif"&gt;</noscript>
 
 
 
@@ -535,11 +485,10 @@ You can easily remove or add people to your favs by clicking on the heart locate
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vpL8Erg7hSWHaX2snOV5hA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="51" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*vpL8Erg7hSWHaX2snOV5hA.png"&gt;</noscript>
+
+
 
 
 
@@ -567,11 +516,6 @@ Ahhhh… the final stretch. For the notifications and profile page, I wanted to 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GjVd8Hrka9GEiwD8QlkwDw.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="51" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*GjVd8Hrka9GEiwD8QlkwDw.gif"&gt;</noscript>
 
 
 
@@ -583,11 +527,10 @@ Ahhhh… the final stretch. For the notifications and profile page, I wanted to 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pilFxF1GGYuohAmo0SbQBQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="51" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*pilFxF1GGYuohAmo0SbQBQ.png"&gt;</noscript>
+
+
 
 
 
@@ -621,11 +564,6 @@ To be honest, I love Instagram’s current design. To increase the minimalism, I
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nwu2TPgLGm4gB11eCwYATw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="51" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*nwu2TPgLGm4gB11eCwYATw.png"&gt;</noscript>
 
 
 
@@ -637,11 +575,10 @@ To be honest, I love Instagram’s current design. To increase the minimalism, I
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*MG2PE3OjaLOn47zuOXL6zA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="51" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*MG2PE3OjaLOn47zuOXL6zA.png"&gt;</noscript>
+
+
 
 
 

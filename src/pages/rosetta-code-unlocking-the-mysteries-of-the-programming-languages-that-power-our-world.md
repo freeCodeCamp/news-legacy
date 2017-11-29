@@ -1,7 +1,7 @@
 ---
 author: Peter Gleeson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Rosetta Code — unlocking the mysteries of the programming languages that power our world"
 subTitle: "It’s no secret that the tech world is dominated by a relatively small pool of programming languages. While exact figures are difficult to..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*oGjtK-TZgIukiWt4.jpg

@@ -1,7 +1,7 @@
 ---
 author: Evaristo Caraballo
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "The 10 GitHub repos new developers mention the most"
 subTitle: "The freeCodeCamp community generates gigabytes of data each week. One of the most active parts of the community is the chat room system. ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QUPbzsIyIs3QLx6LjGlgPw.jpeg

@@ -94,7 +94,7 @@ I could also use the GPIO pins to control relays that instruct motors to turn of
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/21e2b8ac6f44b91f0e6b506a30f144e3?postId=d4210cc29230" data-media-id="21e2b8ac6f44b91f0e6b506a30f144e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fg3wcF0_ms-0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/21e2b8ac6f44b91f0e6b506a30f144e3?postId=d4210cc29230" data-media-id="21e2b8ac6f44b91f0e6b506a30f144e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fg3wcF0_ms-0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

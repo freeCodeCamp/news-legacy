@@ -1,7 +1,7 @@
 ---
 author: Robb
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "I spent $110,000 on grad school, only to realize that the free online resources were actually better"
 subTitle: "When I got into a computer science master’s degree program, I felt ecstatic. Finally, my dreams were starting to come true. My days were ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*impJFz1EosX63llu9_HYyQ.jpeg

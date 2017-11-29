@@ -1,7 +1,7 @@
 ---
 author: Sophanarith Sok
 authorTwitter: https://twitter.com/NnjaRattleSnake
-authorFacebook: false
+authorFacebook: none
 title: "How I wasted two years of my life trying to learn web development before discovering Free Code Camp"
 subTitle: "It was two years ago. A time before Free Code Camp even existed. I googled “how to become a web developer,” and a long list of languages ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*qI4dVsz38EixPWPxqX--9Q.jpeg
@@ -80,7 +80,7 @@ Then I hit the JavaScript challenges. “Wow, all of this is just review of what
 
 
 
-<iframe data-width="435" data-height="244" width="435" height="244" src="/media/0656bc934a1939e72a003fa2b8d070d2?postId=916cbdcf8a1" data-media-id="0656bc934a1939e72a003fa2b8d070d2" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="244" width="435" height="244" src="https://medium.freecodecamp.org/media/0656bc934a1939e72a003fa2b8d070d2?postId=916cbdcf8a1" data-media-id="0656bc934a1939e72a003fa2b8d070d2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -108,7 +108,7 @@ I _knew_ I was going to defeat each boss and become a better coder. What I didn�
 
 
 
-<iframe data-width="435" data-height="244" width="435" height="244" src="/media/a895d171988e0e6767d58c88a01b6e26?postId=916cbdcf8a1" data-media-id="a895d171988e0e6767d58c88a01b6e26" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="244" width="435" height="244" src="https://medium.freecodecamp.org/media/a895d171988e0e6767d58c88a01b6e26?postId=916cbdcf8a1" data-media-id="a895d171988e0e6767d58c88a01b6e26" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -122,7 +122,7 @@ At this point, I had put in about 1,000 hours of work into FreeCodeCamp. My comp
 
 
 
-<iframe data-width="435" data-height="290" width="435" height="290" src="/media/151a3f63615594512122e5877a71a2ea?postId=916cbdcf8a1" data-media-id="151a3f63615594512122e5877a71a2ea" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="290" width="435" height="290" src="https://medium.freecodecamp.org/media/151a3f63615594512122e5877a71a2ea?postId=916cbdcf8a1" data-media-id="151a3f63615594512122e5877a71a2ea" allowfullscreen="" frameborder="0"></iframe>
 
 
 

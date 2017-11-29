@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "Every single Machine Learning course on the internet, ranked by your reviews"
 subTitle: "A year and a half ago, I dropped out of one of the best computer science programs in Canada. I started creating my own data science maste..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vBLkfW8S-ZqHb8TmNEW1XA.jpeg
@@ -170,7 +170,7 @@ A few prominent reviewers noted the following:
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/cb240c78882b7e35705866326891eba4?postId=3c4a7b8026c0" data-media-id="cb240c78882b7e35705866326891eba4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe0WKJLovaZg%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/cb240c78882b7e35705866326891eba4?postId=3c4a7b8026c0" data-media-id="cb240c78882b7e35705866326891eba4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe0WKJLovaZg%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -206,7 +206,7 @@ Below are a few of the aforementioned sparkling [reviews](https://www.coursetalk
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c82ab9f33c13562d81655f3145a66713?postId=3c4a7b8026c0" data-media-id="c82ab9f33c13562d81655f3145a66713" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmANw77caYSI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c82ab9f33c13562d81655f3145a66713?postId=3c4a7b8026c0" data-media-id="c82ab9f33c13562d81655f3145a66713" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmANw77caYSI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -244,7 +244,7 @@ A few prominent reviewers [noted](https://www.udemy.com/machinelearning/#reviews
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/5e06f8cf2bc4800747de0b0ab261e36e?postId=3c4a7b8026c0" data-media-id="5e06f8cf2bc4800747de0b0ab261e36e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJbuYJTbmYEk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/5e06f8cf2bc4800747de0b0ab261e36e?postId=3c4a7b8026c0" data-media-id="5e06f8cf2bc4800747de0b0ab261e36e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJbuYJTbmYEk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -266,7 +266,7 @@ Our #1 pick had a weighted average rating of 4.7 out of 5 stars over 422 reviews
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/a275d9d090c437785cb0e55d78dbd9b0?postId=3c4a7b8026c0" data-media-id="a275d9d090c437785cb0e55d78dbd9b0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1BMSOBCe07k%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/a275d9d090c437785cb0e55d78dbd9b0?postId=3c4a7b8026c0" data-media-id="a275d9d090c437785cb0e55d78dbd9b0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1BMSOBCe07k%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -304,7 +304,7 @@ The promo video for the fantastic MIT course on edx, [The Analytics Edge](https:
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/3496a5196cf93d84ac04084c821bb6f5?postId=3c4a7b8026c0" data-media-id="3496a5196cf93d84ac04084c821bb6f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKlP0DpiM7Lw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/3496a5196cf93d84ac04084c821bb6f5?postId=3c4a7b8026c0" data-media-id="3496a5196cf93d84ac04084c821bb6f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKlP0DpiM7Lw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -362,7 +362,7 @@ The University of Washington teaches the [Machine Learning Specialization](https
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/3213f73051d4202d8597248c16ed78f3?postId=3c4a7b8026c0" data-media-id="3213f73051d4202d8597248c16ed78f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlL16AQItG1g%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/3213f73051d4202d8597248c16ed78f3?postId=3c4a7b8026c0" data-media-id="3213f73051d4202d8597248c16ed78f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlL16AQItG1g%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -402,7 +402,7 @@ The following courses had one or no reviews as of May 2017.
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/2490a39577bf22b769c6c3a372d1e7f8?postId=3c4a7b8026c0" data-media-id="2490a39577bf22b769c6c3a372d1e7f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpSnRmBt0pXI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/2490a39577bf22b769c6c3a372d1e7f8?postId=3c4a7b8026c0" data-media-id="2490a39577bf22b769c6c3a372d1e7f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpSnRmBt0pXI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

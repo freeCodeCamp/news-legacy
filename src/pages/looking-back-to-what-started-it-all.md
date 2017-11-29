@@ -85,7 +85,7 @@ This is how a typical if-block in a Java-ish programming language would be read 
 
 
 
-<iframe data-width="500" data-height="166" width="500" height="166" src="/media/a66efa5b75f6b3f03efe3492f77da331?postId=731ef5424aec" data-media-id="a66efa5b75f6b3f03efe3492f77da331" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="166" width="500" height="166" src="https://medium.freecodecamp.org/media/a66efa5b75f6b3f03efe3492f77da331?postId=731ef5424aec" data-media-id="a66efa5b75f6b3f03efe3492f77da331" allowfullscreen="" frameborder="0"></iframe>
 
 
 

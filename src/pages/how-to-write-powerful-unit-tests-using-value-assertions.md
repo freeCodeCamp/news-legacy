@@ -1,7 +1,7 @@
 ---
 author: Edd Yerburgh
 authorTwitter: https://twitter.com/EddYerburgh
-authorFacebook: false
+authorFacebook: none
 title: "How to write more powerful unit tests by using value assertions"
 subTitle: "Unit tests are awesome. Writing unit tests reduces bugs by 40–80%...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*kmxDhQcCfG3cuel6qBz2Iw.jpeg
@@ -130,7 +130,7 @@ What’s gone wrong?
 
 
 
-<iframe data-width="435" data-height="244" width="435" height="244" src="/media/7b14192947565707fccb782be84059ee?postId=3de5146c0088" data-media-id="7b14192947565707fccb782be84059ee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FPBg4KWciMK6zu%2Fgiphy.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="244" width="435" height="244" src="https://medium.freecodecamp.org/media/7b14192947565707fccb782be84059ee?postId=3de5146c0088" data-media-id="7b14192947565707fccb782be84059ee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FPBg4KWciMK6zu%2Fgiphy.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

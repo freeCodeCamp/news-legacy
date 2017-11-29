@@ -46,7 +46,7 @@ Here’s a demonstration of the exploit (90 second video):
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/cc2b47d1d6a8724f650b033f17927aef?postId=79c07772a28" data-media-id="cc2b47d1d6a8724f650b033f17927aef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fi4YQRLQVixM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/cc2b47d1d6a8724f650b033f17927aef?postId=79c07772a28" data-media-id="cc2b47d1d6a8724f650b033f17927aef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fi4YQRLQVixM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ Here’s a great scene from the 2007 movie The Bourne Ultimatum where Matt Damon
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/b571b864c8487c3521e6a1491b33df54?postId=79c07772a28" data-media-id="b571b864c8487c3521e6a1491b33df54" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJRLNdcmRcFY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/b571b864c8487c3521e6a1491b33df54?postId=79c07772a28" data-media-id="b571b864c8487c3521e6a1491b33df54" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJRLNdcmRcFY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ Here’s the full Face ID demo, if you’re curious how it works:
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/72da859072e3b50511fc84a8c86f9108?postId=79c07772a28" data-media-id="72da859072e3b50511fc84a8c86f9108" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnjhlO2HSNz0%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/72da859072e3b50511fc84a8c86f9108?postId=79c07772a28" data-media-id="72da859072e3b50511fc84a8c86f9108" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnjhlO2HSNz0%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ Well, here are some security researchers who broke through the Samsung Galaxy 8 
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/06215c0a8bf91636b8ab84b15fe4b912?postId=79c07772a28" data-media-id="06215c0a8bf91636b8ab84b15fe4b912" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4VrqufsHpS4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/06215c0a8bf91636b8ab84b15fe4b912?postId=79c07772a28" data-media-id="06215c0a8bf91636b8ab84b15fe4b912" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4VrqufsHpS4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

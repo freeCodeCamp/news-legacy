@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "An introduction to how JavaScript package managers work"
 subTitle: "A few days ago, ashley williams, one of the leaders of the Node.js community, tweeted this:..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*t_kMxpLVVL3_hgcDM6cgeQ.gif
@@ -30,7 +30,7 @@ A few days ago, [ashley williams](https://medium.com/@ag_dubs), one of the leade
 
 
 
-<iframe width="500" height="250" src="/media/3947d55c7951d0d24fcd406896a9316e?postId=9afd926add0a" data-media-id="3947d55c7951d0d24fcd406896a9316e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F780923037302525952%2FwJrKt9yw_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/3947d55c7951d0d24fcd406896a9316e?postId=9afd926add0a" data-media-id="3947d55c7951d0d24fcd406896a9316e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F780923037302525952%2FwJrKt9yw_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

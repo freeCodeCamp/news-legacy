@@ -42,7 +42,7 @@ If you prefer to learn by video instead of text, here’s the video format:
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/5641cfc4237fc00bc472a90d55c534c0?postId=2f8bf7df5077" data-media-id="5641cfc4237fc00bc472a90d55c534c0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdB1KA-yz65s%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/5641cfc4237fc00bc472a90d55c534c0?postId=2f8bf7df5077" data-media-id="5641cfc4237fc00bc472a90d55c534c0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdB1KA-yz65s%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

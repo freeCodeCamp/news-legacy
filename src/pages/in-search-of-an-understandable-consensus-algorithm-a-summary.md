@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "Understanding the Raft consensus algorithm: an academic article summary"
 subTitle: "This post summarizes the Raft consensus algorithm presented in the paper In Search of An Understandable Consensus Algorithm by Diego Onga..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*U14WseYPLL8tHj0V.png

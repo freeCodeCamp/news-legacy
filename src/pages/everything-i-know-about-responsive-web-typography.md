@@ -1,7 +1,7 @@
 ---
 author: Zell Liew
 authorTwitter: https://twitter.com/zellwk
-authorFacebook: false
+authorFacebook: none
 title: "Everything I know about web responsive typography"
 subTitle: "Responsive typography is a tough nut to crack. This was the best method I could come up with when I first started creating responsive web..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*y46Tvi_apZUxaZnxQzQ_sg.jpeg
@@ -441,7 +441,7 @@ body, h1, p {
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/642701e812f5f25bb7e0b79194037135?postId=c774c2138f5c" data-media-id="642701e812f5f25bb7e0b79194037135" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/642701e812f5f25bb7e0b79194037135?postId=c774c2138f5c" data-media-id="642701e812f5f25bb7e0b79194037135" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -484,7 +484,7 @@ Now, here’s the kicker. Even though we tried to be as accurate as we can be, b
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/0219c1f9b285ac6c89aaf6dee517fbbf?postId=c774c2138f5c" data-media-id="0219c1f9b285ac6c89aaf6dee517fbbf" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/0219c1f9b285ac6c89aaf6dee517fbbf?postId=c774c2138f5c" data-media-id="0219c1f9b285ac6c89aaf6dee517fbbf" allowfullscreen="" frameborder="0"></iframe>
 
 
 

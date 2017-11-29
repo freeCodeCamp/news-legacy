@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/live-asynchronously-c8e7172fe7ea
 id: live-asynchronously-c8e7172fe7ea
 date: 2016-09-07T18:50:55.053Z
 tags: [
-  "Productivity",
-  "Startup",
-  "Programming",
-  "Tech",
-  "Life Lessons"
+	"Productivity",
+	"Startup",
+	"Programming",
+	"Tech",
+	"Life Lessons"
 ]
 ---
 # Live asynchronously.
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7n2ErCRJKj7UOlV4_qljEw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*7n2ErCRJKj7UOlV4_qljEw.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*7n2ErCRJKj7UOlV4_qljEw.jpeg"&gt;</noscript>
 
 
 
@@ -62,11 +59,8 @@ You can live more asynchronously, too. I’ll explain the benefits. I’ll show 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pRuv9XMJZVV3NW8Ugtux_w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*pRuv9XMJZVV3NW8Ugtux_w.gif"&gt;</noscript>
 
 
 
@@ -88,11 +82,8 @@ But first, a web comic:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*B0O42TQ1GtbJwgRv-NaZYg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="19" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*B0O42TQ1GtbJwgRv-NaZYg.png"&gt;</noscript>
 
 
 
@@ -110,11 +101,8 @@ So why do 70% of offices these days look like this?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*FBduWf66skFbVEC0_OCbuQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*FBduWf66skFbVEC0_OCbuQ.jpeg"&gt;</noscript>
 
 
 
@@ -130,11 +118,8 @@ Employers have chosen to sacrifice job satisfaction and productivity, all so the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GbWhc19bZD7RLcMDttmG8g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="73" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*GbWhc19bZD7RLcMDttmG8g.gif"&gt;</noscript>
 
 
 
@@ -152,11 +137,8 @@ Because here’s what happens when you need to get some real work done in an ope
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VQH4p2a_9pve53FnydtYCA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="64" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*VQH4p2a_9pve53FnydtYCA.png"&gt;</noscript>
 
 
 
@@ -190,11 +172,8 @@ Their pupils dilate.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*E6AT4-PED2KTZo8vvjmo6w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*E6AT4-PED2KTZo8vvjmo6w.png"&gt;</noscript>
 
 
 
@@ -224,7 +203,7 @@ Mihaly spends the next 30 years researching flow states. He publishes a ton of p
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/9d2afcee2cb91a118a4ec424fd06ea12?postId=c8e7172fe7ea" data-media-id="9d2afcee2cb91a118a4ec424fd06ea12" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/9d2afcee2cb91a118a4ec424fd06ea12?postId=c8e7172fe7ea" data-media-id="9d2afcee2cb91a118a4ec424fd06ea12" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -257,11 +236,8 @@ Do you think Torvalds could have [designed the Linux Kernel](https://medium.free
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*DxZ0UQi0eJdoIlvY25hazQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*DxZ0UQi0eJdoIlvY25hazQ.jpeg"&gt;</noscript>
 
 
 
@@ -285,11 +261,8 @@ So I’ll introduce these in increasing order of commitment required. One Dalí 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ufgY4WP1Ll6DULQE3W3plA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ufgY4WP1Ll6DULQE3W3plA.jpeg"&gt;</noscript>
 
 
 
@@ -307,7 +280,7 @@ Do you really need to be notified right this instant that a new podcast will be 
 
 
 
-<iframe width="500" height="250" src="/media/5550df60cb2b2a733543876edad36c07?postId=c8e7172fe7ea" data-media-id="5550df60cb2b2a733543876edad36c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/5550df60cb2b2a733543876edad36c07?postId=c8e7172fe7ea" data-media-id="5550df60cb2b2a733543876edad36c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -333,7 +306,7 @@ By the way, just for fun, here’s the extreme opposite of no notifications:
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/b3bccd111560dd1b594b03aec93f66d8?postId=c8e7172fe7ea" data-media-id="b3bccd111560dd1b594b03aec93f66d8" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/b3bccd111560dd1b594b03aec93f66d8?postId=c8e7172fe7ea" data-media-id="b3bccd111560dd1b594b03aec93f66d8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -345,11 +318,8 @@ By the way, just for fun, here’s the extreme opposite of no notifications:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*d83VvqooiGf5EoVTo45X9Q.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*d83VvqooiGf5EoVTo45X9Q.jpeg"&gt;</noscript>
 
 
 
@@ -391,11 +361,8 @@ Your time is your most valuable asset. Be protective of it. Don’t let others t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nRX5pfjJAzHqEZsljxGhPA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nRX5pfjJAzHqEZsljxGhPA.jpeg"&gt;</noscript>
 
 
 
@@ -431,11 +398,8 @@ Oh, and if you liked this, click the 💚 below. Follow me for more articles on 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*31StU5CNIHk8VDkSHWO6nA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*31StU5CNIHk8VDkSHWO6nA.gif"&gt;</noscript>
 
 
 

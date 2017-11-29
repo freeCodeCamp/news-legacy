@@ -1,7 +1,7 @@
 ---
 author: Adrian Kosmaczewski
 authorTwitter: https://twitter.com/akosma
-authorFacebook: false
+authorFacebook: none
 title: "Being A Developer After 40"
 subTitle: "This is the talk I have given at App Builders Switzerland on April 25th, 2016."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*5MAOZGVoT9nGVTpLetW22w.png
@@ -176,7 +176,7 @@ Apply the same recipe to any language or CPU architecture that you enjoy or love
 
 
 
-<iframe width="500" height="250" src="/media/058126b324831c4689fb3e1de55bdc0d?postId=3c5dd112210c" data-media-id="058126b324831c4689fb3e1de55bdc0d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/058126b324831c4689fb3e1de55bdc0d?postId=3c5dd112210c" data-media-id="058126b324831c4689fb3e1de55bdc0d" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -199,7 +199,7 @@ You will also learn to value those things that stood the test of time: [Lisp](ht
 
 
 
-<iframe width="500" height="250" src="/media/aff1775898b445f58e3373e282aa9d1f?postId=3c5dd112210c" data-media-id="aff1775898b445f58e3373e282aa9d1f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/aff1775898b445f58e3373e282aa9d1f?postId=3c5dd112210c" data-media-id="aff1775898b445f58e3373e282aa9d1f" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -241,7 +241,7 @@ Of course, please know that as you will grow old, the number of things that qual
 
 
 
-<iframe width="500" height="250" src="/media/047ea547087fc0b19461c7ee5b5b84de?postId=3c5dd112210c" data-media-id="047ea547087fc0b19461c7ee5b5b84de" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/047ea547087fc0b19461c7ee5b5b84de?postId=3c5dd112210c" data-media-id="047ea547087fc0b19461c7ee5b5b84de" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -265,7 +265,7 @@ I cannot claim that I changed the world, but I might have nudged it a little bit
 
 
 
-<iframe width="500" height="250" src="/media/40f091993ec458276aac241ab891033b?postId=3c5dd112210c" data-media-id="40f091993ec458276aac241ab891033b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/40f091993ec458276aac241ab891033b?postId=3c5dd112210c" data-media-id="40f091993ec458276aac241ab891033b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -301,7 +301,7 @@ Or, better yet, become independent.
 
 
 
-<iframe width="500" height="250" src="/media/810235d1f613e829f51ae8175ae49666?postId=3c5dd112210c" data-media-id="810235d1f613e829f51ae8175ae49666" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/810235d1f613e829f51ae8175ae49666?postId=3c5dd112210c" data-media-id="810235d1f613e829f51ae8175ae49666" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -319,7 +319,7 @@ Keep moving; be like the shark that keeps on swimming, because your skills are e
 
 
 
-<iframe width="500" height="250" src="/media/04b8144fe6c03c4b7c6535d76ecf42e2?postId=3c5dd112210c" data-media-id="04b8144fe6c03c4b7c6535d76ecf42e2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/04b8144fe6c03c4b7c6535d76ecf42e2?postId=3c5dd112210c" data-media-id="04b8144fe6c03c4b7c6535d76ecf42e2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -345,7 +345,7 @@ Do not critisize or make fun of the technology choices of your peers; for other 
 
 
 
-<iframe width="500" height="250" src="/media/0228903ef1fa9f9c0c0aed59d87c9b4e?postId=3c5dd112210c" data-media-id="0228903ef1fa9f9c0c0aed59d87c9b4e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/0228903ef1fa9f9c0c0aed59d87c9b4e?postId=3c5dd112210c" data-media-id="0228903ef1fa9f9c0c0aed59d87c9b4e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -365,7 +365,7 @@ Learn all you can about LLVM. This is the galaxy where true innovation is happen
 
 
 
-<iframe width="500" height="250" src="/media/4bd03b3a11a8c192a9ec1373a8e1b13c?postId=3c5dd112210c" data-media-id="4bd03b3a11a8c192a9ec1373a8e1b13c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/4bd03b3a11a8c192a9ec1373a8e1b13c?postId=3c5dd112210c" data-media-id="4bd03b3a11a8c192a9ec1373a8e1b13c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -383,7 +383,7 @@ Follow your gut. You might be lucky, too.
 
 
 
-<iframe width="500" height="250" src="/media/a1e5535dbf5cb5f7922c1052ac4321fa?postId=3c5dd112210c" data-media-id="a1e5535dbf5cb5f7922c1052ac4321fa" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/a1e5535dbf5cb5f7922c1052ac4321fa?postId=3c5dd112210c" data-media-id="a1e5535dbf5cb5f7922c1052ac4321fa" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -419,7 +419,7 @@ Refactoring, unit tests, code reviews, pull requests, all of these tools are at 
 
 
 
-<iframe width="500" height="250" src="/media/f2952193932de98a7dfcf617a6bac8ad?postId=3c5dd112210c" data-media-id="f2952193932de98a7dfcf617a6bac8ad" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/f2952193932de98a7dfcf617a6bac8ad?postId=3c5dd112210c" data-media-id="f2952193932de98a7dfcf617a6bac8ad" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -459,7 +459,7 @@ Thank you so much for your attention.
 
 
 
-<iframe data-width="710" data-height="463" width="700" height="456" src="/media/60831b11718d245875c3ae1e2ba93f39?postId=3c5dd112210c" data-media-id="60831b11718d245875c3ae1e2ba93f39" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="710" data-height="463" width="700" height="456" src="https://medium.freecodecamp.org/media/60831b11718d245875c3ae1e2ba93f39?postId=3c5dd112210c" data-media-id="60831b11718d245875c3ae1e2ba93f39" allowfullscreen="" frameborder="0"></iframe>
 
 
 

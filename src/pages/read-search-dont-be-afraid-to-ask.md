@@ -1,7 +1,7 @@
 ---
 author: Beth Qiang
 authorTwitter: https://twitter.com/BethQiang
-authorFacebook: false
+authorFacebook: none
 title: "Read, Search, (Don’t Be Afraid to) Ask"
 subTitle: "Coding is a journey into ambiguity...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*WHsS88_D5RYVlYc5VUvNbQ.jpeg

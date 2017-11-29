@@ -1,7 +1,7 @@
 ---
 author: Evaristo Caraballo
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "One year in the Free Code Camp Data Science Room"
 subTitle: "I joined Free Code Camp’s community 18 months ago as a data scientist who was curious about web development. I quickly discovered that no..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ef3sgKjwAFm2tAnfgL7_hg.jpeg
@@ -79,7 +79,7 @@ Between all the Free Code Camp chat rooms, the main one ([FreeCodeCamp/FreeCodeC
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/55677914568923dd65ea6eb771b12457?postId=c97eb905af1f" data-media-id="55677914568923dd65ea6eb771b12457" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/55677914568923dd65ea6eb771b12457?postId=c97eb905af1f" data-media-id="55677914568923dd65ea6eb771b12457" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -95,7 +95,7 @@ Since Free Code Camp is a volunteer-driven open source community, a big part of 
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/7cb26d21d0cb11b7470e6a1afa34484c?postId=c97eb905af1f" data-media-id="7cb26d21d0cb11b7470e6a1afa34484c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/7cb26d21d0cb11b7470e6a1afa34484c?postId=c97eb905af1f" data-media-id="7cb26d21d0cb11b7470e6a1afa34484c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -123,7 +123,7 @@ Campers also meet in-person through Free Code Camp’s 1,500+ local [**study gro
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/87fc683b05bff32acf484f29b963c9e2?postId=c97eb905af1f" data-media-id="87fc683b05bff32acf484f29b963c9e2" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/87fc683b05bff32acf484f29b963c9e2?postId=c97eb905af1f" data-media-id="87fc683b05bff32acf484f29b963c9e2" allowfullscreen="" frameborder="0"></iframe>
 
 
 

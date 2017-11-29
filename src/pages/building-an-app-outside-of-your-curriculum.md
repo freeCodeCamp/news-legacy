@@ -1,7 +1,7 @@
 ---
 author: Elliott McNary
 authorTwitter: https://twitter.com/ElliottMcNary
-authorFacebook: false
+authorFacebook: none
 title: "Building my Extra-curricular Music App"
 subTitle: "I’ve been quite absent on Free Code Camp since my last post, which outlined my first month going through the program. What went wrong? Ab..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*QCToWDbOcz14Ga7KnYHVHw.jpeg

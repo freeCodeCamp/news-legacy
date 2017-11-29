@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/10-takeaways-from-22-data-visualization-pra
 id: 10-takeaways-from-22-data-visualization-practitioners-at-openvisconf-a4a3a5b96fcd
 date: 2016-05-01T20:44:16.436Z
 tags: [
-  "Data Visualization",
-  "Data Science",
-  "Data",
-  "Design",
-  "Women In Tech"
+	"Data Visualization",
+	"Data Science",
+	"Data",
+	"Design",
+	"Women In Tech"
 ]
 ---
 # 10 Takeaways from 22 Data Visualization Practitioners at #OpenVisConf
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*69AxS6dkqsOc0ycRORlRoA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*69AxS6dkqsOc0ycRORlRoA.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*69AxS6dkqsOc0ycRORlRoA.jpeg"&gt;</noscript>
 
 
 
@@ -64,11 +61,6 @@ Tony advocates using techniques like animation and pacing (think [scrollytelling
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Tv5_eWfGqkHSOClKrJjmxA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*Tv5_eWfGqkHSOClKrJjmxA.png"&gt;</noscript>
 
 
 
@@ -80,11 +72,10 @@ Tony advocates using techniques like animation and pacing (think [scrollytelling
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4AnzSrEWojQ_qT4ulEE4nw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*4AnzSrEWojQ_qT4ulEE4nw.png"&gt;</noscript>
+
+
 
 
 
@@ -116,11 +107,6 @@ Every speaker probed the realms of creativity in their mesmerizing visuals and a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*I7zeBT76W1Qgy9iYtKRPLw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="58"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*I7zeBT76W1Qgy9iYtKRPLw.png"&gt;</noscript>
 
 
 
@@ -132,11 +118,10 @@ Every speaker probed the realms of creativity in their mesmerizing visuals and a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-o_GLc-amAi9vtOMPp2EMw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="58"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*-o_GLc-amAi9vtOMPp2EMw.png"&gt;</noscript>
+
+
 
 
 
@@ -154,11 +139,6 @@ Every speaker probed the realms of creativity in their mesmerizing visuals and a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ph5ttYRP3Hs80JjazCn10Q.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="61"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*Ph5ttYRP3Hs80JjazCn10Q.png"&gt;</noscript>
 
 
 
@@ -170,11 +150,10 @@ Every speaker probed the realms of creativity in their mesmerizing visuals and a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*FNWMpCWQMOetFtRtFJq8uw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*FNWMpCWQMOetFtRtFJq8uw.png"&gt;</noscript>
+
+
 
 
 
@@ -198,11 +177,8 @@ And [Nadieh Bremer](https://medium.com/@nbremer) meticulously decoded SVG proper
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*uhV8oWELVBrf6EoX3IQwUg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="65" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*uhV8oWELVBrf6EoX3IQwUg.png"&gt;</noscript>
 
 
 
@@ -214,11 +190,8 @@ And [Nadieh Bremer](https://medium.com/@nbremer) meticulously decoded SVG proper
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*fBE-Vz_NM2oOnfXuNYKceA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="65" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*fBE-Vz_NM2oOnfXuNYKceA.png"&gt;</noscript>
 
 
 
@@ -230,11 +203,8 @@ And [Nadieh Bremer](https://medium.com/@nbremer) meticulously decoded SVG proper
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*MqFPzAgjFjgYvko-sV7_AQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="65" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*MqFPzAgjFjgYvko-sV7_AQ.png"&gt;</noscript>
 
 
 
@@ -250,11 +220,8 @@ And [Nadieh Bremer](https://medium.com/@nbremer) meticulously decoded SVG proper
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-17XoxUtQg-xwddSiweF5g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="65" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*-17XoxUtQg-xwddSiweF5g.png"&gt;</noscript>
 
 
 
@@ -266,11 +233,8 @@ And [Nadieh Bremer](https://medium.com/@nbremer) meticulously decoded SVG proper
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*aCEdvUzzqNqKvO0aztRJxA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="65" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*aCEdvUzzqNqKvO0aztRJxA.png"&gt;</noscript>
 
 
 
@@ -282,11 +246,8 @@ And [Nadieh Bremer](https://medium.com/@nbremer) meticulously decoded SVG proper
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GNESihCDvzFMjEjmnoBjQA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="66" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*GNESihCDvzFMjEjmnoBjQA.gif"&gt;</noscript>
 
 
 
@@ -316,11 +277,6 @@ We also witnessed robots produce physical data visualizations and data art durin
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Iyc2V7Zkikmh7R_CPHoKbQ.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*Iyc2V7Zkikmh7R_CPHoKbQ.gif"&gt;</noscript>
 
 
 
@@ -332,11 +288,10 @@ We also witnessed robots produce physical data visualizations and data art durin
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YI_IXq2970H3_IkpDR4Q-w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*YI_IXq2970H3_IkpDR4Q-w.gif"&gt;</noscript>
+
+
 
 
 
@@ -354,11 +309,6 @@ Left/Top: [Slides by Ana Asnes Becker](http://www.anabeckerdesign.com/vr_talk.pd
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Z3OzBtOBbHnZB6cDDKdKuw.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="61"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*Z3OzBtOBbHnZB6cDDKdKuw.jpeg"&gt;</noscript>
 
 
 
@@ -370,11 +320,10 @@ Left/Top: [Slides by Ana Asnes Becker](http://www.anabeckerdesign.com/vr_talk.pd
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9Jg3X7uX_gu-7103K1K6Zw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*9Jg3X7uX_gu-7103K1K6Zw.png"&gt;</noscript>
+
+
 
 
 
@@ -400,11 +349,8 @@ Oftentimes, the visualization is just the tip of the iceberg. Sometimes, a singl
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jM7g3v_6e4jEUZ4BTvu4Uw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jM7g3v_6e4jEUZ4BTvu4Uw.png"&gt;</noscript>
 
 
 
@@ -428,11 +374,6 @@ With the right amount of hidden layers, nodes, and training data, a neural net c
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YSp19XdEWTMs1CThjtrarA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*YSp19XdEWTMs1CThjtrarA.png"&gt;</noscript>
 
 
 
@@ -444,11 +385,10 @@ With the right amount of hidden layers, nodes, and training data, a neural net c
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ezkhhcJXPuTPz4fxxAhrAw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*ezkhhcJXPuTPz4fxxAhrAw.png"&gt;</noscript>
+
+
 
 
 
@@ -466,11 +406,6 @@ Step 1: drink two glasses of wine
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kF9aC_ACLeXEP1lURODvFw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="71"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*kF9aC_ACLeXEP1lURODvFw.png"&gt;</noscript>
 
 
 
@@ -482,11 +417,10 @@ Step 1: drink two glasses of wine
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*mJhYM104V77b1hOgY52q5Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="71"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*mJhYM104V77b1hOgY52q5Q.png"&gt;</noscript>
+
+
 
 
 
@@ -504,11 +438,6 @@ Step 2: Build neural net
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_tfPkwkI9oBZEvUwEk890w.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*_tfPkwkI9oBZEvUwEk890w.png"&gt;</noscript>
 
 
 
@@ -520,11 +449,10 @@ Step 2: Build neural net
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-9WpuMYRm-WtrNCShhdAOQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="58"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*-9WpuMYRm-WtrNCShhdAOQ.png"&gt;</noscript>
+
+
 
 
 
@@ -550,11 +478,6 @@ Step 3: ✨
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EKASCGLFLVZDpTmSnxaM4Q.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*EKASCGLFLVZDpTmSnxaM4Q.png"&gt;</noscript>
 
 
 
@@ -566,11 +489,6 @@ Step 3: ✨
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pRNNUL8e-K5YBiNo2paz6A.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*pRNNUL8e-K5YBiNo2paz6A.png"&gt;</noscript>
 
 
 
@@ -582,11 +500,12 @@ Step 3: ✨
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gGWRNojMknG8KrKkE3GpJg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="67"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*gGWRNojMknG8KrKkE3GpJg.png"&gt;</noscript>
+
+
+
+
 
 
 
@@ -610,11 +529,8 @@ One seventh of the 21 talks focused on components of automation in data visualiz
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3WbjZHlwsKIhwlE1RXaoeQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3WbjZHlwsKIhwlE1RXaoeQ.png"&gt;</noscript>
 
 
 
@@ -628,11 +544,8 @@ One seventh of the 21 talks focused on components of automation in data visualiz
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tvLe_kpg5U4SfX2ozohwmg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*tvLe_kpg5U4SfX2ozohwmg.png"&gt;</noscript>
 
 
 
@@ -650,11 +563,8 @@ By stone, I mean field of study. We saw disruptive data visualization techniques
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*dzuQcPvdiKqzWdHft8iaGg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*dzuQcPvdiKqzWdHft8iaGg.gif"&gt;</noscript>
 
 
 
@@ -678,11 +588,8 @@ By stone, I mean field of study. We saw disruptive data visualization techniques
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*UHm5krylSVNoi8Ze7p0U8A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="71" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*UHm5krylSVNoi8Ze7p0U8A.png"&gt;</noscript>
 
 
 
@@ -708,11 +615,6 @@ As designers and data experts, our job requires us to be aware of the inherent b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*81ksyNwotgV_-Dyuwv62JQ.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*81ksyNwotgV_-Dyuwv62JQ.jpeg"&gt;</noscript>
 
 
 
@@ -724,11 +626,6 @@ As designers and data experts, our job requires us to be aware of the inherent b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*F8ysuO_klnWK4N8GNseWcg.jpeg?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*F8ysuO_klnWK4N8GNseWcg.jpeg"&gt;</noscript>
 
 
 
@@ -740,11 +637,12 @@ As designers and data experts, our job requires us to be aware of the inherent b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7JoPCVFYMFYYto1NIJLASQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*7JoPCVFYMFYYto1NIJLASQ.jpeg"&gt;</noscript>
+
+
+
+
 
 
 
@@ -764,11 +662,8 @@ From Mona Chalabi’s slides
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Drozuax4FGfgZk-eu-l4LA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Drozuax4FGfgZk-eu-l4LA.gif"&gt;</noscript>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Max Stein
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to boost your App Store rating with a simple, easy approach"
 subTitle: "Users love to see high app ratings when deciding which apps to download. If two apps do the same thing, but one has a higher rating than ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*9Ue8oEZUuEQoB0GNhf_n-Q@2x.jpeg

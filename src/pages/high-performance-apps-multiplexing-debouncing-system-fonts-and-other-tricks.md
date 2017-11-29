@@ -46,7 +46,7 @@ Here are some examples of using a `link` with this attribute:
 
 
 
-<iframe width="700" height="250" src="/media/07c488b78f7130cb4eb36c2219836fad?postId=37c6fd3d7b2d" data-media-id="07c488b78f7130cb4eb36c2219836fad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F2382552%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/07c488b78f7130cb4eb36c2219836fad?postId=37c6fd3d7b2d" data-media-id="07c488b78f7130cb4eb36c2219836fad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F2382552%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -73,7 +73,7 @@ By using system fonts, it’s possible to emulate your users’ Operational Syst
 
 
 
-<iframe width="700" height="250" src="/media/e847425419b227999e1fcac0c8548bc6?postId=37c6fd3d7b2d" data-media-id="e847425419b227999e1fcac0c8548bc6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F2382552%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e847425419b227999e1fcac0c8548bc6?postId=37c6fd3d7b2d" data-media-id="e847425419b227999e1fcac0c8548bc6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F2382552%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ If you get an autocomplete, for example, you don’t want to fire on every key p
 
 
 
-<iframe width="700" height="250" src="/media/6c662353c2583babf3f94985c6df8b24?postId=37c6fd3d7b2d" data-media-id="6c662353c2583babf3f94985c6df8b24" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F2382552%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6c662353c2583babf3f94985c6df8b24?postId=37c6fd3d7b2d" data-media-id="6c662353c2583babf3f94985c6df8b24" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F2382552%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ If you get an autocomplete, for example, you don’t want to fire on every key p
 
 
 
-<iframe width="700" height="250" src="/media/21d32f9a27745eb3e127c9248a6da6f7?postId=37c6fd3d7b2d" data-media-id="21d32f9a27745eb3e127c9248a6da6f7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F2382552%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/21d32f9a27745eb3e127c9248a6da6f7?postId=37c6fd3d7b2d" data-media-id="21d32f9a27745eb3e127c9248a6da6f7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F2382552%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

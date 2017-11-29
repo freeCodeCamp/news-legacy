@@ -1,7 +1,7 @@
 ---
 author: JS
 authorTwitter: https://twitter.com/j_speda
-authorFacebook: false
+authorFacebook: none
 title: "A Beginner’s JavaScript Study Plan"
 subTitle: "So you want to learn JavaScript? Congratulations! In 2017, there are more resources available than ever before, in a wide variety of form..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*uwXvMVTx3L2TcZsLDU4dwg.jpeg
@@ -102,7 +102,7 @@ While I’m nowhere near a JavaScript expert, I hope to provide perspective from
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/2f7bb09121e8ac606031f0ffa246dffd?postId=27f1d698ea5e" data-media-id="2f7bb09121e8ac606031f0ffa246dffd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCCpgya-UIAA8uar.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/2f7bb09121e8ac606031f0ffa246dffd?postId=27f1d698ea5e" data-media-id="2f7bb09121e8ac606031f0ffa246dffd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCCpgya-UIAA8uar.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

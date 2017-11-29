@@ -98,7 +98,7 @@ Or compile from sources: If you have [Go 1.6 or above installed](https://golang.
 
 
 
-<iframe width="700" height="250" src="/media/6ff202ebec268f1ffaaf3a66180694c6?postId=4a1be228f8e8" data-media-id="6ff202ebec268f1ffaaf3a66180694c6" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6ff202ebec268f1ffaaf3a66180694c6?postId=4a1be228f8e8" data-media-id="6ff202ebec268f1ffaaf3a66180694c6" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ If you haven’t set up AWS credentials on your environment before, you can set 
 
 
 
-<iframe width="700" height="250" src="/media/ee68b7146e13562bf5b090088661705a?postId=4a1be228f8e8" data-media-id="ee68b7146e13562bf5b090088661705a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ee68b7146e13562bf5b090088661705a?postId=4a1be228f8e8" data-media-id="ee68b7146e13562bf5b090088661705a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ And in `~/.aws/config`
 
 
 
-<iframe width="700" height="250" src="/media/31612db4cb984c8ceeec0c8607e2d7bc?postId=4a1be228f8e8" data-media-id="31612db4cb984c8ceeec0c8607e2d7bc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/31612db4cb984c8ceeec0c8607e2d7bc?postId=4a1be228f8e8" data-media-id="31612db4cb984c8ceeec0c8607e2d7bc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -139,7 +139,7 @@ You should also set the environment variable of AWS_SDK_LOAD_CONFIG
 
 
 
-<iframe width="700" height="250" src="/media/c39cd0c65449cc9f9ae128c5f0aa42c4?postId=4a1be228f8e8" data-media-id="c39cd0c65449cc9f9ae128c5f0aa42c4" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c39cd0c65449cc9f9ae128c5f0aa42c4?postId=4a1be228f8e8" data-media-id="c39cd0c65449cc9f9ae128c5f0aa42c4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -155,7 +155,7 @@ Assuming you’re going to set up a website example.com and [www.example.com,](h
 
 
 
-<iframe width="700" height="250" src="/media/c2329da75fa0918e617c3ddbe946fdae?postId=4a1be228f8e8" data-media-id="c2329da75fa0918e617c3ddbe946fdae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c2329da75fa0918e617c3ddbe946fdae?postId=4a1be228f8e8" data-media-id="c2329da75fa0918e617c3ddbe946fdae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -173,7 +173,7 @@ If you want to use https, and have the cert in PEM format ready, run the followi
 
 
 
-<iframe width="700" height="250" src="/media/038737ccab7bc4fd3b0834d70043009e?postId=4a1be228f8e8" data-media-id="038737ccab7bc4fd3b0834d70043009e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/038737ccab7bc4fd3b0834d70043009e?postId=4a1be228f8e8" data-media-id="038737ccab7bc4fd3b0834d70043009e" allowfullscreen="" frameborder="0"></iframe>
 
 
 

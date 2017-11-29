@@ -1,7 +1,7 @@
 ---
 author: Harini Janakiraman
 authorTwitter: https://twitter.com/HariniLabs
-authorFacebook: false
+authorFacebook: none
 title: "Day 22: How to build an AI Game Bot using OpenAI Gym and Universe"
 subTitle: "Let’s face it, AI is everywhere. A face-off battle is unfolding between Elon Musk and Mark Zuckerberg on the future of AI. There are some..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*hyjwsHNsORWJngVh5uKx8g.jpeg

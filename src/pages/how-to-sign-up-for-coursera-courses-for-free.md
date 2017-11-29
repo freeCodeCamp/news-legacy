@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "How to Sign up for Coursera Courses for Free"
 subTitle: "One question I get asked all the time here at Class Central is: are Coursera courses really free?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*WL_Oat3otAWVczA59Unduw.jpeg

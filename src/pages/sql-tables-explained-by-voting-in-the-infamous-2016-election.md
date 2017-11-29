@@ -52,7 +52,7 @@ Your initial thought might be to store this whole thing as one entry, like this:
 
 
 
-<iframe width="700" height="250" src="/media/f0c60c377f7b2ee7a32967ddcf239f82?postId=de638dd9db7" data-media-id="f0c60c377f7b2ee7a32967ddcf239f82" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f0c60c377f7b2ee7a32967ddcf239f82?postId=de638dd9db7" data-media-id="f0c60c377f7b2ee7a32967ddcf239f82" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ This does a much better job of describing the different pieces of the voting sys
 
 
 
-<iframe width="700" height="250" src="/media/cb909d5566dc677449ff9df73ac1f8a0?postId=de638dd9db7" data-media-id="cb909d5566dc677449ff9df73ac1f8a0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cb909d5566dc677449ff9df73ac1f8a0?postId=de638dd9db7" data-media-id="cb909d5566dc677449ff9df73ac1f8a0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -104,7 +104,7 @@ This does a much better job of describing the different pieces of the voting sys
 
 
 
-<iframe width="700" height="250" src="/media/86cf94468c3774e66f98d594efc005f5?postId=de638dd9db7" data-media-id="86cf94468c3774e66f98d594efc005f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/86cf94468c3774e66f98d594efc005f5?postId=de638dd9db7" data-media-id="86cf94468c3774e66f98d594efc005f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ Now we are back to the original scenario. It’s November 8, 2016\. You just put
 
 
 
-<iframe width="700" height="250" src="/media/23ae39adda9b1f7800fdd9204a562409?postId=de638dd9db7" data-media-id="23ae39adda9b1f7800fdd9204a562409" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/23ae39adda9b1f7800fdd9204a562409?postId=de638dd9db7" data-media-id="23ae39adda9b1f7800fdd9204a562409" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -136,7 +136,7 @@ If we want to check if the ballot is coming from a registered voter, we are goin
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=de638dd9db7" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=de638dd9db7" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

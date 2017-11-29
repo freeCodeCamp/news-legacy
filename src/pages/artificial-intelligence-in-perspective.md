@@ -1,7 +1,7 @@
 ---
 author: Rishal Hurbans
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Artificial Intelligence in Perspective"
 subTitle: "The buzz words of today: artificial intelligence (AI), machine learning, and deep learning. Business circles, corporations, startups, dev..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*7W5aZqDgHb9i8vnyI27nXw.png

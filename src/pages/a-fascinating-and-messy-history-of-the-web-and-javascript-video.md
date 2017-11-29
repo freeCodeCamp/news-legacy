@@ -1,7 +1,7 @@
 ---
 author: rajaraodv
 authorTwitter: https://twitter.com/rajaraodv
-authorFacebook: false
+authorFacebook: none
 title: "A Fascinating And Messy History of the Web and JavaScript, Explained with Video"
 subTitle: "The history of the web and JavaScript is truly fascinating. 😲..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*DP-EDtA_Ii80f2RaqO9H9Q.png
@@ -26,7 +26,7 @@ So I created this 19-minute video to help web developers understand it and learn
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/e78c0020ef2f274378a6b2e63c5c8adf?postId=8978dc7bda75" data-media-id="e78c0020ef2f274378a6b2e63c5c8adf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fa2e3cAc4Ux4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/e78c0020ef2f274378a6b2e63c5c8adf?postId=8978dc7bda75" data-media-id="e78c0020ef2f274378a6b2e63c5c8adf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fa2e3cAc4Ux4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

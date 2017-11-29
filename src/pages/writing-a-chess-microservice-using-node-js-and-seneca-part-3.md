@@ -67,7 +67,7 @@ Let’s see what the advantage is. In the original code, finding `legalMoves` wa
 
 
 
-<iframe width="700" height="250" src="/media/bd8008a228780d4883502ada45d01a23?postId=ab38b8ef9b0a" data-media-id="bd8008a228780d4883502ada45d01a23" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bd8008a228780d4883502ada45d01a23?postId=ab38b8ef9b0a" data-media-id="bd8008a228780d4883502ada45d01a23" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -79,7 +79,7 @@ Much, much simpler…and more efficient. The wrapping function is exported and u
 
 
 
-<iframe width="700" height="250" src="/media/307fd94aa25e9fb21f889e06c52e363f?postId=ab38b8ef9b0a" data-media-id="307fd94aa25e9fb21f889e06c52e363f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/307fd94aa25e9fb21f889e06c52e363f?postId=ab38b8ef9b0a" data-media-id="307fd94aa25e9fb21f889e06c52e363f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ Knights jump around the board, so are only blocked by friendly pieces that are o
 
 
 
-<iframe width="700" height="250" src="/media/2e6cb161e0c9384a1c9aaffeaaffbc10?postId=ab38b8ef9b0a" data-media-id="2e6cb161e0c9384a1c9aaffeaaffbc10" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2e6cb161e0c9384a1c9aaffeaaffbc10?postId=ab38b8ef9b0a" data-media-id="2e6cb161e0c9384a1c9aaffeaaffbc10" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -182,7 +182,7 @@ This service I will break down into detail. As you may recall, the `legalMoves` 
 
 
 
-<iframe width="700" height="250" src="/media/1f201754b3bbe7a8a841a041b5d602e8?postId=ab38b8ef9b0a" data-media-id="1f201754b3bbe7a8a841a041b5d602e8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1f201754b3bbe7a8a841a041b5d602e8?postId=ab38b8ef9b0a" data-media-id="1f201754b3bbe7a8a841a041b5d602e8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -198,7 +198,7 @@ There’s a bit of code to slog through, so I will refer to sections by line num
 
 
 
-<iframe width="700" height="250" src="/media/54934dba38bebdda41a2b7eb30bff225?postId=ab38b8ef9b0a" data-media-id="54934dba38bebdda41a2b7eb30bff225" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/54934dba38bebdda41a2b7eb30bff225?postId=ab38b8ef9b0a" data-media-id="54934dba38bebdda41a2b7eb30bff225" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars4.githubusercontent.com%2Fu%2F3497069%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

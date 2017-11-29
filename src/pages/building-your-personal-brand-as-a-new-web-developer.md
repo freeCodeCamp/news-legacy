@@ -1,7 +1,7 @@
 ---
 author: Rick West
 authorTwitter: https://twitter.com/rick_west8
-authorFacebook: false
+authorFacebook: none
 title: "How to build your personal brand as a new developer"
 subTitle: "Since I started publishing on Medium, I’ve noticed that my blog and my social media accounts have seen an increase in traffic. Only a ver..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Cop5aRs4EB-DTOe9QYuALA.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Sina Habibian
 authorTwitter: https://twitter.com/sinahab
-authorFacebook: false
+authorFacebook: none
 title: "How I designed an algorithm that mixes playlists of bands coming to your town"
 subTitle: "This is a retrospective on funkavinci.com, a web project I worked on last summer. It was a series of weekly computer-generated playlists ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*T_4UZtxr2sGPwDS6FuSO6w.jpeg

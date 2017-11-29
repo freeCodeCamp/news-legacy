@@ -56,7 +56,7 @@ Let’s look at some basic code that uses a closure to mail a package.
 
 
 
-<iframe width="700" height="250" src="/media/02184874f3dcd8bc375e2f91dfe29216?postId=4f23e9885039" data-media-id="02184874f3dcd8bc375e2f91dfe29216" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/02184874f3dcd8bc375e2f91dfe29216?postId=4f23e9885039" data-media-id="02184874f3dcd8bc375e2f91dfe29216" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ Let’s say that you wanted to send a gift to each member of your family. You mi
 
 
 
-<iframe width="700" height="250" src="/media/613b16279686a000182518e9a87befa9?postId=4f23e9885039" data-media-id="613b16279686a000182518e9a87befa9" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/613b16279686a000182518e9a87befa9?postId=4f23e9885039" data-media-id="613b16279686a000182518e9a87befa9" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ Another magical feature of closures! Each instance is able to use the correct gi
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=4f23e9885039" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=4f23e9885039" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

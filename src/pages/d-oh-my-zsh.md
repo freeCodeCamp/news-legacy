@@ -42,7 +42,7 @@ This wouldn’t be my first foray into open source software; nor my last.
 
 
 
-<iframe data-width="300" data-height="380" width="300" height="380" src="/media/13dceaf8f025ed32cdab118a01c4a7c8?postId=af99ca54212c" data-media-id="13dceaf8f025ed32cdab118a01c4a7c8" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="300" data-height="380" width="300" height="380" src="https://medium.freecodecamp.org/media/13dceaf8f025ed32cdab118a01c4a7c8?postId=af99ca54212c" data-media-id="13dceaf8f025ed32cdab118a01c4a7c8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -154,7 +154,7 @@ It occurred to me that the initial setup was requiring people to run a handful o
 
 
 
-<iframe width="500" height="250" src="/media/a34e1e39f439e66cb73f9b57df6a2809?postId=af99ca54212c" data-media-id="a34e1e39f439e66cb73f9b57df6a2809" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/a34e1e39f439e66cb73f9b57df6a2809?postId=af99ca54212c" data-media-id="a34e1e39f439e66cb73f9b57df6a2809" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -212,7 +212,7 @@ Sadly, not everyone has been a fan.
 
 
 
-<iframe width="500" height="250" src="/media/81eb8b8d430fb5f3b4430da1a444f7e6?postId=af99ca54212c" data-media-id="81eb8b8d430fb5f3b4430da1a444f7e6" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/81eb8b8d430fb5f3b4430da1a444f7e6?postId=af99ca54212c" data-media-id="81eb8b8d430fb5f3b4430da1a444f7e6" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -222,7 +222,7 @@ Sadly, not everyone has been a fan.
 
 
 
-<iframe width="500" height="250" src="/media/1e4dcb236b677352eff005a7b6491f0c?postId=af99ca54212c" data-media-id="1e4dcb236b677352eff005a7b6491f0c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/1e4dcb236b677352eff005a7b6491f0c?postId=af99ca54212c" data-media-id="1e4dcb236b677352eff005a7b6491f0c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -232,7 +232,7 @@ Sadly, not everyone has been a fan.
 
 
 
-<iframe width="500" height="250" src="/media/43a89d530308185725dfc35d96b4bb83?postId=af99ca54212c" data-media-id="43a89d530308185725dfc35d96b4bb83" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/43a89d530308185725dfc35d96b4bb83?postId=af99ca54212c" data-media-id="43a89d530308185725dfc35d96b4bb83" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -244,7 +244,7 @@ Despite a few vocal opponents over the years, I’ve stood by my decision to kee
 
 
 
-<iframe width="500" height="250" src="/media/983826f9cdf9ef75ce7ac28014dfcaa9?postId=af99ca54212c" data-media-id="983826f9cdf9ef75ce7ac28014dfcaa9" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/983826f9cdf9ef75ce7ac28014dfcaa9?postId=af99ca54212c" data-media-id="983826f9cdf9ef75ce7ac28014dfcaa9" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -254,7 +254,7 @@ Despite a few vocal opponents over the years, I’ve stood by my decision to kee
 
 
 
-<iframe width="500" height="250" src="/media/2ad1d571253c543507d8fa9e159c6ff1?postId=af99ca54212c" data-media-id="2ad1d571253c543507d8fa9e159c6ff1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/2ad1d571253c543507d8fa9e159c6ff1?postId=af99ca54212c" data-media-id="2ad1d571253c543507d8fa9e159c6ff1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -264,7 +264,7 @@ Despite a few vocal opponents over the years, I’ve stood by my decision to kee
 
 
 
-<iframe width="500" height="250" src="/media/b1ceba878ac1b5223683b6d730f5eda1?postId=af99ca54212c" data-media-id="b1ceba878ac1b5223683b6d730f5eda1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/b1ceba878ac1b5223683b6d730f5eda1?postId=af99ca54212c" data-media-id="b1ceba878ac1b5223683b6d730f5eda1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -274,7 +274,7 @@ Despite a few vocal opponents over the years, I’ve stood by my decision to kee
 
 
 
-<iframe width="500" height="250" src="/media/d9cc89c602320f0d1e22efd21b0a44b1?postId=af99ca54212c" data-media-id="d9cc89c602320f0d1e22efd21b0a44b1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/d9cc89c602320f0d1e22efd21b0a44b1?postId=af99ca54212c" data-media-id="d9cc89c602320f0d1e22efd21b0a44b1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -286,7 +286,7 @@ Back in 2012, we made a change to reduce the frequency of auto-update prompts by
 
 
 
-<iframe width="500" height="250" src="/media/59cd39d37bde8c5f47957eb1c0c915a6?postId=af99ca54212c" data-media-id="59cd39d37bde8c5f47957eb1c0c915a6" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/59cd39d37bde8c5f47957eb1c0c915a6?postId=af99ca54212c" data-media-id="59cd39d37bde8c5f47957eb1c0c915a6" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -366,7 +366,7 @@ In total… [214 plugins](https://github.com/robbyrussell/oh-my-zsh/tree/master/
 
 
 
-<iframe width="500" height="250" src="/media/6cc255d6190f96fa812cb1a6fd267474?postId=af99ca54212c" data-media-id="6cc255d6190f96fa812cb1a6fd267474" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/6cc255d6190f96fa812cb1a6fd267474?postId=af99ca54212c" data-media-id="6cc255d6190f96fa812cb1a6fd267474" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -376,7 +376,7 @@ In total… [214 plugins](https://github.com/robbyrussell/oh-my-zsh/tree/master/
 
 
 
-<iframe width="500" height="250" src="/media/2e2f5aa71fa318a077942a9ad3546ea3?postId=af99ca54212c" data-media-id="2e2f5aa71fa318a077942a9ad3546ea3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/2e2f5aa71fa318a077942a9ad3546ea3?postId=af99ca54212c" data-media-id="2e2f5aa71fa318a077942a9ad3546ea3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -394,7 +394,7 @@ I never thought Oh My Zsh would still be building momentum nearly seven years la
 
 
 
-<iframe width="500" height="250" src="/media/5d64d52431392618f92769bdf264f447?postId=af99ca54212c" data-media-id="5d64d52431392618f92769bdf264f447" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/5d64d52431392618f92769bdf264f447?postId=af99ca54212c" data-media-id="5d64d52431392618f92769bdf264f447" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -404,7 +404,7 @@ I never thought Oh My Zsh would still be building momentum nearly seven years la
 
 
 
-<iframe width="500" height="250" src="/media/724b8c0713ed2da197646532fe01d0ea?postId=af99ca54212c" data-media-id="724b8c0713ed2da197646532fe01d0ea" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/724b8c0713ed2da197646532fe01d0ea?postId=af99ca54212c" data-media-id="724b8c0713ed2da197646532fe01d0ea" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -483,7 +483,7 @@ I wish we had adopted this convention several years before.
 
 
 
-<iframe width="500" height="250" src="/media/7a231aa08a03af3f6986caec2d348791?postId=af99ca54212c" data-media-id="7a231aa08a03af3f6986caec2d348791" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/7a231aa08a03af3f6986caec2d348791?postId=af99ca54212c" data-media-id="7a231aa08a03af3f6986caec2d348791" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -497,7 +497,7 @@ Honestly, seeing tweets like this means the world to me.
 
 
 
-<iframe width="500" height="250" src="/media/71585d387de7fdfaadde273b6257abc9?postId=af99ca54212c" data-media-id="71585d387de7fdfaadde273b6257abc9" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/71585d387de7fdfaadde273b6257abc9?postId=af99ca54212c" data-media-id="71585d387de7fdfaadde273b6257abc9" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -525,7 +525,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/500ba87dca273165e97e452459d93a70?postId=af99ca54212c" data-media-id="500ba87dca273165e97e452459d93a70" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/500ba87dca273165e97e452459d93a70?postId=af99ca54212c" data-media-id="500ba87dca273165e97e452459d93a70" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -535,7 +535,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/5f0bd6ce292dce43147daad439762aee?postId=af99ca54212c" data-media-id="5f0bd6ce292dce43147daad439762aee" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/5f0bd6ce292dce43147daad439762aee?postId=af99ca54212c" data-media-id="5f0bd6ce292dce43147daad439762aee" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -545,7 +545,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/6e2eb6b548ce4ecda87c1952edaa23ad?postId=af99ca54212c" data-media-id="6e2eb6b548ce4ecda87c1952edaa23ad" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/6e2eb6b548ce4ecda87c1952edaa23ad?postId=af99ca54212c" data-media-id="6e2eb6b548ce4ecda87c1952edaa23ad" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -555,7 +555,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/40e74c432ca56e202ab0105913fe25de?postId=af99ca54212c" data-media-id="40e74c432ca56e202ab0105913fe25de" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/40e74c432ca56e202ab0105913fe25de?postId=af99ca54212c" data-media-id="40e74c432ca56e202ab0105913fe25de" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -565,7 +565,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/9a22dca0601e27a1bf39c1bd2423e7ff?postId=af99ca54212c" data-media-id="9a22dca0601e27a1bf39c1bd2423e7ff" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/9a22dca0601e27a1bf39c1bd2423e7ff?postId=af99ca54212c" data-media-id="9a22dca0601e27a1bf39c1bd2423e7ff" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -575,7 +575,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/20ae07b2ce31bd55ef694ed1390c9732?postId=af99ca54212c" data-media-id="20ae07b2ce31bd55ef694ed1390c9732" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/20ae07b2ce31bd55ef694ed1390c9732?postId=af99ca54212c" data-media-id="20ae07b2ce31bd55ef694ed1390c9732" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -585,7 +585,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/c3185adeb088f8acefca828d8f3eac43?postId=af99ca54212c" data-media-id="c3185adeb088f8acefca828d8f3eac43" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/c3185adeb088f8acefca828d8f3eac43?postId=af99ca54212c" data-media-id="c3185adeb088f8acefca828d8f3eac43" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -595,7 +595,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/d5366d1badaf373f58a32b08d0a34fde?postId=af99ca54212c" data-media-id="d5366d1badaf373f58a32b08d0a34fde" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/d5366d1badaf373f58a32b08d0a34fde?postId=af99ca54212c" data-media-id="d5366d1badaf373f58a32b08d0a34fde" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -605,7 +605,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/2a37c81d718fb6f71639cc4b90d7b295?postId=af99ca54212c" data-media-id="2a37c81d718fb6f71639cc4b90d7b295" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/2a37c81d718fb6f71639cc4b90d7b295?postId=af99ca54212c" data-media-id="2a37c81d718fb6f71639cc4b90d7b295" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -615,7 +615,7 @@ Oh My Zsh has, always, been a play time activity project for me.
 
 
 
-<iframe width="500" height="250" src="/media/2c39d89909229cfaa0cf455bb5d5adbc?postId=af99ca54212c" data-media-id="2c39d89909229cfaa0cf455bb5d5adbc" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/2c39d89909229cfaa0cf455bb5d5adbc?postId=af99ca54212c" data-media-id="2c39d89909229cfaa0cf455bb5d5adbc" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -627,7 +627,7 @@ Knowing that one of my playful projects has been and continues to be enjoyed by 
 
 
 
-<iframe width="500" height="250" src="/media/a89e73add920989410ef41a72a2b6487?postId=af99ca54212c" data-media-id="a89e73add920989410ef41a72a2b6487" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/a89e73add920989410ef41a72a2b6487?postId=af99ca54212c" data-media-id="a89e73add920989410ef41a72a2b6487" allowfullscreen="" frameborder="0"></iframe>
 
 
 

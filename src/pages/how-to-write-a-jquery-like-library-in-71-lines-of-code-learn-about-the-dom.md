@@ -1,7 +1,7 @@
 ---
 author: Kurt
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to write a jQuery like library in 71 lines of code — Learn about the DOM"
 subTitle: "JavaScript frameworks are all the rage. Chances are that any JavaScript related news feed you open will be littered with references to to..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*FLAKTYk8B7EpCYlMqtAFkw.jpeg
@@ -171,7 +171,7 @@ Now, before we can remove an event, we will need a method to find and return it 
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/cd4aa20f2ec87075065d8226df885026?postId=e9fb99dbc8d2" data-media-id="cd4aa20f2ec87075065d8226df885026" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/cd4aa20f2ec87075065d8226df885026?postId=e9fb99dbc8d2" data-media-id="cd4aa20f2ec87075065d8226df885026" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -264,7 +264,7 @@ The **_$_** symbol is just a variable! That’s our completed jQuery-like librar
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/77161258604ced84c7ec3dc275004db0?postId=e9fb99dbc8d2" data-media-id="77161258604ced84c7ec3dc275004db0" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/77161258604ced84c7ec3dc275004db0?postId=e9fb99dbc8d2" data-media-id="77161258604ced84c7ec3dc275004db0" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Ewa Mitulska-Wójcik
 authorTwitter: https://twitter.com/thedoerdoes
-authorFacebook: false
+authorFacebook: none
 title: "User Experience explained in 5 minutes for newbie front end developers"
 subTitle: "User-centered front end developers are in demand now...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ydpbnvUqyVmVN_xfpgjGQg.jpeg
@@ -60,7 +60,7 @@ Ask often, test often, iterate. What’s the problem they want to solve? What’
 
 
 
-<iframe data-width="435" data-height="269" width="435" height="269" src="/media/d9e43b10626b49d92724fa9959112077?postId=1293c1521407" data-media-id="d9e43b10626b49d92724fa9959112077" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="269" width="435" height="269" src="https://medium.freecodecamp.org/media/d9e43b10626b49d92724fa9959112077?postId=1293c1521407" data-media-id="d9e43b10626b49d92724fa9959112077" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ When it comes to mobile and UX, let me leave you for the moment with Luke Wroble
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f95b8156bf6bf5522f322518f4b698d8?postId=1293c1521407" data-media-id="f95b8156bf6bf5522f322518f4b698d8" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f95b8156bf6bf5522f322518f4b698d8?postId=1293c1521407" data-media-id="f95b8156bf6bf5522f322518f4b698d8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -136,7 +136,7 @@ Whether you implement a solution for a client or build your own product consider
 
 
 
-<iframe data-width="435" data-height="243" width="435" height="243" src="/media/8524bdd2b03dbcd84d60e975d09e88af?postId=1293c1521407" data-media-id="8524bdd2b03dbcd84d60e975d09e88af" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="243" width="435" height="243" src="https://medium.freecodecamp.org/media/8524bdd2b03dbcd84d60e975d09e88af?postId=1293c1521407" data-media-id="8524bdd2b03dbcd84d60e975d09e88af" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ It’s great that you can play with complex CSS…
 
 
 
-<iframe data-width="435" data-height="333" width="435" height="333" src="/media/f9acd11f42126ea039ba501f90fe4180?postId=1293c1521407" data-media-id="f9acd11f42126ea039ba501f90fe4180" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="333" width="435" height="333" src="https://medium.freecodecamp.org/media/f9acd11f42126ea039ba501f90fe4180?postId=1293c1521407" data-media-id="f9acd11f42126ea039ba501f90fe4180" allowfullscreen="" frameborder="0"></iframe>
 
 
 

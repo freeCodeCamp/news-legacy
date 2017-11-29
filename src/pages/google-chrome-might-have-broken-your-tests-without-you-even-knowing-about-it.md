@@ -1,7 +1,7 @@
 ---
 author: Robert Axelsen
 authorTwitter: https://twitter.com/Robert_Axelsen
-authorFacebook: false
+authorFacebook: none
 title: "Google Chrome might have broken your tests without you even knowing about it"
 subTitle: "My colleague just discovered that Chrome 58 (released April 19th) has silently muted all console.debug() output in their Chrome Dev Tools..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*jnZ0lrbFnVqzqCCph67VmA.jpeg

@@ -52,7 +52,7 @@ Meet [Dscova.com](https://dscova.com/) — the platform that lets us openly 
 
 
 
-<iframe data-width="480" data-height="270" width="480" height="270" src="/media/8a8bd13c83076340b9017f9f6aee38f6?postId=d3aa14dbf95" data-media-id="8a8bd13c83076340b9017f9f6aee38f6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fj.gifs.com%2FmwvXJ9%40small.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="480" data-height="270" width="480" height="270" src="https://medium.freecodecamp.org/media/8a8bd13c83076340b9017f9f6aee38f6?postId=d3aa14dbf95" data-media-id="8a8bd13c83076340b9017f9f6aee38f6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fj.gifs.com%2FmwvXJ9%40small.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -68,7 +68,7 @@ Dscova should be the definition of everything I was convinced was possible on th
 
 
 
-<iframe data-width="480" data-height="270" width="480" height="270" src="/media/6820e674c996438189df3b4341c6becc?postId=d3aa14dbf95" data-media-id="6820e674c996438189df3b4341c6becc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fj.gifs.com%2Fwj3AOX.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="480" data-height="270" width="480" height="270" src="https://medium.freecodecamp.org/media/6820e674c996438189df3b4341c6becc?postId=d3aa14dbf95" data-media-id="6820e674c996438189df3b4341c6becc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fj.gifs.com%2Fwj3AOX.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ We have Google to thank for the efforts they made for us and our users in this r
 
 
 
-<iframe data-width="480" data-height="270" width="480" height="270" src="/media/6c2abb74a9a4bf300dea1b8f985977a7?postId=d3aa14dbf95" data-media-id="6c2abb74a9a4bf300dea1b8f985977a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fj.gifs.com%2FlOr6Gr%40small.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="480" data-height="270" width="480" height="270" src="https://medium.freecodecamp.org/media/6c2abb74a9a4bf300dea1b8f985977a7?postId=d3aa14dbf95" data-media-id="6c2abb74a9a4bf300dea1b8f985977a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fj.gifs.com%2FlOr6Gr%40small.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -120,7 +120,7 @@ Delightful is possible. 60 fps is possible. All the Olympic gymnastics that thes
 
 
 
-<iframe data-width="480" data-height="270" width="480" height="270" src="/media/e0ef38e0fc1a69b4d1d54b5610ba4b1a?postId=d3aa14dbf95" data-media-id="e0ef38e0fc1a69b4d1d54b5610ba4b1a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fj.gifs.com%2FoY5WLK%40facebook.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="480" data-height="270" width="480" height="270" src="https://medium.freecodecamp.org/media/e0ef38e0fc1a69b4d1d54b5610ba4b1a?postId=d3aa14dbf95" data-media-id="e0ef38e0fc1a69b4d1d54b5610ba4b1a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fj.gifs.com%2FoY5WLK%40facebook.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -134,7 +134,7 @@ This is my favorite piece of interaction. It couldn’t be any more seamless for
 
 
 
-<iframe data-width="435" data-height="609" width="435" height="609" src="/media/b6c252cf80164b76be754ab7c5f3fa63?postId=d3aa14dbf95" data-media-id="b6c252cf80164b76be754ab7c5f3fa63" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FhFmIU5GQF18Aw%2Fgiphy.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="609" width="435" height="609" src="https://medium.freecodecamp.org/media/b6c252cf80164b76be754ab7c5f3fa63?postId=d3aa14dbf95" data-media-id="b6c252cf80164b76be754ab7c5f3fa63" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FhFmIU5GQF18Aw%2Fgiphy.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -207,7 +207,7 @@ Here’s the hard question: Who’s gonna help you once you get stuck? I know th
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/65095baa2675b423ca64cec84656b9d2?postId=d3aa14dbf95" data-media-id="65095baa2675b423ca64cec84656b9d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F676995107745341442%2F2iscS11T_400x400.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/65095baa2675b423ca64cec84656b9d2?postId=d3aa14dbf95" data-media-id="65095baa2675b423ca64cec84656b9d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F676995107745341442%2F2iscS11T_400x400.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

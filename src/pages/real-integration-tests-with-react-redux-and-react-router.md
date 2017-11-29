@@ -1,6 +1,6 @@
 ---
 author: Marcelo Lotif
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10207848413790579
 title: "Real integration tests with React, Redux and Router"
 subTitle: "After being bitten a couple of times by bad refactoring and a broken app — even with all my tests green — I started to research about int..."
@@ -46,7 +46,7 @@ To set up the basics of my integration test, I’m gonna cheat a little bit and 
 
 
 
-<iframe width="700" height="250" src="/media/310a6f5da33d3f375ef3396977930fcf?postId=417125212638" data-media-id="310a6f5da33d3f375ef3396977930fcf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/310a6f5da33d3f375ef3396977930fcf?postId=417125212638" data-media-id="310a6f5da33d3f375ef3396977930fcf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -60,7 +60,7 @@ In your test file, you will first need to import some dependencies, your reducer
 
 
 
-<iframe width="700" height="250" src="/media/9b74315eb816ddbdafc31ae29f0aee68?postId=417125212638" data-media-id="9b74315eb816ddbdafc31ae29f0aee68" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9b74315eb816ddbdafc31ae29f0aee68?postId=417125212638" data-media-id="9b74315eb816ddbdafc31ae29f0aee68" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -72,7 +72,7 @@ Then, on the _beforeEach_ function, set up your integration test variables using
 
 
 
-<iframe width="700" height="250" src="/media/da3174ba739dcddd291c76ff383079b1?postId=417125212638" data-media-id="da3174ba739dcddd291c76ff383079b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/da3174ba739dcddd291c76ff383079b1?postId=417125212638" data-media-id="da3174ba739dcddd291c76ff383079b1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -86,7 +86,7 @@ Now you’re all set to mount your component and test it. Let’s imagine this c
 
 
 
-<iframe width="700" height="250" src="/media/391b92548af3cc5214b425018de8a90b?postId=417125212638" data-media-id="391b92548af3cc5214b425018de8a90b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/391b92548af3cc5214b425018de8a90b?postId=417125212638" data-media-id="391b92548af3cc5214b425018de8a90b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ You can try to go deeper in this chain and assert some other things:
 
 
 
-<iframe width="700" height="250" src="/media/62e9afb38239be8735abc9f35fc142ba?postId=417125212638" data-media-id="62e9afb38239be8735abc9f35fc142ba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/62e9afb38239be8735abc9f35fc142ba?postId=417125212638" data-media-id="62e9afb38239be8735abc9f35fc142ba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ Assuming you use a hypothetical http client to call an endpoint through its _get
 
 
 
-<iframe width="700" height="250" src="/media/ff286a02a5a57283d7cc64c69da5572f?postId=417125212638" data-media-id="ff286a02a5a57283d7cc64c69da5572f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ff286a02a5a57283d7cc64c69da5572f?postId=417125212638" data-media-id="ff286a02a5a57283d7cc64c69da5572f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ We will need to somehow wait for that promise to resolve before executing the 
 
 
 
-<iframe width="700" height="250" src="/media/db9cb057ac028b65eb9bd7ac928c5105?postId=417125212638" data-media-id="db9cb057ac028b65eb9bd7ac928c5105" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/db9cb057ac028b65eb9bd7ac928c5105?postId=417125212638" data-media-id="db9cb057ac028b65eb9bd7ac928c5105" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -142,7 +142,7 @@ And our test is now going to look like this:
 
 
 
-<iframe width="700" height="250" src="/media/2f67ed76a3c10f99d5295bb6330a1bdd?postId=417125212638" data-media-id="2f67ed76a3c10f99d5295bb6330a1bdd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2f67ed76a3c10f99d5295bb6330a1bdd?postId=417125212638" data-media-id="2f67ed76a3c10f99d5295bb6330a1bdd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F11467898%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "A Beginner’s Very Bumpy Journey Through The World of Open Source"
 subTitle: "Did you land on this story looking for advice on how to start contributing to open source? There are tons of these stories on the inter-w..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*gJsNWV7BvCLv5E11Z7biNw.jpeg

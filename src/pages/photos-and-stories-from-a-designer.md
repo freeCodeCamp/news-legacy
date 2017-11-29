@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "Photos and stories from a designer"
 subTitle: "Some of the best designers are also some of the best storytellers. I don’t think this is a coincidence...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*NsmrJXcrr9pLuVqSctVyTA.jpeg

@@ -1,6 +1,6 @@
 ---
 author: Angela Zhang
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1491782079
 title: "Why you should ask questions at your next tech company interview"
 subTitle: "And what to ask to get the most out of those last 5 to 10 minutes"

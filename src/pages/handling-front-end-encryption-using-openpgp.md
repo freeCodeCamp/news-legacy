@@ -1,7 +1,7 @@
 ---
 author: Mateja Trifunovski
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Handling front-end encryption using OpenPGP"
 subTitle: "In a world where privacy is being constantly invaded, people tend to start to care about it. Private messaging platforms are becoming mor..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*HMRjFON6A7nGDlvrf7auIw.png

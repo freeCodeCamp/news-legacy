@@ -1,7 +1,7 @@
 ---
 author: Parisa Tabriz
 authorTwitter: https://twitter.com/laparisa
-authorFacebook: false
+authorFacebook: none
 title: "So, you want to work in security?"
 subTitle: "Every once in a while, I’ll get an email from an eager stranger asking for advice on how to have a career in security (computer, informat..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*Z7BjkasC8Kx5JtZ7N5Pe2A.gif

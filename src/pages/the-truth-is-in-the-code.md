@@ -1,7 +1,7 @@
 ---
 author: Bertil Muth
 authorTwitter: https://twitter.com/BertilMuth
-authorFacebook: false
+authorFacebook: none
 title: "The truth is in the code"
 subTitle: "Sooner or later, every software developer will hear something like this:..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*Fw8F2fRNVfkcE-0VGyDZhQ.png

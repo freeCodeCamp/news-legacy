@@ -99,7 +99,7 @@ Stick to a quick fix, followed by an incremental improvement that refactors it a
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a7a296b533ca14c189fa0eb63f3960dd?postId=f9e23a6ab758" data-media-id="a7a296b533ca14c189fa0eb63f3960dd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a7a296b533ca14c189fa0eb63f3960dd?postId=f9e23a6ab758" data-media-id="a7a296b533ca14c189fa0eb63f3960dd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

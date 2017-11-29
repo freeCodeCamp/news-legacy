@@ -1,7 +1,7 @@
 ---
 author: Mariia Borysova
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Why we need novel authentication schemes?"
 subTitle: "Revealing security holes in 5 main methods of authentication..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9NyXeoNrQoKQoWY7ZuMXew.jpeg

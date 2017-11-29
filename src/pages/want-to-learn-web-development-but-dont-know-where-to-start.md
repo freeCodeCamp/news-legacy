@@ -1,7 +1,7 @@
 ---
 author: Rick West
 authorTwitter: https://twitter.com/rick_west8
-authorFacebook: false
+authorFacebook: none
 title: "Want to learn web development but don’t know where to start?"
 subTitle: "So, you’re interested in learning web development and becoming a web developer? First of all, congratulations. You’ve made a great choice..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*rV6_99F42Jr7uR5YtLrHrQ.jpeg

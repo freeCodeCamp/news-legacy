@@ -1,7 +1,7 @@
 ---
 author: Kangze Huang
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "User Management with AWS Cognito — (2/3) The Core Functionality"
 subTitle: "The Complete AWS Web Boilerplate — Tutorial 1B"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*ubdzj9K3MrbMb0Ep0UV3IA.png

@@ -68,7 +68,7 @@ The same technology that goes into these buttons can be built into hardware nati
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/726ab384b1e99a23ce91470001df98ca?postId=87072b65efd0" data-media-id="726ab384b1e99a23ce91470001df98ca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMahvEpu2reE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/726ab384b1e99a23ce91470001df98ca?postId=87072b65efd0" data-media-id="726ab384b1e99a23ce91470001df98ca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMahvEpu2reE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -148,7 +148,7 @@ Determining which coffee Amazon should fulfill on was a separate task, and requi
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/1df79f273a9b79ca4c1c4f7e4f2f4bb3?postId=87072b65efd0" data-media-id="1df79f273a9b79ca4c1c4f7e4f2f4bb3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxAJkHwf8dvw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/1df79f273a9b79ca4c1c4f7e4f2f4bb3?postId=87072b65efd0" data-media-id="1df79f273a9b79ca4c1c4f7e4f2f4bb3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxAJkHwf8dvw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Indrek Lasn
 authorTwitter: https://twitter.com/lasnindrek
-authorFacebook: false
+authorFacebook: none
 title: "The best front-end hacking cheatsheets — all in one place."
 subTitle: "It’s rather impossible to remember all the APIs by heart. This is when cheatsheets jump in! Here are the best front-end cheatsheets I’ve ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*l90SMm_aR9UD8m9QDu3kKA.png

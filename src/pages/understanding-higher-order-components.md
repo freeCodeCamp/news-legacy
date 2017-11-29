@@ -1,7 +1,7 @@
 ---
 author: Tom Coleman
 authorTwitter: https://twitter.com/tmeasday
-authorFacebook: false
+authorFacebook: none
 title: "Understanding Higher Order Components"
 subTitle: "Making sense of the rapidly changing React best practice."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*w4MV4Ufnk2WWY4LgX9ZhPA.jpeg
@@ -70,7 +70,7 @@ A recent trend in React is towards **functional stateless components**. These si
 
 
 
-<iframe width="700" height="250" src="/media/ba86f935041c86c4baef10fbd4cf0b11?postId=6ce359d761b" data-media-id="ba86f935041c86c4baef10fbd4cf0b11" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F132554%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ba86f935041c86c4baef10fbd4cf0b11?postId=6ce359d761b" data-media-id="ba86f935041c86c4baef10fbd4cf0b11" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F132554%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -148,7 +148,7 @@ For example, in the world of Redux (if we didn’t have `react-redux`'s `connect
 
 
 
-<iframe width="700" height="250" src="/media/e5deebb1556c501f3daa13ceb12e80f5?postId=6ce359d761b" data-media-id="e5deebb1556c501f3daa13ceb12e80f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F132554%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e5deebb1556c501f3daa13ceb12e80f5?postId=6ce359d761b" data-media-id="e5deebb1556c501f3daa13ceb12e80f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F132554%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ In fact, it might be simpler just to write a function that **generates** the con
 
 
 
-<iframe width="700" height="250" src="/media/c534a88f87ebcefadef7b00c89f293e3?postId=6ce359d761b" data-media-id="c534a88f87ebcefadef7b00c89f293e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F132554%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c534a88f87ebcefadef7b00c89f293e3?postId=6ce359d761b" data-media-id="c534a88f87ebcefadef7b00c89f293e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F132554%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

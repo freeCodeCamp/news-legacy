@@ -1,7 +1,7 @@
 ---
 author: Romain Aubert
 authorTwitter: https://twitter.com/romaub
-authorFacebook: false
+authorFacebook: none
 title: "How to build a community at 33,000 feet in 80 hours"
 subTitle: "A few weeks ago, I got on a A380 from Hong Kong to London for free, with 31 other people: developers, designers, and other entrepreneurs...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*pAyFup3BlaEOnNFr66q0-A.jpeg
@@ -135,7 +135,7 @@ I’d also keep Simon Sinek’s quote in mind while we talk about building trust
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/6255548d0420e37aa0916e816101a157?postId=d24fd555b8c3" data-media-id="6255548d0420e37aa0916e816101a157" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1223982572%2F73568_442667360546_566455546_5371102_4263136_n_400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/6255548d0420e37aa0916e816101a157?postId=d24fd555b8c3" data-media-id="6255548d0420e37aa0916e816101a157" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1223982572%2F73568_442667360546_566455546_5371102_4263136_n_400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -205,7 +205,7 @@ It remains to be seen.
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/2c52d8c2c7a99fa7401a51fffe92d783?postId=d24fd555b8c3" data-media-id="2c52d8c2c7a99fa7401a51fffe92d783" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/2c52d8c2c7a99fa7401a51fffe92d783?postId=d24fd555b8c3" data-media-id="2c52d8c2c7a99fa7401a51fffe92d783" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

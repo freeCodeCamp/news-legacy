@@ -1,7 +1,7 @@
 ---
 author: Dmitri Zimine
 authorTwitter: https://twitter.com/dzimine
-authorFacebook: false
+authorFacebook: none
 title: "Serverless is cheaper, not simpler"
 subTitle: "The (Emit) conference last week featured a lineup of excellent talks, an engaging panel discussion, and plenty of time to meet and exchan..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*jIpMoYfpftPWmx-x.

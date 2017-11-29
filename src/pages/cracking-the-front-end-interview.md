@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "Cracking the front-end interview"
 subTitle: "Technical front-end interviews are difficult. That’s a fact. Not only do you need to have a solid grasp of computer science fundamentals,..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*fM15DmX9fOiTyFftaxRbPg.png

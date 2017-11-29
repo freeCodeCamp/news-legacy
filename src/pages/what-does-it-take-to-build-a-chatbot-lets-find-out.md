@@ -101,7 +101,7 @@ Finally, the following code is how the API’s response should appear for a reso
 
 
 
-<iframe width="700" height="250" src="/media/e2b591ea5c3463e5f66a0d9bf11028cf?postId=b4d009ea8cfd" data-media-id="e2b591ea5c3463e5f66a0d9bf11028cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e2b591ea5c3463e5f66a0d9bf11028cf?postId=b4d009ea8cfd" data-media-id="e2b591ea5c3463e5f66a0d9bf11028cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -119,7 +119,7 @@ We are building a chat app. The communication between the client and the server 
 
 
 
-<iframe width="700" height="250" src="/media/1de6e28a20a2a0c2fc11456df0ae501f?postId=b4d009ea8cfd" data-media-id="1de6e28a20a2a0c2fc11456df0ae501f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1de6e28a20a2a0c2fc11456df0ae501f?postId=b4d009ea8cfd" data-media-id="1de6e28a20a2a0c2fc11456df0ae501f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -143,7 +143,7 @@ The `processRequest(msg)` represents the core of our server’s functionality. I
 
 
 
-<iframe width="700" height="250" src="/media/088ddafeb25148864608581cb39b3f6b?postId=b4d009ea8cfd" data-media-id="088ddafeb25148864608581cb39b3f6b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/088ddafeb25148864608581cb39b3f6b?postId=b4d009ea8cfd" data-media-id="088ddafeb25148864608581cb39b3f6b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -155,7 +155,7 @@ Then, it executes with`doIntent()` — the specific action for the user’s 
 
 
 
-<iframe width="700" height="250" src="/media/ed6f5ace3b6b48f5c856548dee13771a?postId=b4d009ea8cfd" data-media-id="ed6f5ace3b6b48f5c856548dee13771a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ed6f5ace3b6b48f5c856548dee13771a?postId=b4d009ea8cfd" data-media-id="ed6f5ace3b6b48f5c856548dee13771a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -169,7 +169,7 @@ The action handlers are in our intents module:
 
 
 
-<iframe width="700" height="250" src="/media/4c7f90b4bcba22745a9b38e9459f7365?postId=b4d009ea8cfd" data-media-id="4c7f90b4bcba22745a9b38e9459f7365" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4c7f90b4bcba22745a9b38e9459f7365?postId=b4d009ea8cfd" data-media-id="4c7f90b4bcba22745a9b38e9459f7365" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -191,7 +191,7 @@ Our app is a single Angular component. The most important functionality is withi
 
 
 
-<iframe width="700" height="250" src="/media/b061787d2f713271991aac35eb122492?postId=b4d009ea8cfd" data-media-id="b061787d2f713271991aac35eb122492" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b061787d2f713271991aac35eb122492?postId=b4d009ea8cfd" data-media-id="b061787d2f713271991aac35eb122492" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -226,7 +226,7 @@ We use the component’s private `pushMsg()` method to add a message and to show
 
 
 
-<iframe width="700" height="250" src="/media/427b5d33204bf4d275474cde7f481212?postId=b4d009ea8cfd" data-media-id="427b5d33204bf4d275474cde7f481212" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/427b5d33204bf4d275474cde7f481212?postId=b4d009ea8cfd" data-media-id="427b5d33204bf4d275474cde7f481212" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -240,7 +240,7 @@ We handle the user input with the `onSubmit()` method when the user hits Enter:
 
 
 
-<iframe width="700" height="250" src="/media/8c9969f21ae09b42e1b6b75abc1cd8fd?postId=b4d009ea8cfd" data-media-id="8c9969f21ae09b42e1b6b75abc1cd8fd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8c9969f21ae09b42e1b6b75abc1cd8fd?postId=b4d009ea8cfd" data-media-id="8c9969f21ae09b42e1b6b75abc1cd8fd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -254,7 +254,7 @@ The Angular’s component template we use as the UI of our app, consists of the 
 
 
 
-<iframe width="700" height="250" src="/media/71f91f7f6ddaf3f1adac98b7ff71c361?postId=b4d009ea8cfd" data-media-id="71f91f7f6ddaf3f1adac98b7ff71c361" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/71f91f7f6ddaf3f1adac98b7ff71c361?postId=b4d009ea8cfd" data-media-id="71f91f7f6ddaf3f1adac98b7ff71c361" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F408278%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

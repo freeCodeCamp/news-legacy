@@ -1,7 +1,7 @@
 ---
 author: Peter Gleeson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How I built a web server using Go — and on ChromeOS"
 subTitle: "Linux →ChromeOS →Android →Linux Emulator"
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*jHeP1Jefk_56SFZY.jpg

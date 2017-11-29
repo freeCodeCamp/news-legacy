@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "You Need a JavaScript Starter Kit"
 subTitle: "40 Reasons Why…"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*aX8wNs_oVQ4ZZDUzowiolg.jpeg

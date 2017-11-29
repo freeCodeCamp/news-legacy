@@ -1,7 +1,7 @@
 ---
 author: Mariya Diminsky
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Learn ES6 The Dope Way Part I: const, let &amp; var"
 subTitle: "Welcome to Part I of Learn ES6 The Dope Way, a series created to help you easily understand ES6 (ECMAScript 6)!..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*RuxaPPPrL6K09eF4pFhISw.jpeg
@@ -59,7 +59,7 @@ Examples:
 
 
 
-<iframe width="700" height="250" src="/media/c4c7fd9ee616f0341cd17b3f8fa2a256?postId=ae828580472b" data-media-id="c4c7fd9ee616f0341cd17b3f8fa2a256" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c4c7fd9ee616f0341cd17b3f8fa2a256?postId=ae828580472b" data-media-id="c4c7fd9ee616f0341cd17b3f8fa2a256" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -92,7 +92,7 @@ Examples:
 
 
 
-<iframe width="700" height="250" src="/media/8527b1190c387f8aec8465b5994f4a96?postId=ae828580472b" data-media-id="8527b1190c387f8aec8465b5994f4a96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8527b1190c387f8aec8465b5994f4a96?postId=ae828580472b" data-media-id="8527b1190c387f8aec8465b5994f4a96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ On the other hand, with _let_, every div has its own value, as its own div scope
 
 
 
-<iframe width="700" height="250" src="/media/a159c903c9f8e33795c6bd13841983e7?postId=ae828580472b" data-media-id="a159c903c9f8e33795c6bd13841983e7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a159c903c9f8e33795c6bd13841983e7?postId=ae828580472b" data-media-id="a159c903c9f8e33795c6bd13841983e7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

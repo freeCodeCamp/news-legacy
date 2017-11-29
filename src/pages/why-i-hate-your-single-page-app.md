@@ -1,7 +1,7 @@
 ---
 author: Stefan Tilkov
 authorTwitter: https://twitter.com/stilkov
-authorFacebook: false
+authorFacebook: none
 title: "Why I hate your Single Page App"
 subTitle: "Okay, now that I have your attention, let me say that I don’t really hate your single page app. I just find it highly annoying, unless it..."
 coverSrc: placeholder

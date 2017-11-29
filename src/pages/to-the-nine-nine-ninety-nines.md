@@ -56,7 +56,7 @@ A website that’s built for developers, by developers, with a strong engineerin
 
 
 
-<iframe width="500" height="250" src="/media/d10abc459763d4dadf19e14f2c336e15?postId=9f6b08be72df" data-media-id="d10abc459763d4dadf19e14f2c336e15" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/d10abc459763d4dadf19e14f2c336e15?postId=9f6b08be72df" data-media-id="d10abc459763d4dadf19e14f2c336e15" allowfullscreen="" frameborder="0"></iframe>
 
 
 

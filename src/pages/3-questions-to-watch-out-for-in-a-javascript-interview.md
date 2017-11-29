@@ -1,7 +1,7 @@
 ---
 author: Daniel Borowski
 authorTwitter: https://twitter.com/borowskidaniel
-authorFacebook: false
+authorFacebook: none
 title: "3 JavaScript questions to watch out for during coding interviews"
 subTitle: "JavaScript is the official language of all modern web browsers. As such, JavaScript questions come up in all sorts of developer interview..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*pTg8YVc-Hdps3vGURqJGDQ.jpeg
@@ -50,7 +50,7 @@ If we take a simple todo list as an example, the interviewer may tell you that t
 
 
 
-<iframe width="700" height="250" src="/media/8d86b6952be4b90176390c33db7b495d?postId=725012834ccb" data-media-id="8d86b6952be4b90176390c33db7b495d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8d86b6952be4b90176390c33db7b495d?postId=725012834ccb" data-media-id="8d86b6952be4b90176390c33db7b495d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -62,7 +62,7 @@ You may want to do something like the following to attach event listeners to the
 
 
 
-<iframe width="700" height="250" src="/media/0317db3c942623e78c20e63270112b30?postId=725012834ccb" data-media-id="0317db3c942623e78c20e63270112b30" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0317db3c942623e78c20e63270112b30?postId=725012834ccb" data-media-id="0317db3c942623e78c20e63270112b30" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -80,7 +80,7 @@ Here’s the code for event delegation:
 
 
 
-<iframe width="700" height="250" src="/media/0b9c3abb10d7a8e8f54dc1d99c0d5aa1?postId=725012834ccb" data-media-id="0b9c3abb10d7a8e8f54dc1d99c0d5aa1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0b9c3abb10d7a8e8f54dc1d99c0d5aa1?postId=725012834ccb" data-media-id="0b9c3abb10d7a8e8f54dc1d99c0d5aa1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ A common (incorrect) implementation I’ve seen for this problem looks something
 
 
 
-<iframe width="700" height="250" src="/media/32f0eaafbf3a1c1c62b58f863a93b1a7?postId=725012834ccb" data-media-id="32f0eaafbf3a1c1c62b58f863a93b1a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/32f0eaafbf3a1c1c62b58f863a93b1a7?postId=725012834ccb" data-media-id="32f0eaafbf3a1c1c62b58f863a93b1a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ There are actually [a few ways](http://stackoverflow.com/questions/3572480/pleas
 
 
 
-<iframe width="700" height="250" src="/media/36b7d650b3fa13c84fbd59af0b8e132e?postId=725012834ccb" data-media-id="36b7d650b3fa13c84fbd59af0b8e132e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/36b7d650b3fa13c84fbd59af0b8e132e?postId=725012834ccb" data-media-id="36b7d650b3fa13c84fbd59af0b8e132e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ There are actually [a few ways](http://stackoverflow.com/questions/3572480/pleas
 
 
 
-<iframe width="700" height="250" src="/media/c42b83ea5cc8074c319271b7908c15d0?postId=725012834ccb" data-media-id="c42b83ea5cc8074c319271b7908c15d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c42b83ea5cc8074c319271b7908c15d0?postId=725012834ccb" data-media-id="c42b83ea5cc8074c319271b7908c15d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -148,7 +148,7 @@ Debouncing is one way to solve this issue by limiting the time that needs to pas
 
 
 
-<iframe width="700" height="250" src="/media/30b0addc7f0b0e5dedceb676c8071b67?postId=725012834ccb" data-media-id="30b0addc7f0b0e5dedceb676c8071b67" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/30b0addc7f0b0e5dedceb676c8071b67?postId=725012834ccb" data-media-id="30b0addc7f0b0e5dedceb676c8071b67" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -162,7 +162,7 @@ You would use this function like so:
 
 
 
-<iframe width="700" height="250" src="/media/23c510d557a30feaae00967e43841b73?postId=725012834ccb" data-media-id="23c510d557a30feaae00967e43841b73" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/23c510d557a30feaae00967e43841b73?postId=725012834ccb" data-media-id="23c510d557a30feaae00967e43841b73" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4612283%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

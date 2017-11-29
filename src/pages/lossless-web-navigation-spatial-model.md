@@ -1,7 +1,7 @@
 ---
 author: Patryk Adaś
 authorTwitter: https://twitter.com/patrykadas
-authorFacebook: false
+authorFacebook: none
 title: "A Spacial Model for Lossless Web Navigation"
 subTitle: "In my last post I described the concept of navigation trails as an evolution of the standard tabbed browsing model...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*o68S8d3Ui0YaNEftvhqGcg.png

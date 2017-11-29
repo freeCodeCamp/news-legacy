@@ -1,7 +1,7 @@
 ---
 author: Victor F. Santos
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "We just launched an open source product. So what happens next?"
 subTitle: "Last month me and the ninja god Pedro launched GitShowcase, a plug-and-play portfolio for developers. Open source and free...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*-m9PuNCzweMOUaJb.png
@@ -146,7 +146,7 @@ It surprised us positively because we were featured in really cool websites, suc
 
 
 
-<iframe data-width="500" data-height="405" width="500" height="405" src="/media/4528c063c1a45ec07ea9d9ee63c0de79?postId=e586b6d8b99c" data-media-id="4528c063c1a45ec07ea9d9ee63c0de79" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fph-files.imgix.net%2Fc3b736a3-8734-4972-8cd6-fab5bdc74f6f%3Fauto%3Dformat%26fit%3Dmax%26h%3D405%26w%3D500&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="405" width="500" height="405" src="https://medium.freecodecamp.org/media/4528c063c1a45ec07ea9d9ee63c0de79?postId=e586b6d8b99c" data-media-id="4528c063c1a45ec07ea9d9ee63c0de79" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fph-files.imgix.net%2Fc3b736a3-8734-4972-8cd6-fab5bdc74f6f%3Fauto%3Dformat%26fit%3Dmax%26h%3D405%26w%3D500&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

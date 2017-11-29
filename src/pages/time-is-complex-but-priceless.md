@@ -1,7 +1,7 @@
 ---
 author: Michael Olorunnisola
 authorTwitter: https://twitter.com/MikeOlor
-authorFacebook: false
+authorFacebook: none
 title: "Algorithms in plain English: time complexity and Big-O notation"
 subTitle: "Every good developer has time on their mind. They want to give their users more of it, so they can do all those things they enjoy. They d..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*1-5hf_o6j3szhVe33L104A.jpeg

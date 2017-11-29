@@ -42,7 +42,7 @@ I’ve also recorded a 7-minute video version of this article:
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/1f2fd32b04fe456b6b448e6e4288989d?postId=4302958331f7" data-media-id="1f2fd32b04fe456b6b448e6e4288989d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaF3-ub5bkXQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/1f2fd32b04fe456b6b448e6e4288989d?postId=4302958331f7" data-media-id="1f2fd32b04fe456b6b448e6e4288989d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaF3-ub5bkXQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

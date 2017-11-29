@@ -1,7 +1,7 @@
 ---
 author: Zach Grosser
 authorTwitter: https://twitter.com/zachgrosser
-authorFacebook: false
+authorFacebook: none
 title: "Figma’s reimagined Team Library"
 subTitle: "A new, more powerful interface for sharing Components across your organization"
 coverSrc: https://cdn-images-1.medium.com/max/1200/1*E_PZbYUNCYEk5zw6pM5_Zw.png

@@ -100,7 +100,7 @@ If you don’t believe me, just listen to how monopolies like Comcast currently 
 
 
 
-<iframe data-width="800" data-height="166" width="700" height="145" src="/media/b9c01941370e23bab405fc5c1d54715f?postId=1a341baf5d86" data-media-id="b9c01941370e23bab405fc5c1d54715f" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000085307814-otary0-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="166" width="700" height="145" src="https://medium.freecodecamp.org/media/b9c01941370e23bab405fc5c1d54715f?postId=1a341baf5d86" data-media-id="b9c01941370e23bab405fc5c1d54715f" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000085307814-otary0-t500x500.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ If you don’t believe me, just listen to how monopolies like Comcast currently 
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/322f5a7e02df610aa9d5f497c7609f6e?postId=1a341baf5d86" data-media-id="322f5a7e02df610aa9d5f497c7609f6e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F260521.BpORNb.small.5fa64c8c-f919-458f-acc8-9566bb974e4a.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/322f5a7e02df610aa9d5f497c7609f6e?postId=1a341baf5d86" data-media-id="322f5a7e02df610aa9d5f497c7609f6e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F260521.BpORNb.small.5fa64c8c-f919-458f-acc8-9566bb974e4a.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -143,7 +143,7 @@ And if you want to break out the popcorn, watch John Oliver’s hilarious tribut
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/be0dd30cf3f43159bf3dacf7801a8fcb?postId=1a341baf5d86" data-media-id="be0dd30cf3f43159bf3dacf7801a8fcb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfpbOEoRrHyU%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/be0dd30cf3f43159bf3dacf7801a8fcb?postId=1a341baf5d86" data-media-id="be0dd30cf3f43159bf3dacf7801a8fcb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfpbOEoRrHyU%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

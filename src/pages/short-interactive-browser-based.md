@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Short, Interactive, Browser-based"
 subTitle: "During our first two months, we learned a lot about our community by talking with them and observing their behavior. Based on these insig..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*oWyaqNgQ-G3GsGH0.jpg

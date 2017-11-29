@@ -1,7 +1,7 @@
 ---
 author: Drew Firment
 authorTwitter: https://twitter.com/drewfirment
-authorFacebook: false
+authorFacebook: none
 title: "How to train like a cloud guru"
 subTitle: "During my journey across the flow of a large-scale enterprise cloud adoption, I discovered that the greatest barrier to mass migrations i..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*fPKv6yB4M3uGXb4PZyTOJQ.jpeg

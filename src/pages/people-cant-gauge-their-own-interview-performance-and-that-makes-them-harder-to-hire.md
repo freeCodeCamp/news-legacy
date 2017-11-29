@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "People can’t gauge their own interview performance. And that makes them harder to hire."
 subTitle: "My experience as a software engineer — and as someone who recruits software engineers — has convinced me of two things:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*xfX1-CoUOQuoxYLSJhrZ6w.jpeg

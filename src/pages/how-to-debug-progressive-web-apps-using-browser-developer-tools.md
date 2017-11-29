@@ -1,7 +1,7 @@
 ---
 author: Write Software
 authorTwitter: https://twitter.com/writesoftware
-authorFacebook: false
+authorFacebook: none
 title: "How to debug Progressive Web Apps using Browser Developer Tools"
 subTitle: "This tutorial explains what tools the Chrome and Firefox Dev Tools display that help you debug a Progressive Web App...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*U3wBg7ofxcz0JPLMjjMd7A.png

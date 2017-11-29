@@ -1,7 +1,7 @@
 ---
 author: Chim Himidumage
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How we got hundreds of Sri Lankans to use freeCodeCamp at Google I/O"
 subTitle: "freeCodeCamp is helping train thousands of Sri Lankans to join the developer workforce. But most people here still haven’t heard of the p..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Yetzn0buNukHW4yNJq7jzw.jpeg

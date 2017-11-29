@@ -1,7 +1,7 @@
 ---
 author: Vivian Cromwell
 authorTwitter: https://twitter.com/viviancromwell
-authorFacebook: false
+authorFacebook: none
 title: "Between the Wires: An interview with developer and entrepreneur Guillermo Rauch"
 subTitle: "I interviewed Guillermo Rauch, the founder of zeit.co. Zeit’s mission is to make cloud deployment simple, global, and real time. Rauch al..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Q2YEyS0BkehpBQ7yfSxIMQ.jpeg
@@ -234,7 +234,7 @@ I’m also passionate about design, I’m always thinking about what little appl
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/b3df5dcd0dc099c1ca67ceeaee248475?postId=1ce38774056a" data-media-id="b3df5dcd0dc099c1ca67ceeaee248475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/b3df5dcd0dc099c1ca67ceeaee248475?postId=1ce38774056a" data-media-id="b3df5dcd0dc099c1ca67ceeaee248475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

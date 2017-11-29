@@ -60,7 +60,7 @@ WordPress — which powers about 25% of all websites — said [they woul
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/4bced36118b0ff8efe3b3c6f1afa39ad?postId=5878478913b2" data-media-id="4bced36118b0ff8efe3b3c6f1afa39ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F446356636710363136%2FOYIaJ1KK_400x400.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/4bced36118b0ff8efe3b3c6f1afa39ad?postId=5878478913b2" data-media-id="4bced36118b0ff8efe3b3c6f1afa39ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F446356636710363136%2FOYIaJ1KK_400x400.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

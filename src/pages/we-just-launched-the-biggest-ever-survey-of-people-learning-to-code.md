@@ -60,7 +60,7 @@ So, after getting a sanity check from Free Code Camp’s core team, I went where
 
 
 
-<iframe width="500" height="250" src="/media/ae412793651c41bded6858dce87cfc30?postId=cac81dadf1ea" data-media-id="ae412793651c41bded6858dce87cfc30" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/ae412793651c41bded6858dce87cfc30?postId=cac81dadf1ea" data-media-id="ae412793651c41bded6858dce87cfc30" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -98,7 +98,7 @@ We announced the survey to our open source community yesterday afternoon, and wo
 
 
 
-<iframe width="500" height="250" src="/media/d15ca764029ba0db3cb614147b8a4120?postId=cac81dadf1ea" data-media-id="d15ca764029ba0db3cb614147b8a4120" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/d15ca764029ba0db3cb614147b8a4120?postId=cac81dadf1ea" data-media-id="d15ca764029ba0db3cb614147b8a4120" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -108,7 +108,7 @@ We announced the survey to our open source community yesterday afternoon, and wo
 
 
 
-<iframe data-width="600" data-height="600" width="600" height="600" src="/media/dbed390c8bc0340bc440baa891f7e4cf?postId=cac81dadf1ea" data-media-id="dbed390c8bc0340bc440baa891f7e4cf" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="600" width="600" height="600" src="https://medium.freecodecamp.org/media/dbed390c8bc0340bc440baa891f7e4cf?postId=cac81dadf1ea" data-media-id="dbed390c8bc0340bc440baa891f7e4cf" allowfullscreen="" frameborder="0"></iframe>
 
 
 

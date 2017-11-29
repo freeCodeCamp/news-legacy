@@ -1,6 +1,6 @@
 ---
 author: Felix Feng
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1038750720
 title: "I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned."
 subTitle: "A less-talked about part of the bootcamper’s journey is what happens after you graduate — when you’re searching for that six-figure devel..."

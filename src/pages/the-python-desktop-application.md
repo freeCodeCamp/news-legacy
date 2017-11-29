@@ -1,7 +1,7 @@
 ---
 author: Cristian Medina
 authorTwitter: https://twitter.com/tryexceptpass
-authorFacebook: false
+authorFacebook: none
 title: "How to Turn a Web App Into a Desktop App, Using Chromium and PyInstaller"
 subTitle: "Packaging and distributing your app sounds simple in principle. It’s just software. But in practice, it’s quite challenging...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*lmD7FIkUL4t5P-swMEPH7Q.jpeg
@@ -105,7 +105,7 @@ For an example of the browser-based user interface packaged with the system desc
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/07e1ddbe778930e60dd2e5db30c12002?postId=3a66b4a128d3" data-media-id="07e1ddbe778930e60dd2e5db30c12002" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTcx8kwmGWA0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/07e1ddbe778930e60dd2e5db30c12002?postId=3a66b4a128d3" data-media-id="07e1ddbe778930e60dd2e5db30c12002" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTcx8kwmGWA0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

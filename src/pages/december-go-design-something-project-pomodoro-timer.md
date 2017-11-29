@@ -1,7 +1,7 @@
 ---
 author: K. Anthony
 authorTwitter: https://twitter.com/anthkris
-authorFacebook: false
+authorFacebook: none
 title: "December Go Design Something Project: Pomodoro Timer"
 subTitle: "The end of the year has been sneaking up on me. I realized that I’ve been seriously neglecting my Free Code Camp practice...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*50luvvhhF28cOaFut3TS_g.png
@@ -96,7 +96,7 @@ So, 89 versions in, I was finally able to add the progress bar to my app.
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/35647a71fdda8c077913169da33d3f10?postId=9617ac5d733b" data-media-id="35647a71fdda8c077913169da33d3f10" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/35647a71fdda8c077913169da33d3f10?postId=9617ac5d733b" data-media-id="35647a71fdda8c077913169da33d3f10" allowfullscreen="" frameborder="0"></iframe>
 
 
 

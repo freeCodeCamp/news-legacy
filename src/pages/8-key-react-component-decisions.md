@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "8 Key React Component Decisions"
 subTitle: "Standardize your React development with these key decisions"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*XgHYXVXoyziBKd7Or5IliQ.jpeg
@@ -46,7 +46,7 @@ Before you write your first component, your team needs to agree on a dev environ
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/35e2d857072f871b6eaf124936ff451b?postId=cc965db11594" data-media-id="35e2d857072f871b6eaf124936ff451b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/35e2d857072f871b6eaf124936ff451b?postId=cc965db11594" data-media-id="35e2d857072f871b6eaf124936ff451b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -64,7 +64,7 @@ The community remains divided on this topic:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/071321ad7e2f3d3cfd84ca705d9f3633?postId=cc965db11594" data-media-id="071321ad7e2f3d3cfd84ca705d9f3633" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/071321ad7e2f3d3cfd84ca705d9f3633?postId=cc965db11594" data-media-id="071321ad7e2f3d3cfd84ca705d9f3633" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -88,7 +88,7 @@ You can use plain React component state. It’s sufficient. [Lifting state](http
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/fe3dac9acf2f83eb4a36bf52cdfdb930?postId=cc965db11594" data-media-id="fe3dac9acf2f83eb4a36bf52cdfdb930" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F578245151677501440%2F7RXysXXe_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/fe3dac9acf2f83eb4a36bf52cdfdb930?postId=cc965db11594" data-media-id="fe3dac9acf2f83eb4a36bf52cdfdb930" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F578245151677501440%2F7RXysXXe_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -108,7 +108,7 @@ This poll is from Aug 2016\. Since then, it appears class properties have grown 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/e437ed3bd7cf07ebd022d15765581342?postId=cc965db11594" data-media-id="e437ed3bd7cf07ebd022d15765581342" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/e437ed3bd7cf07ebd022d15765581342?postId=cc965db11594" data-media-id="e437ed3bd7cf07ebd022d15765581342" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F650743198348808192%2FLT6SeOJr_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ React initially embraced [mixins](https://reactjs.org/docs/react-without-es6.htm
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/ade50e3b98b53fc563ad908979a131cf?postId=cc965db11594" data-media-id="ade50e3b98b53fc563ad908979a131cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F759557613445001216%2F6M2E1l4q_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/ade50e3b98b53fc563ad908979a131cf?postId=cc965db11594" data-media-id="ade50e3b98b53fc563ad908979a131cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F759557613445001216%2F6M2E1l4q_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -168,7 +168,7 @@ Higher-order components are currently more popular, but I prefer render props si
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a593086aef40326eba135e5931fe3917?postId=cc965db11594" data-media-id="a593086aef40326eba135e5931fe3917" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBcVAq3YFiuc%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a593086aef40326eba135e5931fe3917?postId=cc965db11594" data-media-id="a593086aef40326eba135e5931fe3917" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBcVAq3YFiuc%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Michelle Glauser
 authorTwitter: https://twitter.com/MichelleGlauser
-authorFacebook: false
+authorFacebook: none
 title: "The Numbers of the #ILookLikeAnEngineer Ad Campaign"
 subTitle: "Last summer, my spouse’s coworker was featured in an engineer recruitment ad campaign in San Francisco’s BART stations. Many people respo..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Xkz5gQUk6nKib8HqKekwWw.png
@@ -256,7 +256,7 @@ I started giving away free #ILookLikeAnEngineer poster PDFs to teachers in Novem
 
 
 
-<iframe width="500" height="250" src="/media/796cade7b1bdb85a8138e1a7b4bd13b3?postId=7fae0d024e3a" data-media-id="796cade7b1bdb85a8138e1a7b4bd13b3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCUnMdESUcAALL-P.png%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/796cade7b1bdb85a8138e1a7b4bd13b3?postId=7fae0d024e3a" data-media-id="796cade7b1bdb85a8138e1a7b4bd13b3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCUnMdESUcAALL-P.png%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

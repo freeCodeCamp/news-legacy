@@ -1,7 +1,7 @@
 ---
 author: Evaristo Caraballo
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "The 12 YouTube videos new developers mention the most"
 subTitle: "The freeCodeCamp community generates gigabytes of data each week. One of the most active parts of the community is the chat room system. ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*2rK6gBMkTSyTEYZ6YHRrlQ.jpeg
@@ -46,7 +46,7 @@ Out of the thousands of YouTube videos mentioned, here are the 12 most-commonly 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a661a28c8cc4ab11cdfc9f9487ebd139?postId=f2d1fce337ca" data-media-id="a661a28c8cc4ab11cdfc9f9487ebd139" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8aGhZQkoFbQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a661a28c8cc4ab11cdfc9f9487ebd139?postId=f2d1fce337ca" data-media-id="a661a28c8cc4ab11cdfc9f9487ebd139" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8aGhZQkoFbQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -62,7 +62,7 @@ To explain the event loop, Philip goes through other essential concepts like cal
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/89432b3fb9ee91d7198c4f0e3c6d7f21?postId=f2d1fce337ca" data-media-id="89432b3fb9ee91d7198c4f0e3c6d7f21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqZKvZzRynLE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/89432b3fb9ee91d7198c4f0e3c6d7f21?postId=f2d1fce337ca" data-media-id="89432b3fb9ee91d7198c4f0e3c6d7f21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqZKvZzRynLE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -80,7 +80,7 @@ Another interview Matt Tran conducted with Quincy on the same afternoon — 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/4f6ae83bd545430ad93022b09c9b9f64?postId=f2d1fce337ca" data-media-id="4f6ae83bd545430ad93022b09c9b9f64" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2klCZXwfvLs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/4f6ae83bd545430ad93022b09c9b9f64?postId=f2d1fce337ca" data-media-id="4f6ae83bd545430ad93022b09c9b9f64" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2klCZXwfvLs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -98,7 +98,7 @@ After recording this, Dylan earned his freeCodeCamp Front End Development certif
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a3d9b7098579a7285bd8d811eee99e7f?postId=f2d1fce337ca" data-media-id="a3d9b7098579a7285bd8d811eee99e7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEkluES9Rvak%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a3d9b7098579a7285bd8d811eee99e7f?postId=f2d1fce337ca" data-media-id="a3d9b7098579a7285bd8d811eee99e7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEkluES9Rvak%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ It’s a good summary of what Regular Expressions are, how they work, where to a
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f203fb614041c9662c896f6124e3b7c6?postId=f2d1fce337ca" data-media-id="f203fb614041c9662c896f6124e3b7c6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQlr-FGbhKaI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f203fb614041c9662c896f6124e3b7c6?postId=f2d1fce337ca" data-media-id="f203fb614041c9662c896f6124e3b7c6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQlr-FGbhKaI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ Video #9 in the FunFunFunction series by [Mattias Petter Johansson](https://medi
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/4333368281fa9552864884adf78dcab9?postId=f2d1fce337ca" data-media-id="4333368281fa9552864884adf78dcab9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ffju9ii8YsGs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/4333368281fa9552864884adf78dcab9?postId=f2d1fce337ca" data-media-id="4333368281fa9552864884adf78dcab9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ffju9ii8YsGs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ Note that he recorded this in 2015, so it doesn’t include the latest ES6 impro
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/67f333936b5a5ea04373874e66e0e1dd?postId=f2d1fce337ca" data-media-id="67f333936b5a5ea04373874e66e0e1dd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJduQUNn7L4w%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/67f333936b5a5ea04373874e66e0e1dd?postId=f2d1fce337ca" data-media-id="67f333936b5a5ea04373874e66e0e1dd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJduQUNn7L4w%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ Note that this was recorded in 2014, and doesn’t include the latest ES6 improv
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/0db185dedf26db3230c894816b8233f4?postId=f2d1fce337ca" data-media-id="0db185dedf26db3230c894816b8233f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBv_5Zv5c-Ts%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/0db185dedf26db3230c894816b8233f4?postId=f2d1fce337ca" data-media-id="0db185dedf26db3230c894816b8233f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBv_5Zv5c-Ts%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -176,7 +176,7 @@ The complete course is more than 11 hours of videos, but it’s not free. The co
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/934ab4f1f1da455e302be3bee017069a?postId=f2d1fce337ca" data-media-id="934ab4f1f1da455e302be3bee017069a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcySXdUEX0Xw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/934ab4f1f1da455e302be3bee017069a?postId=f2d1fce337ca" data-media-id="934ab4f1f1da455e302be3bee017069a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcySXdUEX0Xw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -192,7 +192,7 @@ He encourages people who want to learn on their own to use free platforms, thoug
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/656b099456792c7354546f7ff0828461?postId=f2d1fce337ca" data-media-id="656b099456792c7354546f7ff0828461" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsBzRwzY7G-k%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/656b099456792c7354546f7ff0828461?postId=f2d1fce337ca" data-media-id="656b099456792c7354546f7ff0828461" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsBzRwzY7G-k%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -206,7 +206,7 @@ LearnCode.academy created this overview of what they think web developers should
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/1a49296f8d5f2a1ecbf3eb260bc4c5db?postId=f2d1fce337ca" data-media-id="1a49296f8d5f2a1ecbf3eb260bc4c5db" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0yzRW8yqN4M%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/1a49296f8d5f2a1ecbf3eb260bc4c5db?postId=f2d1fce337ca" data-media-id="1a49296f8d5f2a1ecbf3eb260bc4c5db" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0yzRW8yqN4M%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -220,7 +220,7 @@ Stefan Mischook, a seasoned developer, talks about what you need to become an ex
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/2e2b8bc390d92281f81a74d51600b352?postId=f2d1fce337ca" data-media-id="2e2b8bc390d92281f81a74d51600b352" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6G3kQyqMFpQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/2e2b8bc390d92281f81a74d51600b352?postId=f2d1fce337ca" data-media-id="2e2b8bc390d92281f81a74d51600b352" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6G3kQyqMFpQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -238,7 +238,7 @@ As a bonus, here are some extremely popular videos that aren’t directly relate
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a388ccc5ede6b0f4d7eace3e02ec780e?postId=f2d1fce337ca" data-media-id="a388ccc5ede6b0f4d7eace3e02ec780e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZXsQAXx_ao0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a388ccc5ede6b0f4d7eace3e02ec780e?postId=f2d1fce337ca" data-media-id="a388ccc5ede6b0f4d7eace3e02ec780e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZXsQAXx_ao0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -252,7 +252,7 @@ Possibly the funniest motivational video ever made. The original video, and its 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/fb93f96231c6cde6ce404c4aca1eb69e?postId=f2d1fce337ca" data-media-id="fb93f96231c6cde6ce404c4aca1eb69e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1S1fISh-pag%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/fb93f96231c6cde6ce404c4aca1eb69e?postId=f2d1fce337ca" data-media-id="fb93f96231c6cde6ce404c4aca1eb69e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1S1fISh-pag%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -278,7 +278,7 @@ If you clicked the link, congratulations. You have been [Rickrolled](https://en.
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/7d9fd241707b667282aadd6a5e5cdd15?postId=f2d1fce337ca" data-media-id="7d9fd241707b667282aadd6a5e5cdd15" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlKXe3HUG2l4%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/7d9fd241707b667282aadd6a5e5cdd15?postId=f2d1fce337ca" data-media-id="7d9fd241707b667282aadd6a5e5cdd15" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlKXe3HUG2l4%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -292,7 +292,7 @@ A presentation by Joe Armstrong, one of the inventors of Erlang, at the _Strange
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/33a3271ff4cb93d52af5baa4281d3afe?postId=f2d1fce337ca" data-media-id="33a3271ff4cb93d52af5baa4281d3afe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb-Cr0EWwaTk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/33a3271ff4cb93d52af5baa4281d3afe?postId=f2d1fce337ca" data-media-id="33a3271ff4cb93d52af5baa4281d3afe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb-Cr0EWwaTk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -306,7 +306,7 @@ A humorous rap video filled with stereotypes about programmers.
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/982a7971135fa71c4d1b7a44a9a0ec45?postId=f2d1fce337ca" data-media-id="982a7971135fa71c4d1b7a44a9a0ec45" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXUR8E9fy0mE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/982a7971135fa71c4d1b7a44a9a0ec45?postId=f2d1fce337ca" data-media-id="982a7971135fa71c4d1b7a44a9a0ec45" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXUR8E9fy0mE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

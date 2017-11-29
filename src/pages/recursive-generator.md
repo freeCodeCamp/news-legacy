@@ -40,7 +40,7 @@ In the original code, every combination created by calling **combine()** is stor
 
 
 
-<iframe width="700" height="250" src="/media/a8418ea060bce2eadb0b360c474a37b9?postId=f8bc30e5e412" data-media-id="a8418ea060bce2eadb0b360c474a37b9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a8418ea060bce2eadb0b360c474a37b9?postId=f8bc30e5e412" data-media-id="a8418ea060bce2eadb0b360c474a37b9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -89,7 +89,7 @@ I can be pretty lazy at times, so I took the tl;dr approach to the JavaScript [d
 
 
 
-<iframe width="700" height="250" src="/media/e245ff89200140d1841d43996b7fefdf?postId=f8bc30e5e412" data-media-id="e245ff89200140d1841d43996b7fefdf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e245ff89200140d1841d43996b7fefdf?postId=f8bc30e5e412" data-media-id="e245ff89200140d1841d43996b7fefdf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -101,7 +101,7 @@ This makes sense, right? Instead of pushing a set of choices to an array, I just
 
 
 
-<iframe width="700" height="250" src="/media/425c823e2129c25228950abe9e197d23?postId=f8bc30e5e412" data-media-id="425c823e2129c25228950abe9e197d23" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/425c823e2129c25228950abe9e197d23?postId=f8bc30e5e412" data-media-id="425c823e2129c25228950abe9e197d23" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

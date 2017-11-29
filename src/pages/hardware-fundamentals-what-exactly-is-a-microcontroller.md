@@ -208,7 +208,7 @@ For example, you can live out a childhood dream.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/e671a9ddbb6956af860761cc74832376?postId=8a502a3650dc" data-media-id="e671a9ddbb6956af860761cc74832376" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F817073525454356480%2F4RUfctk9_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/e671a9ddbb6956af860761cc74832376?postId=8a502a3650dc" data-media-id="e671a9ddbb6956af860761cc74832376" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F817073525454356480%2F4RUfctk9_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -220,7 +220,7 @@ You can even build robots.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/040bc25b4d059b62a30dd669acb4ede4?postId=8a502a3650dc" data-media-id="040bc25b4d059b62a30dd669acb4ede4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840194995462246402%2FPsEdlUQv_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/040bc25b4d059b62a30dd669acb4ede4?postId=8a502a3650dc" data-media-id="040bc25b4d059b62a30dd669acb4ede4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840194995462246402%2FPsEdlUQv_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

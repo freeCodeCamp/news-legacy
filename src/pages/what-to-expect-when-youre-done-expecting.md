@@ -1,7 +1,7 @@
 ---
 author: Henrik Lindberg
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "What to expect when you’re done expecting: visualizing the data of parenting"
 subTitle: "A new mother will spend about 40,000 hours with her child over the first 18 years. This averages out to six hours a day. Dad gets to spen..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*WPwLPpxokAxOUeK34gTRkQ.jpeg

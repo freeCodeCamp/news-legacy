@@ -63,7 +63,7 @@ So here is what a typical _webpack.config.js_ looks like:
 
 
 
-<iframe width="700" height="250" src="/media/8009fde19fb093bc380a3f065657f13c?postId=bf8d3746adbd" data-media-id="8009fde19fb093bc380a3f065657f13c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8009fde19fb093bc380a3f065657f13c?postId=bf8d3746adbd" data-media-id="8009fde19fb093bc380a3f065657f13c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -169,7 +169,7 @@ Likewise, you have loaders to compile TypeScript, CoffeeScript, etc.
 
 
 
-<iframe width="700" height="250" src="/media/0071b877c2078d2d3bce756eb8dd17d2?postId=bf8d3746adbd" data-media-id="0071b877c2078d2d3bce756eb8dd17d2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0071b877c2078d2d3bce756eb8dd17d2?postId=bf8d3746adbd" data-media-id="0071b877c2078d2d3bce756eb8dd17d2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -181,7 +181,7 @@ Likewise, you have loaders to compile TypeScript, CoffeeScript, etc.
 
 
 
-<iframe width="700" height="250" src="/media/6486315bf1b6c7b23aef1997b518f9dd?postId=bf8d3746adbd" data-media-id="6486315bf1b6c7b23aef1997b518f9dd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6486315bf1b6c7b23aef1997b518f9dd?postId=bf8d3746adbd" data-media-id="6486315bf1b6c7b23aef1997b518f9dd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -193,7 +193,7 @@ Likewise, you have loaders to compile TypeScript, CoffeeScript, etc.
 
 
 
-<iframe width="700" height="250" src="/media/e73dd0981a1afe2c02e4d938f0efa50e?postId=bf8d3746adbd" data-media-id="e73dd0981a1afe2c02e4d938f0efa50e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e73dd0981a1afe2c02e4d938f0efa50e?postId=bf8d3746adbd" data-media-id="e73dd0981a1afe2c02e4d938f0efa50e" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: David Celis
 authorTwitter: https://twitter.com/davidcelis
-authorFacebook: false
+authorFacebook: none
 title: "Give it a REST: use GraphQL for your APIs"
 subTitle: "In the world of API architecture, REST has been the reigning ruler for a decade or more. Chances are that you use software built on a RES..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*IvCDlfi3vQfgyKO1eFv4jA.png
@@ -56,7 +56,7 @@ The structure of responses from REST APIs is important. Clients build themselves
 
 
 
-<iframe width="700" height="250" src="/media/334bb64c27e7adb8310b556aa5ca67af?postId=40a2761e6336" data-media-id="334bb64c27e7adb8310b556aa5ca67af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F36873%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/334bb64c27e7adb8310b556aa5ca67af?postId=40a2761e6336" data-media-id="334bb64c27e7adb8310b556aa5ca67af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F36873%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -68,7 +68,7 @@ After some time has passed, you decide there are a couple things you want to imp
 
 
 
-<iframe width="700" height="250" src="/media/ccc3000831ec89e74d42a134e2118fe8?postId=40a2761e6336" data-media-id="ccc3000831ec89e74d42a134e2118fe8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F36873%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ccc3000831ec89e74d42a134e2118fe8?postId=40a2761e6336" data-media-id="ccc3000831ec89e74d42a134e2118fe8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F36873%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -97,7 +97,7 @@ With GraphQL, clients can get all of the data they need to render a view using o
 
 
 
-<iframe width="700" height="250" src="/media/4e2dc8fcdedc7db5fb0219b2f73ea80f?postId=40a2761e6336" data-media-id="4e2dc8fcdedc7db5fb0219b2f73ea80f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F36873%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4e2dc8fcdedc7db5fb0219b2f73ea80f?postId=40a2761e6336" data-media-id="4e2dc8fcdedc7db5fb0219b2f73ea80f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F36873%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

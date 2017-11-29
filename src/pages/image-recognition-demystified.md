@@ -102,7 +102,7 @@ Start by importing the necessary libraries:
 
 
 
-<iframe width="700" height="250" src="/media/df4cdcd7bf0e4b3d2bc652bddbca78cf?postId=fc9c89b894ce" data-media-id="df4cdcd7bf0e4b3d2bc652bddbca78cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/df4cdcd7bf0e4b3d2bc652bddbca78cf?postId=fc9c89b894ce" data-media-id="df4cdcd7bf0e4b3d2bc652bddbca78cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ Next we organize our data:
 
 
 
-<iframe width="700" height="250" src="/media/ea8549e1a772919fe05cd5f35b5c8b0d?postId=fc9c89b894ce" data-media-id="ea8549e1a772919fe05cd5f35b5c8b0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ea8549e1a772919fe05cd5f35b5c8b0d?postId=fc9c89b894ce" data-media-id="ea8549e1a772919fe05cd5f35b5c8b0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ By now you’re probably wondering: how are the digit images organized? They are
 
 
 
-<iframe width="700" height="250" src="/media/b3fca9dd3a069ff2556568f1d5e03adf?postId=fc9c89b894ce" data-media-id="b3fca9dd3a069ff2556568f1d5e03adf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b3fca9dd3a069ff2556568f1d5e03adf?postId=fc9c89b894ce" data-media-id="b3fca9dd3a069ff2556568f1d5e03adf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -157,7 +157,7 @@ We can ‘plot’ this to see this array in its ‘pixelated’ form.
 
 
 
-<iframe width="700" height="250" src="/media/9b5578f92b274afc1a71ee5824e8bf8d?postId=fc9c89b894ce" data-media-id="9b5578f92b274afc1a71ee5824e8bf8d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9b5578f92b274afc1a71ee5824e8bf8d?postId=fc9c89b894ce" data-media-id="9b5578f92b274afc1a71ee5824e8bf8d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -175,7 +175,7 @@ What digit is this? Let’s ask our model, but first we need to build it.
 
 
 
-<iframe width="700" height="250" src="/media/cd28b2eabe812dff0c9f2724ffb1a24a?postId=fc9c89b894ce" data-media-id="cd28b2eabe812dff0c9f2724ffb1a24a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cd28b2eabe812dff0c9f2724ffb1a24a?postId=fc9c89b894ce" data-media-id="cd28b2eabe812dff0c9f2724ffb1a24a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -189,7 +189,7 @@ Against our test data our nearest-neighbor model had an accuracy score of 95%, n
 
 
 
-<iframe width="700" height="250" src="/media/ca32ee6ba80d311f8200a8dbabd58d10?postId=fc9c89b894ce" data-media-id="ca32ee6ba80d311f8200a8dbabd58d10" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ca32ee6ba80d311f8200a8dbabd58d10?postId=fc9c89b894ce" data-media-id="ca32ee6ba80d311f8200a8dbabd58d10" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -205,7 +205,7 @@ Let’s try a few more, remember _these are digits from our test data_, we did n
 
 
 
-<iframe width="700" height="250" src="/media/7e93abc5169946eb12bb5985f97fd1d0?postId=fc9c89b894ce" data-media-id="7e93abc5169946eb12bb5985f97fd1d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7e93abc5169946eb12bb5985f97fd1d0?postId=fc9c89b894ce" data-media-id="7e93abc5169946eb12bb5985f97fd1d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -221,7 +221,7 @@ Let’s try a few more, remember _these are digits from our test data_, we did n
 
 
 
-<iframe width="700" height="250" src="/media/0d14358fd16293a8e691ec1501801412?postId=fc9c89b894ce" data-media-id="0d14358fd16293a8e691ec1501801412" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0d14358fd16293a8e691ec1501801412?postId=fc9c89b894ce" data-media-id="0d14358fd16293a8e691ec1501801412" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -241,7 +241,7 @@ We can create a fictional digit and see what our model thinks about it.
 
 
 
-<iframe width="700" height="250" src="/media/b3d5289c4409001e1e6e63b2ae99845c?postId=fc9c89b894ce" data-media-id="b3d5289c4409001e1e6e63b2ae99845c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b3d5289c4409001e1e6e63b2ae99845c?postId=fc9c89b894ce" data-media-id="b3d5289c4409001e1e6e63b2ae99845c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1076402%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

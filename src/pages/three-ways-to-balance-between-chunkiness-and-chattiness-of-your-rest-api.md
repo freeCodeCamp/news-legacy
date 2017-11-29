@@ -73,7 +73,7 @@ This platform is API enabled and we have got an API method to retrieve a `member
 
 
 
-<iframe width="700" height="250" src="/media/3bb66f4baf62d37f1b1ef092ab4226df?postId=67e60b7bcca7" data-media-id="3bb66f4baf62d37f1b1ef092ab4226df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F998799%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3bb66f4baf62d37f1b1ef092ab4226df?postId=67e60b7bcca7" data-media-id="3bb66f4baf62d37f1b1ef092ab4226df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F998799%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -97,7 +97,7 @@ Instead, what server does is exactly same as what any ORM does with its lazy loa
 
 
 
-<iframe width="700" height="250" src="/media/b543af784e1af6d8ad7c9ce7e1d5da67?postId=67e60b7bcca7" data-media-id="b543af784e1af6d8ad7c9ce7e1d5da67" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b543af784e1af6d8ad7c9ce7e1d5da67?postId=67e60b7bcca7" data-media-id="b543af784e1af6d8ad7c9ce7e1d5da67" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -115,7 +115,7 @@ You can use one of the hypermedia specifications like [Siren](https://github.com
 
 
 
-<iframe width="700" height="250" src="/media/5b85190009c239b1edec93243c7222e5?postId=67e60b7bcca7" data-media-id="5b85190009c239b1edec93243c7222e5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F998799%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5b85190009c239b1edec93243c7222e5?postId=67e60b7bcca7" data-media-id="5b85190009c239b1edec93243c7222e5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F998799%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -147,7 +147,7 @@ Let’s say we want to support hash API method for the member resource from our 
 
 
 
-<iframe width="700" height="250" src="/media/f0aa88635ec6f6b6e08980570bb78d90?postId=67e60b7bcca7" data-media-id="f0aa88635ec6f6b6e08980570bb78d90" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f0aa88635ec6f6b6e08980570bb78d90?postId=67e60b7bcca7" data-media-id="f0aa88635ec6f6b6e08980570bb78d90" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -187,7 +187,7 @@ If an API consumer needs a shallow copy of member resource without any linked re
 
 
 
-<iframe width="700" height="250" src="/media/c5fcd0e254f0f89880f558e21a522289?postId=67e60b7bcca7" data-media-id="c5fcd0e254f0f89880f558e21a522289" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F998799%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c5fcd0e254f0f89880f558e21a522289?postId=67e60b7bcca7" data-media-id="c5fcd0e254f0f89880f558e21a522289" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F998799%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -203,7 +203,7 @@ GraphQL’s ability to specify exactly which attributes we want to be returned, 
 
 
 
-<iframe width="700" height="250" src="/media/17f75ddff3b585c5cef988dd2254d4ba?postId=67e60b7bcca7" data-media-id="17f75ddff3b585c5cef988dd2254d4ba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F998799%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/17f75ddff3b585c5cef988dd2254d4ba?postId=67e60b7bcca7" data-media-id="17f75ddff3b585c5cef988dd2254d4ba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F998799%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -233,7 +233,7 @@ An API that fully supports GraphQL, gives its consumer total control over what d
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/e8e5e1c90092ccd880df7aa0db0c09eb?postId=67e60b7bcca7" data-media-id="e8e5e1c90092ccd880df7aa0db0c09eb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F565904650595889153%2FwV8wR37J_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/e8e5e1c90092ccd880df7aa0db0c09eb?postId=67e60b7bcca7" data-media-id="e8e5e1c90092ccd880df7aa0db0c09eb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F565904650595889153%2FwV8wR37J_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

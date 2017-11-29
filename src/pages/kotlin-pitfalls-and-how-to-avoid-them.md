@@ -44,7 +44,7 @@ In Kotlin you can write your code as if `null` never existed and this can make y
 
 
 
-<iframe width="700" height="250" src="/media/ba955da292b39c4df69a3b441dd18243?postId=7b0d3a2109ad" data-media-id="ba955da292b39c4df69a3b441dd18243" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ba955da292b39c4df69a3b441dd18243?postId=7b0d3a2109ad" data-media-id="ba955da292b39c4df69a3b441dd18243" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -66,7 +66,7 @@ Most of the time the Kotlin classes are enough, but sometimes you have to use so
 
 
 
-<iframe width="700" height="250" src="/media/296adfcba29285376f264e09cf6dfde9?postId=7b0d3a2109ad" data-media-id="296adfcba29285376f264e09cf6dfde9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/296adfcba29285376f264e09cf6dfde9?postId=7b0d3a2109ad" data-media-id="296adfcba29285376f264e09cf6dfde9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -82,7 +82,7 @@ Consider the following example:
 
 
 
-<iframe width="700" height="250" src="/media/f79e42038e5c9a64842fd496821675be?postId=7b0d3a2109ad" data-media-id="f79e42038e5c9a64842fd496821675be" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f79e42038e5c9a64842fd496821675be?postId=7b0d3a2109ad" data-media-id="f79e42038e5c9a64842fd496821675be" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -96,7 +96,7 @@ The problem here is that we used `Queue` which is a JDK interface and if you loo
 
 
 
-<iframe width="700" height="250" src="/media/8cc8358234ba81c16a4cb74bd0e12e90?postId=7b0d3a2109ad" data-media-id="8cc8358234ba81c16a4cb74bd0e12e90" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8cc8358234ba81c16a4cb74bd0e12e90?postId=7b0d3a2109ad" data-media-id="8cc8358234ba81c16a4cb74bd0e12e90" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -108,7 +108,7 @@ It says that `peek` will return `E` which will lead Kotlin to believe that `E` i
 
 
 
-<iframe width="700" height="250" src="/media/83b5c7f156c181bdc7a332c1fcd00e9d?postId=7b0d3a2109ad" data-media-id="83b5c7f156c181bdc7a332c1fcd00e9d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/83b5c7f156c181bdc7a332c1fcd00e9d?postId=7b0d3a2109ad" data-media-id="83b5c7f156c181bdc7a332c1fcd00e9d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ The problem with this is when you have nested functions like in this example:
 
 
 
-<iframe width="700" height="250" src="/media/bcca3da277bf934e3cbedc98e73d6d8a?postId=7b0d3a2109ad" data-media-id="bcca3da277bf934e3cbedc98e73d6d8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bcca3da277bf934e3cbedc98e73d6d8a?postId=7b0d3a2109ad" data-media-id="bcca3da277bf934e3cbedc98e73d6d8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ It only takes a few `it`s to lose track which is which. The solution to this pro
 
 
 
-<iframe width="700" height="250" src="/media/5e71232d9f5923acbdae21275b521c83?postId=7b0d3a2109ad" data-media-id="5e71232d9f5923acbdae21275b521c83" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5e71232d9f5923acbdae21275b521c83?postId=7b0d3a2109ad" data-media-id="5e71232d9f5923acbdae21275b521c83" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -154,7 +154,7 @@ Take a look at this `data class`:
 
 
 
-<iframe width="700" height="250" src="/media/102d74d95a5be86e68a3e860fd777f2c?postId=7b0d3a2109ad" data-media-id="102d74d95a5be86e68a3e860fd777f2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/102d74d95a5be86e68a3e860fd777f2c?postId=7b0d3a2109ad" data-media-id="102d74d95a5be86e68a3e860fd777f2c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -166,7 +166,7 @@ Data classes give you a bunch of functions and you can also make a `copy` of the
 
 
 
-<iframe width="700" height="250" src="/media/95299af57e4c3d2992f10e196e8f20fe?postId=7b0d3a2109ad" data-media-id="95299af57e4c3d2992f10e196e8f20fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/95299af57e4c3d2992f10e196e8f20fe?postId=7b0d3a2109ad" data-media-id="95299af57e4c3d2992f10e196e8f20fe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -180,7 +180,7 @@ The solution to this problem is to pay attention to your `data class`es and if t
 
 
 
-<iframe width="700" height="250" src="/media/3eb899e72b483c6cd16dc7a5636f65f7?postId=7b0d3a2109ad" data-media-id="3eb899e72b483c6cd16dc7a5636f65f7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3eb899e72b483c6cd16dc7a5636f65f7?postId=7b0d3a2109ad" data-media-id="3eb899e72b483c6cd16dc7a5636f65f7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -196,7 +196,7 @@ Take a look at this example:
 
 
 
-<iframe width="700" height="250" src="/media/9cd193f97540373e29321a89e1485c1e?postId=7b0d3a2109ad" data-media-id="9cd193f97540373e29321a89e1485c1e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9cd193f97540373e29321a89e1485c1e?postId=7b0d3a2109ad" data-media-id="9cd193f97540373e29321a89e1485c1e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -208,7 +208,7 @@ If you use classes like this from other Kotlin projects the `internal` keyword w
 
 
 
-<iframe width="700" height="250" src="/media/286c81c2e496661bbdca9318c11c2238?postId=7b0d3a2109ad" data-media-id="286c81c2e496661bbdca9318c11c2238" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/286c81c2e496661bbdca9318c11c2238?postId=7b0d3a2109ad" data-media-id="286c81c2e496661bbdca9318c11c2238" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -222,7 +222,7 @@ The utility of extension functions is unquestionably high, but with great power 
 
 
 
-<iframe width="700" height="250" src="/media/b16282870cc3e64c32d9051d93849534?postId=7b0d3a2109ad" data-media-id="b16282870cc3e64c32d9051d93849534" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b16282870cc3e64c32d9051d93849534?postId=7b0d3a2109ad" data-media-id="b16282870cc3e64c32d9051d93849534" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -234,7 +234,7 @@ Now everybody on your project will scratch their heads when they bump into this.
 
 
 
-<iframe width="700" height="250" src="/media/21214846078f66ba2f626f1f7d689d30?postId=7b0d3a2109ad" data-media-id="21214846078f66ba2f626f1f7d689d30" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/21214846078f66ba2f626f1f7d689d30?postId=7b0d3a2109ad" data-media-id="21214846078f66ba2f626f1f7d689d30" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -248,7 +248,7 @@ When you have functions which accept lambdas you can omit the `return` keyword i
 
 
 
-<iframe width="700" height="250" src="/media/423293c5657be65f4a8176fc990f52d5?postId=7b0d3a2109ad" data-media-id="423293c5657be65f4a8176fc990f52d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/423293c5657be65f4a8176fc990f52d5?postId=7b0d3a2109ad" data-media-id="423293c5657be65f4a8176fc990f52d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -260,7 +260,7 @@ This is fine but if you call this from Java you’ll face the awkward problem of
 
 
 
-<iframe width="700" height="250" src="/media/e641464ca616a43ff98c09bfde9a682a?postId=7b0d3a2109ad" data-media-id="e641464ca616a43ff98c09bfde9a682a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e641464ca616a43ff98c09bfde9a682a?postId=7b0d3a2109ad" data-media-id="e641464ca616a43ff98c09bfde9a682a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -272,7 +272,7 @@ This is very clunky from the Java side. If you try to make this work from Java y
 
 
 
-<iframe width="700" height="250" src="/media/5635d6b35b28099ad1e5bcdb546ce6ae?postId=7b0d3a2109ad" data-media-id="5635d6b35b28099ad1e5bcdb546ce6ae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5635d6b35b28099ad1e5bcdb546ce6ae?postId=7b0d3a2109ad" data-media-id="5635d6b35b28099ad1e5bcdb546ce6ae" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -284,7 +284,7 @@ then you can use Java’s SAM conversion to make this very simple:
 
 
 
-<iframe width="700" height="250" src="/media/5f00a44c7faa2385f0f6b5f89197cda1?postId=7b0d3a2109ad" data-media-id="5f00a44c7faa2385f0f6b5f89197cda1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5f00a44c7faa2385f0f6b5f89197cda1?postId=7b0d3a2109ad" data-media-id="5f00a44c7faa2385f0f6b5f89197cda1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -296,7 +296,7 @@ but then from the Kotlin side it becomes a mess:
 
 
 
-<iframe width="700" height="250" src="/media/9020a9f4591ce68cfeeb40b2a3bbfb0e?postId=7b0d3a2109ad" data-media-id="9020a9f4591ce68cfeeb40b2a3bbfb0e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9020a9f4591ce68cfeeb40b2a3bbfb0e?postId=7b0d3a2109ad" data-media-id="9020a9f4591ce68cfeeb40b2a3bbfb0e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -308,7 +308,7 @@ The problem is that Kotlin does not support SAM conversion for Kotlin classes an
 
 
 
-<iframe width="700" height="250" src="/media/6d147740d8df6e4721fc8f48973afcf5?postId=7b0d3a2109ad" data-media-id="6d147740d8df6e4721fc8f48973afcf5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6d147740d8df6e4721fc8f48973afcf5?postId=7b0d3a2109ad" data-media-id="6d147740d8df6e4721fc8f48973afcf5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -322,7 +322,7 @@ Kotlin gives you immutable variants of the JDK’s collection classes:
 
 
 
-<iframe width="700" height="250" src="/media/8edf2259d78a2afc8123c53f00608ce1?postId=7b0d3a2109ad" data-media-id="8edf2259d78a2afc8123c53f00608ce1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8edf2259d78a2afc8123c53f00608ce1?postId=7b0d3a2109ad" data-media-id="8edf2259d78a2afc8123c53f00608ce1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -334,7 +334,7 @@ This is a very nice addition but if you look at this from the Java side you’ll
 
 
 
-<iframe width="700" height="250" src="/media/12f09e666adbbffc75a68ac43822da5b?postId=7b0d3a2109ad" data-media-id="12f09e666adbbffc75a68ac43822da5b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/12f09e666adbbffc75a68ac43822da5b?postId=7b0d3a2109ad" data-media-id="12f09e666adbbffc75a68ac43822da5b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -350,7 +350,7 @@ This is only an issue from an interop perspective, but Kotlin does not support t
 
 
 
-<iframe width="700" height="250" src="/media/1c8f31deff9e9cdc96e6421f2e3ebb8c?postId=7b0d3a2109ad" data-media-id="1c8f31deff9e9cdc96e6421f2e3ebb8c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1c8f31deff9e9cdc96e6421f2e3ebb8c?postId=7b0d3a2109ad" data-media-id="1c8f31deff9e9cdc96e6421f2e3ebb8c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -362,7 +362,7 @@ Currently the only thing you can do to have overloads is to define them by hand:
 
 
 
-<iframe width="700" height="250" src="/media/62387b288f4619029c002f764f49ab6c?postId=7b0d3a2109ad" data-media-id="62387b288f4619029c002f764f49ab6c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/62387b288f4619029c002f764f49ab6c?postId=7b0d3a2109ad" data-media-id="62387b288f4619029c002f764f49ab6c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

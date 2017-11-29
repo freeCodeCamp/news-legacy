@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels on: Ruby"
 subTitle: "Ruby is a general purpose programming language created in the 1990s by Yukihiro “Matz” Matsumoto. It’s also considered one of the best la..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*A3zm9h0v8CDvAGRXlozJkQ.png

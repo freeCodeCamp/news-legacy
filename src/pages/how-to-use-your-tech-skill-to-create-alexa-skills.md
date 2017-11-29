@@ -1,7 +1,7 @@
 ---
 author: Lorrie Pearson
 authorTwitter: https://twitter.com/LorriePearson
-authorFacebook: false
+authorFacebook: none
 title: "How I programmed my first Amazon Alexa Skill and won a free Echo Dot"
 subTitle: "It’s been a year since I began learning to code. I became interested in coding because of my desire to work with others in the beauty, fa..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*lDoAZm2p_erGYSTTOfIopQ.jpeg

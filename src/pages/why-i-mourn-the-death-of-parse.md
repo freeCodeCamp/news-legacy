@@ -1,6 +1,6 @@
 ---
 author: Sam Galizia
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10153311401986732
 title: "Why I Mourn the Death of Parse"
 subTitle: "In the past few days, most of you have probably heard of the tragic news involving Parse. If you have not, let me get you up to speed wit..."

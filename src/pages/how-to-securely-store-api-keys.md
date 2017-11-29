@@ -1,7 +1,7 @@
 ---
 author: Bruno Pedro
 authorTwitter: https://twitter.com/bpedro
-authorFacebook: false
+authorFacebook: none
 title: "Best practices for securely storing API keys"
 subTitle: "In the past, I’ve seen many people use Git repositories to store sensitive information related to their projects...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*xw9gprMTI6h3U3NkKV0vUg.jpeg

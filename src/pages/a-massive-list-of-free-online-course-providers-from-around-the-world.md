@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "A Massive List of Free Online University Course Providers From Around The World"
 subTitle: "It’s been more than five years since online education got a massive boost when three free online courses, taught by Stanford professors, ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*n1bm7OmooHG1QtUr181tAg.png

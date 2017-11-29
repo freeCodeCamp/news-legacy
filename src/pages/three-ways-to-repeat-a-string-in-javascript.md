@@ -48,7 +48,7 @@ There are the three approaches I’ll cover:
 
 
 
-<iframe width="700" height="250" src="/media/1eef593f158d8d958c3f1f74df713490?postId=2a9053b93a2d" data-media-id="1eef593f158d8d958c3f1f74df713490" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1eef593f158d8d958c3f1f74df713490?postId=2a9053b93a2d" data-media-id="1eef593f158d8d958c3f1f74df713490" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -103,7 +103,7 @@ The statement is executed as long as the condition is true. Here’s the solutio
 
 
 
-<iframe width="700" height="250" src="/media/13ee11a63e05732b695c35a5eb352e35?postId=2a9053b93a2d" data-media-id="13ee11a63e05732b695c35a5eb352e35" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/13ee11a63e05732b695c35a5eb352e35?postId=2a9053b93a2d" data-media-id="13ee11a63e05732b695c35a5eb352e35" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -115,7 +115,7 @@ And again, without comments:
 
 
 
-<iframe width="700" height="250" src="/media/55ae02568c70035d3c905ccfe3f0e2f5?postId=2a9053b93a2d" data-media-id="55ae02568c70035d3c905ccfe3f0e2f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/55ae02568c70035d3c905ccfe3f0e2f5?postId=2a9053b93a2d" data-media-id="55ae02568c70035d3c905ccfe3f0e2f5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -152,7 +152,7 @@ Here’s the solution:
 
 
 
-<iframe width="700" height="250" src="/media/a40c1ce1cdbfaff2905338bf17e027e1?postId=2a9053b93a2d" data-media-id="a40c1ce1cdbfaff2905338bf17e027e1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a40c1ce1cdbfaff2905338bf17e027e1?postId=2a9053b93a2d" data-media-id="a40c1ce1cdbfaff2905338bf17e027e1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ And again, without comments:
 
 
 
-<iframe width="700" height="250" src="/media/0b02a88f1a5e90045e5d05148e621837?postId=2a9053b93a2d" data-media-id="0b02a88f1a5e90045e5d05148e621837" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0b02a88f1a5e90045e5d05148e621837?postId=2a9053b93a2d" data-media-id="0b02a88f1a5e90045e5d05148e621837" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ Here’s the solution:
 
 
 
-<iframe width="700" height="250" src="/media/8a7440cab480d0d46874a218701ee4a0?postId=2a9053b93a2d" data-media-id="8a7440cab480d0d46874a218701ee4a0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8a7440cab480d0d46874a218701ee4a0?postId=2a9053b93a2d" data-media-id="8a7440cab480d0d46874a218701ee4a0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -212,7 +212,7 @@ And again, without comments:
 
 
 
-<iframe width="700" height="250" src="/media/577c9098b8ea4ad56d00f10ddffe3147?postId=2a9053b93a2d" data-media-id="577c9098b8ea4ad56d00f10ddffe3147" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/577c9098b8ea4ad56d00f10ddffe3147?postId=2a9053b93a2d" data-media-id="577c9098b8ea4ad56d00f10ddffe3147" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -236,7 +236,7 @@ You can then return the ternary operator in your function:
 
 
 
-<iframe width="700" height="250" src="/media/c3266c76e85e4a0ce9e6c4b884124f21?postId=2a9053b93a2d" data-media-id="c3266c76e85e4a0ce9e6c4b884124f21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c3266c76e85e4a0ce9e6c4b884124f21?postId=2a9053b93a2d" data-media-id="c3266c76e85e4a0ce9e6c4b884124f21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

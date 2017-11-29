@@ -89,7 +89,7 @@ Here’s our CSS:
 
 
 
-<iframe width="700" height="250" src="/media/e6590d7ee2930152ae7e651732fb8b55?postId=3d5a3e237346" data-media-id="e6590d7ee2930152ae7e651732fb8b55" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e6590d7ee2930152ae7e651732fb8b55?postId=3d5a3e237346" data-media-id="e6590d7ee2930152ae7e651732fb8b55" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -107,7 +107,7 @@ The tooltip-position can be: right, left, top, or bottom.
 
 
 
-<iframe width="700" height="250" src="/media/b3188bca30f1469da1b2d1e5afe5dc06?postId=3d5a3e237346" data-media-id="b3188bca30f1469da1b2d1e5afe5dc06" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b3188bca30f1469da1b2d1e5afe5dc06?postId=3d5a3e237346" data-media-id="b3188bca30f1469da1b2d1e5afe5dc06" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -121,7 +121,7 @@ This CodePen shows the end result (and you can click through to see the final co
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/a43c8bcbce185c560bcfa84c0361f9ea?postId=3d5a3e237346" data-media-id="a43c8bcbce185c560bcfa84c0361f9ea" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/a43c8bcbce185c560bcfa84c0361f9ea?postId=3d5a3e237346" data-media-id="a43c8bcbce185c560bcfa84c0361f9ea" allowfullscreen="" frameborder="0"></iframe>
 
 
 

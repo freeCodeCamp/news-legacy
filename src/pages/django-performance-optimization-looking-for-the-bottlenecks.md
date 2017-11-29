@@ -1,7 +1,7 @@
 ---
 author: Vadym Zakovinko
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Django Performance Optimization: The Search for Bottlenecks"
 subTitle: "All too often, I see Django developers go about optimizing their apps the wrong way. So In this short article, I’ll shed some light on th..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*rLpycYJgBTX9sonF41YQBg.png

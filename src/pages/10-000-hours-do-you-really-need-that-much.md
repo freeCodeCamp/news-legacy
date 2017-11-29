@@ -1,7 +1,7 @@
 ---
 author: Nitish Tiwari
 authorTwitter: https://twitter.com/tiwari_nitish
-authorFacebook: false
+authorFacebook: none
 title: "10,000 hours! Do you really need that much?"
 subTitle: "You must have heard about the now famous 10,000 hours rule. It says:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*pRuv9XMJZVV3NW8Ugtux_w.gif

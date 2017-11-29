@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "Public Speaking Transformed My Life…and Can Change Yours Too"
 subTitle: "A Call For Speakers…From 40,000 Feet"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*BRdWbn_QRnfEg5VmKzj1dg.jpeg
@@ -60,7 +60,7 @@ This opportunity is available to _anyone_. Five years ago, I had never spoken at
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/e0c611099e6c9c76c47e9d367838f940?postId=ca8acdbcc188" data-media-id="e0c611099e6c9c76c47e9d367838f940" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyQ6giVKp9ec%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/e0c611099e6c9c76c47e9d367838f940?postId=ca8acdbcc188" data-media-id="e0c611099e6c9c76c47e9d367838f940" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyQ6giVKp9ec%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

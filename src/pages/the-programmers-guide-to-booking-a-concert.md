@@ -1,7 +1,7 @@
 ---
 author: Sina Habibian
 authorTwitter: https://twitter.com/sinahab
-authorFacebook: false
+authorFacebook: none
 title: "The Programmer’s Guide to Booking a Concert"
 subTitle: "About two months ago, a friend and I decided to organize a concert in San Francisco. We had no prior experience promoting shows, but we b..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*nf8zqZaL0U2EaVmiGupPew.png

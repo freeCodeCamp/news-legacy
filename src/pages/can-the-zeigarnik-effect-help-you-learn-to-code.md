@@ -1,7 +1,7 @@
 ---
 author: Gilbert
 authorTwitter: https://twitter.com/gilbertginsberg
-authorFacebook: false
+authorFacebook: none
 title: "Use the Zeigarnik Effect to learn to code faster"
 subTitle: "The Zeigarnik effect can help you learn to code faster. First I’ll explain what this concept is. Then I’ll give you a practical way you c..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*23_Mknh2ibTmD6EhDStSdQ.jpeg

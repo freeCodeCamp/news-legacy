@@ -1,7 +1,7 @@
 ---
 author: rajaraodv
 authorTwitter: https://twitter.com/rajaraodv
-authorFacebook: false
+authorFacebook: none
 title: "JavaScript Is Turing Complete— Explained"
 subTitle: "If you start learning functional programming in JavaScript, you’ll probably hear about lambda calculus, Turing machine, Turing complete a..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*u__iwCIORZT5-m_zdiucgA.png
@@ -44,7 +44,7 @@ Turing machines soon became very popular, and eventually a standard because whil
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/4aabbb624c5305cd92be0ad6afc38b07?postId=41a34287d263" data-media-id="4aabbb624c5305cd92be0ad6afc38b07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/4aabbb624c5305cd92be0ad6afc38b07?postId=41a34287d263" data-media-id="4aabbb624c5305cd92be0ad6afc38b07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -68,7 +68,7 @@ The initial version of the Turing machine had just a long single tape. Later on,
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/62b897fa47520f0eba6403a28aa10b62?postId=41a34287d263" data-media-id="62b897fa47520f0eba6403a28aa10b62" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/62b897fa47520f0eba6403a28aa10b62?postId=41a34287d263" data-media-id="62b897fa47520f0eba6403a28aa10b62" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -147,7 +147,7 @@ _🎉🎉🎉_ **_If you like this post, please 1\._** ❤❤❤**_it below on M
 
 
 
-<iframe width="500" height="250" src="/media/a4078aa3b06803835dd9a0748952ab6b?postId=41a34287d263" data-media-id="a4078aa3b06803835dd9a0748952ab6b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/a4078aa3b06803835dd9a0748952ab6b?postId=41a34287d263" data-media-id="a4078aa3b06803835dd9a0748952ab6b" allowfullscreen="" frameborder="0"></iframe>
 
 
 

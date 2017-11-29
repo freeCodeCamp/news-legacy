@@ -1,7 +1,7 @@
 ---
 author: DHARA DOSHI
 authorTwitter: https://twitter.com/dharadoshi
-authorFacebook: false
+authorFacebook: none
 title: "I feel like Sherlock, if he were a developer"
 subTitle: "It’s a normal day at work. My boss assigned me an issue that I know nothing about. And I’m supposed to solve it as fast as possible...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*-CNoGje_a2x2Nziq0pru-w.jpeg
@@ -36,7 +36,7 @@ Welcome to the crime scene!
 
 
 
-<iframe data-width="435" data-height="200" width="435" height="200" src="/media/d49f7e7f82fb504f911f10253cac4e2b?postId=4a303ebdaf63" data-media-id="d49f7e7f82fb504f911f10253cac4e2b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Ffv8KclrYGp5dK%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="200" width="435" height="200" src="https://medium.freecodecamp.org/media/d49f7e7f82fb504f911f10253cac4e2b?postId=4a303ebdaf63" data-media-id="d49f7e7f82fb504f911f10253cac4e2b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Ffv8KclrYGp5dK%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -57,7 +57,7 @@ I call for the help of my equivalent of a Dr. Watson: my [IDE](https://en.wikipe
 
 
 
-<iframe data-width="435" data-height="424" width="435" height="424" src="/media/9bd74957a63573ed8dc98f0355516963?postId=4a303ebdaf63" data-media-id="9bd74957a63573ed8dc98f0355516963" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F104VkDPOhII4I8%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="424" width="435" height="424" src="https://medium.freecodecamp.org/media/9bd74957a63573ed8dc98f0355516963?postId=4a303ebdaf63" data-media-id="9bd74957a63573ed8dc98f0355516963" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F104VkDPOhII4I8%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -79,7 +79,7 @@ And a few moments later, I emerge from my state of concentration, having solved 
 
 
 
-<iframe data-width="435" data-height="435" width="435" height="435" src="/media/a924dcca4a78dea877738803f92afddb?postId=4a303ebdaf63" data-media-id="a924dcca4a78dea877738803f92afddb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3oz8xrLEjLlVUmRJwk%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="435" width="435" height="435" src="https://medium.freecodecamp.org/media/a924dcca4a78dea877738803f92afddb?postId=4a303ebdaf63" data-media-id="a924dcca4a78dea877738803f92afddb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3oz8xrLEjLlVUmRJwk%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -95,7 +95,7 @@ If you know some basic C, take a look at this block of code, and see if you can 
 
 
 
-<iframe data-width="435" data-height="328" width="435" height="328" src="/media/1069d6465c908bb4097fad394e1e22d9?postId=4a303ebdaf63" data-media-id="1069d6465c908bb4097fad394e1e22d9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl2JegpA7RUbGPcnug%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="328" width="435" height="328" src="https://medium.freecodecamp.org/media/1069d6465c908bb4097fad394e1e22d9?postId=4a303ebdaf63" data-media-id="1069d6465c908bb4097fad394e1e22d9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl2JegpA7RUbGPcnug%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -119,7 +119,7 @@ I allocated a memory buffer big enough to store the full path of the file.
 
 
 
-<iframe data-width="435" data-height="245" width="435" height="245" src="/media/fda0f24547470bcdcdbcc6c6c19ec690?postId=4a303ebdaf63" data-media-id="fda0f24547470bcdcdbcc6c6c19ec690" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FAsxHvzNMGOakM%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="245" width="435" height="245" src="https://medium.freecodecamp.org/media/fda0f24547470bcdcdbcc6c6c19ec690?postId=4a303ebdaf63" data-media-id="fda0f24547470bcdcdbcc6c6c19ec690" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FAsxHvzNMGOakM%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -133,7 +133,7 @@ Stay tuned for the next mystery!
 
 
 
-<iframe data-width="435" data-height="204" width="435" height="204" src="/media/47f28b722ecc5e4805808f5c24072609?postId=4a303ebdaf63" data-media-id="47f28b722ecc5e4805808f5c24072609" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FauvhGRnnZRU6A%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="204" width="435" height="204" src="https://medium.freecodecamp.org/media/47f28b722ecc5e4805808f5c24072609?postId=4a303ebdaf63" data-media-id="47f28b722ecc5e4805808f5c24072609" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FauvhGRnnZRU6A%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

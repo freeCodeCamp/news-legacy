@@ -1,7 +1,7 @@
 ---
 author: Stephen Scott
 authorTwitter: https://twitter.com/suchipi
-authorFacebook: false
+authorFacebook: none
 title: "The Right Way to Test React Components"
 subTitle: "There’s a lot of confusion right now about the “right” way to test your React components. Should you write all your tests by hand, or onl..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Ef724ZqepSMHk8AhRCCM7A.jpeg
@@ -61,7 +61,7 @@ Here’s the code for the top-level `App` component:
 
 
 
-<iframe width="700" height="250" src="/media/6af5cb69966f7e801e7b70adfe81905d?postId=548a4736ab22" data-media-id="6af5cb69966f7e801e7b70adfe81905d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6af5cb69966f7e801e7b70adfe81905d?postId=548a4736ab22" data-media-id="6af5cb69966f7e801e7b70adfe81905d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -75,7 +75,7 @@ Here’s the code for `LockScreen`:
 
 
 
-<iframe width="700" height="250" src="/media/36a233c5d515548bfe32b4dae72ad323?postId=548a4736ab22" data-media-id="36a233c5d515548bfe32b4dae72ad323" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/36a233c5d515548bfe32b4dae72ad323?postId=548a4736ab22" data-media-id="36a233c5d515548bfe32b4dae72ad323" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ Let’s go through `LockScreen`’s `render` method and add comments at places w
 
 
 
-<iframe width="700" height="250" src="/media/1e0611dc2a97d7706186c67efde0d563?postId=548a4736ab22" data-media-id="1e0611dc2a97d7706186c67efde0d563" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1e0611dc2a97d7706186c67efde0d563?postId=548a4736ab22" data-media-id="1e0611dc2a97d7706186c67efde0d563" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -277,7 +277,7 @@ Even though I’m using Jest and enzyme in my tests, you can apply the concepts 
 
 
 
-<iframe width="700" height="250" src="/media/691a8b26ae44f7590fc55fb5cece7f72?postId=548a4736ab22" data-media-id="691a8b26ae44f7590fc55fb5cece7f72" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/691a8b26ae44f7590fc55fb5cece7f72?postId=548a4736ab22" data-media-id="691a8b26ae44f7590fc55fb5cece7f72" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -301,7 +301,7 @@ Let’s go through our list of constraints and add a test for each. Every test w
 
 
 
-<iframe width="700" height="250" src="/media/c71008284c02e6cb56e07c10cf6b4dd5?postId=548a4736ab22" data-media-id="c71008284c02e6cb56e07c10cf6b4dd5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c71008284c02e6cb56e07c10cf6b4dd5?postId=548a4736ab22" data-media-id="c71008284c02e6cb56e07c10cf6b4dd5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -313,7 +313,7 @@ Let’s go through our list of constraints and add a test for each. Every test w
 
 
 
-<iframe width="700" height="250" src="/media/0fe7a586108ce6b5d32b344100cc952c?postId=548a4736ab22" data-media-id="0fe7a586108ce6b5d32b344100cc952c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0fe7a586108ce6b5d32b344100cc952c?postId=548a4736ab22" data-media-id="0fe7a586108ce6b5d32b344100cc952c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -325,7 +325,7 @@ Let’s go through our list of constraints and add a test for each. Every test w
 
 
 
-<iframe width="700" height="250" src="/media/a16ba541f49275f18c3ad128a4cec2b2?postId=548a4736ab22" data-media-id="a16ba541f49275f18c3ad128a4cec2b2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a16ba541f49275f18c3ad128a4cec2b2?postId=548a4736ab22" data-media-id="a16ba541f49275f18c3ad128a4cec2b2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -337,7 +337,7 @@ Let’s go through our list of constraints and add a test for each. Every test w
 
 
 
-<iframe width="700" height="250" src="/media/2a2ec725199f819336009e493f905e03?postId=548a4736ab22" data-media-id="2a2ec725199f819336009e493f905e03" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2a2ec725199f819336009e493f905e03?postId=548a4736ab22" data-media-id="2a2ec725199f819336009e493f905e03" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -349,7 +349,7 @@ Let’s go through our list of constraints and add a test for each. Every test w
 
 
 
-<iframe width="700" height="250" src="/media/a942c9b9b169dc4bb99746ebfbb75410?postId=548a4736ab22" data-media-id="a942c9b9b169dc4bb99746ebfbb75410" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a942c9b9b169dc4bb99746ebfbb75410?postId=548a4736ab22" data-media-id="a942c9b9b169dc4bb99746ebfbb75410" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -364,7 +364,7 @@ All of the constraints thus far have been things that are _always_ true, so thei
 
 
 
-<iframe width="700" height="250" src="/media/9dd3ec95f8fb8c750ea7fd643a2f9aaa?postId=548a4736ab22" data-media-id="9dd3ec95f8fb8c750ea7fd643a2f9aaa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9dd3ec95f8fb8c750ea7fd643a2f9aaa?postId=548a4736ab22" data-media-id="9dd3ec95f8fb8c750ea7fd643a2f9aaa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -378,7 +378,7 @@ When we need to describe behavior that only occurs within a certain condition, w
 
 
 
-<iframe width="700" height="250" src="/media/ce9a1e15338c9eee24fb91bc5bb20b49?postId=548a4736ab22" data-media-id="ce9a1e15338c9eee24fb91bc5bb20b49" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ce9a1e15338c9eee24fb91bc5bb20b49?postId=548a4736ab22" data-media-id="ce9a1e15338c9eee24fb91bc5bb20b49" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -391,7 +391,7 @@ When we need to describe behavior that only occurs within a certain condition, w
 
 
 
-<iframe width="700" height="250" src="/media/24085e9e2b6c464d8e00c2387c456ee0?postId=548a4736ab22" data-media-id="24085e9e2b6c464d8e00c2387c456ee0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/24085e9e2b6c464d8e00c2387c456ee0?postId=548a4736ab22" data-media-id="24085e9e2b6c464d8e00c2387c456ee0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -403,7 +403,7 @@ When we need to describe behavior that only occurs within a certain condition, w
 
 
 
-<iframe width="700" height="250" src="/media/4e33b74424dc3e51c65a1b6215b86f00?postId=548a4736ab22" data-media-id="4e33b74424dc3e51c65a1b6215b86f00" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4e33b74424dc3e51c65a1b6215b86f00?postId=548a4736ab22" data-media-id="4e33b74424dc3e51c65a1b6215b86f00" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F1341513%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

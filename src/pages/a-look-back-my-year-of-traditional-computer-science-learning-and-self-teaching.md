@@ -1,7 +1,7 @@
 ---
 author: Tiffany White
 authorTwitter: https://twitter.com/TiffanyW_412
-authorFacebook: false
+authorFacebook: none
 title: "A Look Back: My Year of Traditional Computer Science Learning vs. Self-Teaching"
 subTitle: "Much like Robb from this story, I’ve ditched the traditional computer science degree route and decided on pursuing my education outside t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*o0M6CUyzI7Yvwjva23E1fg.jpeg

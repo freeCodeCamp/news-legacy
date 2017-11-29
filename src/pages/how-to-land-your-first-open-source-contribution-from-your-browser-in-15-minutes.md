@@ -36,7 +36,7 @@ And the undisputed center of the open source universe is GitHub. Some people hav
 
 
 
-<iframe width="500" height="250" src="/media/8b288a1a8724aac7387939cf4832eb61?postId=756d9bbf81ad" data-media-id="8b288a1a8724aac7387939cf4832eb61" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/8b288a1a8724aac7387939cf4832eb61?postId=756d9bbf81ad" data-media-id="8b288a1a8724aac7387939cf4832eb61" allowfullscreen="" frameborder="0"></iframe>
 
 
 

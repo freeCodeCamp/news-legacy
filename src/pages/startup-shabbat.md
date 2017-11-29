@@ -1,6 +1,6 @@
 ---
 author: Eliezer Steinbock
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/549765607
 title: "Start-up Burnout"
 subTitle: "Shabbat is the seventh day of the week. It starts on Friday night and ends on the following evening, Saturday. (A day starts in the eveni..."
@@ -50,7 +50,7 @@ I’m writing this post because of the Twitter discussion that took place.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/70647da5dffefacf917add3a8a7c005a?postId=c0706dec6ace" data-media-id="70647da5dffefacf917add3a8a7c005a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F739530540768890882%2FgBplnH9m_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/70647da5dffefacf917add3a8a7c005a?postId=c0706dec6ace" data-media-id="70647da5dffefacf917add3a8a7c005a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F739530540768890882%2FgBplnH9m_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -60,7 +60,7 @@ I’m writing this post because of the Twitter discussion that took place.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/c5666c7faa1675c090e2a0fee902b856?postId=c0706dec6ace" data-media-id="c5666c7faa1675c090e2a0fee902b856" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F739530540768890882%2FgBplnH9m_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/c5666c7faa1675c090e2a0fee902b856?postId=c0706dec6ace" data-media-id="c5666c7faa1675c090e2a0fee902b856" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F739530540768890882%2FgBplnH9m_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -70,7 +70,7 @@ I’m writing this post because of the Twitter discussion that took place.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/b9035e27dfaa64b7f9f0d1b5604ff79c?postId=c0706dec6ace" data-media-id="b9035e27dfaa64b7f9f0d1b5604ff79c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F739530540768890882%2FgBplnH9m_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/b9035e27dfaa64b7f9f0d1b5604ff79c?postId=c0706dec6ace" data-media-id="b9035e27dfaa64b7f9f0d1b5604ff79c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F739530540768890882%2FgBplnH9m_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ Rabois made a strong argument for hard work:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/5b6307564f4c14034aa643c0e661b69e?postId=c0706dec6ace" data-media-id="5b6307564f4c14034aa643c0e661b69e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F96463735%2FPR_black___White_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/5b6307564f4c14034aa643c0e661b69e?postId=c0706dec6ace" data-media-id="5b6307564f4c14034aa643c0e661b69e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F96463735%2FPR_black___White_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -120,7 +120,7 @@ Musk seems to share a similar view on work ethic:
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/173a3b97852410a309fb191cd93d8a05?postId=c0706dec6ace" data-media-id="173a3b97852410a309fb191cd93d8a05" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGtaxU6DZvLs%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/173a3b97852410a309fb191cd93d8a05?postId=c0706dec6ace" data-media-id="173a3b97852410a309fb191cd93d8a05" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGtaxU6DZvLs%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -136,7 +136,7 @@ Here are some tweets that supported Rabois:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/a7faf549d1a60a8650746f6c09911a7d?postId=c0706dec6ace" data-media-id="a7faf549d1a60a8650746f6c09911a7d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDBH5SMOXkAAHUo4.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/a7faf549d1a60a8650746f6c09911a7d?postId=c0706dec6ace" data-media-id="a7faf549d1a60a8650746f6c09911a7d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDBH5SMOXkAAHUo4.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -146,7 +146,7 @@ Here are some tweets that supported Rabois:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/e2cf04ef9c515f44d30f9adf6e1f0ec6?postId=c0706dec6ace" data-media-id="e2cf04ef9c515f44d30f9adf6e1f0ec6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F867931304528011264%2Fl4PhWeCo_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/e2cf04ef9c515f44d30f9adf6e1f0ec6?postId=c0706dec6ace" data-media-id="e2cf04ef9c515f44d30f9adf6e1f0ec6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F867931304528011264%2Fl4PhWeCo_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -158,7 +158,7 @@ I also loved this movie :) Slightly tragic, but magnificent too.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/6b289171b002bcfd96c13e4281d0b698?postId=c0706dec6ace" data-media-id="6b289171b002bcfd96c13e4281d0b698" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F867931304528011264%2Fl4PhWeCo_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/6b289171b002bcfd96c13e4281d0b698?postId=c0706dec6ace" data-media-id="6b289171b002bcfd96c13e4281d0b698" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F867931304528011264%2Fl4PhWeCo_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

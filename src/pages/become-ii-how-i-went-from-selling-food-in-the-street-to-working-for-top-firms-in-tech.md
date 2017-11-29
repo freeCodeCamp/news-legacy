@@ -1,7 +1,7 @@
 ---
 author: Alvaro Videla
 authorTwitter: https://twitter.com/old_sound
-authorFacebook: false
+authorFacebook: none
 title: "How I went from selling food in the street to working for top firms in tech — Part 2: getting the job"
 subTitle: "This is the second installment in this series of articles where I want to share with you how I got into the world of programming. I never..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*FcabhcW05_q5R9_jC0U1aw.jpeg

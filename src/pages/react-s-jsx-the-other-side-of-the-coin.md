@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "React’s JSX: The Other Side of the Coin"
 subTitle: "Stay calm. Embrace the evolution...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*RBTfDZzW0N5TzHg_pqWmSg.png
@@ -70,7 +70,7 @@ When React was released, many people took one look at JSX and lost their minds. 
 
 
 
-<iframe width="500" height="250" src="/media/b0419e4bccb7d3af9c0f2e09d707d0a8?postId=2ace7ab62b98" data-media-id="b0419e4bccb7d3af9c0f2e09d707d0a8" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/b0419e4bccb7d3af9c0f2e09d707d0a8?postId=2ace7ab62b98" data-media-id="b0419e4bccb7d3af9c0f2e09d707d0a8" allowfullscreen="" frameborder="0"></iframe>
 
 
 

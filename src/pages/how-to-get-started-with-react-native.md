@@ -1,7 +1,7 @@
 ---
 author: Spencer Carli
 authorTwitter: https://twitter.com/spencer_carli
-authorFacebook: false
+authorFacebook: none
 title: "How to Get Started with React Native"
 subTitle: "Before diving in I want to tell you a little story — I’ve been wanting to put together a simple website. Not a web app, just a simple web..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*4FUZ_X3XD3MgqsrpncPhTA.jpeg

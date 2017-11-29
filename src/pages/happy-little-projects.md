@@ -1,7 +1,7 @@
 ---
 author: Nathan
 authorTwitter: https://twitter.com/terakilobyte
-authorFacebook: false
+authorFacebook: none
 title: "Happy Little Projects: Elixir, Phoenix, Twilio, and the Spotify API"
 subTitle: "One of the most difficult aspects of starting a programming project is coming up with a project idea in the first place. No inspiration m..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*9RWesRs9XuAaOeObRW81SQ.jpeg
@@ -52,7 +52,7 @@ Here’s a short video of me interacting with my app using Google Voice.
 
 
 
-<iframe data-width="1920" data-height="1080" width="700" height="394" src="/media/0ca2d05d274901aa9fd7612e8e53f671?postId=ef8cd157287" data-media-id="0ca2d05d274901aa9fd7612e8e53f671" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1920" data-height="1080" width="700" height="394" src="https://medium.freecodecamp.org/media/0ca2d05d274901aa9fd7612e8e53f671?postId=ef8cd157287" data-media-id="0ca2d05d274901aa9fd7612e8e53f671" allowfullscreen="" frameborder="0"></iframe>
 
 
 

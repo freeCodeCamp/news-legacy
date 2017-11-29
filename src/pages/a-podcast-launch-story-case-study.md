@@ -1,7 +1,7 @@
 ---
 author: Laurence Bradford
 authorTwitter: https://twitter.com/learncodewithme
-authorFacebook: false
+authorFacebook: none
 title: "A Podcast Launch Story (Case Study)"
 subTitle: "I (very) recently launched the Learn to Code With Me podcast. It was my first time podcasting...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Nivp_UBjtGqFD3CW-eSkFw.png
@@ -144,7 +144,7 @@ The contest is still going on right now. As of now, there hasn’t been as many 
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/fc5e64dfb1aa9148a0b723d0f7658e29?postId=230222b95653" data-media-id="fc5e64dfb1aa9148a0b723d0f7658e29" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/fc5e64dfb1aa9148a0b723d0f7658e29?postId=230222b95653" data-media-id="fc5e64dfb1aa9148a0b723d0f7658e29" allowfullscreen="" frameborder="0"></iframe>
 
 
 

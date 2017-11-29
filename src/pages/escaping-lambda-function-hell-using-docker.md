@@ -1,7 +1,7 @@
 ---
 author: Liz Rice
 authorTwitter: https://twitter.com/lizrice
-authorFacebook: false
+authorFacebook: none
 title: "How to claw your way out of AWS Lambda function hell using the power of Docker"
 subTitle: "When you’re building Lambda functions, it’s easy to get trapped in an “Invalid ELF header” nightmare. The problem is that your binaries a..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*HlfWIN7pNtK3ffZ-ll1cZQ.png

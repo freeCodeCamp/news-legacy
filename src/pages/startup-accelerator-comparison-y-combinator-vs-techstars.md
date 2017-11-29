@@ -1,7 +1,7 @@
 ---
 author: Weiting Liu
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Startup Accelerator Comparison: Y Combinator VS Techstars"
 subTitle: "Being one of the rare founders to be both a Y Combinator and Techstars alum, I’ve had the privilege of going through two of the top accel..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*5Y7FiWBsOuwgOT0W.jpg

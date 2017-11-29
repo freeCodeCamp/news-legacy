@@ -1,7 +1,7 @@
 ---
 author: Zell Liew
 authorTwitter: https://twitter.com/zellwk
-authorFacebook: false
+authorFacebook: none
 title: "Let’s talk about variables — and why you should use them in JavaScript."
 subTitle: "The main purpose of coding is to solve problems. For example, what happens when you click on a button? That’s a problem for us to solve...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OrxTL4xEQZ5um_8gxoddbQ.jpeg

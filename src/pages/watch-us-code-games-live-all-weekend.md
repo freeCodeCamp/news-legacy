@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Watch us Code Games Live All Weekend"
 subTitle: "Note: this was originally published on our now-defunct blog on July 15, 2015...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*0LoTsXggiGbX_UuW.jpg

@@ -1,7 +1,7 @@
 ---
 author: eric boam
 authorTwitter: https://twitter.com/ericboam
-authorFacebook: false
+authorFacebook: none
 title: "I kept a record of every single song I listened to last year. Here’s the data."
 subTitle: "Early in January of 2010, at my home in Salt Lake City, I opened my sketchbook and turned to a new page. I used the heel of my hand to fl..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*cxSIbI6SErD0HOSQyYaWmg.png

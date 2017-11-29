@@ -1,7 +1,7 @@
 ---
 author: Jessica Maria Gaddis
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "5 Failed Portfolios Later and Here I Am"
 subTitle: "There’s a folder on my computer called Developments where all of my, well, “developments,” live. Everything from the time I played around..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Qhal7-bOBNo9I7KXZzaVXg.png

@@ -1,7 +1,7 @@
 ---
 author: Ben Regenspan
 authorTwitter: https://twitter.com/BenRegenspan
-authorFacebook: false
+authorFacebook: none
 title: "Why Facebook Like buttons account for 16% of an average website’s code"
 subTitle: "According to data collected by BuiltWith.com, 6% of the top 10,000 most high-traffic sites load content from Facebook’s servers. For the ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*bXVdCbBw1GKOsI7s8ko7_Q.png

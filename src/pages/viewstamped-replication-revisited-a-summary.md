@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "Want to learn how Viewstamped Replication works? Read this summary."
 subTitle: "This article will distill the contents of the academic paper Viewstamped Replication Revisited by Barbara Liskov and James Cowling. All q..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vKYq20fw9GjwrahjjD0WcQ.jpeg

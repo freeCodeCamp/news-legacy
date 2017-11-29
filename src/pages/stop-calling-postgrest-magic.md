@@ -1,7 +1,7 @@
 ---
 author: Ruslan Talpă
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Stop calling PostgREST “MAGIC”!"
 subTitle: "While it’s flattering for developers to have “magic” associated with their work, it might be damaging to the adoption of PostgREST. Magic..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*yj04j1w-TajB2vgwbWBHnQ.png

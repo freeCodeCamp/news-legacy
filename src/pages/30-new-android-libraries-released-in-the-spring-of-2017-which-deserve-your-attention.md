@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/30-new-android-libraries-released-in-the-sp
 id: 30-new-android-libraries-released-in-the-spring-of-2017-which-deserve-your-attention-faea359a1915
 date: 2017-05-15T07:59:55.439Z
 tags: [
-  "Android",
-  "Productivity",
-  "Android App Development",
-  "Programming",
-  "Mobile"
+	"Android",
+	"Productivity",
+	"Android App Development",
+	"Programming",
+	"Mobile"
 ]
 ---
 # The 30 Coolest Android Libraries from Spring 2017
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3FVOI0HJNamEVvcnmRPqSg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*3FVOI0HJNamEVvcnmRPqSg.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*3FVOI0HJNamEVvcnmRPqSg.jpeg"&gt;</noscript>
 
 
 
@@ -64,11 +61,8 @@ You can find more in the lib’s [wiki](https://github.com/zhihu/Matisse/wiki).
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GQApw7XsG6iMWG-ZPSbe1g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*GQApw7XsG6iMWG-ZPSbe1g.png"&gt;</noscript>
 
 
 
@@ -87,11 +81,8 @@ _Matisse - :fireworks: A well-designed local image and video selector for Andro
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Q4T2dAbEqPUF3g4Hj2teSQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="45" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Q4T2dAbEqPUF3g4Hj2teSQ.gif"&gt;</noscript>
 
 
 
@@ -114,11 +105,8 @@ MaterialChipsInput is an implementation of that component for Android. The libra
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*j-GtM_dD0w6aSmpwpUsn8g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*j-GtM_dD0w6aSmpwpUsn8g.gif"&gt;</noscript>
 
 
 
@@ -137,11 +125,8 @@ This library allows to create multiple animations based on points. Take a look�
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*rlnQZT8T78QOBCdi5FwCRQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="43" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*rlnQZT8T78QOBCdi5FwCRQ.gif"&gt;</noscript>
 
 
 
@@ -160,11 +145,8 @@ Litho is not a library, it is a framework. A really powerful framework to build 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*DGgTaK04UhsTY4gqp05mMA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="72"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*DGgTaK04UhsTY4gqp05mMA.png"&gt;</noscript>
 
 
 
@@ -190,11 +172,8 @@ Some time ago Google updated Material Design guideline, and introduced bottom na
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sha-uKiRhrSOsRDo5RZe5w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="73"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sha-uKiRhrSOsRDo5RZe5w.png"&gt;</noscript>
 
 
 
@@ -212,11 +191,8 @@ You can read more on Github. There is a quite comprehensive documentation and ex
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ROB6Jd_XWr1x2CPdTCoF5A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="45" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ROB6Jd_XWr1x2CPdTCoF5A.gif"&gt;</noscript>
 
 
 
@@ -239,11 +215,8 @@ The _README_ is full of examples, so it is easy to start with the library.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Fog7A-1Hyw77L_sHfEWNYg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="43" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Fog7A-1Hyw77L_sHfEWNYg.gif"&gt;</noscript>
 
 
 
@@ -263,11 +236,8 @@ The library supports drawing multiple shapes, paths and complex structures, like
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*I5ppugT8DDwPNTRcq7rrlw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="61"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*I5ppugT8DDwPNTRcq7rrlw.png"&gt;</noscript>
 
 
 
@@ -286,11 +256,8 @@ We can treat this library as a `ViewPager` extension that encapsulates many feat
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ara4N3vAGmrAJk7Q9QqWOg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Ara4N3vAGmrAJk7Q9QqWOg.gif"&gt;</noscript>
 
 
 
@@ -322,11 +289,8 @@ This library helps to implement UI cards and then switch them with a nice animat
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Dnv5sz98ANxXCB8qJC8RvA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="47" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Dnv5sz98ANxXCB8qJC8RvA.gif"&gt;</noscript>
 
 
 
@@ -345,11 +309,8 @@ This is a library which we can consider as a DrawerLayout-like `ViewGroup`, wher
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jJoZS_JY3t1l_AMb39d_Dg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="60"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jJoZS_JY3t1l_AMb39d_Dg.gif"&gt;</noscript>
 
 
 
@@ -368,11 +329,8 @@ It is just a view where you can type your password. But fancy one!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*unInpDbseFRq4XDwuExgDg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*unInpDbseFRq4XDwuExgDg.gif"&gt;</noscript>
 
 
 
@@ -391,11 +349,8 @@ This library allows to represent sound as a gradient colored visualisation.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7REZrDOfphLbOA_f53YX2A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="44" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7REZrDOfphLbOA_f53YX2A.gif"&gt;</noscript>
 
 
 
@@ -418,11 +373,8 @@ Also, it is easy to use.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qIHLw5RISErB-2gH0mYoLA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="23"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*qIHLw5RISErB-2gH0mYoLA.png"&gt;</noscript>
 
 
 
@@ -448,11 +400,8 @@ This is an efficient Android utility class for drawing regular polygons on a `[C
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*CfJ9YdWV5jiRf8VVRqWpmQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*CfJ9YdWV5jiRf8VVRqWpmQ.gif"&gt;</noscript>
 
 
 
@@ -473,11 +422,8 @@ This is a second framework on that list. It is responsible for image compression
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*L-0cFTmZF5rxG0h4I6XuDQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*L-0cFTmZF5rxG0h4I6XuDQ.png"&gt;</noscript>
 
 
 
@@ -498,11 +444,8 @@ This library provides a custom `TextView` widget, which can create text from par
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AQYO8HkMgkqnrcLBhtHJzQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*AQYO8HkMgkqnrcLBhtHJzQ.gif"&gt;</noscript>
 
 
 
@@ -521,11 +464,8 @@ This is a highly configurable widget for image cropping. The library has a modul
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YGjNglrMmlmFm230jVJKxQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*YGjNglrMmlmFm230jVJKxQ.gif"&gt;</noscript>
 
 
 
@@ -555,11 +495,8 @@ This library allows you to trace all functions calls order. The project is well 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KZqjj4RJtXMbX_bTLYg57Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*KZqjj4RJtXMbX_bTLYg57Q.png"&gt;</noscript>
 
 
 
@@ -579,11 +516,8 @@ The library uses Builder pattern. It is easy to use and in _README,_ there is on
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*m7jOl4mVJxLQWiKctVqn1A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="37" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*m7jOl4mVJxLQWiKctVqn1A.gif"&gt;</noscript>
 
 
 
@@ -606,11 +540,8 @@ The documentation is really good, comprehensive and definitely worthy to check o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*2ioG7_PPEnyvsxlOYwYXXA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*2ioG7_PPEnyvsxlOYwYXXA.png"&gt;</noscript>
 
 
 
@@ -637,11 +568,8 @@ The documentation is comprehensive and the library is easy to use.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*C2HmS-HSYDSyYAfTnWFFzA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="43" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*C2HmS-HSYDSyYAfTnWFFzA.gif"&gt;</noscript>
 
 
 
@@ -665,11 +593,8 @@ You can see them in a gif below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Bi5K7bdSBfJooypogQ3uCA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="68" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Bi5K7bdSBfJooypogQ3uCA.gif"&gt;</noscript>
 
 
 
@@ -695,11 +620,8 @@ It has comprehensive [wiki](https://github.com/wealthfront/magellan/wiki) with a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*M9kdFW2ffupFFvKn8pBhZw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*M9kdFW2ffupFFvKn8pBhZw.png"&gt;</noscript>
 
 
 
@@ -720,11 +642,8 @@ It is written by [Mark Allison](https://medium.com/@MarkIAllison) and you can ge
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*DgobP2nkoGHimTTR_BbcIA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*DgobP2nkoGHimTTR_BbcIA.gif"&gt;</noscript>
 
 
 
@@ -743,11 +662,8 @@ This is a library, which facilitates finding heavy methods in your code when you
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qzxcEHXtIOqrSI2CW69cnw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*qzxcEHXtIOqrSI2CW69cnw.png"&gt;</noscript>
 
 
 
@@ -766,11 +682,8 @@ This is quite cool library. It adds a shadows to your images, but the color of s
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*dOit-xwG0OuwuVcEwQIBZA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*dOit-xwG0OuwuVcEwQIBZA.gif"&gt;</noscript>
 
 
 
@@ -791,11 +704,8 @@ This is a refresh animation that opens a camera shutter. In my opinion it is rea
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Wt1Y35Twr0WlD_oRepzNYA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Wt1Y35Twr0WlD_oRepzNYA.gif"&gt;</noscript>
 
 
 
@@ -821,11 +731,8 @@ This is an approach to write an Adapter without `ViewHolder`. Key features inclu
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ptkVWOCGRj0wBaO0kNpnEQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="68"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ptkVWOCGRj0wBaO0kNpnEQ.png"&gt;</noscript>
 
 
 

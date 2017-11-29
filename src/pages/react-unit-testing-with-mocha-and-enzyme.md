@@ -124,7 +124,7 @@ If you want to run the tests on your local machine, here’s the quick setup for
 
 
 
-<iframe width="700" height="250" src="/media/0ecb41a27341c8bb4a9088377a3b8a06?postId=77d18b6875cb" data-media-id="0ecb41a27341c8bb4a9088377a3b8a06" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0ecb41a27341c8bb4a9088377a3b8a06?postId=77d18b6875cb" data-media-id="0ecb41a27341c8bb4a9088377a3b8a06" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -177,7 +177,7 @@ Here’s how that looks in Enzyme and Mocha:
 
 
 
-<iframe width="700" height="250" src="/media/2a9408a8c19e602a004728dc00208198?postId=77d18b6875cb" data-media-id="2a9408a8c19e602a004728dc00208198" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2a9408a8c19e602a004728dc00208198?postId=77d18b6875cb" data-media-id="2a9408a8c19e602a004728dc00208198" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -215,7 +215,7 @@ And here’s how the test looks:
 
 
 
-<iframe width="700" height="250" src="/media/fa372b58c4fba6ec85154cf5d000a2db?postId=77d18b6875cb" data-media-id="fa372b58c4fba6ec85154cf5d000a2db" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fa372b58c4fba6ec85154cf5d000a2db?postId=77d18b6875cb" data-media-id="fa372b58c4fba6ec85154cf5d000a2db" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -245,7 +245,7 @@ And here’s how that test looks:
 
 
 
-<iframe width="700" height="250" src="/media/3d252ace2e7e8d2750247138813310be?postId=77d18b6875cb" data-media-id="3d252ace2e7e8d2750247138813310be" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3d252ace2e7e8d2750247138813310be?postId=77d18b6875cb" data-media-id="3d252ace2e7e8d2750247138813310be" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -295,7 +295,7 @@ Recall our _ListHeader_ example above where we distinguished between the the def
 
 
 
-<iframe width="700" height="250" src="/media/4e8ab35ee4d1649a5c564dbd1ab5ad16?postId=77d18b6875cb" data-media-id="4e8ab35ee4d1649a5c564dbd1ab5ad16" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4e8ab35ee4d1649a5c564dbd1ab5ad16?postId=77d18b6875cb" data-media-id="4e8ab35ee4d1649a5c564dbd1ab5ad16" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -307,7 +307,7 @@ Now let’s refactor the code using Mocha’s _beforeEach_ construct which gets 
 
 
 
-<iframe width="700" height="250" src="/media/0ad6dc114396d596216845a57cd25b97?postId=77d18b6875cb" data-media-id="0ad6dc114396d596216845a57cd25b97" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0ad6dc114396d596216845a57cd25b97?postId=77d18b6875cb" data-media-id="0ad6dc114396d596216845a57cd25b97" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -319,7 +319,7 @@ At first glance, this change appears to be a net loss: the code got longer and a
 
 
 
-<iframe width="700" height="250" src="/media/712b50dda5a40a7deab1116b704cf18c?postId=77d18b6875cb" data-media-id="712b50dda5a40a7deab1116b704cf18c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/712b50dda5a40a7deab1116b704cf18c?postId=77d18b6875cb" data-media-id="712b50dda5a40a7deab1116b704cf18c" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Robert Skalko
 authorTwitter: https://twitter.com/Coding_Rob
-authorFacebook: false
+authorFacebook: none
 title: "I built a role playing game in JavaScript. You can, too. Here’s how."
 subTitle: "So you want to try and make a game, but are a bit intimidated? Don’t worry, I was too!..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*dT0K035G8ZPYB6qWv4Vy1Q.png
@@ -46,7 +46,7 @@ Here’s my game running on CodePen. (Note that it’s not yet optimized for mob
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/cc2298ae1d2ad963dcf78e4f94ecf1e1?postId=4aca51ad9030" data-media-id="cc2298ae1d2ad963dcf78e4f94ecf1e1" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/cc2298ae1d2ad963dcf78e4f94ecf1e1?postId=4aca51ad9030" data-media-id="cc2298ae1d2ad963dcf78e4f94ecf1e1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -208,7 +208,7 @@ Again, here’s my game if you want to try it out (note that it’s not optimize
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/cc2298ae1d2ad963dcf78e4f94ecf1e1?postId=4aca51ad9030" data-media-id="cc2298ae1d2ad963dcf78e4f94ecf1e1" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/cc2298ae1d2ad963dcf78e4f94ecf1e1?postId=4aca51ad9030" data-media-id="cc2298ae1d2ad963dcf78e4f94ecf1e1" allowfullscreen="" frameborder="0"></iframe>
 
 
 

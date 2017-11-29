@@ -164,7 +164,7 @@ The Docker Client is what you, as the end-user of Docker, communicate with. Thin
 
 
 
-<iframe width="700" height="250" src="/media/62fe6713bf6e3139c345ae2d3d217f01?postId=79a9e3e119b" data-media-id="62fe6713bf6e3139c345ae2d3d217f01" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/62fe6713bf6e3139c345ae2d3d217f01?postId=79a9e3e119b" data-media-id="62fe6713bf6e3139c345ae2d3d217f01" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -190,7 +190,7 @@ and so forth. Once you’ve got your Dockerfile set up, you can use the **docker
 
 
 
-<iframe width="700" height="250" src="/media/49046d07469fdb367555ce0b6ddf66f1?postId=79a9e3e119b" data-media-id="49046d07469fdb367555ce0b6ddf66f1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/49046d07469fdb367555ce0b6ddf66f1?postId=79a9e3e119b" data-media-id="49046d07469fdb367555ce0b6ddf66f1" allowfullscreen="" frameborder="0"></iframe>
 
 
 

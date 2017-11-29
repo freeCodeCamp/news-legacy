@@ -1,7 +1,7 @@
 ---
 author: Jose Aguinaga
 authorTwitter: https://twitter.com/jjperezaguinaga
-authorFacebook: false
+authorFacebook: none
 title: "Which languages got the most GitHub stars in 2016?"
 subTitle: "A few weeks ago I decided to build an application to find which programming languages I star the most in GitHub...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*-hRBr9wXEoFe_3TuTpuDVA.jpeg

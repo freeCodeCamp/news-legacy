@@ -1,7 +1,7 @@
 ---
 author: Tiffany White
 authorTwitter: https://twitter.com/TiffanyW_412
-authorFacebook: false
+authorFacebook: none
 title: "Putting Scope in Perspective"
 subTitle: "In JavaScript, lexical scope deals with where your variables are defined, and how they will be accessible — or not accessible — to the re..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*bagtQodHCv1PGtuEX5fMNA.jpeg

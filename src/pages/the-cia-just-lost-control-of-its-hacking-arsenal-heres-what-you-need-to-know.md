@@ -62,7 +62,7 @@ We’ve known for a while that internet-connected cars could be hacked. But we h
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/91c6268d78725084e1b6399b1417f733?postId=ea69fc1ce38c" data-media-id="91c6268d78725084e1b6399b1417f733" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMK0SrxBC1xs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/91c6268d78725084e1b6399b1417f733?postId=ea69fc1ce38c" data-media-id="91c6268d78725084e1b6399b1417f733" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMK0SrxBC1xs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ The leaked CIA documentation shows how hackers can turn off LEDs to make a devic
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/3798a88a74edfd28388b6fb22babc476?postId=ea69fc1ce38c" data-media-id="3798a88a74edfd28388b6fb22babc476" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB9T_ejfCIAEAXpY.png%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/3798a88a74edfd28388b6fb22babc476?postId=ea69fc1ce38c" data-media-id="3798a88a74edfd28388b6fb22babc476" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB9T_ejfCIAEAXpY.png%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ There will always be new vulnerabilities. No software application will ever be c
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/ba40f748f47aaffd2d7639805a56904d?postId=ea69fc1ce38c" data-media-id="ba40f748f47aaffd2d7639805a56904d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC6VZKymXEAADeS1.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/ba40f748f47aaffd2d7639805a56904d?postId=ea69fc1ce38c" data-media-id="ba40f748f47aaffd2d7639805a56904d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC6VZKymXEAADeS1.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

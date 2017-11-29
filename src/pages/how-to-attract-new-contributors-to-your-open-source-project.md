@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "How to attract new contributors to your open source project"
 subTitle: "It’s hard to attract contributors to your FOSS project — especially contributors who are new to open source...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*D9NprGQc58UYEZxqc2Tt_A.jpeg
@@ -94,7 +94,7 @@ A good start can be maintaining a list of contributors on your project website a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/bbe3ff7e3aeeb5007c7f358c5ea01f9c?postId=46f8b791d787" data-media-id="bbe3ff7e3aeeb5007c7f358c5ea01f9c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F792819165362987009%2FltYrxTO8_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/bbe3ff7e3aeeb5007c7f358c5ea01f9c?postId=46f8b791d787" data-media-id="bbe3ff7e3aeeb5007c7f358c5ea01f9c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F792819165362987009%2FltYrxTO8_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -108,7 +108,7 @@ This simple fact can go a long way in establishing a healthy culture of mentorsh
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/624b9b3830a11e1d63fa0b41030dabbe?postId=46f8b791d787" data-media-id="624b9b3830a11e1d63fa0b41030dabbe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F792819165362987009%2FltYrxTO8_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/624b9b3830a11e1d63fa0b41030dabbe?postId=46f8b791d787" data-media-id="624b9b3830a11e1d63fa0b41030dabbe" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F792819165362987009%2FltYrxTO8_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

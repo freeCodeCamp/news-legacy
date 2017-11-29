@@ -1,7 +1,7 @@
 ---
 author: Craig Muth
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Xiki: one developer’s quest to turbocharge the command line interface"
 subTitle: "I was sitting with my friend Charles in a trendy cafe next to Golden Gate Park in San Francisco. We were surrounded by young-ish people w..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*FugVQlg4gqFj83NAIkRC-g.png
@@ -108,7 +108,7 @@ Keith took me to Coffee Bar. It was full of people programming and hacking. They
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/f6956895a73ff07e93b5dd8a1bd9cf56?postId=b68e5345788d" data-media-id="f6956895a73ff07e93b5dd8a1bd9cf56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB6tbPc_IUAAywAp.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/f6956895a73ff07e93b5dd8a1bd9cf56?postId=b68e5345788d" data-media-id="f6956895a73ff07e93b5dd8a1bd9cf56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB6tbPc_IUAAywAp.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ In one aborted persuasion session, a guy stood up in frustration and went back t
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/b77a0f45c80faef6716f7a508d89ec8b?postId=b68e5345788d" data-media-id="b77a0f45c80faef6716f7a508d89ec8b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FBvXd39lCEAAkVAy.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/b77a0f45c80faef6716f7a508d89ec8b?postId=b68e5345788d" data-media-id="b77a0f45c80faef6716f7a508d89ec8b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FBvXd39lCEAAkVAy.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -152,7 +152,7 @@ One foggy day found me at a favorite hack spot — a table in the back of a 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/4a8014a566bfba02364b5180e1ae1e41?postId=b68e5345788d" data-media-id="4a8014a566bfba02364b5180e1ae1e41" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB8aLfUrCEAAgcrG.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/4a8014a566bfba02364b5180e1ae1e41?postId=b68e5345788d" data-media-id="4a8014a566bfba02364b5180e1ae1e41" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB8aLfUrCEAAgcrG.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

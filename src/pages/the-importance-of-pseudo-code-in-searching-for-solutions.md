@@ -1,6 +1,6 @@
 ---
 author: Gordon Davidescu
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10153865752303304
 title: "The Importance of Pseudo-code in Searching for Solutions"
 subTitle: "So you sign up for Free Code Camp and start plowing through lesson after lesson them like an industrial lawn mower. Everything is going g..."

@@ -1,7 +1,7 @@
 ---
 author: Mark Mansur
 authorTwitter: https://twitter.com/MarkMansur2
-authorFacebook: false
+authorFacebook: none
 title: "How to build an image recognition iOS app with Apple’s CoreML and Vision APIs"
 subTitle: "With the release of CoreML and new Vision APIs at this year’s Apple World Wide Developers Conference, machine learning has never been eas..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OrtTLF6edfdsuP2C7uGKkw.png
@@ -42,7 +42,7 @@ Here is a look at what we are going to accomplish today:
 
 
 
-<iframe width="700" height="250" src="/media/cfb9dba4a673c934d4b8eae2dbf954f3?postId=3619cf319d0b" data-media-id="cfb9dba4a673c934d4b8eae2dbf954f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cfb9dba4a673c934d4b8eae2dbf954f3?postId=3619cf319d0b" data-media-id="cfb9dba4a673c934d4b8eae2dbf954f3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -76,7 +76,7 @@ Add the following to the `application()` function in `AppDelegate.swift`:
 
 
 
-<iframe width="700" height="250" src="/media/7062db25138674f9228579f48f45a896?postId=3619cf319d0b" data-media-id="7062db25138674f9228579f48f45a896" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7062db25138674f9228579f48f45a896?postId=3619cf319d0b" data-media-id="7062db25138674f9228579f48f45a896" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -98,7 +98,7 @@ Create `setupCaptureSession()` inside `ViewController.swift`and instantiate a ne
 
 
 
-<iframe width="700" height="250" src="/media/069f51fd6fec5a83a298d51874a65c6d?postId=3619cf319d0b" data-media-id="069f51fd6fec5a83a298d51874a65c6d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/069f51fd6fec5a83a298d51874a65c6d?postId=3619cf319d0b" data-media-id="069f51fd6fec5a83a298d51874a65c6d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ Don’t forget to call this new function from `ViewDidLoad()`.
 
 
 
-<iframe width="700" height="250" src="/media/94a11b6ff4b89510d80ce961fd733b3b?postId=3619cf319d0b" data-media-id="94a11b6ff4b89510d80ce961fd733b3b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/94a11b6ff4b89510d80ce961fd733b3b?postId=3619cf319d0b" data-media-id="94a11b6ff4b89510d80ce961fd733b3b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ Add the following code:
 
 
 
-<iframe width="700" height="250" src="/media/55588bd673f5fe0f2e92e4ec289b49e1?postId=3619cf319d0b" data-media-id="55588bd673f5fe0f2e92e4ec289b49e1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/55588bd673f5fe0f2e92e4ec289b49e1?postId=3619cf319d0b" data-media-id="55588bd673f5fe0f2e92e4ec289b49e1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -140,7 +140,7 @@ Add an input to the capture session.
 
 
 
-<iframe width="700" height="250" src="/media/8192d1f12164b35a1844e2e77f0872f2?postId=3619cf319d0b" data-media-id="8192d1f12164b35a1844e2e77f0872f2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8192d1f12164b35a1844e2e77f0872f2?postId=3619cf319d0b" data-media-id="8192d1f12164b35a1844e2e77f0872f2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ Add a video output to our capture session.
 
 
 
-<iframe width="700" height="250" src="/media/0e619f297e14c95708346342da2bceca?postId=3619cf319d0b" data-media-id="0e619f297e14c95708346342da2bceca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0e619f297e14c95708346342da2bceca?postId=3619cf319d0b" data-media-id="0e619f297e14c95708346342da2bceca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -172,7 +172,7 @@ Add capture session output as a sublayer to the view controllers’ view.
 
 
 
-<iframe width="700" height="250" src="/media/179a6bf4cdb7f691ee07031ff06487af?postId=3619cf319d0b" data-media-id="179a6bf4cdb7f691ee07031ff06487af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/179a6bf4cdb7f691ee07031ff06487af?postId=3619cf319d0b" data-media-id="179a6bf4cdb7f691ee07031ff06487af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -210,7 +210,7 @@ Add the following line in `SetupCaptureSession()`:
 
 
 
-<iframe width="700" height="250" src="/media/34e7e58bce5f1483a6dea9853e0888de?postId=3619cf319d0b" data-media-id="34e7e58bce5f1483a6dea9853e0888de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/34e7e58bce5f1483a6dea9853e0888de?postId=3619cf319d0b" data-media-id="34e7e58bce5f1483a6dea9853e0888de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -222,7 +222,7 @@ Add the following function:
 
 
 
-<iframe width="700" height="250" src="/media/597c7d5d411e40c14a3941f164bc0dcd?postId=3619cf319d0b" data-media-id="597c7d5d411e40c14a3941f164bc0dcd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/597c7d5d411e40c14a3941f164bc0dcd?postId=3619cf319d0b" data-media-id="597c7d5d411e40c14a3941f164bc0dcd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -246,7 +246,7 @@ Create a new `UILabel`and position it using constraints.
 
 
 
-<iframe width="700" height="250" src="/media/64bc67737ab67fd16c36702aa13c5768?postId=3619cf319d0b" data-media-id="64bc67737ab67fd16c36702aa13c5768" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/64bc67737ab67fd16c36702aa13c5768?postId=3619cf319d0b" data-media-id="64bc67737ab67fd16c36702aa13c5768" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -258,7 +258,7 @@ Don’t forget to add the label as a subview and call `setupLabel()` from within
 
 
 
-<iframe width="700" height="250" src="/media/9ed4c9f5f26cb72fc2b23a9d495fd82f?postId=3619cf319d0b" data-media-id="9ed4c9f5f26cb72fc2b23a9d495fd82f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9ed4c9f5f26cb72fc2b23a9d495fd82f?postId=3619cf319d0b" data-media-id="9ed4c9f5f26cb72fc2b23a9d495fd82f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F22357646%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

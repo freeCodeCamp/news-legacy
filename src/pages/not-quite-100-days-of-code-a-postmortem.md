@@ -1,7 +1,7 @@
 ---
 author: JS
 authorTwitter: https://twitter.com/j_speda
-authorFacebook: false
+authorFacebook: none
 title: "(Not quite) 100 Days of Code — A Postmortem"
 subTitle: "At the end of last year, I wrote about my experience coding and making daily commits to GitHub for 30 consecutive days. I also pledged to..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OVHrWU4rKjMbV7lQBjNV1Q.jpeg

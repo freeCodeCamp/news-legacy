@@ -1,7 +1,7 @@
 ---
 author: Haseeb Qureshi
 authorTwitter: https://twitter.com/hosseeb
-authorFacebook: false
+authorFacebook: none
 title: "Ten Rules for Negotiating a Job Offer"
 subTitle: "When the story of how I landed a job at Airbnb went viral, I was surprised at how infatuated people were with my negotiations. Media stor..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*i_rla8OXkHjqM9ckukSy4A.jpeg

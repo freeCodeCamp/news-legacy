@@ -147,7 +147,7 @@ If you enjoyed this article, please smash the clap icon at the bottom of this po
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/67131bcad3c891bf55a10320d8ab7372?postId=5b594a1655f0" data-media-id="67131bcad3c891bf55a10320d8ab7372" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/67131bcad3c891bf55a10320d8ab7372?postId=5b594a1655f0" data-media-id="67131bcad3c891bf55a10320d8ab7372" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

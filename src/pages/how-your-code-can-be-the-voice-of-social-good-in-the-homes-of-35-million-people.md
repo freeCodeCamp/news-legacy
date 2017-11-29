@@ -1,7 +1,7 @@
 ---
 author: Drew Firment
 authorTwitter: https://twitter.com/drewfirment
-authorFacebook: false
+authorFacebook: none
 title: "How your code can be the voice of social good in the homes of 35 million people"
 subTitle: "Coding for social good is a welcome movement. And it translates advancements in technology into social advancement for people everywhere...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vudic9m6hM2TOLCBLcWQpQ.jpeg

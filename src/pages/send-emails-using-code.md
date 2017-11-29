@@ -1,7 +1,7 @@
 ---
 author: Arjun Krishna Babu
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to send emails using Python"
 subTitle: "As a learning exercise, I recently dug into Python 3 to see how I could fire off a bunch of emails. There may be more straightforward met..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*qTKddOEkMZiri9ldfzBauQ.jpeg
@@ -77,7 +77,7 @@ Now let’s start with the Python code. First up, we need to read the contacts f
 
 
 
-<iframe width="700" height="250" src="/media/184b7e8a1fb01bcb5085728c028a68e3?postId=4fcea9df63f" data-media-id="184b7e8a1fb01bcb5085728c028a68e3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/184b7e8a1fb01bcb5085728c028a68e3?postId=4fcea9df63f" data-media-id="184b7e8a1fb01bcb5085728c028a68e3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -91,7 +91,7 @@ We also need a function to read in a template file (like `message.txt`) and retu
 
 
 
-<iframe width="700" height="250" src="/media/b2b267f67f1c50338708d21c79674e89?postId=4fcea9df63f" data-media-id="b2b267f67f1c50338708d21c79674e89" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b2b267f67f1c50338708d21c79674e89?postId=4fcea9df63f" data-media-id="b2b267f67f1c50338708d21c79674e89" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -105,7 +105,7 @@ To send the email, you need to make use of [SMTP (Simple Mail Transfer Protocol)
 
 
 
-<iframe width="700" height="250" src="/media/3bea5ac908f18f111185ddd2da5ee2a0?postId=4fcea9df63f" data-media-id="3bea5ac908f18f111185ddd2da5ee2a0" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3bea5ac908f18f111185ddd2da5ee2a0?postId=4fcea9df63f" data-media-id="3bea5ac908f18f111185ddd2da5ee2a0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -129,7 +129,7 @@ Now, for each of those contacts, let’s send the mail separately.
 
 
 
-<iframe width="700" height="250" src="/media/2719b6f59ee9b2d32f614e781d96b65c?postId=4fcea9df63f" data-media-id="2719b6f59ee9b2d32f614e781d96b65c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2719b6f59ee9b2d32f614e781d96b65c?postId=4fcea9df63f" data-media-id="2719b6f59ee9b2d32f614e781d96b65c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -149,7 +149,7 @@ Here’s the full code:
 
 
 
-<iframe width="700" height="250" src="/media/6e7a0385ea4ada30dc76299feee54d71?postId=4fcea9df63f" data-media-id="6e7a0385ea4ada30dc76299feee54d71" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6e7a0385ea4ada30dc76299feee54d71?postId=4fcea9df63f" data-media-id="6e7a0385ea4ada30dc76299feee54d71" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -187,7 +187,7 @@ Mission accomplished! The following video shows the complete procedure.
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/74bb46a65b5ebd2a52c5f9cd674d8ee1?postId=ba16515a32fa" data-media-id="74bb46a65b5ebd2a52c5f9cd674d8ee1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzLEKDrmgYhI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/74bb46a65b5ebd2a52c5f9cd674d8ee1?postId=ba16515a32fa" data-media-id="74bb46a65b5ebd2a52c5f9cd674d8ee1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzLEKDrmgYhI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Marcello Lins
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How I built a serverless web crawler to mine Vancouver real estate data at scale"
 subTitle: "I recently moved from Rio de Janeiro, Brazil to Vancouver, Canada. The first thing that hits you right in the face, aside from the beauti..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*6PzbAGogRZ7eluH7lI17fA.png

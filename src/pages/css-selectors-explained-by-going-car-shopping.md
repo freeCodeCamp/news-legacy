@@ -38,7 +38,7 @@ Let’s start off by imaging a car dealership, using HTML:
 
 
 
-<iframe width="700" height="250" src="/media/172960fc032ad241ee5b37a890c48378?postId=51a383f6eb4b" data-media-id="172960fc032ad241ee5b37a890c48378" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/172960fc032ad241ee5b37a890c48378?postId=51a383f6eb4b" data-media-id="172960fc032ad241ee5b37a890c48378" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -56,7 +56,7 @@ Here’s some example CSS:
 
 
 
-<iframe width="700" height="250" src="/media/f2ccab586f1cb2218654397a700a5131?postId=51a383f6eb4b" data-media-id="f2ccab586f1cb2218654397a700a5131" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f2ccab586f1cb2218654397a700a5131?postId=51a383f6eb4b" data-media-id="f2ccab586f1cb2218654397a700a5131" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -68,7 +68,7 @@ Anyway, it would be fair to say that every car in this lot is made of steel, has
 
 
 
-<iframe width="700" height="250" src="/media/6214d6ddcef1cf83a69b5586166c80b4?postId=51a383f6eb4b" data-media-id="6214d6ddcef1cf83a69b5586166c80b4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6214d6ddcef1cf83a69b5586166c80b4?postId=51a383f6eb4b" data-media-id="6214d6ddcef1cf83a69b5586166c80b4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -82,7 +82,7 @@ Check out our first HTML snippet, which covers all of the cars on the lot. You c
 
 
 
-<iframe width="700" height="250" src="/media/e98c58d87d4b06dcf6ac8f49eea93f15?postId=51a383f6eb4b" data-media-id="e98c58d87d4b06dcf6ac8f49eea93f15" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e98c58d87d4b06dcf6ac8f49eea93f15?postId=51a383f6eb4b" data-media-id="e98c58d87d4b06dcf6ac8f49eea93f15" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ What if we have the class “crewCab”? Trucks with crew cabs have 2 rows of se
 
 
 
-<iframe width="700" height="250" src="/media/c2f4e449ab4d3ff8721886f98b18780b?postId=51a383f6eb4b" data-media-id="c2f4e449ab4d3ff8721886f98b18780b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c2f4e449ab4d3ff8721886f98b18780b?postId=51a383f6eb4b" data-media-id="c2f4e449ab4d3ff8721886f98b18780b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ Classes are a more specific way to reference HTML elements. So, let’s say that
 
 
 
-<iframe width="700" height="250" src="/media/86447ed1e55f34567e1ba7d06ab96b2e?postId=51a383f6eb4b" data-media-id="86447ed1e55f34567e1ba7d06ab96b2e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/86447ed1e55f34567e1ba7d06ab96b2e?postId=51a383f6eb4b" data-media-id="86447ed1e55f34567e1ba7d06ab96b2e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ So let’s say you have one car and it has the license plate “123 XYZ”. This
 
 
 
-<iframe width="700" height="250" src="/media/1182e9a7f28b9cf038b63ae2f3cf782a?postId=51a383f6eb4b" data-media-id="1182e9a7f28b9cf038b63ae2f3cf782a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1182e9a7f28b9cf038b63ae2f3cf782a?postId=51a383f6eb4b" data-media-id="1182e9a7f28b9cf038b63ae2f3cf782a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -140,7 +140,7 @@ Elements have a 1-to-1 relationship with IDs. Just like with cars and license pl
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=51a383f6eb4b" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=51a383f6eb4b" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -162,7 +162,7 @@ You could have also given each  and its children.
 
 
 
-<iframe width="700" height="250" src="/media/ab211feed50a318d51cd397f17b89dd5?postId=51a383f6eb4b" data-media-id="ab211feed50a318d51cd397f17b89dd5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ab211feed50a318d51cd397f17b89dd5?postId=51a383f6eb4b" data-media-id="ab211feed50a318d51cd397f17b89dd5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -178,7 +178,7 @@ So you can say:
 
 
 
-<iframe width="700" height="250" src="/media/14ba458a04abce23b46703fa3959d8c2?postId=51a383f6eb4b" data-media-id="14ba458a04abce23b46703fa3959d8c2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/14ba458a04abce23b46703fa3959d8c2?postId=51a383f6eb4b" data-media-id="14ba458a04abce23b46703fa3959d8c2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -198,7 +198,7 @@ Answer:
 
 
 
-<iframe width="700" height="250" src="/media/1621ab8542f0c9cb0e3da1275169b5cf?postId=51a383f6eb4b" data-media-id="1621ab8542f0c9cb0e3da1275169b5cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1621ab8542f0c9cb0e3da1275169b5cf?postId=51a383f6eb4b" data-media-id="1621ab8542f0c9cb0e3da1275169b5cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

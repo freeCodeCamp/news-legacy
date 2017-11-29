@@ -66,7 +66,7 @@ LinkedIn has built a $26 billion empire by supplying weapons to recruiters, who 
 
 
 
-<iframe width="500" height="250" src="/media/32f5f0f6f392ee653b2db655136396c7?postId=967dd492560c" data-media-id="32f5f0f6f392ee653b2db655136396c7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/32f5f0f6f392ee653b2db655136396c7?postId=967dd492560c" data-media-id="32f5f0f6f392ee653b2db655136396c7" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -113,7 +113,7 @@ This will open up your authorized key file using the minimalist text editor “n
 
 
 
-<iframe width="500" height="250" src="/media/8cf3de156ca5d66d462c93cd24bfa776?postId=f413ac96139a" data-media-id="8cf3de156ca5d66d462c93cd24bfa776" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F477397164453527552%2Fuh2w1u1o_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/8cf3de156ca5d66d462c93cd24bfa776?postId=f413ac96139a" data-media-id="8cf3de156ca5d66d462c93cd24bfa776" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F477397164453527552%2Fuh2w1u1o_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

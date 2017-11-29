@@ -1,7 +1,7 @@
 ---
 author: Illia Kolodiazhnyi
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to build complex user interfaces without going completely insane"
 subTitle: "I recently built a web application with a complex, dynamic User Interface (UI). Along the way, I learned several valuable lessons...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*jwBhYQ_c_HZ_OOCE4pwbwQ.jpeg

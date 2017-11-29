@@ -1,6 +1,6 @@
 ---
 author: Eliezer Steinbock
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/549765607
 title: "I’ve been running Meteor at scale for a year now. Here’s what I’ve learned."
 subTitle: "A year ago I wrote an article describing my first experiences scaling Meteor. In short, I created a popular fantasy football website usin..."
@@ -229,7 +229,7 @@ If you got this far in the post, you’re probably feeling super inspired and in
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/6b1422f1fe15466e9630d8e517d269b3?postId=26ee37588e4b" data-media-id="6b1422f1fe15466e9630d8e517d269b3" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/6b1422f1fe15466e9630d8e517d269b3?postId=26ee37588e4b" data-media-id="6b1422f1fe15466e9630d8e517d269b3" allowfullscreen="" frameborder="0"></iframe>
 
 
 

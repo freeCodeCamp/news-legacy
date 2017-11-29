@@ -94,7 +94,7 @@ NOTE: Each of these stacked houses must have a display with a value of “inline
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/89d1bc98693fc144bdfaf3f859ba2d46?postId=9a9e692773c1" data-media-id="89d1bc98693fc144bdfaf3f859ba2d46" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/89d1bc98693fc144bdfaf3f859ba2d46?postId=9a9e692773c1" data-media-id="89d1bc98693fc144bdfaf3f859ba2d46" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -108,7 +108,7 @@ Alright, let’s use some real CSS! Imagine that you have a lot with the followi
 
 
 
-<iframe width="700" height="250" src="/media/0201b1426f36ca126040780f196b6236?postId=9a9e692773c1" data-media-id="0201b1426f36ca126040780f196b6236" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0201b1426f36ca126040780f196b6236?postId=9a9e692773c1" data-media-id="0201b1426f36ca126040780f196b6236" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -133,7 +133,7 @@ Here is one last example. In this one, we will use two values when declaring pad
 
 
 
-<iframe width="700" height="250" src="/media/bbb4bb0b2a119f488fbef24fbd5ab92a?postId=9a9e692773c1" data-media-id="bbb4bb0b2a119f488fbef24fbd5ab92a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bbb4bb0b2a119f488fbef24fbd5ab92a?postId=9a9e692773c1" data-media-id="bbb4bb0b2a119f488fbef24fbd5ab92a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

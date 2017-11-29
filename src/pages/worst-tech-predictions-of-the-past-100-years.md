@@ -1,7 +1,7 @@
 ---
 author: Ilya Pestov
 authorTwitter: https://twitter.com/ipestov
-authorFacebook: false
+authorFacebook: none
 title: "The absolute worst technology predictions of the past 150 years"
 subTitle: "There’s a long-standing tradition among scientists, engineers, and industrialists. Every new year, they make predictions about a future...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*h4gDzzlzPRI8p0ITyrQClw.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Googley as Heck
 authorTwitter: https://twitter.com/googleyasheck
-authorFacebook: false
+authorFacebook: none
 title: "After months of preparing for the Google interview, I got hired by Amazon"
 subTitle: "As you may know, the last 11 months have been very difficult for me. As a self-taught web developer of 15 years, my computer science stud..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*nIAP8roP7XjajSY5VNe6gA.jpeg
@@ -56,7 +56,7 @@ Here’s a video with some cool automation tricks you can do with AWS Config Rul
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/635ce8dbe7a13e7396c0e9a73f56c114?postId=8b21f7c27de5" data-media-id="635ce8dbe7a13e7396c0e9a73f56c114" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2P2I7HlrFtA%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/635ce8dbe7a13e7396c0e9a73f56c114?postId=8b21f7c27de5" data-media-id="635ce8dbe7a13e7396c0e9a73f56c114" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2P2I7HlrFtA%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

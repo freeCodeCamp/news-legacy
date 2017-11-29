@@ -55,7 +55,7 @@ What you see here is a POJO with all the boilerplate:
 
 
 
-<iframe width="700" height="250" src="/media/5e2f697a805718dfd815e52426b1bf1d?postId=16b35c5f54a2" data-media-id="5e2f697a805718dfd815e52426b1bf1d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5e2f697a805718dfd815e52426b1bf1d?postId=16b35c5f54a2" data-media-id="5e2f697a805718dfd815e52426b1bf1d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -67,7 +67,7 @@ Creating value objects is really cumbersome even with the usage of libraries lik
 
 
 
-<iframe width="700" height="250" src="/media/55ad7ff3d6a86b762e3011cf40533d89?postId=16b35c5f54a2" data-media-id="55ad7ff3d6a86b762e3011cf40533d89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/55ad7ff3d6a86b762e3011cf40533d89?postId=16b35c5f54a2" data-media-id="55ad7ff3d6a86b762e3011cf40533d89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -87,7 +87,7 @@ String manipulation in Java is painful. It can be alleviated by using `String.fo
 
 
 
-<iframe width="700" height="250" src="/media/fd3f25d87762530b5c262edd5270cc42?postId=16b35c5f54a2" data-media-id="fd3f25d87762530b5c262edd5270cc42" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fd3f25d87762530b5c262edd5270cc42?postId=16b35c5f54a2" data-media-id="fd3f25d87762530b5c262edd5270cc42" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -99,7 +99,7 @@ Kotlin works around this by adding [String interpolation](https://stackoverflow.
 
 
 
-<iframe width="700" height="250" src="/media/7f90e2b4ae45169bd88874e4f1931c0d?postId=16b35c5f54a2" data-media-id="7f90e2b4ae45169bd88874e4f1931c0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7f90e2b4ae45169bd88874e4f1931c0d?postId=16b35c5f54a2" data-media-id="7f90e2b4ae45169bd88874e4f1931c0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -113,7 +113,7 @@ Writing decorators in Java can be tricky and they are not perfect. If you want t
 
 
 
-<iframe width="700" height="250" src="/media/0dacc673c48e2fa1af77615d758f46ed?postId=16b35c5f54a2" data-media-id="0dacc673c48e2fa1af77615d758f46ed" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0dacc673c48e2fa1af77615d758f46ed?postId=16b35c5f54a2" data-media-id="0dacc673c48e2fa1af77615d758f46ed" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -125,7 +125,7 @@ If you need to decorate something which does not provide useful base classes lik
 
 
 
-<iframe width="700" height="250" src="/media/a27e3e7f5669837666dc6c5325a5f0f1?postId=16b35c5f54a2" data-media-id="a27e3e7f5669837666dc6c5325a5f0f1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a27e3e7f5669837666dc6c5325a5f0f1?postId=16b35c5f54a2" data-media-id="a27e3e7f5669837666dc6c5325a5f0f1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -141,7 +141,7 @@ Checking for `null` values involves a lot of boolean expressions and a lot of bo
 
 
 
-<iframe width="700" height="250" src="/media/f55cbb154a68fcf30ff562e4a8759c4d?postId=16b35c5f54a2" data-media-id="f55cbb154a68fcf30ff562e4a8759c4d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f55cbb154a68fcf30ff562e4a8759c4d?postId=16b35c5f54a2" data-media-id="f55cbb154a68fcf30ff562e4a8759c4d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -153,7 +153,7 @@ With Kotlin you have several options. If you have to interop with Java projects 
 
 
 
-<iframe width="700" height="250" src="/media/61f78e0dcf6dd66a7a77f2da3da74984?postId=16b35c5f54a2" data-media-id="61f78e0dcf6dd66a7a77f2da3da74984" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/61f78e0dcf6dd66a7a77f2da3da74984?postId=16b35c5f54a2" data-media-id="61f78e0dcf6dd66a7a77f2da3da74984" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -165,7 +165,7 @@ The code will only run after a `?` if its left operand is not `null`. The `let`
 
 
 
-<iframe width="700" height="250" src="/media/36b0baae310a7e502da0d84c3acbeb56?postId=16b35c5f54a2" data-media-id="36b0baae310a7e502da0d84c3acbeb56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/36b0baae310a7e502da0d84c3acbeb56?postId=16b35c5f54a2" data-media-id="36b0baae310a7e502da0d84c3acbeb56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -187,7 +187,7 @@ Kotlin supports type inference which means that it can derive types from the con
 
 
 
-<iframe width="700" height="250" src="/media/2d9b993d3035191e279493ce21f4461c?postId=16b35c5f54a2" data-media-id="2d9b993d3035191e279493ce21f4461c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2d9b993d3035191e279493ce21f4461c?postId=16b35c5f54a2" data-media-id="2d9b993d3035191e279493ce21f4461c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -199,7 +199,7 @@ This looks almost the same in Kotlin:
 
 
 
-<iframe width="700" height="250" src="/media/cc095481bc632190b9c3c600657ccb80?postId=16b35c5f54a2" data-media-id="cc095481bc632190b9c3c600657ccb80" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cc095481bc632190b9c3c600657ccb80?postId=16b35c5f54a2" data-media-id="cc095481bc632190b9c3c600657ccb80" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -211,7 +211,7 @@ Until you let Kotlin figure out the types of your variables:
 
 
 
-<iframe width="700" height="250" src="/media/297ad6c492d98023c8c231ba0e0dfb6e?postId=16b35c5f54a2" data-media-id="297ad6c492d98023c8c231ba0e0dfb6e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/297ad6c492d98023c8c231ba0e0dfb6e?postId=16b35c5f54a2" data-media-id="297ad6c492d98023c8c231ba0e0dfb6e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -223,7 +223,7 @@ or even methods:
 
 
 
-<iframe width="700" height="250" src="/media/9c51082be868d7016d866812ad6ffd5f?postId=16b35c5f54a2" data-media-id="9c51082be868d7016d866812ad6ffd5f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9c51082be868d7016d866812ad6ffd5f?postId=16b35c5f54a2" data-media-id="9c51082be868d7016d866812ad6ffd5f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -237,7 +237,7 @@ You must have seen this piece of code at least a million times:
 
 
 
-<iframe width="700" height="250" src="/media/e32f265df1b96513c72bccd0b71d1583?postId=16b35c5f54a2" data-media-id="e32f265df1b96513c72bccd0b71d1583" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e32f265df1b96513c72bccd0b71d1583?postId=16b35c5f54a2" data-media-id="e32f265df1b96513c72bccd0b71d1583" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -249,7 +249,7 @@ Old school IO in Java. Note the try with resources block! The same would look li
 
 
 
-<iframe width="700" height="250" src="/media/9737acbb14fd169a328ad77ed242d975?postId=16b35c5f54a2" data-media-id="9737acbb14fd169a328ad77ed242d975" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9737acbb14fd169a328ad77ed242d975?postId=16b35c5f54a2" data-media-id="9737acbb14fd169a328ad77ed242d975" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -269,7 +269,7 @@ Let’s look at the lambda support in Java:
 
 
 
-<iframe width="700" height="250" src="/media/67035cc5e3b99d30bee073085c667da3?postId=16b35c5f54a2" data-media-id="67035cc5e3b99d30bee073085c667da3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/67035cc5e3b99d30bee073085c667da3?postId=16b35c5f54a2" data-media-id="67035cc5e3b99d30bee073085c667da3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -281,7 +281,7 @@ Since there is no syntax for method parameter types we have to create an interfa
 
 
 
-<iframe width="700" height="250" src="/media/497c4c94599b34639968df8ace607c96?postId=16b35c5f54a2" data-media-id="497c4c94599b34639968df8ace607c96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/497c4c94599b34639968df8ace607c96?postId=16b35c5f54a2" data-media-id="497c4c94599b34639968df8ace607c96" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -293,7 +293,7 @@ Kotlin adds a syntax for passing functions as parameters: `(ParamType1, ...Para
 
 
 
-<iframe width="700" height="250" src="/media/d5e71ad74c7ba85fc3070253b5300952?postId=16b35c5f54a2" data-media-id="d5e71ad74c7ba85fc3070253b5300952" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d5e71ad74c7ba85fc3070253b5300952?postId=16b35c5f54a2" data-media-id="d5e71ad74c7ba85fc3070253b5300952" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -307,7 +307,7 @@ Functional programming is all the buzz nowadays and with Java 8 they have releas
 
 
 
-<iframe width="700" height="250" src="/media/12840e53099d27ab85b22fa89a34c282?postId=16b35c5f54a2" data-media-id="12840e53099d27ab85b22fa89a34c282" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/12840e53099d27ab85b22fa89a34c282?postId=16b35c5f54a2" data-media-id="12840e53099d27ab85b22fa89a34c282" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -319,7 +319,7 @@ The Kotlin equivalent is rather similar, but subtly different:
 
 
 
-<iframe width="700" height="250" src="/media/56c0a7767d39cff626bce45b9a59ebda?postId=16b35c5f54a2" data-media-id="56c0a7767d39cff626bce45b9a59ebda" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/56c0a7767d39cff626bce45b9a59ebda?postId=16b35c5f54a2" data-media-id="56c0a7767d39cff626bce45b9a59ebda" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -335,7 +335,7 @@ Well this can be a dealbreaker for most people but JetBrains got this right:
 
 
 
-<iframe width="700" height="250" src="/media/fc7533ea9dab4ccb1341e3869dd34f23?postId=16b35c5f54a2" data-media-id="fc7533ea9dab4ccb1341e3869dd34f23" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fc7533ea9dab4ccb1341e3869dd34f23?postId=16b35c5f54a2" data-media-id="fc7533ea9dab4ccb1341e3869dd34f23" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -345,7 +345,7 @@ Well this can be a dealbreaker for most people but JetBrains got this right:
 
 
 
-<iframe width="700" height="250" src="/media/1135202d3b411475860e8f57b3f4fcf5?postId=16b35c5f54a2" data-media-id="1135202d3b411475860e8f57b3f4fcf5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1135202d3b411475860e8f57b3f4fcf5?postId=16b35c5f54a2" data-media-id="1135202d3b411475860e8f57b3f4fcf5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

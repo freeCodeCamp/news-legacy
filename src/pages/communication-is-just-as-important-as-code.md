@@ -30,7 +30,7 @@ _This past weekend, I had the pleasure of being the closing keynote at Ruby Nati
 
 
 
-<iframe data-width="600" data-height="500" width="600" height="500" src="/media/42b7856ad67db540d8a7a0288d7e2215?postId=c92c709329ab" data-media-id="42b7856ad67db540d8a7a0288d7e2215" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="500" width="600" height="500" src="https://medium.freecodecamp.org/media/42b7856ad67db540d8a7a0288d7e2215?postId=c92c709329ab" data-media-id="42b7856ad67db540d8a7a0288d7e2215" allowfullscreen="" frameborder="0"></iframe>
 
 
 

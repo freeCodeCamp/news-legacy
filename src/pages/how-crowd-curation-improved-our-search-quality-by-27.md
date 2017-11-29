@@ -1,7 +1,7 @@
 ---
 author: Thanesh Sunthar
 authorTwitter: https://twitter.com/ThaneshSunthar
-authorFacebook: false
+authorFacebook: none
 title: "How Crowd Curation Improved Our Search Quality by 27%"
 subTitle: "The bigger your platform gets, the more vital search becomes. And if you run a content-heavy platform like ours, it’s even more critical ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*qRLVVbI9mEUK2IOyLbGJ-w.jpeg

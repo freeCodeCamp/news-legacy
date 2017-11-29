@@ -1,7 +1,7 @@
 ---
 author: Jedidiah Yueh
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Will Elon Musk be our savior or our destroyer?"
 subTitle: "The world has finally met its first mad scientist: Elon Musk...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ceQ9mySuP0eKdPOMg5DvPQ.png
@@ -60,7 +60,7 @@ Instead of sending people to the moon, Musk wants to colonize Mars.
 
 
 
-<iframe data-width="640" data-height="359" width="640" height="359" src="/media/a16a9a8554beddedc5a59767320a754b?postId=b0e3d6d46db" data-media-id="a16a9a8554beddedc5a59767320a754b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F22071306_1845988779048871_1542263683013410816_n.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="359" width="640" height="359" src="https://medium.freecodecamp.org/media/a16a9a8554beddedc5a59767320a754b?postId=b0e3d6d46db" data-media-id="a16a9a8554beddedc5a59767320a754b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F22071306_1845988779048871_1542263683013410816_n.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -96,7 +96,7 @@ Worse, even if governments listen to Musk, not all of them will comply. Russia a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/64a966a8743a4384b731752f9704592b?postId=b0e3d6d46db" data-media-id="64a966a8743a4384b731752f9704592b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F782474226020200448%2FzDo-gAo0_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/64a966a8743a4384b731752f9704592b?postId=b0e3d6d46db" data-media-id="64a966a8743a4384b731752f9704592b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F782474226020200448%2FzDo-gAo0_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

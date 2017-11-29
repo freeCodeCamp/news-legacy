@@ -1,6 +1,6 @@
 ---
 author: Bhuvan Malik
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10211466824409328
 title: "A guide to JavaScript variable hoisting 🚩 with let and const"
 subTitle: "New JavaScript developers often have a hard time understanding the unique behaviour of variable/function hoisting...."

@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "Massive Open Online Courses used to be 100% free. But they didn’t stay that way."
 subTitle: "I took one of the first Massive Open Online Courses (MOOCs) in 2011. Back then, everything was 100% free: the videos, the assignments, an..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0nj_MfwE4Xqa_61B6q4BuA.png

@@ -80,7 +80,7 @@ If we’re using more technical jargon here, the only way to modify state in Red
 
 
 
-<iframe width="700" height="250" src="/media/09b585724d02cb685fc1818960d960f5?postId=c8a3a9db15ca" data-media-id="09b585724d02cb685fc1818960d960f5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/09b585724d02cb685fc1818960d960f5?postId=c8a3a9db15ca" data-media-id="09b585724d02cb685fc1818960d960f5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ We mentioned Actions above without explaining what they were yet but they’re s
 
 
 
-<iframe width="700" height="250" src="/media/e5382724974e43ac9affd600cb7c99a7?postId=c8a3a9db15ca" data-media-id="e5382724974e43ac9affd600cb7c99a7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e5382724974e43ac9affd600cb7c99a7?postId=c8a3a9db15ca" data-media-id="e5382724974e43ac9affd600cb7c99a7" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ To reiterate, in order for your application to change its state, you have to “
 
 
 
-<iframe width="700" height="250" src="/media/426a79acba02b9fedce8b8e95b26e4e0?postId=c8a3a9db15ca" data-media-id="426a79acba02b9fedce8b8e95b26e4e0" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/426a79acba02b9fedce8b8e95b26e4e0?postId=c8a3a9db15ca" data-media-id="426a79acba02b9fedce8b8e95b26e4e0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -134,7 +134,7 @@ Here’s some code:
 
 
 
-<iframe width="700" height="250" src="/media/2d4db877a49060a4d88df1289832fbf5?postId=c8a3a9db15ca" data-media-id="2d4db877a49060a4d88df1289832fbf5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2d4db877a49060a4d88df1289832fbf5?postId=c8a3a9db15ca" data-media-id="2d4db877a49060a4d88df1289832fbf5" allowfullscreen="" frameborder="0"></iframe>
 
 
 

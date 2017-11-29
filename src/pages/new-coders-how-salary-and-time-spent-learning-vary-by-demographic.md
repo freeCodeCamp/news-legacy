@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "New Coders: How Salary and Time Spent Learning Vary by Demographic"
 subTitle: "Free Code Camp asked 15,000 people who they are, and how they’re learning to code. I separated them by gender, continent, and whether they’re ethnic minorities, then explored their differences."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*LG8AEXYiV5exzC8ioTC8ZQ.png

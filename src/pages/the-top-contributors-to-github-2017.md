@@ -1,7 +1,7 @@
 ---
 author: Felipe Hoffa
 authorTwitter: https://twitter.com/felipehoffa
-authorFacebook: false
+authorFacebook: none
 title: "Who contributed the most to open source in 2017? Let’s analyze GitHub’s data and find out."
 subTitle: "For this analysis we’ll look at all the PushEvents published by GitHub during 2017. For each GitHub user we’ll have to make our best gues..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ywkHH3kMMVdGhXe6LDq7IA.png
@@ -384,7 +384,7 @@ _Yesterday Felipe Hoffa from the Google Dev Rel team published some interesting 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/078d6d92c98866a2d23fcf083d4b9cbb?postId=be98ab854e87" data-media-id="078d6d92c98866a2d23fcf083d4b9cbb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000407493871%2Fd60c34a9639e865fb61a7756644ab43a_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/078d6d92c98866a2d23fcf083d4b9cbb?postId=be98ab854e87" data-media-id="078d6d92c98866a2d23fcf083d4b9cbb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000407493871%2Fd60c34a9639e865fb61a7756644ab43a_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

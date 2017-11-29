@@ -1,7 +1,7 @@
 ---
 author: Nathan
 authorTwitter: https://twitter.com/terakilobyte
-authorFacebook: false
+authorFacebook: none
 title: "If you want a developer job, be fearless and dream big"
 subTitle: "As a mentor and teacher at Free Code Camp, I’m often playing the counselor. Countless people fret about finding a job. And often, it’s no..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KRbQnfXlTdUnqjoJU8SONQ.jpeg

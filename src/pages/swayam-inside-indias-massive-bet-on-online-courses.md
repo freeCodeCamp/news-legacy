@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "SWAYAM: Inside India’s massive bet on online courses"
 subTitle: "SWAYAM, an upcoming online course platform by the Indian government, has ambitious goals. It’s the one platform that would bind together ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*PbB1cK_JRWZt9JSD3p7Lyg.jpeg
@@ -48,7 +48,7 @@ At launch, SWAYAM is expected to have over 2,000 courses, 250,000 hours of conte
 
 
 
-<iframe width="500" height="250" src="/media/fa68a683c2329f6dd7abe89ab6bbeedb?postId=a800824c0a2f" data-media-id="fa68a683c2329f6dd7abe89ab6bbeedb" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/fa68a683c2329f6dd7abe89ab6bbeedb?postId=a800824c0a2f" data-media-id="fa68a683c2329f6dd7abe89ab6bbeedb" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -75,7 +75,7 @@ On further digging by Class Central, we also found another document entitled “
 
 
 
-<iframe data-width="600" data-height="640" width="600" height="640" src="/media/f12bfeee9f4c17a028d5bd4ddbba6dbb?postId=a800824c0a2f" data-media-id="f12bfeee9f4c17a028d5bd4ddbba6dbb" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="640" width="600" height="640" src="https://medium.freecodecamp.org/media/f12bfeee9f4c17a028d5bd4ddbba6dbb?postId=a800824c0a2f" data-media-id="f12bfeee9f4c17a028d5bd4ddbba6dbb" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -117,7 +117,7 @@ All the videos created for SWAYAM will also be also be available on a platform c
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ad6a5ece5c9a6088973ddede779c26d5?postId=a800824c0a2f" data-media-id="ad6a5ece5c9a6088973ddede779c26d5" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ad6a5ece5c9a6088973ddede779c26d5?postId=a800824c0a2f" data-media-id="ad6a5ece5c9a6088973ddede779c26d5" allowfullscreen="" frameborder="0"></iframe>
 
 
 

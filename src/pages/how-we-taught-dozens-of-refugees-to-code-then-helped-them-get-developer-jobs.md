@@ -1,7 +1,7 @@
 ---
 author: Gijs Corstens
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How we taught dozens of refugees to code, then helped them get developer jobs"
 subTitle: "In 2015 and 2016, more than 2 million people fled their home countries seeking refuge in Europe. Europe wasn’t at all prepared for hostin..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*M_NGt8royrL2FrIWu-fsNQ.jpeg
@@ -100,7 +100,7 @@ Although some of our students dropped out of our class, the ones who stuck aroun
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/e83912166a17755a002058ab179b1971?postId=fd37036c13b0" data-media-id="e83912166a17755a002058ab179b1971" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqFqHXZio6ZM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/e83912166a17755a002058ab179b1971?postId=fd37036c13b0" data-media-id="e83912166a17755a002058ab179b1971" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqFqHXZio6ZM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

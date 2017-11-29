@@ -1,6 +1,6 @@
 ---
 author: Danny Huang
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10104082809543775
 title: "How I landed a React developer job during my #100DaysOfCode challenge"
 subTitle: "Since college, coding was something that had I wanted to learn, but felt I wasn’t smart enough to do. When I faced a bug or problem, I wo..."

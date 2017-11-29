@@ -120,7 +120,7 @@ Follow the provided link or type your organization name with “.github.io” in
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/012cc6a32edb902bf83f61bfc09f306c?postId=347dbd700f4e" data-media-id="012cc6a32edb902bf83f61bfc09f306c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXN7JPZiKJ1U%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/012cc6a32edb902bf83f61bfc09f306c?postId=347dbd700f4e" data-media-id="012cc6a32edb902bf83f61bfc09f306c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXN7JPZiKJ1U%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

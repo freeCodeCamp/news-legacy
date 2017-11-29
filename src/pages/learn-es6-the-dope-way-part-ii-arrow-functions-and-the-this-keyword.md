@@ -1,7 +1,7 @@
 ---
 author: Mariya Diminsky
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Learn ES6 The Dope Way Part II: Arrow functions and the ‘this’ keyword"
 subTitle: "Welcome to Part II of Learn ES6 The Dope Way, a series created to help you easily understand ES6 (ECMAScript 6)!..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*qb02fqNhhC5mRIdzLA83Hg.png
@@ -58,7 +58,7 @@ If the ‘_this_’ keyword were inside an object’s **method** (a function tha
 
 
 
-<iframe width="700" height="250" src="/media/450463bb616c4e5cc8fff26b17bee0a8?postId=381ac7a32881" data-media-id="450463bb616c4e5cc8fff26b17bee0a8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/450463bb616c4e5cc8fff26b17bee0a8?postId=381ac7a32881" data-media-id="450463bb616c4e5cc8fff26b17bee0a8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -72,7 +72,7 @@ Now what about if the ‘_this_’ keyword were inside of method’s function?
 
 
 
-<iframe width="700" height="250" src="/media/49bf6c074897e415f1716a62476ccb4e?postId=381ac7a32881" data-media-id="49bf6c074897e415f1716a62476ccb4e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/49bf6c074897e415f1716a62476ccb4e?postId=381ac7a32881" data-media-id="49bf6c074897e415f1716a62476ccb4e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -84,7 +84,7 @@ What did you get? Wait, what happened to our bunny…?
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/a1383cc7650ef34cc1b43cac8d5afbab?postId=381ac7a32881" data-media-id="a1383cc7650ef34cc1b43cac8d5afbab" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/a1383cc7650ef34cc1b43cac8d5afbab?postId=381ac7a32881" data-media-id="a1383cc7650ef34cc1b43cac8d5afbab" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -108,7 +108,7 @@ When it is inside of an object’s method — the function’s owner is the 
 
 
 
-<iframe width="700" height="250" src="/media/5c64808de9537a320006fe40474d3b3c?postId=381ac7a32881" data-media-id="5c64808de9537a320006fe40474d3b3c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5c64808de9537a320006fe40474d3b3c?postId=381ac7a32881" data-media-id="5c64808de9537a320006fe40474d3b3c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ Before we continue, it’s important to be aware of two clever ways programmers 
 
 
 
-<iframe width="700" height="250" src="/media/85032c40bce8f2bb18d108e35b784275?postId=381ac7a32881" data-media-id="85032c40bce8f2bb18d108e35b784275" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/85032c40bce8f2bb18d108e35b784275?postId=381ac7a32881" data-media-id="85032c40bce8f2bb18d108e35b784275" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ Before we continue, it’s important to be aware of two clever ways programmers 
 
 
 
-<iframe width="700" height="250" src="/media/1ea85947cc103976930afb880b517ca5?postId=381ac7a32881" data-media-id="1ea85947cc103976930afb880b517ca5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1ea85947cc103976930afb880b517ca5?postId=381ac7a32881" data-media-id="1ea85947cc103976930afb880b517ca5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -150,7 +150,7 @@ And now introducing…Arrow functions! Dealing with ‘_this_’ issue has never
 
 
 
-<iframe width="700" height="250" src="/media/750f1d137ff1a0ea4726f2c5fcd29ce2?postId=381ac7a32881" data-media-id="750f1d137ff1a0ea4726f2c5fcd29ce2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/750f1d137ff1a0ea4726f2c5fcd29ce2?postId=381ac7a32881" data-media-id="750f1d137ff1a0ea4726f2c5fcd29ce2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ While in ES5 ‘_this_’ referred to the parent of the function, in ES6, arrow 
 
 
 
-<iframe width="700" height="250" src="/media/1c3ee3d606e1f1d8f6b0ba4974337ad0?postId=381ac7a32881" data-media-id="1c3ee3d606e1f1d8f6b0ba4974337ad0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1c3ee3d606e1f1d8f6b0ba4974337ad0?postId=381ac7a32881" data-media-id="1c3ee3d606e1f1d8f6b0ba4974337ad0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -176,7 +176,7 @@ You did it! Great job! Simple enough right? Here are a few more examples utilizi
 
 
 
-<iframe width="700" height="250" src="/media/e28dc4314b7ca5ae202cd4ee22c90e8b?postId=381ac7a32881" data-media-id="e28dc4314b7ca5ae202cd4ee22c90e8b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e28dc4314b7ca5ae202cd4ee22c90e8b?postId=381ac7a32881" data-media-id="e28dc4314b7ca5ae202cd4ee22c90e8b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -192,7 +192,7 @@ Further quirks to consider:
 
 
 
-<iframe width="700" height="250" src="/media/25fed346f54f9afecea657369627f061?postId=381ac7a32881" data-media-id="25fed346f54f9afecea657369627f061" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/25fed346f54f9afecea657369627f061?postId=381ac7a32881" data-media-id="25fed346f54f9afecea657369627f061" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

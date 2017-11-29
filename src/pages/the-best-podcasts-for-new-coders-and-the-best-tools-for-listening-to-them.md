@@ -1,7 +1,7 @@
 ---
 author: Ayo Isaiah
 authorTwitter: https://twitter.com/AyIsaiah
-authorFacebook: false
+authorFacebook: none
 title: "The best podcasts for new coders, and the best tools for listening to them"
 subTitle: "I was a bit surprised by the results of the recent Free Code Camp/CodeNewbie survey. Only around 26% of people learning to code around th..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*3UvxxtY2l-MJZjAwUquwEw.jpeg

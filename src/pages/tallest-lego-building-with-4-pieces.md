@@ -1,7 +1,7 @@
 ---
 author: yolpos
 authorTwitter: https://twitter.com/yolpogists
-authorFacebook: false
+authorFacebook: none
 title: "What’s the tallest Lego building you can make with these 4 pieces?"
 subTitle: "My daughter asked me: “Daddy, what’s the tallest structure we can build with those 4 pieces?”..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*l47-oOEqTW2rr7itwZz6XA.png

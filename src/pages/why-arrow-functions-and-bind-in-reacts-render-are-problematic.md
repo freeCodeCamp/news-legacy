@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "Why Arrow Functions and bind in React’s Render are Problematic"
 subTitle: "(Hint: It makes shouldComponentUpdate and PureComponent cranky)"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*mcgExlgxxMzp9ZugfTc9LQ.jpeg
@@ -38,7 +38,7 @@ In this example, I’m using an arrow function in render to bind the relevant us
 
 
 
-<iframe data-width="1000" data-height="500" width="700" height="350" src="/media/c9835ff722806369e62e062528ac85a3?postId=f1c08b060e36" data-media-id="c9835ff722806369e62e062528ac85a3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fcodesandbox.io%2Fstatic%2Fimg%2Fbanner.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1000" data-height="500" width="700" height="350" src="https://medium.freecodecamp.org/media/c9835ff722806369e62e062528ac85a3?postId=f1c08b060e36" data-media-id="c9835ff722806369e62e062528ac85a3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fcodesandbox.io%2Fstatic%2Fimg%2Fbanner.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -64,7 +64,7 @@ For contrast, here’s an example that doesn’t use an arrow function in render
 
 
 
-<iframe data-width="1000" data-height="500" width="700" height="350" src="/media/45c403af162bc8ad865aa023511d727d?postId=f1c08b060e36" data-media-id="45c403af162bc8ad865aa023511d727d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fcodesandbox.io%2Fstatic%2Fimg%2Fbanner.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1000" data-height="500" width="700" height="350" src="https://medium.freecodecamp.org/media/45c403af162bc8ad865aa023511d727d?postId=f1c08b060e36" data-media-id="45c403af162bc8ad865aa023511d727d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fcodesandbox.io%2Fstatic%2Fimg%2Fbanner.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

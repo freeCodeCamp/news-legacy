@@ -1,7 +1,7 @@
 ---
 author: Thomas Schultz
 authorTwitter: https://twitter.com/daspecster
-authorFacebook: false
+authorFacebook: none
 title: "6 things to ask when interview for a remote job"
 subTitle: "Many of you may have noticed that there’s a new “perk” or “category” that’s been popping up in job listings a lot more lately...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*S8xlaxth2uIZecHTVMNpHw.jpeg

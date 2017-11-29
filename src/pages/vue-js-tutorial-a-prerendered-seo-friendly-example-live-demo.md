@@ -1,7 +1,7 @@
 ---
 author: Maxime LaBoissonniere
 authorTwitter: https://twitter.com/maxlaboisson
-authorFacebook: false
+authorFacebook: none
 title: "How to build a pre-rendered, SEO-friendly Vue.js app"
 subTitle: "“I can’t take it anymore. Our in-house reporting panel sucks!”..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*b_tBoyGnN0G_BYDEJVCWrw.jpeg
@@ -177,7 +177,7 @@ Create a store folder in the `src` one, along with 3 files:
 
 
 
-<iframe width="700" height="250" src="/media/f904d469817870584dbfd5b428645647?postId=771e974e909c" data-media-id="f904d469817870584dbfd5b428645647" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f904d469817870584dbfd5b428645647?postId=771e974e909c" data-media-id="f904d469817870584dbfd5b428645647" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -191,7 +191,7 @@ Let’s keep the store basic: a homepage listing products + a details page for e
 
 
 
-<iframe width="700" height="250" src="/media/21ea2825a9d919a6fac1b085b1f99c69?postId=771e974e909c" data-media-id="21ea2825a9d919a6fac1b085b1f99c69" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/21ea2825a9d919a6fac1b085b1f99c69?postId=771e974e909c" data-media-id="21ea2825a9d919a6fac1b085b1f99c69" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -209,7 +209,7 @@ Now that you have both your store and your router, you’ll need to register the
 
 
 
-<iframe width="700" height="250" src="/media/91964fdef69ec2d1123d531e835f11d7?postId=771e974e909c" data-media-id="91964fdef69ec2d1123d531e835f11d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/91964fdef69ec2d1123d531e835f11d7?postId=771e974e909c" data-media-id="91964fdef69ec2d1123d531e835f11d7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -231,7 +231,7 @@ Each of them will be in the `src/components` folder.
 
 
 
-<iframe width="700" height="250" src="/media/0388279e53fd893b1ee8d710869f2c20?postId=771e974e909c" data-media-id="0388279e53fd893b1ee8d710869f2c20" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0388279e53fd893b1ee8d710869f2c20?postId=771e974e909c" data-media-id="0388279e53fd893b1ee8d710869f2c20" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -243,7 +243,7 @@ Above, the store state is used to get products and iterate on them to render a p
 
 
 
-<iframe width="700" height="250" src="/media/ac2c36aa89ec121358748e1bb9bdcc48?postId=771e974e909c" data-media-id="ac2c36aa89ec121358748e1bb9bdcc48" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ac2c36aa89ec121358748e1bb9bdcc48?postId=771e974e909c" data-media-id="ac2c36aa89ec121358748e1bb9bdcc48" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -255,7 +255,7 @@ You link to each page, handled by your router, which brings us to your last comp
 
 
 
-<iframe width="700" height="250" src="/media/5086d358c5ee78feeac6433e31ec2f8b?postId=771e974e909c" data-media-id="5086d358c5ee78feeac6433e31ec2f8b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5086d358c5ee78feeac6433e31ec2f8b?postId=771e974e909c" data-media-id="5086d358c5ee78feeac6433e31ec2f8b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -275,7 +275,7 @@ Swap everything to this instead:
 
 
 
-<iframe width="700" height="250" src="/media/12797a82cadd3b6e2b1aca5197c323f8?postId=771e974e909c" data-media-id="12797a82cadd3b6e2b1aca5197c323f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/12797a82cadd3b6e2b1aca5197c323f8?postId=771e974e909c" data-media-id="12797a82cadd3b6e2b1aca5197c323f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -289,7 +289,7 @@ The last view to update is the `index.html`. For this use case, let’s create a
 
 
 
-<iframe width="700" height="250" src="/media/2f5dfcab36a046e21645a04b0548d831?postId=771e974e909c" data-media-id="2f5dfcab36a046e21645a04b0548d831" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2f5dfcab36a046e21645a04b0548d831?postId=771e974e909c" data-media-id="2f5dfcab36a046e21645a04b0548d831" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -319,7 +319,7 @@ Let’s see how you can use it. Go to your webpack file and add the following de
 
 
 
-<iframe width="700" height="250" src="/media/69ab08ac4a1268c1d14908d2d88bc568?postId=771e974e909c" data-media-id="69ab08ac4a1268c1d14908d2d88bc568" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/69ab08ac4a1268c1d14908d2d88bc568?postId=771e974e909c" data-media-id="69ab08ac4a1268c1d14908d2d88bc568" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9772644%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

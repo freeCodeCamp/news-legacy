@@ -80,7 +80,7 @@ Here is the entirety of the code powering _left-pad_:
 
 
 
-<iframe width="700" height="250" src="/media/75281ed48c0c0b9e5e9227eb07f91aa6?postId=33934c79e113" data-media-id="75281ed48c0c0b9e5e9227eb07f91aa6" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/75281ed48c0c0b9e5e9227eb07f91aa6?postId=33934c79e113" data-media-id="75281ed48c0c0b9e5e9227eb07f91aa6" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ The idea that 17 lines of code (221 characters) was behind the implosion of the 
 
 
 
-<iframe width="500" height="250" src="/media/d6181e13bedb210c7b4767bc2d46aa75?postId=33934c79e113" data-media-id="d6181e13bedb210c7b4767bc2d46aa75" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/d6181e13bedb210c7b4767bc2d46aa75?postId=33934c79e113" data-media-id="d6181e13bedb210c7b4767bc2d46aa75" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -104,7 +104,7 @@ The idea that 17 lines of code (221 characters) was behind the implosion of the 
 
 
 
-<iframe width="500" height="250" src="/media/2e0d31c0404ae5f63629b72293c734da?postId=33934c79e113" data-media-id="2e0d31c0404ae5f63629b72293c734da" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/2e0d31c0404ae5f63629b72293c734da?postId=33934c79e113" data-media-id="2e0d31c0404ae5f63629b72293c734da" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -154,7 +154,7 @@ Everyday we should be enabling ourselves to focus on problems bigger and better 
 
 
 
-<iframe width="500" height="250" src="/media/59ba66a7dd086f4605316ea81ead6c5a?postId=33934c79e113" data-media-id="59ba66a7dd086f4605316ea81ead6c5a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/59ba66a7dd086f4605316ea81ead6c5a?postId=33934c79e113" data-media-id="59ba66a7dd086f4605316ea81ead6c5a" allowfullscreen="" frameborder="0"></iframe>
 
 
 

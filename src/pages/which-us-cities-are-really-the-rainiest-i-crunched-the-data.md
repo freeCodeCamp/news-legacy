@@ -1,7 +1,7 @@
 ---
 author: Felipe Hoffa
 authorTwitter: https://twitter.com/felipehoffa
-authorFacebook: false
+authorFacebook: none
 title: "Which US cities are really the rainiest? I crunched the data."
 subTitle: "Sam Ramji was surprised: His flight to Seattle was delayed because of rain...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KD1QN5ziBZv1Z_X60obKZw.jpeg
@@ -38,7 +38,7 @@ tags: [
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/845ea37f81b44159862c9e6edc0d081c?postId=5ca00c2848d9" data-media-id="845ea37f81b44159862c9e6edc0d081c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2803210971%2F0779a7084707fe34bcd21d4ccbe1b6bd_bigger.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/845ea37f81b44159862c9e6edc0d081c?postId=5ca00c2848d9" data-media-id="845ea37f81b44159862c9e6edc0d081c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2803210971%2F0779a7084707fe34bcd21d4ccbe1b6bd_bigger.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -82,7 +82,7 @@ These are the top 60 weather stations, by number of rainy days during the past 1
 
 
 
-<iframe data-width="700" data-height="440" width="980" height="616" src="/media/d559c883daadbced790ba8a7d786fb52?postId=5ca00c2848d9" data-media-id="d559c883daadbced790ba8a7d786fb52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fexploratory.io%2Fmedia%2Flogo600x600.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="700" data-height="440" width="980" height="616" src="https://medium.freecodecamp.org/media/d559c883daadbced790ba8a7d786fb52?postId=5ca00c2848d9" data-media-id="d559c883daadbced790ba8a7d786fb52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fexploratory.io%2Fmedia%2Flogo600x600.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -98,7 +98,7 @@ The the top 60 stations, by number of rainy days during the last 17 years
 
 
 
-<iframe data-width="700" data-height="440" width="700" height="440" src="/media/9672c1c6ae55f958d115e30cf17fc959?postId=5ca00c2848d9" data-media-id="9672c1c6ae55f958d115e30cf17fc959" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fexploratory.io%2Fmedia%2Flogo600x600.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="700" data-height="440" width="700" height="440" src="https://medium.freecodecamp.org/media/9672c1c6ae55f958d115e30cf17fc959?postId=5ca00c2848d9" data-media-id="9672c1c6ae55f958d115e30cf17fc959" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fexploratory.io%2Fmedia%2Flogo600x600.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

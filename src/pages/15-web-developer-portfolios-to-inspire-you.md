@@ -1,7 +1,7 @@
 ---
 author: Laurence Bradford
 authorTwitter: https://twitter.com/learncodewithme
-authorFacebook: false
+authorFacebook: none
 title: "15 Web Developer Portfolios to Inspire You"
 subTitle: "One of the toughest things to do as a new developer is to assemble an online portfolio...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*FNvXAOU_leQ7E2Bjuc8gqw.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-
 id: 15-web-developer-portfolios-to-inspire-you-137fb1743cae
 date: 2015-09-23T01:07:31.785Z
 tags: [
-  "Design",
-  "Web Development",
-  "Portfolio",
-  "Web Design",
-  "Entrepreneurship"
+	"Design",
+	"Web Development",
+	"Portfolio",
+	"Web Design",
+	"Entrepreneurship"
 ]
 ---
 # 15 Web Developer Portfolios to Inspire You
@@ -40,13 +40,10 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*FNvXAOU_leQ7E2Bjuc8gqw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FNvXAOU_leQ7E2Bjuc8gqw.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*FNvXAOU_leQ7E2Bjuc8gqw.png"&gt;</noscript>
 
 
 
@@ -64,11 +61,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*SEObQ-TDZTtnO9iNrBROrw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*SEObQ-TDZTtnO9iNrBROrw.png"&gt;</noscript>
 
 
 
@@ -86,11 +80,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Pq5rzD2UaICcSAxPj6Ma8w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Pq5rzD2UaICcSAxPj6Ma8w.png"&gt;</noscript>
 
 
 
@@ -108,11 +99,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GoMSneKoUrIw0aGydsw9dg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*GoMSneKoUrIw0aGydsw9dg.png"&gt;</noscript>
 
 
 
@@ -130,11 +118,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*RO6pcQdVb7zWXrqOr82x7g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*RO6pcQdVb7zWXrqOr82x7g.png"&gt;</noscript>
 
 
 
@@ -152,11 +137,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*lHvZOpk9b6J35Y6qpDaBDQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*lHvZOpk9b6J35Y6qpDaBDQ.png"&gt;</noscript>
 
 
 
@@ -174,11 +156,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*SGLo79qdNti7vhAtLjkDEg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*SGLo79qdNti7vhAtLjkDEg.png"&gt;</noscript>
 
 
 
@@ -196,11 +175,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ymmhDOxPOxWxFCk6J2Dj4w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ymmhDOxPOxWxFCk6J2Dj4w.png"&gt;</noscript>
 
 
 
@@ -218,11 +194,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IpBwUTOIYlftPMk36jCUig.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*IpBwUTOIYlftPMk36jCUig.png"&gt;</noscript>
 
 
 
@@ -240,11 +213,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*xgOID67Tmdq5F58b1gChNQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*xgOID67Tmdq5F58b1gChNQ.png"&gt;</noscript>
 
 
 
@@ -262,11 +232,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3mAXZs9B6YEcZJD-Z86AIg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3mAXZs9B6YEcZJD-Z86AIg.png"&gt;</noscript>
 
 
 
@@ -284,11 +251,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Aq7TXpuzXp8lTX0Dhxw_DQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Aq7TXpuzXp8lTX0Dhxw_DQ.png"&gt;</noscript>
 
 
 
@@ -306,11 +270,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*G4hkoDtvBmzWX6sDFyKhmg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*G4hkoDtvBmzWX6sDFyKhmg.png"&gt;</noscript>
 
 
 
@@ -328,11 +289,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vHZTpnbwXfpEoRCM9XAyrA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*vHZTpnbwXfpEoRCM9XAyrA.png"&gt;</noscript>
 
 
 
@@ -350,11 +308,8 @@ If you’re stuck, take a look at these 15 samples of web developer portfolios f
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bIUXCGYsVTXyBndd4suLfA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*bIUXCGYsVTXyBndd4suLfA.png"&gt;</noscript>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Jean-Paul Delimat
 authorTwitter: https://twitter.com/jpdelimat
-authorFacebook: false
+authorFacebook: none
 title: "How your startup can leverage production-grade infrastructure for less than $200/month"
 subTitle: "Before you can launch a new service, you need infrastructure. You want reliability, scalability, and many other -ilities. But you don’t w..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*g1NvCuz2d_TnIWfp4Lj4Mw.jpeg

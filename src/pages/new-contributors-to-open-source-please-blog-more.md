@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "Hey newbie open source contributors: please blog more."
 subTitle: "As a newbie open source contributor, I often felt lost and dejected. I couldn’t figure out how different modules fit. I couldn’t find my ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*o5BbtoJ-tKIjfZ3KhELwiQ.jpeg

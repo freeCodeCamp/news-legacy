@@ -182,7 +182,7 @@ I have no idea why it has taken me so long embrace the concept of trusting the p
 
 
 
-<iframe width="500" height="250" src="/media/0d993ffab8384d6f01eda3c508b26d98?postId=3cd2edd9b012" data-media-id="0d993ffab8384d6f01eda3c508b26d98" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/0d993ffab8384d6f01eda3c508b26d98?postId=3cd2edd9b012" data-media-id="0d993ffab8384d6f01eda3c508b26d98" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -196,7 +196,7 @@ Now I can embrace Free Code Camp the way it should be.
 
 
 
-<iframe width="500" height="250" src="/media/c9b65d5bfb32a2e846f22939f2918201?postId=3cd2edd9b012" data-media-id="c9b65d5bfb32a2e846f22939f2918201" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/c9b65d5bfb32a2e846f22939f2918201?postId=3cd2edd9b012" data-media-id="c9b65d5bfb32a2e846f22939f2918201" allowfullscreen="" frameborder="0"></iframe>
 
 
 

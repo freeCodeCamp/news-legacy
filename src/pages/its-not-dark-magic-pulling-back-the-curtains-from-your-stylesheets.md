@@ -1,6 +1,6 @@
 ---
 author: aimeemarieknight
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10101431464026616
 title: "CSS Isn’t Black Magic"
 subTitle: "Pulling Back The Curtains on Your Stylesheets"

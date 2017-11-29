@@ -1,7 +1,7 @@
 ---
 author: Esteban Herrera
 authorTwitter: https://twitter.com/eh3rrera
-authorFacebook: false
+authorFacebook: none
 title: "How to Build a Real-Time Augmented Reality Measuring App with ARKit and Pusher"
 subTitle: "Augmented reality (AR) is all about modifying our perception of the real world...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*eQNtaPKg3c2ZoXcdquRgJg.jpeg
@@ -36,7 +36,7 @@ In this tutorial, we’re going to build an ARKit app to make simple measurement
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/ef1a64e760e493e719d149391fad180a?postId=41da426dedf9" data-media-id="ef1a64e760e493e719d149391fad180a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fosby8WfvPQA%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/ef1a64e760e493e719d149391fad180a?postId=41da426dedf9" data-media-id="ef1a64e760e493e719d149391fad180a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fosby8WfvPQA%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -48,7 +48,7 @@ It will also send the measurements in real-time to Pusher:
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/529805f246ec8b4e588c650849f966f8?postId=41da426dedf9" data-media-id="529805f246ec8b4e588c650849f966f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgRX3sHiV9Hg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/529805f246ec8b4e588c650849f966f8?postId=41da426dedf9" data-media-id="529805f246ec8b4e588c650849f966f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgRX3sHiV9Hg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -167,7 +167,7 @@ Next, add constraints to all sides of this view so that it fills the entire scre
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/193a050a16ea0cc0fb7ef398322dbfd2?postId=41da426dedf9" data-media-id="193a050a16ea0cc0fb7ef398322dbfd2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqTpjmRjlriI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/193a050a16ea0cc0fb7ef398322dbfd2?postId=41da426dedf9" data-media-id="193a050a16ea0cc0fb7ef398322dbfd2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqTpjmRjlriI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -989,7 +989,7 @@ Once it’s _READY_, you will be able to take measurements and see them in real-
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/ef1a64e760e493e719d149391fad180a?postId=41da426dedf9" data-media-id="ef1a64e760e493e719d149391fad180a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fosby8WfvPQA%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/ef1a64e760e493e719d149391fad180a?postId=41da426dedf9" data-media-id="ef1a64e760e493e719d149391fad180a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fosby8WfvPQA%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

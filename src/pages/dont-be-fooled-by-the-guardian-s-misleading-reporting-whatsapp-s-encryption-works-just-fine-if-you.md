@@ -1,7 +1,7 @@
 ---
 author: Romain Aubert
 authorTwitter: https://twitter.com/romaub
-authorFacebook: false
+authorFacebook: none
 title: "WhatsApp chose convenience over privacy, here’s how you can fix this"
 subTitle: "A few weeks ago, The Guardian reported on a so-called WhatsApp “backdoor.”..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*qz8dtxtJlyNpNiyNhzIJ4Q.jpeg
@@ -36,7 +36,7 @@ Before we dive into the argument, it might be worth spending a bit of time expla
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/8e31a39921273f3a63b8f157630b29a2?postId=d2a9a3ef6731" data-media-id="8e31a39921273f3a63b8f157630b29a2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcuYQ4qUEfEI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/8e31a39921273f3a63b8f157630b29a2?postId=d2a9a3ef6731" data-media-id="8e31a39921273f3a63b8f157630b29a2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcuYQ4qUEfEI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -135,7 +135,7 @@ This argument was also corroborated by [Frederic Jacobs](https://twitter.com/Fre
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/d88f3200afd9e97ad53b91e65f4f6109?postId=d2a9a3ef6731" data-media-id="d88f3200afd9e97ad53b91e65f4f6109" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F804985907837337600%2Fz_esNSb6_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/d88f3200afd9e97ad53b91e65f4f6109?postId=d2a9a3ef6731" data-media-id="d88f3200afd9e97ad53b91e65f4f6109" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F804985907837337600%2Fz_esNSb6_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -182,7 +182,7 @@ As I mentioned in my [previous post](https://medium.freecodecamp.com/why-i-asked
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/0e6c9be8c2ae5a9ac438571954b0d59c?postId=d2a9a3ef6731" data-media-id="0e6c9be8c2ae5a9ac438571954b0d59c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/0e6c9be8c2ae5a9ac438571954b0d59c?postId=d2a9a3ef6731" data-media-id="0e6c9be8c2ae5a9ac438571954b0d59c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

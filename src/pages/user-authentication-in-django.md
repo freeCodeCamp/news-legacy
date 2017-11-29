@@ -1,7 +1,7 @@
 ---
 author: Mohammed Subhan Khan
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to handle user authentication in Python Django"
 subTitle: "In this tutorial, I’ll show how to do user login, logout and signup in Django. All the code that I describe here is in this GitHub reposi..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*SA3NDT1VMUBn9g0emx9TUg.png

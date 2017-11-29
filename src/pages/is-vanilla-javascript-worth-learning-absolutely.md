@@ -1,7 +1,7 @@
 ---
 author: David Kopal
 authorTwitter: https://twitter.com/coding_lawyer
-authorFacebook: false
+authorFacebook: none
 title: "Is Vanilla JavaScript worth learning? Absolutely."
 subTitle: "The purpose of this post is to emphasize the importance of JavaScript fundamentals for every front-end developer. I’m going to tell you w..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*E-94pGEukt8lDI2aDY3XcQ.jpeg

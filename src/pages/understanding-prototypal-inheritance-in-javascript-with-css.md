@@ -1,7 +1,7 @@
 ---
 author: Nash Vail
 authorTwitter: https://twitter.com/NashVail
-authorFacebook: false
+authorFacebook: none
 title: "JavaScript’s Prototypal Inheritance Explained Using CSS"
 subTitle: "Prototypal inheritance is arguably the least understood aspect of JavaScript. Well the good news is that if you understand how CSS works,..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*cR8HEE-toHzj9rXVXbJ_ng.png

@@ -56,7 +56,7 @@ I printed english alphabet for everyone from [here](https://en.wikipedia.org/wik
 
 
 
-<iframe width="700" height="250" src="/media/22c66241f03526484044c9085433001a?postId=18e1c6f9ac39" data-media-id="22c66241f03526484044c9085433001a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/22c66241f03526484044c9085433001a?postId=18e1c6f9ac39" data-media-id="22c66241f03526484044c9085433001a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -79,7 +79,7 @@ I started new `Swift Playground` because it’s offering awesome way for working
 
 
 
-<iframe width="700" height="250" src="/media/a13d58142e7c2a977c02bf32de01a3cc?postId=18e1c6f9ac39" data-media-id="a13d58142e7c2a977c02bf32de01a3cc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a13d58142e7c2a977c02bf32de01a3cc?postId=18e1c6f9ac39" data-media-id="a13d58142e7c2a977c02bf32de01a3cc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -91,7 +91,7 @@ When manual decoding was done I sit down with my children in front of a computer
 
 
 
-<iframe width="700" height="250" src="/media/8ef448b80c685fe51195f0d30a840253?postId=18e1c6f9ac39" data-media-id="8ef448b80c685fe51195f0d30a840253" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8ef448b80c685fe51195f0d30a840253?postId=18e1c6f9ac39" data-media-id="8ef448b80c685fe51195f0d30a840253" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -125,7 +125,7 @@ After a few minutes my daughter approached me and asked whether she decrypted th
 
 
 
-<iframe width="700" height="250" src="/media/ecc86c7cde1f5972c2e9455b4154afa8?postId=18e1c6f9ac39" data-media-id="ecc86c7cde1f5972c2e9455b4154afa8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ecc86c7cde1f5972c2e9455b4154afa8?postId=18e1c6f9ac39" data-media-id="ecc86c7cde1f5972c2e9455b4154afa8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ Again I prepared small piece of code that was able to decode the messages:
 
 
 
-<iframe width="700" height="250" src="/media/ba0369bbdeba35cd4a9c183857463d38?postId=18e1c6f9ac39" data-media-id="ba0369bbdeba35cd4a9c183857463d38" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ba0369bbdeba35cd4a9c183857463d38?postId=18e1c6f9ac39" data-media-id="ba0369bbdeba35cd4a9c183857463d38" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ When `14–5–24–20` decoded to `NEXT` we knew that our assumption was correc
 
 
 
-<iframe width="700" height="250" src="/media/69e97b9ceaa861ab02bff46249a7f32c?postId=18e1c6f9ac39" data-media-id="69e97b9ceaa861ab02bff46249a7f32c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/69e97b9ceaa861ab02bff46249a7f32c?postId=18e1c6f9ac39" data-media-id="69e97b9ceaa861ab02bff46249a7f32c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1196004%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

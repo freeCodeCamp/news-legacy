@@ -1,7 +1,7 @@
 ---
 author: Alaina Kafkes
 authorTwitter: https://twitter.com/alainakafkes
-authorFacebook: false
+authorFacebook: none
 title: "Demystifying Dynamic Programming"
 subTitle: "How to construct &amp; code dynamic programming algorithms"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*7QbvB25maQRxi7LGYOAfYw.png
@@ -50,7 +50,7 @@ Dynamic programming amounts to **breaking down an optimization problem** into si
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/4243ff767afc7df2bacb2772a7f8e002?postId=3efafb8d4296" data-media-id="4243ff767afc7df2bacb2772a7f8e002" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDAwSwWnUIAANx9w.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/4243ff767afc7df2bacb2772a7f8e002?postId=3efafb8d4296" data-media-id="4243ff767afc7df2bacb2772a7f8e002" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDAwSwWnUIAANx9w.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

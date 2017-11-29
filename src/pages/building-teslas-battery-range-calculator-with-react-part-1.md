@@ -1,7 +1,7 @@
 ---
 author: Matthew Choi
 authorTwitter: https://twitter.com/MatthewChoi7
-authorFacebook: false
+authorFacebook: none
 title: "Building Tesla’s Battery Range Calculator with React (Part 1)"
 subTitle: "In this series of articles, I will walk you through the process of building Tesla’s battery range calculator with React...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*8hlNoLDBy5XWZct5tAtPoA.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/building-teslas-battery-range-calculator-wi
 id: building-teslas-battery-range-calculator-with-react-part-1-2cb7abd8c1ee
 date: 2017-03-21T00:25:23.363Z
 tags: [
-  "React",
-  "JavaScript",
-  "Web Development",
-  "Programming",
-  "CSS"
+	"React",
+	"JavaScript",
+	"Web Development",
+	"Programming",
+	"CSS"
 ]
 ---
 # Building Tesla’s Battery Range Calculator with React (Part 1)
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8hlNoLDBy5XWZct5tAtPoA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*8hlNoLDBy5XWZct5tAtPoA.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*8hlNoLDBy5XWZct5tAtPoA.png"&gt;</noscript>
 
 
 
@@ -56,11 +53,8 @@ This is the final GIF image of our application.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*7zV94nuoPsxDj17V.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*7zV94nuoPsxDj17V."&gt;</noscript>
 
 
 
@@ -100,11 +94,8 @@ The tools and versions I used during the implementation of this app:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*moyaLaToyK3-yhuq.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*moyaLaToyK3-yhuq."&gt;</noscript>
 
 
 
@@ -120,11 +111,8 @@ If you see the screen below, the project has been successfully set up.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*aLOLbsn3yKVznDj4.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="23"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*aLOLbsn3yKVznDj4."&gt;</noscript>
 
 
 
@@ -144,11 +132,8 @@ Here is project source structure :
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*rdfr17wdYUEjIfoF.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="28" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*rdfr17wdYUEjIfoF."&gt;</noscript>
 
 
 
@@ -209,11 +194,8 @@ The layout of this application is shown below
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*FQPl1UGfBr1rPj10.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*FQPl1UGfBr1rPj10."&gt;</noscript>
 
 
 
@@ -287,11 +269,8 @@ When you save all the modified files, they will be updated automatically and you
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*6YIgrtAEPgeAosxb.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*6YIgrtAEPgeAosxb."&gt;</noscript>
 
 
 
@@ -446,11 +425,8 @@ Here’s what you should be seeing:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*QnyAUXCpPGPVvYNc.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*QnyAUXCpPGPVvYNc."&gt;</noscript>
 
 
 
@@ -472,11 +448,8 @@ You can easily understand this by checking the component tree using [React Devel
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*dTiIadtBQsnFg__5.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*dTiIadtBQsnFg__5."&gt;</noscript>
 
 
 
@@ -501,11 +474,8 @@ We need to think about what `state` is required to be managed in our app. If you
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*IyKju-sjgBi9Bt9i.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*IyKju-sjgBi9Bt9i."&gt;</noscript>
 
 
 
@@ -547,11 +517,8 @@ If you save files, you can see that the rendered Tesla car and wheel animation w
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*muQKHmFKzWYpKlBr.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/0*muQKHmFKzWYpKlBr."&gt;</noscript>
 
 
 
@@ -645,11 +612,8 @@ The work result screen so far is as follows.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*TrTN61Ca4A6deTjP.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*TrTN61Ca4A6deTjP."&gt;</noscript>
 
 
 
@@ -733,11 +697,8 @@ Now, when you click Speed ​​and Temperature, you can see that the changed va
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*deX5p_fjKiNNOUfG.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*deX5p_fjKiNNOUfG."&gt;</noscript>
 
 
 
@@ -799,11 +760,8 @@ Now the state value changes according to the temperature change, and when the ch
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*YIpz8rRo4jUl2b4W.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*YIpz8rRo4jUl2b4W."&gt;</noscript>
 
 
 
@@ -845,11 +803,8 @@ The result of the completion of the wheels animation is as follows.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*KxV0JpSIUbrPvvgv.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*KxV0JpSIUbrPvvgv.gif"&gt;</noscript>
 
 
 
@@ -923,11 +878,8 @@ If the build succeeds, the build folder will be created in our project directory
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*5UZ-FmxhmA4q75Pe.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="11"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*5UZ-FmxhmA4q75Pe."&gt;</noscript>
 
 
 
@@ -955,11 +907,8 @@ The deployment is finished in an instant.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*OSmDIQFzs4rwa6wh.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="25"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*OSmDIQFzs4rwa6wh."&gt;</noscript>
 
 
 
@@ -975,11 +924,8 @@ Let’s connect to our deployed project.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*s_Q8oZnWLzK2Bxhh.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*s_Q8oZnWLzK2Bxhh."&gt;</noscript>
 
 
 

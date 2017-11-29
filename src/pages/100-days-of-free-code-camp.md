@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "100 Days of Free Code Camp"
 subTitle: "The earth has rotated 100 times since we started work on the humble Node.js app that would become Free Code Camp.
  

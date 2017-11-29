@@ -1,6 +1,6 @@
 ---
 author: Todd Chaffee
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10154009118138217
 title: "Acceptance testing is beautiful magic. Here’s how it can improve your life."
 subTitle: "More accurately, automated acceptance testing in the browser is beautiful magic...."

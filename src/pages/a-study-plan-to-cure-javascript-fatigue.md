@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad
 id: a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1
 date: 2016-10-31T07:19:05.684Z
 tags: [
-  "JavaScript",
-  "Life Lessons",
-  "Tech",
-  "React",
-  "Web Development"
+	"JavaScript",
+	"Life Lessons",
+	"Tech",
+	"React",
+	"Web Development"
 ]
 ---
 # A Study Plan To Cure JavaScript Fatigue
@@ -73,11 +73,8 @@ For starters, let’s look at a “traditional” web app circa 2008:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*k8ouvk608TxH5FaLM8XUxQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="12"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*k8ouvk608TxH5FaLM8XUxQ.png"&gt;</noscript>
 
 
 
@@ -105,11 +102,8 @@ Now compare this with a “modern” 2016 web app (also known as the “Single P
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_kZH0yiuh9b7ypYpoPANTw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="12"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*_kZH0yiuh9b7ypYpoPANTw.png"&gt;</noscript>
 
 
 
@@ -157,11 +151,8 @@ But the key thing is that _the spectrum is not continuous_: you can’t start wi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*m0iR2VK7iNt8flGqyhYx9A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="12"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*m0iR2VK7iNt8flGqyhYx9A.png"&gt;</noscript>
 
 
 
@@ -193,11 +184,8 @@ I believe the answer is [React](https://facebook.github.io/react/).
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*eHRtRF0w78XfLEhOpFTflQ.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*eHRtRF0w78XfLEhOpFTflQ.png"&gt;</noscript>
 
 ](https://facebook.github.io/react/) 
 
@@ -247,11 +235,8 @@ Now I did say earlier that using single-page apps for static content was often o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nnHXMTKwXxCWJiY9yX2ZMA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nnHXMTKwXxCWJiY9yX2ZMA.gif"&gt;</noscript>
 
 
 
@@ -303,11 +288,8 @@ This is where **State Management** comes in. Instead of storing your state (in o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*g1LsxUV91i50-xE_VlMrsQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="12"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*g1LsxUV91i50-xE_VlMrsQ.png"&gt;</noscript>
 
 
 
@@ -323,11 +305,8 @@ In the React world, the most popular state management library is Redux. Redux no
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*4STSciyhxtniKgVagN2y0Q.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4STSciyhxtniKgVagN2y0Q.png"&gt;</noscript>
 
 ](http://redux.js.org/) 
 
@@ -343,11 +322,8 @@ The result of all this extra work is a highly standardized and maintainable data
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*lAp8ZAk5uNFTuxjhx4GTdw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="66"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*lAp8ZAk5uNFTuxjhx4GTdw.gif"&gt;</noscript>
 
 
 
@@ -367,11 +343,8 @@ It won’t come as a surprise that this, too, is rapidly changing, with [GraphQL
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*HiWFjGqvZEOEUaSGau89eQ.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*HiWFjGqvZEOEUaSGau89eQ.png"&gt;</noscript>
 
 ](http://graphql.org/) 
 
@@ -397,11 +370,8 @@ I recommended you start with the React ecosystem because it’s a safe pick, but
 
 
 
- [![](https://cdn-images-1.medium.com/freeze/max/60/1*JFTBjxOMAh1H8q6Gz1zmMw.png?q=20)
+ [
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*JFTBjxOMAh1H8q6Gz1zmMw.png"&gt;</noscript>
 
 ](http://vuejs.org/) 
 

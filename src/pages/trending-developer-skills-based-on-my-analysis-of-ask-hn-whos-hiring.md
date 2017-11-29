@@ -1,7 +1,7 @@
 ---
 author: Ryan Williams
 authorTwitter: https://twitter.com/ryanwi
-authorFacebook: false
+authorFacebook: none
 title: "Trending Developer Skills, Based on my Analysis of “Ask HN: Who’s Hiring?”"
 subTitle: "For people learning to code and for experienced software developers alike, change is constant. There is always something new to learn. Th..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*BwjYeOBr-MTsj8xKb2ujNQ.png

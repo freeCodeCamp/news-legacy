@@ -1,7 +1,7 @@
 ---
 author: Haki Benita
 authorTwitter: https://twitter.com/be_haki
-authorFacebook: false
+authorFacebook: none
 title: "How to test Django Signals like a pro"
 subTitle: "Django Signals are extremely useful for decoupling modules. They allow a low-level Django app to send events for other apps to handle wit..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*UTaOKkC0_Ha3DgqrzrcPzw.jpeg

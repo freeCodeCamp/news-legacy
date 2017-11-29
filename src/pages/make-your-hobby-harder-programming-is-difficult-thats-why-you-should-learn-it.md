@@ -82,7 +82,7 @@ Take the stairs instead of the elevator. Get off the bus one stop before your de
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/42b2977176bbca81da821bf4167dc328?postId=e4627aee41a1" data-media-id="42b2977176bbca81da821bf4167dc328" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwhPuRLil4c0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/42b2977176bbca81da821bf4167dc328?postId=e4627aee41a1" data-media-id="42b2977176bbca81da821bf4167dc328" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwhPuRLil4c0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -116,7 +116,7 @@ I was again reminded of the value of embracing difficulty while watching the mov
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/bd632d74df8b679db78dd4f14f447552?postId=e4627aee41a1" data-media-id="bd632d74df8b679db78dd4f14f447552" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FouRbkBAOGEw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/bd632d74df8b679db78dd4f14f447552?postId=e4627aee41a1" data-media-id="bd632d74df8b679db78dd4f14f447552" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FouRbkBAOGEw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

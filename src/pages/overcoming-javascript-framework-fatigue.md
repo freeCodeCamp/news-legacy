@@ -1,7 +1,7 @@
 ---
 author: Tero Parviainen
 authorTwitter: https://twitter.com/teropa
-authorFacebook: false
+authorFacebook: none
 title: "Overcoming JavaScript Framework Fatigue"
 subTitle: "The JavaScript community is suffering from a wave of framework fatigue. Itâ€™s caused by the massive outpouring of new frameworks, techniqu..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*T551HACMn9A95dnwpPK-eQ.png
@@ -54,7 +54,7 @@ Instead of letting this ever expanding set of known unknowns drag you down, itâ€
 
 
 
-<iframe width="500" height="250" src="/media/d56b608c8a50f2b416fadc22622f960a?postId=741dac9370ee" data-media-id="d56b608c8a50f2b416fadc22622f960a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/d56b608c8a50f2b416fadc22622f960a?postId=741dac9370ee" data-media-id="d56b608c8a50f2b416fadc22622f960a" allowfullscreen="" frameborder="0"></iframe>
 
 
 

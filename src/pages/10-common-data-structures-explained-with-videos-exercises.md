@@ -1,7 +1,7 @@
 ---
 author: Beau Carnes
 authorTwitter: https://twitter.com/CarnesBeau
-authorFacebook: false
+authorFacebook: none
 title: "10 Common Data Structures Explained with Videos + Exercises"
 subTitle: "Data structures are a critical part of software development, and one of the most common topics for developer job interview questions...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*I5vtdhUqmRJ1zI1e.jpg
@@ -86,7 +86,7 @@ The most basic operations in a linked list are adding an item to the list, delet
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/fd566712493f7238cbb1883ad42e9746?postId=aaff6c06fb2b" data-media-id="fd566712493f7238cbb1883ad42e9746" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9YddVVsdG5A%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/fd566712493f7238cbb1883ad42e9746?postId=aaff6c06fb2b" data-media-id="fd566712493f7238cbb1883ad42e9746" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9YddVVsdG5A%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -135,7 +135,7 @@ There are three main operations that can be performed on stacks: inserting an it
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/4477249ad88e3e93ae8f2c919cdf5aba?postId=aaff6c06fb2b" data-media-id="4477249ad88e3e93ae8f2c919cdf5aba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGj5qBheGOEo%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/4477249ad88e3e93ae8f2c919cdf5aba?postId=aaff6c06fb2b" data-media-id="4477249ad88e3e93ae8f2c919cdf5aba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGj5qBheGOEo%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -178,7 +178,7 @@ A queue has just two main operations: enqueue and dequeue. Enqueue means to inse
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f164c0e36d7a1add96d5dff7623cdca0?postId=aaff6c06fb2b" data-media-id="f164c0e36d7a1add96d5dff7623cdca0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbK7I79hcm08%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f164c0e36d7a1add96d5dff7623cdca0?postId=aaff6c06fb2b" data-media-id="f164c0e36d7a1add96d5dff7623cdca0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbK7I79hcm08%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -213,7 +213,7 @@ The set data structure stores values without any particular order and with no re
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/e496892d2b9847db9c47c4d2db5312da?postId=aaff6c06fb2b" data-media-id="e496892d2b9847db9c47c4d2db5312da" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fwl8u02IdVxo%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/e496892d2b9847db9c47c4d2db5312da?postId=aaff6c06fb2b" data-media-id="e496892d2b9847db9c47c4d2db5312da" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fwl8u02IdVxo%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -256,7 +256,7 @@ Map representation
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a9130e9d3453c27f95bdf79fe2114b93?postId=aaff6c06fb2b" data-media-id="a9130e9d3453c27f95bdf79fe2114b93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_1BPrCHcjhs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a9130e9d3453c27f95bdf79fe2114b93?postId=aaff6c06fb2b" data-media-id="a9130e9d3453c27f95bdf79fe2114b93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_1BPrCHcjhs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -299,7 +299,7 @@ So when you input a key / value pair into a hash table, the key is run through t
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/8779964a8cad317707868943fbb7b04f?postId=aaff6c06fb2b" data-media-id="8779964a8cad317707868943fbb7b04f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FF95z5Wxd9ks%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/8779964a8cad317707868943fbb7b04f?postId=aaff6c06fb2b" data-media-id="8779964a8cad317707868943fbb7b04f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FF95z5Wxd9ks%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -348,7 +348,7 @@ Binary search trees allow fast lookup, addition and removal of items. The way th
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/7a632a27171bef716622ef0727634de4?postId=aaff6c06fb2b" data-media-id="7a632a27171bef716622ef0727634de4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5cU1ILGy6dM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/7a632a27171bef716622ef0727634de4?postId=aaff6c06fb2b" data-media-id="7a632a27171bef716622ef0727634de4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5cU1ILGy6dM%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -358,7 +358,7 @@ Binary search trees allow fast lookup, addition and removal of items. The way th
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/841826c5540866317667f605ca997272?postId=aaff6c06fb2b" data-media-id="841826c5540866317667f605ca997272" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAagf3RyK3Lw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/841826c5540866317667f605ca997272?postId=aaff6c06fb2b" data-media-id="841826c5540866317667f605ca997272" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAagf3RyK3Lw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -399,7 +399,7 @@ Look at the image and you can form words. Always start at the root node at the t
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/26c206b1369ca6c33ef4faf4c9b77b5c?postId=aaff6c06fb2b" data-media-id="26c206b1369ca6c33ef4faf4c9b77b5c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7XmS8McW_1U%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/26c206b1369ca6c33ef4faf4c9b77b5c?postId=aaff6c06fb2b" data-media-id="26c206b1369ca6c33ef4faf4c9b77b5c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7XmS8McW_1U%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -442,7 +442,7 @@ The order between levels is important but the order of nodes on the same level i
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/9d209b599c35e2c123d9ef597b7bcbdd?postId=aaff6c06fb2b" data-media-id="9d209b599c35e2c123d9ef597b7bcbdd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdM_JHpfFITs%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/9d209b599c35e2c123d9ef597b7bcbdd?postId=aaff6c06fb2b" data-media-id="9d209b599c35e2c123d9ef597b7bcbdd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdM_JHpfFITs%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -502,7 +502,7 @@ Traversal algorithms are algorithms to traverse or visit nodes in a graph. The m
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/3d1d78730f300c5d6da2a3b4c9f5ee12?postId=aaff6c06fb2b" data-media-id="3d1d78730f300c5d6da2a3b4c9f5ee12" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDBRW8nwZV-g%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/3d1d78730f300c5d6da2a3b4c9f5ee12?postId=aaff6c06fb2b" data-media-id="3d1d78730f300c5d6da2a3b4c9f5ee12" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDBRW8nwZV-g%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -512,7 +512,7 @@ Traversal algorithms are algorithms to traverse or visit nodes in a graph. The m
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ed48de2f5016ccf7ea23935e6ba18e09?postId=aaff6c06fb2b" data-media-id="ed48de2f5016ccf7ea23935e6ba18e09" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fwu0ckYkltus%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ed48de2f5016ccf7ea23935e6ba18e09?postId=aaff6c06fb2b" data-media-id="ed48de2f5016ccf7ea23935e6ba18e09" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fwu0ckYkltus%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

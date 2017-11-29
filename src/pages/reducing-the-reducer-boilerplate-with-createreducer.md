@@ -1,6 +1,6 @@
 ---
 author: Bhuvan Malik
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10211466824409328
 title: "Reducing the Reducer Boilerplate With createReducer()"
 subTitle: "First, a quick recap of what reducers in Redux are:..."
@@ -40,7 +40,7 @@ When we start with redux, this is how we write a reducer:
 
 
 
-<iframe width="700" height="250" src="/media/15635e800f52327b7737e40dffeb6f19?postId=86c46a47f3e2" data-media-id="15635e800f52327b7737e40dffeb6f19" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/15635e800f52327b7737e40dffeb6f19?postId=86c46a47f3e2" data-media-id="15635e800f52327b7737e40dffeb6f19" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -61,7 +61,7 @@ Below is the object:
 
 
 
-<iframe width="700" height="250" src="/media/2e703e561a5ece58d9fedf1c388c1c62?postId=86c46a47f3e2" data-media-id="2e703e561a5ece58d9fedf1c388c1c62" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2e703e561a5ece58d9fedf1c388c1c62?postId=86c46a47f3e2" data-media-id="2e703e561a5ece58d9fedf1c388c1c62" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -77,7 +77,7 @@ Now we must create a “reducer creator” function to make use of our `**action
 
 
 
-<iframe width="700" height="250" src="/media/d9423304b40c49ba4513d0c80a4894ef?postId=86c46a47f3e2" data-media-id="d9423304b40c49ba4513d0c80a4894ef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d9423304b40c49ba4513d0c80a4894ef?postId=86c46a47f3e2" data-media-id="d9423304b40c49ba4513d0c80a4894ef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -97,7 +97,7 @@ The above function is verbose right now for explanation point of view. Let’s s
 
 
 
-<iframe width="700" height="250" src="/media/51a9ab352e9ff60e0a5f45ced26d6549?postId=86c46a47f3e2" data-media-id="51a9ab352e9ff60e0a5f45ced26d6549" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/51a9ab352e9ff60e0a5f45ced26d6549?postId=86c46a47f3e2" data-media-id="51a9ab352e9ff60e0a5f45ced26d6549" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -115,7 +115,7 @@ Let me show the new search reducer file for you to get the overall picture of ho
 
 
 
-<iframe width="700" height="250" src="/media/b217d265989e00aa90ad60c915091daa?postId=86c46a47f3e2" data-media-id="b217d265989e00aa90ad60c915091daa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b217d265989e00aa90ad60c915091daa?postId=86c46a47f3e2" data-media-id="b217d265989e00aa90ad60c915091daa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F11019194%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

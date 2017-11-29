@@ -1,7 +1,7 @@
 ---
 author: P. Daniel Tyreus
 authorTwitter: https://twitter.com/tyreus
-authorFacebook: false
+authorFacebook: none
 title: "I turned my mobile app into a chatbot. Here’s why."
 subTitle: "Just under a year ago, I embarked on a quest to better understand my seasonal allergies. In support of this quest, I spent a few weekends..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*4dnwXfLcxWHOauFmrHXqrw.gif
@@ -40,7 +40,7 @@ On top of that, there are some trends in the industry that make things more diff
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/ae5d5079e8ad70943bb7ae74844dacd3?postId=96355596725c" data-media-id="ae5d5079e8ad70943bb7ae74844dacd3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCsfUhcKWgAE-TBo.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/ae5d5079e8ad70943bb7ae74844dacd3?postId=96355596725c" data-media-id="ae5d5079e8ad70943bb7ae74844dacd3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCsfUhcKWgAE-TBo.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -54,7 +54,7 @@ Indeed, according to Sensor Tower data, in Q3 2016, the top 5 iOS app downloads 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/46244b1db29fdccb00d33f40fa18f78d?postId=96355596725c" data-media-id="46244b1db29fdccb00d33f40fa18f78d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCvUbh4xWgAA1Egz.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/46244b1db29fdccb00d33f40fa18f78d?postId=96355596725c" data-media-id="46244b1db29fdccb00d33f40fa18f78d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCvUbh4xWgAA1Egz.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

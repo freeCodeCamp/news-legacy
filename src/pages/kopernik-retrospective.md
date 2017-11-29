@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Kopernik: A Nonprofit Project Retrospective"
 subTitle: "A few days ago, we marked our first nonprofit project at Free Code Camp as shipped. It was a big milestone (both for us and Free Code Cam..."
 coverSrc: https://cdn-images-1.medium.com/max/800/0*2lwlomgyQBSf47Ug.png
@@ -44,7 +44,7 @@ After finishing the challenges (Free Code Camp’s curriculum) I got assigned to
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f9fd2e901210d7edf21812b21f00f1a9?postId=68685371b00b" data-media-id="f9fd2e901210d7edf21812b21f00f1a9" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f9fd2e901210d7edf21812b21f00f1a9?postId=68685371b00b" data-media-id="f9fd2e901210d7edf21812b21f00f1a9" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Alex Ewerlöf
 authorTwitter: https://twitter.com/alexewerlof
-authorFacebook: false
+authorFacebook: none
 title: "Are you the hacker or are you the academic?"
 subTitle: "During my 18 year career as a programmer, I’ve worked on dozens of different projects, from robotics to finance to healthcare and telecom..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*cIXQJZ7avw6mfzsN6Kaf0w.jpeg

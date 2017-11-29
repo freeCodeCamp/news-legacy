@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels: Mathematics"
 subTitle: "Many programmers claim that they don’t use much mathematics in their daily work — or some of them even admit they struggled with it in hi..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Mt_I3oPXSF4f7rD8GroPQw.png

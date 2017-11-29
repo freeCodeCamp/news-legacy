@@ -1,7 +1,7 @@
 ---
 author: Haseeb Qureshi
 authorTwitter: https://twitter.com/hosseeb
-authorFacebook: false
+authorFacebook: none
 title: "A hacker stole $31M of Ether — how it happened, and what it means for Ethereum"
 subTitle: "Yesterday, a hacker pulled off the second biggest heist in the history of digital currencies...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*8yCGP72sL36SzFYmZfPkaA.png

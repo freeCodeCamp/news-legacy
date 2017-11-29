@@ -1,7 +1,7 @@
 ---
 author: Steven McClurg
 authorTwitter: https://twitter.com/stevenmcclurg
-authorFacebook: false
+authorFacebook: none
 title: "Pay Equally. Pay Transparently. Profit."
 subTitle: "This is my story of moving from a company with secretive pay to implementing fully transparent and equal pay at my current company.
 Your ..."

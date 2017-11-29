@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "9 Legit Master’s Degrees You Can Now Earn Completely Online"
 subTitle: "If you’ve been thinking of going back to school to get a master’s degree — but are too busy with work or family — you might want to consi..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*mbPH29iOosKHxARkgh72fw.png

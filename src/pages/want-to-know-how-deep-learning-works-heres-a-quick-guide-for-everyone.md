@@ -1,7 +1,7 @@
 ---
 author: Radu Raicea
 authorTwitter: https://twitter.com/radu_raicea
-authorFacebook: false
+authorFacebook: none
 title: "Want to know how Deep Learning works? Here’s a quick guide for everyone."
 subTitle: "Artificial Intelligence (AI) and Machine Learning (ML) are some of the hottest topics right now...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*1mpE6fsq5LNxH31xeTWi5w.jpeg

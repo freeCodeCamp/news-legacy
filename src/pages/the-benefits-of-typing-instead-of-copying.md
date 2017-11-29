@@ -1,7 +1,7 @@
 ---
 author: Fagner Brack
 authorTwitter: https://twitter.com/FagnerBrack
-authorFacebook: false
+authorFacebook: none
 title: "Don’t copy-paste code. Type it out. 🔊"
 subTitle: "Typing code can help you develop a learning mindset"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*wgbmuDgBQ6N-kOrbD-qMFA.jpeg
@@ -40,7 +40,7 @@ The hands of a programmer joyously typing code into a laptop
 
 
 
-<iframe data-width="700" data-height="185" width="700" height="185" src="/media/166f686efb3ca0a5d40a142e67b1f8ee?postId=54ed734ad849" data-media-id="166f686efb3ca0a5d40a142e67b1f8ee" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="700" data-height="185" width="700" height="185" src="https://medium.freecodecamp.org/media/166f686efb3ca0a5d40a142e67b1f8ee?postId=54ed734ad849" data-media-id="166f686efb3ca0a5d40a142e67b1f8ee" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ Take the following HTML snippet, for example:
 
 
 
-<iframe width="700" height="250" src="/media/def77f5fd60884c4e6d2d822c9d5b37c?postId=54ed734ad849" data-media-id="def77f5fd60884c4e6d2d822c9d5b37c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/def77f5fd60884c4e6d2d822c9d5b37c?postId=54ed734ad849" data-media-id="def77f5fd60884c4e6d2d822c9d5b37c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ When duplicating that code to create a new input, we’re likely to forget to ch
 
 
 
-<iframe width="700" height="250" src="/media/b8794c08d0f2e7becc709c4648351cb3?postId=54ed734ad849" data-media-id="b8794c08d0f2e7becc709c4648351cb3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b8794c08d0f2e7becc709c4648351cb3?postId=54ed734ad849" data-media-id="b8794c08d0f2e7becc709c4648351cb3" allowfullscreen="" frameborder="0"></iframe>
 
 
 

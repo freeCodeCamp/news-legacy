@@ -1,7 +1,7 @@
 ---
 author: rajaraodv
 authorTwitter: https://twitter.com/rajaraodv
-authorFacebook: false
+authorFacebook: none
 title: "Functional Programming In JavaScript — With Practical Examples (Part 1)"
 subTitle: "Functional Programming(FP) can change the way you program for the better. But it’s hard to learn and many posts and tutorials don’t go in..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*U1TQD4tsM3JLZ-MfBH-vJA.jpeg
@@ -119,7 +119,7 @@ OK, now that we know the basics, Let’s see some practical examples and learn v
 
 
 
-<iframe width="700" height="250" src="/media/bca10a789faf52c529c256aab4c35fe3?postId=87c2b0dbc276" data-media-id="bca10a789faf52c529c256aab4c35fe3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bca10a789faf52c529c256aab4c35fe3?postId=87c2b0dbc276" data-media-id="bca10a789faf52c529c256aab4c35fe3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -133,7 +133,7 @@ OK, now that we know the basics, Let’s see some practical examples and learn v
 
 
 
-<iframe width="700" height="250" src="/media/60944444e5890962f83460431ff337e3?postId=87c2b0dbc276" data-media-id="60944444e5890962f83460431ff337e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/60944444e5890962f83460431ff337e3?postId=87c2b0dbc276" data-media-id="60944444e5890962f83460431ff337e3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -159,7 +159,7 @@ Let’s write our own Functor “MyFunctor”. It’s simply a JS class (constru
 
 
 
-<iframe width="700" height="250" src="/media/7f8b8661eec8d811ac75521013923ae8?postId=87c2b0dbc276" data-media-id="7f8b8661eec8d811ac75521013923ae8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7f8b8661eec8d811ac75521013923ae8?postId=87c2b0dbc276" data-media-id="7f8b8661eec8d811ac75521013923ae8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -185,7 +185,7 @@ Below is a sample implementation so you get an idea of the internals of the Mona
 
 
 
-<iframe width="700" height="250" src="/media/bfe2d591ea98872686488d5714dd2c29?postId=87c2b0dbc276" data-media-id="bfe2d591ea98872686488d5714dd2c29" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bfe2d591ea98872686488d5714dd2c29?postId=87c2b0dbc276" data-media-id="bfe2d591ea98872686488d5714dd2c29" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -211,7 +211,7 @@ A “Maybe” Monad is a class that implements Monad spec. But the special thing
 
 
 
-<iframe width="700" height="250" src="/media/cf86a82afb9704c8498e58152f7ac396?postId=87c2b0dbc276" data-media-id="cf86a82afb9704c8498e58152f7ac396" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cf86a82afb9704c8498e58152f7ac396?postId=87c2b0dbc276" data-media-id="cf86a82afb9704c8498e58152f7ac396" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -231,7 +231,7 @@ Follow these steps:
 
 
 
-<iframe width="700" height="250" src="/media/dc56ac7291460a703a09ddb56fc710a7?postId=87c2b0dbc276" data-media-id="dc56ac7291460a703a09ddb56fc710a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dc56ac7291460a703a09ddb56fc710a7?postId=87c2b0dbc276" data-media-id="dc56ac7291460a703a09ddb56fc710a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -255,7 +255,7 @@ Let’s look at our solution again:
 
 
 
-<iframe width="700" height="250" src="/media/c7f6a3e9260e5141580d565d4e21e14d?postId=87c2b0dbc276" data-media-id="c7f6a3e9260e5141580d565d4e21e14d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c7f6a3e9260e5141580d565d4e21e14d?postId=87c2b0dbc276" data-media-id="c7f6a3e9260e5141580d565d4e21e14d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -283,7 +283,7 @@ Note that the “**tax**” function will throw error if the price is non-numeri
 
 
 
-<iframe width="700" height="250" src="/media/b398d31974f772a040803fde7839c32d?postId=87c2b0dbc276" data-media-id="b398d31974f772a040803fde7839c32d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b398d31974f772a040803fde7839c32d?postId=87c2b0dbc276" data-media-id="b398d31974f772a040803fde7839c32d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -309,7 +309,7 @@ i.e. create an instance of Either.Left or Either.Right depending on the value. *
 
 
 
-<iframe width="700" height="250" src="/media/189582a5d9bfd51828d4d153ce0e4bbb?postId=87c2b0dbc276" data-media-id="189582a5d9bfd51828d4d153ce0e4bbb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/189582a5d9bfd51828d4d153ce0e4bbb?postId=87c2b0dbc276" data-media-id="189582a5d9bfd51828d4d153ce0e4bbb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -341,7 +341,7 @@ Putting it all together:
 
 
 
-<iframe width="700" height="250" src="/media/5712569885b5a7a75764d804a954dcfd?postId=87c2b0dbc276" data-media-id="5712569885b5a7a75764d804a954dcfd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5712569885b5a7a75764d804a954dcfd?postId=87c2b0dbc276" data-media-id="5712569885b5a7a75764d804a954dcfd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Adam Petrie
 authorTwitter: https://twitter.com/adampetrie
-authorFacebook: false
+authorFacebook: none
 title: "How Toyota changed the way we approach code"
 subTitle: "As developers we don’t work in vacuums. We’re constantly faced with constraints like time, budget, and resources. We’re influenced by pri..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*gBSCjU9-eEZ_HVtx.

@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "React Binding Patterns: 5 Approaches for Handling `this`"
 subTitle: "JavaScript’s this keyword behavior has confused developers for ages...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*Brf51FVp5subpavq4ax8ow.jpeg
@@ -106,7 +106,7 @@ Here are full working examples of all 5 approaches:
 
 
 
-<iframe width="700" height="250" src="/media/d3ff1d1bcffc7e6037b7d2a3fbb247ae?postId=92c651b5af56" data-media-id="d3ff1d1bcffc7e6037b7d2a3fbb247ae" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d3ff1d1bcffc7e6037b7d2a3fbb247ae?postId=92c651b5af56" data-media-id="d3ff1d1bcffc7e6037b7d2a3fbb247ae" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ So what do people prefer? Here’s the poll:
 
 
 
-<iframe width="500" height="250" src="/media/e437ed3bd7cf07ebd022d15765581342?postId=92c651b5af56" data-media-id="e437ed3bd7cf07ebd022d15765581342" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/e437ed3bd7cf07ebd022d15765581342?postId=92c651b5af56" data-media-id="e437ed3bd7cf07ebd022d15765581342" allowfullscreen="" frameborder="0"></iframe>
 
 
 

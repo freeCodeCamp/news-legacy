@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Our 1,600 Hour JavaScript Coding Curriculum"
 subTitle: "How do you prepare someone for their first coding job while they’re still working full-time or raising kids? And do it completely in a br..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*7I8HWGjrmBAnxcmQ.jpg

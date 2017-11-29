@@ -1,6 +1,6 @@
 ---
 author: Sam Galizia
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10153311401986732
 title: "Any Solution Versus the Best Solution"
 subTitle: "A couple of months ago, I was searching for resources to help me improve my coding skills. It didn’t take long before I stumbled upon Fre..."

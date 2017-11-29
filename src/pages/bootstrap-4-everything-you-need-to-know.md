@@ -1,7 +1,7 @@
 ---
 author: Ohans Emmanuel
 authorTwitter: https://twitter.com/OhansEmmanuel
-authorFacebook: false
+authorFacebook: none
 title: "Bootstrap 4: Everything You Need to Know"
 subTitle: "A deep dive into solving common responsive web design problems"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*XJhVE27AcycpeaWMhoqZ9w.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c75
 id: bootstrap-4-everything-you-need-to-know-c750991f6784
 date: 2017-10-23T03:44:33.871Z
 tags: [
-  "Web Development",
-  "CSS",
-  "Design",
-  "Tech",
-  "UX"
+	"Web Development",
+	"CSS",
+	"Design",
+	"Tech",
+	"UX"
 ]
 ---
 # Bootstrap 4: Everything You Need to Know
@@ -28,13 +28,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*XJhVE27AcycpeaWMhoqZ9w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*XJhVE27AcycpeaWMhoqZ9w.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*XJhVE27AcycpeaWMhoqZ9w.png"&gt;</noscript>
 
 
 
@@ -122,27 +119,6 @@ _"Every bootstrap website ever!" - it's even EASIER than that, why learn front e
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tA10o8LZVZURen4UzENopQ.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="46" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*tA10o8LZVZURen4UzENopQ.png"&gt;</noscript>
-
-
-
-
-
-
-
-
-
-
-
-![](https://cdn-images-1.medium.com/freeze/max/60/1*1OZPsPL9G0sDgVYOTUYfQg.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*1OZPsPL9G0sDgVYOTUYfQg.png"&gt;</noscript>
 
 
 
@@ -158,11 +134,6 @@ _"Every bootstrap website ever!" - it's even EASIER than that, why learn front e
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*eh6SWU6nN3sNJcKnsYAeSw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*eh6SWU6nN3sNJcKnsYAeSw.png"&gt;</noscript>
 
 
 
@@ -174,11 +145,25 @@ _"Every bootstrap website ever!" - it's even EASIER than that, why learn front e
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5uZ4kRP-z_xvmimpDOWSQA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="45" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*5uZ4kRP-z_xvmimpDOWSQA.png"&gt;</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -202,11 +187,8 @@ I’m excited to show you how to build beautiful sites using Bootstrap. I hope y
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*wENQIF5SgtFXpQ2hskW6xw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*wENQIF5SgtFXpQ2hskW6xw.gif"&gt;</noscript>
 
 
 
@@ -247,11 +229,8 @@ I advise you to take 10 minutes to read about Reboot from the official [docs](ht
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nuLeM9tRbsryXO7qg_XAyQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nuLeM9tRbsryXO7qg_XAyQ.png"&gt;</noscript>
 
 
 
@@ -284,11 +263,8 @@ The markup has two header elements and an anchor tag. Below is the result when v
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*OPByBfBwOsIcM3dKx6y75Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*OPByBfBwOsIcM3dKx6y75Q.png"&gt;</noscript>
 
 
 
@@ -330,11 +306,8 @@ This time, I have swapped the colors. The link, `black` and the `h1` blue.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EMMR9vjJDy5yhqyFkkZfuQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*EMMR9vjJDy5yhqyFkkZfuQ.png"&gt;</noscript>
 
 
 
@@ -362,11 +335,8 @@ Every webpage’s overall style is influenced by the browser’s default styles,
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IUWM0mlFnknHEU3GTy_eRw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*IUWM0mlFnknHEU3GTy_eRw.png"&gt;</noscript>
 
 
 
@@ -477,11 +447,8 @@ Adding Bootstrap v4 to a project is simple. Click the CSS pen setting, and inclu
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iN1wZZ90A-wRFFotFhFNdA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*iN1wZZ90A-wRFFotFhFNdA.png"&gt;</noscript>
 
 
 
@@ -505,11 +472,6 @@ So, what difference does Bootstrap make?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EMMR9vjJDy5yhqyFkkZfuQ.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*EMMR9vjJDy5yhqyFkkZfuQ.png"&gt;</noscript>
 
 
 
@@ -521,11 +483,10 @@ So, what difference does Bootstrap make?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ZqT1P42mPQavelIP63x4Lw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*ZqT1P42mPQavelIP63x4Lw.png"&gt;</noscript>
+
+
 
 
 
@@ -553,11 +514,8 @@ Now that I’m sure you understand how CSS libraries work in general, let’s le
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*udq4d4sIGwPG8wbcFq9snQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*udq4d4sIGwPG8wbcFq9snQ.png"&gt;</noscript>
 
 
 
@@ -597,11 +555,8 @@ The result of the markup is seen below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Y0N9JATDP_5v7uKYuyLqRA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="60"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Y0N9JATDP_5v7uKYuyLqRA.png"&gt;</noscript>
 
 
 
@@ -619,11 +574,8 @@ The first step is to go ahead and include Bootstrap. Please include Bootstrap as
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5rCAhQdRvUYcICIO868Zgw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="60"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*5rCAhQdRvUYcICIO868Zgw.png"&gt;</noscript>
 
 
 
@@ -649,11 +601,8 @@ This version of Bootstrap sets up a font stack that uses the default sans-serif 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*lHkhqOevYR0vctbqQ_HAmg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*lHkhqOevYR0vctbqQ_HAmg.png"&gt;</noscript>
 
 
 
@@ -687,11 +636,8 @@ I have added the class `display-4` to the `h2` element. As seen below, it looks 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AZ9M0mnkMGkIV25FWL7wOg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="43" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*AZ9M0mnkMGkIV25FWL7wOg.png"&gt;</noscript>
 
 
 
@@ -713,11 +659,8 @@ In the example below, I have gone added to add `display-3` to one of the paragra
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*C9uDiV9NKpGWS51PBhoX_A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="43" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*C9uDiV9NKpGWS51PBhoX_A.png"&gt;</noscript>
 
 
 
@@ -735,11 +678,8 @@ The difference comes from the resulting size of the elements. `display-1` will y
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*rMXdT3Y-I40CNHvWFCC41Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*rMXdT3Y-I40CNHvWFCC41Q.png"&gt;</noscript>
 
 
 
@@ -759,11 +699,8 @@ Pretty simple. Add the `text-center` class to the desired element to center the 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4p8YiFBOl0manx0pUAwGWg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="46" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4p8YiFBOl0manx0pUAwGWg.png"&gt;</noscript>
 
 
 
@@ -789,11 +726,8 @@ This will yield a lowercased text in spite of the text, _“WE BELIEVE IN YOU BU
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vX-6bNDZGAXRRltOAs6QHA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="43" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*vX-6bNDZGAXRRltOAs6QHA.png"&gt;</noscript>
 
 
 
@@ -824,11 +758,8 @@ Here’s an example:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*INYaQ3fP-kXcvGCSwZvmKw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*INYaQ3fP-kXcvGCSwZvmKw.png"&gt;</noscript>
 
 
 
@@ -871,11 +802,8 @@ Below is the result of this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iPnYJ4gPV6MJUSkD9QYglw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*iPnYJ4gPV6MJUSkD9QYglw.png"&gt;</noscript>
 
 
 
@@ -899,11 +827,8 @@ It seems that I always need to do this when I create any sort of `html` list. Ag
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*rerTZeT7TvE-yRH8GtSH7g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*rerTZeT7TvE-yRH8GtSH7g.png"&gt;</noscript>
 
 
 
@@ -917,11 +842,8 @@ The default style for lists — with a dotted list style and some padding.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*UrTsYq0QO9SvTjoyCXUvLg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*UrTsYq0QO9SvTjoyCXUvLg.png"&gt;</noscript>
 
 
 
@@ -949,11 +871,8 @@ This will created list items that are aligned side by side, horizontally.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*G2MrUDw-Fo7KdF6iMRz_9w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="38" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*G2MrUDw-Fo7KdF6iMRz_9w.png"&gt;</noscript>
 
 
 
@@ -981,11 +900,8 @@ For example, the keyword `primary` is often associated with a blue color. `succe
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*prrb6SqbzmhxDOSukwZsHg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*prrb6SqbzmhxDOSukwZsHg.png"&gt;</noscript>
 
 
 
@@ -1009,11 +925,8 @@ The code block above will yield the result shown below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5clRVA4Hm8C7m9_xb2mNew.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*5clRVA4Hm8C7m9_xb2mNew.png"&gt;</noscript>
 
 
 
@@ -1031,11 +944,8 @@ For example, I have gone ahead to use the `text-light` class on a text within a 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jMfLHOAIyogK6I5hEti1aw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jMfLHOAIyogK6I5hEti1aw.png"&gt;</noscript>
 
 
 
@@ -1069,11 +979,6 @@ By default, the image extents arent seen because of the size of the image. Add t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ACVLIYcm2nVl_rq5EPN8lg.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="40" height="75"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*ACVLIYcm2nVl_rq5EPN8lg.png"&gt;</noscript>
 
 
 
@@ -1085,11 +990,10 @@ By default, the image extents arent seen because of the size of the image. Add t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*rWZKko6VjKnaBMl9tS0qFA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*rWZKko6VjKnaBMl9tS0qFA.png"&gt;</noscript>
+
+
 
 
 
@@ -1117,11 +1021,8 @@ Look closely at the result below. You’ll find the image having slightly round 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*OAZhmkWiIQ0GDBKyxNA6sw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="38" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*OAZhmkWiIQ0GDBKyxNA6sw.png"&gt;</noscript>
 
 
 
@@ -1153,11 +1054,8 @@ This will result in a cute rounded kitten.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*27iEblO2cnNPb_jSqYRJkA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*27iEblO2cnNPb_jSqYRJkA.png"&gt;</noscript>
 
 
 
@@ -1186,11 +1084,8 @@ Here’s the result:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*eOTpZC7SUgHDJXcrCrbmCg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="56" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*eOTpZC7SUgHDJXcrCrbmCg.png"&gt;</noscript>
 
 
 
@@ -1216,11 +1111,8 @@ If you took away the `rounded-bottom` class or any other `rounded` class on the 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BByfhnT5H_7fYJhUCyfGvA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="55" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*BByfhnT5H_7fYJhUCyfGvA.png"&gt;</noscript>
 
 
 
@@ -1250,11 +1142,8 @@ For example:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KMq3jEkW0l9AyievfhSUvQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="72"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*KMq3jEkW0l9AyievfhSUvQ.png"&gt;</noscript>
 
 
 
@@ -1298,11 +1187,8 @@ And here’s the result of that:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Q3aqWmvUObgQgs-vn_z4sQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="38" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Q3aqWmvUObgQgs-vn_z4sQ.png"&gt;</noscript>
 
 
 
@@ -1338,11 +1224,8 @@ See the result below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*31sleHOrLOhs_oscWiAXnw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="36" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*31sleHOrLOhs_oscWiAXnw.png"&gt;</noscript>
 
 
 
@@ -1378,11 +1261,8 @@ This will yield the fixed width image you see below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3eAhUobgllGFXEk2n_RfOw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="72" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3eAhUobgllGFXEk2n_RfOw.png"&gt;</noscript>
 
 
 
@@ -1417,11 +1297,8 @@ And so, we have a centered image!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ogXqiAUMPnmjIekZJ2r73g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ogXqiAUMPnmjIekZJ2r73g.png"&gt;</noscript>
 
 
 
@@ -1460,11 +1337,8 @@ Once you set the `display` property to `block` , the image no longer honors the
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3eAhUobgllGFXEk2n_RfOw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="72" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*3eAhUobgllGFXEk2n_RfOw.png"&gt;</noscript>
 
 
 
@@ -1488,11 +1362,8 @@ And the image comes back to being centered
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ogXqiAUMPnmjIekZJ2r73g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ogXqiAUMPnmjIekZJ2r73g.png"&gt;</noscript>
 
 
 
@@ -1537,11 +1408,8 @@ See below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4Ss3ZXNZCZtHoCRYln-XzQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4Ss3ZXNZCZtHoCRYln-XzQ.png"&gt;</noscript>
 
 
 
@@ -1582,11 +1450,8 @@ Now we have all the figures having some extra spacing.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*07QHSQMpBB0MHgn7yvjkSw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*07QHSQMpBB0MHgn7yvjkSw.png"&gt;</noscript>
 
 
 
@@ -1608,11 +1473,8 @@ Zero, `0` will remove any spacing on an element, while the spacing increases as 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bF07XkfWTVdMQp5SFxcMkQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*bF07XkfWTVdMQp5SFxcMkQ.png"&gt;</noscript>
 
 
 
@@ -1630,11 +1492,8 @@ For the curious mind, `1` adds a spacing of `0.25rem` , `2` adds a spacing of `
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nKcBKMQGuDlX9VOmGB3ZNQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nKcBKMQGuDlX9VOmGB3ZNQ.png"&gt;</noscript>
 
 
 
@@ -1673,11 +1532,8 @@ Here’s the result of that.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*TDy-6ogSFZAwHhax_LJsDQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*TDy-6ogSFZAwHhax_LJsDQ.png"&gt;</noscript>
 
 
 
@@ -1703,11 +1559,8 @@ For example, `mt-1` , `mb-1` , `ml-1` and `mr-1` are all valid class names. Th
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PueASj2YhmRyfWIU6Vw9Lw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PueASj2YhmRyfWIU6Vw9Lw.png"&gt;</noscript>
 
 
 
@@ -1723,11 +1576,8 @@ The `t` , `b` , `r` and `l` convention is also the same for padding.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8O2hvws27LG8Eo3Vl8oGvg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*8O2hvws27LG8Eo3Vl8oGvg.png"&gt;</noscript>
 
 
 
@@ -1766,11 +1616,8 @@ As you can see, I have used the `**pb-3**` class name. This will add bottom padd
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*XN8J7Og19HYXw-M48ZaO4Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*XN8J7Og19HYXw-M48ZaO4Q.png"&gt;</noscript>
 
 
 
@@ -1796,11 +1643,8 @@ For example, `mx-1` will add a margin of `0.25rem` along the `left` and `right` 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*HnGLDNo_Awhc4xxJyc2MEw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*HnGLDNo_Awhc4xxJyc2MEw.png"&gt;</noscript>
 
 
 
@@ -1827,11 +1671,8 @@ And the result is a slightly bigger paragraph as seen below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*XG8-YhC-OEqaBLsydkhyoA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="55"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*XG8-YhC-OEqaBLsydkhyoA.png"&gt;</noscript>
 
 
 
@@ -1847,11 +1688,8 @@ For the techies out there, the `.lead` class bumps up the size of the font by `
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*SatQYarx6FUBaaWDFhmShg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*SatQYarx6FUBaaWDFhmShg.png"&gt;</noscript>
 
 
 
@@ -1951,11 +1789,8 @@ What do you notice?
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*S3H46Ciw2AolyHVCIrLn0w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*S3H46Ciw2AolyHVCIrLn0w.gif"&gt;</noscript>
 
 
 
@@ -1975,11 +1810,8 @@ On the contrary, if you used `.container-fluid` , the div fills up the availab
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IsiA3sL6zbg-CUPzdbfaFQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*IsiA3sL6zbg-CUPzdbfaFQ.gif"&gt;</noscript>
 
 
 
@@ -2048,11 +1880,8 @@ Nobody just slap content haphazardly on a page.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4xywdFHk8LV5U-mdD74EQw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*4xywdFHk8LV5U-mdD74EQw.png"&gt;</noscript>
 
 
 
@@ -2078,11 +1907,8 @@ Most of the time, you will have a grid that contains well structured content. So
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*f-IJanM932Wim-BCphfSJQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*f-IJanM932Wim-BCphfSJQ.png"&gt;</noscript>
 
 
 
@@ -2122,11 +1948,8 @@ So, you get a mockup like this one:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*aQpurhGesBO1xmmiPJee2A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*aQpurhGesBO1xmmiPJee2A.png"&gt;</noscript>
 
 
 
@@ -2150,11 +1973,8 @@ I have gone ahead to do the same, and here’s the result:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*h_dWnjZE8v_0603PqLyyxA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*h_dWnjZE8v_0603PqLyyxA.png"&gt;</noscript>
 
 
 
@@ -2174,11 +1994,8 @@ Again, I have done the same. See the results below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ViiMZTfztktpmeB9ZTEvdQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ViiMZTfztktpmeB9ZTEvdQ.png"&gt;</noscript>
 
 
 
@@ -2202,11 +2019,8 @@ In practice, you may have an overall container that houses the entire group of r
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*MrxziOUNs-5XvVI7mfKLuw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*MrxziOUNs-5XvVI7mfKLuw.png"&gt;</noscript>
 
 
 
@@ -2222,11 +2036,8 @@ Or you may have a container that wraps around each individual row, like this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cB5UHcK6yPxcH0yPbj-hpw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*cB5UHcK6yPxcH0yPbj-hpw.png"&gt;</noscript>
 
 
 
@@ -2252,11 +2063,8 @@ Below is an example:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Y9_53Vq6T3D5LSGPXwH_1w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="26"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Y9_53Vq6T3D5LSGPXwH_1w.png"&gt;</noscript>
 
 
 
@@ -2276,11 +2084,8 @@ As shown earlier, consider the row of content below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Y9_53Vq6T3D5LSGPXwH_1w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="26"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Y9_53Vq6T3D5LSGPXwH_1w.png"&gt;</noscript>
 
 
 
@@ -2296,11 +2101,8 @@ Within this row, the bootstrap grid assumes 12 columns within this row, like so:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Q9rqFAw00J9uMwFKnvr2KQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="26"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Q9rqFAw00J9uMwFKnvr2KQ.png"&gt;</noscript>
 
 
 
@@ -2318,11 +2120,8 @@ Since you have only 2 user-defined columns (the bigger and smaller column) withi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ospMIturCPNrKabzKGYbXw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="26"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ospMIturCPNrKabzKGYbXw.png"&gt;</noscript>
 
 
 
@@ -2370,11 +2169,8 @@ With the markup above, the total number is 12\. You get the expected result belo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4xIdvxllIO-UUG9kOfkQJA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4xIdvxllIO-UUG9kOfkQJA.png"&gt;</noscript>
 
 
 
@@ -2410,11 +2206,8 @@ The next set of columns after 12 is wrapped unto the next line, like so:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6utq570iDporNjnhZKE-fQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6utq570iDporNjnhZKE-fQ.png"&gt;</noscript>
 
 
 
@@ -2436,11 +2229,8 @@ For the sake of responsive design, this will rarely be the case. If you have a 2
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qc2hrYSqtkwsJFaDCwksAw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*qc2hrYSqtkwsJFaDCwksAw.png"&gt;</noscript>
 
 
 
@@ -2454,11 +2244,8 @@ Two side by side columns displayed on larger devices. Each of the column takes u
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*yOTwCBISVrOqczKKfx1XSQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*yOTwCBISVrOqczKKfx1XSQ.png"&gt;</noscript>
 
 
 
@@ -2487,11 +2274,8 @@ For instance:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JspGXGkEY6SfXpuBTBn3qw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*JspGXGkEY6SfXpuBTBn3qw.png"&gt;</noscript>
 
 
 
@@ -2550,11 +2334,8 @@ Like the margin and padding classes we studied earlier, there is a specific nami
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JspGXGkEY6SfXpuBTBn3qw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*JspGXGkEY6SfXpuBTBn3qw.png"&gt;</noscript>
 
 
 
@@ -2606,11 +2387,8 @@ As discussed in the “What You’ll Learn” section, we will go ahead and star
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*U3A_6-9cM509w63Sv13i6A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*U3A_6-9cM509w63Sv13i6A.png"&gt;</noscript>
 
 
 
@@ -2644,11 +2422,8 @@ To start we will focus on the initial viewport of the Startup Home Page. It fill
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*CQ3Y2JiWDWBp49WwLedJRA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*CQ3Y2JiWDWBp49WwLedJRA.png"&gt;</noscript>
 
 
 
@@ -2666,11 +2441,8 @@ Below is the mobile mockup:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*tA10o8LZVZURen4UzENopQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="46" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*tA10o8LZVZURen4UzENopQ.png"&gt;</noscript>
 
 
 
@@ -2712,11 +2484,8 @@ Okay, I know what you’re thinking. What are the`integrity` and `crossorgin` ht
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*S_G__Ik2-owTYKEGcD28pA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="16"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*S_G__Ik2-owTYKEGcD28pA.png"&gt;</noscript>
 
 
 
@@ -2740,11 +2509,8 @@ I’ll be using codepen for an easier setup. In the codepen,you can add the meta
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*b5RJvKlIAe_xiDLqqxBuZA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*b5RJvKlIAe_xiDLqqxBuZA.png"&gt;</noscript>
 
 
 
@@ -2808,11 +2574,8 @@ Let’s analyze and build the initial section `section#introduction`
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*MZ6MwL1Qb54DZK2aWlScDA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*MZ6MwL1Qb54DZK2aWlScDA.png"&gt;</noscript>
 
 
 
@@ -2828,11 +2591,8 @@ Now let’s apply the knowledge of grids to the project being built.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PsbTkVJ-9TdnYBTgz6VO1w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PsbTkVJ-9TdnYBTgz6VO1w.gif"&gt;</noscript>
 
 
 
@@ -2868,11 +2628,8 @@ What you should have now is a bare page that doesn’t look any good.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7TOstaE7CUzcK6CHrT_Zzg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7TOstaE7CUzcK6CHrT_Zzg.png"&gt;</noscript>
 
 
 
@@ -2920,11 +2677,8 @@ If you’re not sure what the code above does, the following illustration may he
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*TSsJkQQMxVwy-j91hpIZuw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*TSsJkQQMxVwy-j91hpIZuw.png"&gt;</noscript>
 
 
 
@@ -2962,11 +2716,8 @@ With that you should have a `section` that looks pretty good.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qB07hKLlfgK6eovC96ha_A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*qB07hKLlfgK6eovC96ha_A.png"&gt;</noscript>
 
 
 
@@ -3004,11 +2755,8 @@ Below is the result of that:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*j_0JrfZ1BO4GrYoX_C0ckg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*j_0JrfZ1BO4GrYoX_C0ckg.png"&gt;</noscript>
 
 
 
@@ -3033,11 +2781,8 @@ As you already know, `text-white` will give the `h1` a white color, `.lead` wil
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cArcDAA5Q_QGQmy2mjRoGA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*cArcDAA5Q_QGQmy2mjRoGA.png"&gt;</noscript>
 
 
 
@@ -3063,11 +2808,8 @@ And now you should have this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8731m0WOEOzNlsxyGVeEgQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*8731m0WOEOzNlsxyGVeEgQ.png"&gt;</noscript>
 
 
 
@@ -3085,11 +2827,8 @@ Buttons in Bootstrap are styled using the `.btn` class. There are a few variati
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*nY6rcv-ApSYKLv-CA7zrLA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*nY6rcv-ApSYKLv-CA7zrLA.png"&gt;</noscript>
 
 
 
@@ -3107,11 +2846,8 @@ To style the link , do this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*k3ukm09mlwbSEoyH--RVHA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*k3ukm09mlwbSEoyH--RVHA.png"&gt;</noscript>
 
 
 
@@ -3145,11 +2881,8 @@ Now what we’ve said is this: _“_Oh Bootstrap, by default, let this div fill 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*QZlCzsNW4jJJnZqsy5CF5g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*QZlCzsNW4jJJnZqsy5CF5g.png"&gt;</noscript>
 
 
 
@@ -3169,11 +2902,8 @@ The next section is quite interesting. Below is how it views on big, medium and 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*A-EbnfDTZ1fQvtv157GOlQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*A-EbnfDTZ1fQvtv157GOlQ.gif"&gt;</noscript>
 
 
 
@@ -3243,11 +2973,8 @@ And with that you should have this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6yT2md4skTrI-DOkSlh8IQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6yT2md4skTrI-DOkSlh8IQ.png"&gt;</noscript>
 
 
 
@@ -3327,11 +3054,8 @@ Here’s the result you should have at this point:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3YGgT-4MH-Lb8E-aIbSdIA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3YGgT-4MH-Lb8E-aIbSdIA.png"&gt;</noscript>
 
 
 
@@ -3376,11 +3100,8 @@ Here’s the result so far:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GTi7t39Kd2ikBi7hkyprWQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="32"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*GTi7t39Kd2ikBi7hkyprWQ.png"&gt;</noscript>
 
 
 
@@ -3401,11 +3122,8 @@ The third section has pretty much the same vibe as the second section I discusse
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-81NPhbL6Fk87N96Czexew.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*-81NPhbL6Fk87N96Czexew.gif"&gt;</noscript>
 
 
 
@@ -3512,7 +3230,7 @@ So, here’s the new stuff we haven’t discussed:
    
 </pre>
 
-Assuming you’re familiar with how Flexbox works, the `order` property determines the visual order in which `flex-items` are displayed. The item with an lowest `order` value is displayed first and the `highest` last. Essentially, the items are displayed in terms of increasing `order` values — from lowest to highest.
+Assuming you’re familiar with how Flexbox works, the `order` property determines the visual order in which `flex-items` are displayed. The item with the lowest `order` value is displayed first and the `highest` last. Essentially, the items are displayed in terms of increasing `order` values — from lowest to highest.
 
 The `order-` class names are an attempt to recreate this same behavior. They are Bootstrap Flexbox utility classes that allow for any integer values such as `order-5` and `order-10.`
 
@@ -3532,11 +3250,8 @@ By default, the `pre` tag will be displayed first, then the `div` . This is bec
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-81NPhbL6Fk87N96Czexew.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*-81NPhbL6Fk87N96Czexew.gif"&gt;</noscript>
 
 
 
@@ -3556,11 +3271,8 @@ Let’s move on the the next content section.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jT9qhhbFPGYr46QmWJFdeA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jT9qhhbFPGYr46QmWJFdeA.gif"&gt;</noscript>
 
 
 
@@ -3615,11 +3327,8 @@ Let’s move on to the next section.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ui5qkc5LdX702PKXeeFyKw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="13"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Ui5qkc5LdX702PKXeeFyKw.gif"&gt;</noscript>
 
 
 
@@ -3673,11 +3382,8 @@ Let’s move on to the next content section.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*wCH4A8FfRvIUOv3Qe0NG6A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*wCH4A8FfRvIUOv3Qe0NG6A.gif"&gt;</noscript>
 
 
 
@@ -3768,11 +3474,8 @@ The first row contains the section headline:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*j7kAP-dHb-Hn51hXugFKNQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*j7kAP-dHb-Hn51hXugFKNQ.png"&gt;</noscript>
 
 
 
@@ -3788,11 +3491,8 @@ The second row contains the list of image icons:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*h57_00BrsNRewRFLoYgsTQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*h57_00BrsNRewRFLoYgsTQ.png"&gt;</noscript>
 
 
 
@@ -3870,11 +3570,8 @@ The `text-info` class on the `
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*F9EmJwnOHEbzJtLep_obPQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*F9EmJwnOHEbzJtLep_obPQ.gif"&gt;</noscript>
 
 
 
@@ -4022,11 +3719,8 @@ Each pricing table is made up of this:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hZTeqCh6-neyPhaWI9v_pA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*hZTeqCh6-neyPhaWI9v_pA.png"&gt;</noscript>
 
 
 
@@ -4072,11 +3766,8 @@ This is what gives the lists within the pricing table the `1px` borders.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-AbwETPY3956zxVB4XNJ6Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*-AbwETPY3956zxVB4XNJ6Q.png"&gt;</noscript>
 
 
 
@@ -4105,11 +3796,8 @@ That’s pretty much all there is to this content section. Let’s see the next.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hmqgmW-e3C_qFTJiBKt10A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*hmqgmW-e3C_qFTJiBKt10A.gif"&gt;</noscript>
 
 
 
@@ -4193,11 +3881,8 @@ Within this column there are four columns.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BIalkN6_vsgGhSZBKTQs-w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="18"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*BIalkN6_vsgGhSZBKTQs-w.png"&gt;</noscript>
 
 
 

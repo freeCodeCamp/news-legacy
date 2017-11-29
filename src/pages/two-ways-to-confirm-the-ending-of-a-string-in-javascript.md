@@ -49,7 +49,7 @@ There are the two approaches I’ll cover:
 
 
 
-<iframe width="700" height="250" src="/media/a8b1f0328a001a739da94681780038a2?postId=62b4677034ac" data-media-id="a8b1f0328a001a739da94681780038a2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a8b1f0328a001a739da94681780038a2?postId=62b4677034ac" data-media-id="a8b1f0328a001a739da94681780038a2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -98,7 +98,7 @@ Then you check whether `string.substr(-target.length)` equals the target (true o
 
 
 
-<iframe width="700" height="250" src="/media/86a2e5efbba7d78d7fb93af752fdf7d2?postId=62b4677034ac" data-media-id="86a2e5efbba7d78d7fb93af752fdf7d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/86a2e5efbba7d78d7fb93af752fdf7d2?postId=62b4677034ac" data-media-id="86a2e5efbba7d78d7fb93af752fdf7d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ Without comments:
 
 
 
-<iframe width="700" height="250" src="/media/2f13080d70139bfd17f9709369580f33?postId=62b4677034ac" data-media-id="2f13080d70139bfd17f9709369580f33" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2f13080d70139bfd17f9709369580f33?postId=62b4677034ac" data-media-id="2f13080d70139bfd17f9709369580f33" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -134,7 +134,7 @@ You then return the ternary operator in your function:
 
 
 
-<iframe width="700" height="250" src="/media/73f4db1786e115df51475fd51c9d158c?postId=62b4677034ac" data-media-id="73f4db1786e115df51475fd51c9d158c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/73f4db1786e115df51475fd51c9d158c?postId=62b4677034ac" data-media-id="73f4db1786e115df51475fd51c9d158c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -146,7 +146,7 @@ You can also refactor your code to make it more succinct by just returning the c
 
 
 
-<iframe width="700" height="250" src="/media/1b18e7ebc140470f1445e98f0b8ec39a?postId=62b4677034ac" data-media-id="1b18e7ebc140470f1445e98f0b8ec39a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1b18e7ebc140470f1445e98f0b8ec39a?postId=62b4677034ac" data-media-id="1b18e7ebc140470f1445e98f0b8ec39a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -180,7 +180,7 @@ For this solution, you’ll use the String.prototype.endsWith() method:
 
 
 
-<iframe width="700" height="250" src="/media/537a6c94c179cc103a04ee321a9511a4?postId=62b4677034ac" data-media-id="537a6c94c179cc103a04ee321a9511a4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/537a6c94c179cc103a04ee321a9511a4?postId=62b4677034ac" data-media-id="537a6c94c179cc103a04ee321a9511a4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

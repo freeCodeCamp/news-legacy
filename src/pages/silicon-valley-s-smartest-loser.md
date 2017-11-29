@@ -1,7 +1,7 @@
 ---
 author: Mark Mann
 authorTwitter: https://twitter.com/mrk_mnn
-authorFacebook: false
+authorFacebook: none
 title: "Silicon Valley’s Smartest Loser"
 subTitle: "Before the Valley’s namesake metalloid became the material of choice for integrated circuits, physicists were using a less-reactive subst..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*XRNdl_xRZxMqpVwcnZXF1Q.jpeg

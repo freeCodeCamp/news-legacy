@@ -1,7 +1,7 @@
 ---
 author: Konrad Dzwinel
 authorTwitter: https://twitter.com/kdzwinel
-authorFacebook: false
+authorFacebook: none
 title: "Prototyping the Future of DevTools"
 subTitle: "12 years ago web development had almost no tooling. There was no easy way to inspect the DOM, monitor the network or even console.log thi..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*cB6j0QtGioPdqeumSxJuiQ.png
@@ -112,7 +112,7 @@ To show how a flexible layout would look like in Chrome DevTools I build a proto
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/a81b1f4a2cf7cab33407dd001da79f6f?postId=f54ba4d51891" data-media-id="a81b1f4a2cf7cab33407dd001da79f6f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F538401368612945921%2FAvwrMusf_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/a81b1f4a2cf7cab33407dd001da79f6f?postId=f54ba4d51891" data-media-id="a81b1f4a2cf7cab33407dd001da79f6f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F538401368612945921%2FAvwrMusf_400x400.jpeg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ To show what a better integration with components could look like, I created a p
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/02b65e2b068c21d0197c256dafcb8c42?postId=f54ba4d51891" data-media-id="02b65e2b068c21d0197c256dafcb8c42" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FExo9bi2eqUE%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/02b65e2b068c21d0197c256dafcb8c42?postId=f54ba4d51891" data-media-id="02b65e2b068c21d0197c256dafcb8c42" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FExo9bi2eqUE%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -148,7 +148,7 @@ In our DevTools, we get the same “Styles” panel no matter what node in the D
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/0863539037c5b57fb187f7126ebe4104?postId=f54ba4d51891" data-media-id="0863539037c5b57fb187f7126ebe4104" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft-xaS0-v8jI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/0863539037c5b57fb187f7126ebe4104?postId=f54ba4d51891" data-media-id="0863539037c5b57fb187f7126ebe4104" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft-xaS0-v8jI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -166,7 +166,7 @@ Animation finished before you managed to inspect it? You clicked “Next” in t
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/b14c7b12060da8445e8b73dfd14a4e5e?postId=f54ba4d51891" data-media-id="b14c7b12060da8445e8b73dfd14a4e5e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBWIITa1uujk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/b14c7b12060da8445e8b73dfd14a4e5e?postId=f54ba4d51891" data-media-id="b14c7b12060da8445e8b73dfd14a4e5e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBWIITa1uujk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -186,7 +186,7 @@ A developer working on a website is definitely not interacting with it in the sa
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/202390f5809d00d51beb19f64e27a6bd?postId=f54ba4d51891" data-media-id="202390f5809d00d51beb19f64e27a6bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcsfE6Ic7dug%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/202390f5809d00d51beb19f64e27a6bd?postId=f54ba4d51891" data-media-id="202390f5809d00d51beb19f64e27a6bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcsfE6Ic7dug%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

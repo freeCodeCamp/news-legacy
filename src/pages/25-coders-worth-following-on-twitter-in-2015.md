@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "25 Coders Worth Following on Twitter in 2015"
 subTitle: "Our community upvoted the following 25 coders, in no particular order, as “Coders Worth Following in 2015”:..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*6xGLA11KEnMF2CXEZQQcfA.png

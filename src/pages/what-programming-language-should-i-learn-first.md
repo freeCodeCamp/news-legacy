@@ -433,7 +433,7 @@ And that means JavaScript.
 
 
 
-<iframe width="500" height="250" src="/media/725495f00cb47d90634eff9263efdd7c?postId=19a33b0a467d" data-media-id="725495f00cb47d90634eff9263efdd7c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F700824335624249348%2FSkxQsdhq_bigger.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/725495f00cb47d90634eff9263efdd7c?postId=19a33b0a467d" data-media-id="725495f00cb47d90634eff9263efdd7c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F700824335624249348%2FSkxQsdhq_bigger.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -447,7 +447,7 @@ You will undoubtedly hear people crack jokes at its expense.
 
 
 
-<iframe width="500" height="250" src="/media/a97448549c9925f181c742f6dff5626e?postId=19a33b0a467d" data-media-id="a97448549c9925f181c742f6dff5626e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCAZFCcsUkAErER0.png%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/a97448549c9925f181c742f6dff5626e?postId=19a33b0a467d" data-media-id="a97448549c9925f181c742f6dff5626e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCAZFCcsUkAErER0.png%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -467,7 +467,7 @@ So if anybody ever gives you a hard time for learning JavaScript instead of elit
 
 
 
-<iframe data-width="854" data-height="480" width="980" height="551" src="/media/e7c571e751fa1bbbdee5ca203f03b7a9?postId=19a33b0a467d" data-media-id="e7c571e751fa1bbbdee5ca203f03b7a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVqiEhZYmvKk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" src="https://medium.freecodecamp.org/media/e7c571e751fa1bbbdee5ca203f03b7a9?postId=19a33b0a467d" data-media-id="e7c571e751fa1bbbdee5ca203f03b7a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVqiEhZYmvKk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

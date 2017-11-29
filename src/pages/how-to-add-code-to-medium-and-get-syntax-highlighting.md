@@ -98,7 +98,7 @@ You can also embed GitHub gists by pasting their URL into a blank line, then pre
 
 
 
-<iframe width="700" height="250" src="/media/f9147c30572d1e0d5bef7d7a7f224d22?postId=d699761a5883" data-media-id="f9147c30572d1e0d5bef7d7a7f224d22" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f9147c30572d1e0d5bef7d7a7f224d22?postId=d699761a5883" data-media-id="f9147c30572d1e0d5bef7d7a7f224d22" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ Paste a CodePen.io URL into Medium, then hit enter:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/baac0b5917980fb88695bfef7c2b5304?postId=d699761a5883" data-media-id="baac0b5917980fb88695bfef7c2b5304" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/baac0b5917980fb88695bfef7c2b5304?postId=d699761a5883" data-media-id="baac0b5917980fb88695bfef7c2b5304" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ You can also do this with JSFiddle.net:
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/728bdc27a4497057582d0dec61995199?postId=d699761a5883" data-media-id="728bdc27a4497057582d0dec61995199" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/728bdc27a4497057582d0dec61995199?postId=d699761a5883" data-media-id="728bdc27a4497057582d0dec61995199" allowfullscreen="" frameborder="0"></iframe>
 
 
 

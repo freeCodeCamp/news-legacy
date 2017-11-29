@@ -1,7 +1,7 @@
 ---
 author: Kalalau Cantrell
 authorTwitter: https://twitter.com/kalalaucantrell
-authorFacebook: false
+authorFacebook: none
 title: "From Sound Engineer to Software Engineer — Why I’m Learning to Code"
 subTitle: "I seriously started teaching myself to code several months ago. I say “seriously” because I’ve started and stopped a few times in my life..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Lrs5DaeK_QH6IdXy4jLDIQ.jpeg
@@ -104,7 +104,7 @@ I left teaching and have since worked in sales, audiovisual engineering, and IT.
 
 
 
-<iframe width="700" height="250" src="/media/380167ab4a2094d63d086dfc54f1ec7f?postId=2a3ae7fac5cc" data-media-id="380167ab4a2094d63d086dfc54f1ec7f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/380167ab4a2094d63d086dfc54f1ec7f?postId=2a3ae7fac5cc" data-media-id="380167ab4a2094d63d086dfc54f1ec7f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

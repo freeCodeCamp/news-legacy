@@ -1,7 +1,7 @@
 ---
 author: Sanket Meghani
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "ES6 Generators"
 subTitle: "Generators are one of the key features introduced in ES6. Contrary to normal functions which can only be entered at the beginning of the ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*tBXQMulrsKL21K66SVQ5jA.png
@@ -26,7 +26,7 @@ A generator can be defined using a function keyword followed by an asterisk.
 
 
 
-<iframe width="700" height="250" src="/media/0d6745352610b119972b7aafd60c9a55?postId=47a9c5290569" data-media-id="0d6745352610b119972b7aafd60c9a55" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0d6745352610b119972b7aafd60c9a55?postId=47a9c5290569" data-media-id="0d6745352610b119972b7aafd60c9a55" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -69,7 +69,7 @@ We can use yield* to delegate to another generator function.
 
 
 
-<iframe width="700" height="250" src="/media/d76c585d9f65ec3ff469dfa5bf034781?postId=47a9c5290569" data-media-id="d76c585d9f65ec3ff469dfa5bf034781" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F7963375%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d76c585d9f65ec3ff469dfa5bf034781?postId=47a9c5290569" data-media-id="d76c585d9f65ec3ff469dfa5bf034781" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F7963375%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

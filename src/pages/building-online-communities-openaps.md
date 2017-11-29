@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Building Online Communities: OpenAPS"
 subTitle: "Dana Lewis is the founder of OpenAPS (Open Artificial Pancreas System), an open and transparent effort to make artificial pancreas techno..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*K0mzkX-bCbkn_dV7kEmk5w.png

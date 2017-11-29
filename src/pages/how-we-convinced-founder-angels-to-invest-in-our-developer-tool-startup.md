@@ -98,7 +98,7 @@ The reason why BugRex was so important was that it allowed me to connect with [E
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/4d5289370f2caf3ad50cb27fe3190786?postId=f2e3bc59cbcc" data-media-id="4d5289370f2caf3ad50cb27fe3190786" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F804980784557854720%2FegXgGAl__bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/4d5289370f2caf3ad50cb27fe3190786?postId=f2e3bc59cbcc" data-media-id="4d5289370f2caf3ad50cb27fe3190786" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F804980784557854720%2FegXgGAl__bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ This included Emil. He tried it and loved it so much that he tweeted it out to a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/284824e4e5681f8cc6906e6fa82cb5f4?postId=f2e3bc59cbcc" data-media-id="284824e4e5681f8cc6906e6fa82cb5f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F804980784557854720%2FegXgGAl__bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/284824e4e5681f8cc6906e6fa82cb5f4?postId=f2e3bc59cbcc" data-media-id="284824e4e5681f8cc6906e6fa82cb5f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F804980784557854720%2FegXgGAl__bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

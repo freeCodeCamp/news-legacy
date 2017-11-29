@@ -1,7 +1,7 @@
 ---
 author: Barry Jones
 authorTwitter: https://twitter.com/brightball
-authorFacebook: false
+authorFacebook: none
 title: "No such thing as “real programming”"
 subTitle: "I read an article earlier today called The self-hating Web Developer that I found on Hacker News and it bothered me. It resonated with me..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*cnk8ZVIr4IvrElwj2GBGaA.jpeg

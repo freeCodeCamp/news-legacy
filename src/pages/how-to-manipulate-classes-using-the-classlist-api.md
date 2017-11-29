@@ -1,7 +1,7 @@
 ---
 author: Ayo Isaiah
 authorTwitter: https://twitter.com/AyIsaiah
-authorFacebook: false
+authorFacebook: none
 title: "How to manipulate classes without jQuery by using HTML5's classList API"
 subTitle: "As a front end developer, you often need to change CSS rules based on how a user interacts with elements on a page...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*Lk7YWiSeDYGd-ITVUXbBbA.png

@@ -1,6 +1,6 @@
 ---
 author: Aditya Batura
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1173671966044321
 title: "Potatoes, Pirates, and… Programming?"
 subTitle: "You may have never used the words “potatoes”, “programming” and “piracy” in the same sentence. Until about 18 months ago, neither had I. ..."
@@ -90,7 +90,7 @@ I once spent 6 hours fixing a program that had crashed because I had accidentall
 
 
 
-<iframe data-width="640" data-height="483" width="640" height="483" src="/media/d6656b6c02654ace6e0019d3ff402be8?postId=8f2008ca1470" data-media-id="d6656b6c02654ace6e0019d3ff402be8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F21147247_485241305189634_2625774105185484800_n.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="483" width="640" height="483" src="https://medium.freecodecamp.org/media/d6656b6c02654ace6e0019d3ff402be8?postId=8f2008ca1470" data-media-id="d6656b6c02654ace6e0019d3ff402be8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F21147247_485241305189634_2625774105185484800_n.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

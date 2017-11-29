@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "The 50 best free online university courses according to the data"
 subTitle: "I’m back with an updated list of the best free online courses of all time. Class Central published the Top 50 list for the first time in ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*Z-lcdBtSY0pqSO3p.png
@@ -110,7 +110,7 @@ _University of Michigan via Coursera_ This course aims to teach everyone the bas
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/cb240c78882b7e35705866326891eba4?postId=deb6fe34ef30" data-media-id="cb240c78882b7e35705866326891eba4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe0WKJLovaZg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/cb240c78882b7e35705866326891eba4?postId=deb6fe34ef30" data-media-id="cb240c78882b7e35705866326891eba4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe0WKJLovaZg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -158,7 +158,7 @@ _École Polytechnique Fédérale de Lausanne via Coursera_ In this course you wi
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/db07c5541bd42a36679ec447dbd23f2a?postId=deb6fe34ef30" data-media-id="db07c5541bd42a36679ec447dbd23f2a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFsYdgKO4AQU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/db07c5541bd42a36679ec447dbd23f2a?postId=deb6fe34ef30" data-media-id="db07c5541bd42a36679ec447dbd23f2a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFsYdgKO4AQU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -216,7 +216,7 @@ _Santa Fe Institute via Complexity Explorer_ Learn about the tools used by scien
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/468cf364669f998f3489a4838ef9c89b?postId=deb6fe34ef30" data-media-id="468cf364669f998f3489a4838ef9c89b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-7DkCpCMx7I%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/468cf364669f998f3489a4838ef9c89b?postId=deb6fe34ef30" data-media-id="468cf364669f998f3489a4838ef9c89b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-7DkCpCMx7I%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -236,7 +236,7 @@ _Duke University via Coursera_ This online course is designed to include all of 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c952a892ebb43568e689a918917ae117?postId=deb6fe34ef30" data-media-id="c952a892ebb43568e689a918917ae117" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpCBacv-jiiE%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c952a892ebb43568e689a918917ae117?postId=deb6fe34ef30" data-media-id="c952a892ebb43568e689a918917ae117" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpCBacv-jiiE%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -269,7 +269,7 @@ _Georgia Institute of Technology via Coursera_ This course is an introduction to
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/b98836c428928d93965170eda532b46e?postId=deb6fe34ef30" data-media-id="b98836c428928d93965170eda532b46e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fm_3fD9jufXI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/b98836c428928d93965170eda532b46e?postId=deb6fe34ef30" data-media-id="b98836c428928d93965170eda532b46e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fm_3fD9jufXI%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -299,7 +299,7 @@ _Ohio State University via Coursera_ This course is a first and friendly introdu
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/7460ca44a93612b9fb3badbb2af8862c?postId=deb6fe34ef30" data-media-id="7460ca44a93612b9fb3badbb2af8862c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnT5Afh6V6i4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/7460ca44a93612b9fb3badbb2af8862c?postId=deb6fe34ef30" data-media-id="7460ca44a93612b9fb3badbb2af8862c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnT5Afh6V6i4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -341,7 +341,7 @@ _University of Pennsylvania via Coursera_ ModPo is a fast-paced introduction to 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f69cd5f8f9025502b9a5fd46519327f2?postId=deb6fe34ef30" data-media-id="f69cd5f8f9025502b9a5fd46519327f2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLD0sNEVhNZ8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f69cd5f8f9025502b9a5fd46519327f2?postId=deb6fe34ef30" data-media-id="f69cd5f8f9025502b9a5fd46519327f2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLD0sNEVhNZ8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

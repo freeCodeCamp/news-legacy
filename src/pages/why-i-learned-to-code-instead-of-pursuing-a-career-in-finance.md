@@ -1,7 +1,7 @@
 ---
 author: Amir Ghafouri
 authorTwitter: https://twitter.com/amirfghafouri
-authorFacebook: false
+authorFacebook: none
 title: "Why I learned to code instead of pursuing a career in finance"
 subTitle: "Last year I faced a major life and career decision: commit to pursuing a Chartered Financial Analyst designation or spend my time learnin..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*lKcCQEhlpaF9hRwh3VY1vQ.jpeg

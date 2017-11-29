@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "How to download Coursera’s courses before they’re gone forever"
 subTitle: "Coursera is shutting down their old platform on June 30th removing dozens (if not hundredsof courses from the internet on June 30th..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*osmGqKYnZ07IkzwFIWnXzA.jpeg
@@ -48,7 +48,7 @@ This guide will show you how to hurry up and legally download as many courses as
 
 
 
-<iframe data-width="402" data-height="302" width="402" height="302" src="/media/03c7ea0e433b2e92dc7908ffe762f98f?postId=3060bb4e9704" data-media-id="03c7ea0e433b2e92dc7908ffe762f98f" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="402" data-height="302" width="402" height="302" src="https://medium.freecodecamp.org/media/03c7ea0e433b2e92dc7908ffe762f98f?postId=3060bb4e9704" data-media-id="03c7ea0e433b2e92dc7908ffe762f98f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

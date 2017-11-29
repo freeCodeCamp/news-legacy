@@ -1,7 +1,7 @@
 ---
 author: Fatos Morina
 authorTwitter: https://twitter.com/FatosMorina
-authorFacebook: false
+authorFacebook: none
 title: "How to get trending GitHub projects in your Chrome new tab screen with GitHunt"
 subTitle: "GitHub is widely known as one of the most famous version control repositories. In it, you can find almost countless public projects in ma..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vRt4wESDkhVaPC8qs0ljQg.png

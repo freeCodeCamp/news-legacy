@@ -401,7 +401,7 @@ _angular-firebase-authentication - An angular demoing Firebase Authentication pr
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/25df6b2c7e6b7335c3ce71f0dc9cfacd?postId=246c282d9ef8" data-media-id="25df6b2c7e6b7335c3ce71f0dc9cfacd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/25df6b2c7e6b7335c3ce71f0dc9cfacd?postId=246c282d9ef8" data-media-id="25df6b2c7e6b7335c3ce71f0dc9cfacd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

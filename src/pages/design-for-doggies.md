@@ -1,7 +1,7 @@
 ---
 author: Patryk Adaś
 authorTwitter: https://twitter.com/patrykadas
-authorFacebook: false
+authorFacebook: none
 title: "Design for doggies"
 subTitle: "Education should be universal and free for everyone...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*6Eq6hZnRmWfUZNulwtZvoA.png

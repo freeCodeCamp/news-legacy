@@ -36,7 +36,7 @@ Here are the sections of a super short book, in array form.
 
 
 
-<iframe width="700" height="250" src="/media/f1d4b685a093c79dd671b92e7d24939e?postId=6e1cbd8a1746" data-media-id="f1d4b685a093c79dd671b92e7d24939e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f1d4b685a093c79dd671b92e7d24939e?postId=6e1cbd8a1746" data-media-id="f1d4b685a093c79dd671b92e7d24939e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -84,7 +84,7 @@ Here is what a newspaper might look like, in object form.
 
 
 
-<iframe width="700" height="250" src="/media/4ce76c77bb42b687e97858f81e4da799?postId=6e1cbd8a1746" data-media-id="4ce76c77bb42b687e97858f81e4da799" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4ce76c77bb42b687e97858f81e4da799?postId=6e1cbd8a1746" data-media-id="4ce76c77bb42b687e97858f81e4da799" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ Let’s look at the book example again. What if we wanted to also store the numb
 
 
 
-<iframe width="700" height="250" src="/media/cf69c5780e567f4750009163424e9de3?postId=6e1cbd8a1746" data-media-id="cf69c5780e567f4750009163424e9de3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cf69c5780e567f4750009163424e9de3?postId=6e1cbd8a1746" data-media-id="cf69c5780e567f4750009163424e9de3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -162,7 +162,7 @@ Now let’s say you wanted to see a ranking of the top writers for each section 
 
 
 
-<iframe width="700" height="250" src="/media/453322e031c2dd18938c4cb24c43b0c5?postId=6e1cbd8a1746" data-media-id="453322e031c2dd18938c4cb24c43b0c5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/453322e031c2dd18938c4cb24c43b0c5?postId=6e1cbd8a1746" data-media-id="453322e031c2dd18938c4cb24c43b0c5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -176,7 +176,7 @@ You could probably optimize this object by just creating objects within the news
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/62b3f6269a0b688631d19edfc8bb3c76?postId=6e1cbd8a1746" data-media-id="62b3f6269a0b688631d19edfc8bb3c76" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/62b3f6269a0b688631d19edfc8bb3c76?postId=6e1cbd8a1746" data-media-id="62b3f6269a0b688631d19edfc8bb3c76" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

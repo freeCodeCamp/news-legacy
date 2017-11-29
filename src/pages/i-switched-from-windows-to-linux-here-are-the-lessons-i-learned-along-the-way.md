@@ -151,7 +151,7 @@ Linux is not for everyone. Check to see if it fits your needs before you decide 
 
 
 
-<iframe data-width="800" data-height="480" width="700" height="420" src="/media/4b8ba876af144d8b10a1e4e5fe9c64da?postId=434da84ab63f" data-media-id="4b8ba876af144d8b10a1e4e5fe9c64da" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="480" width="700" height="420" src="https://medium.freecodecamp.org/media/4b8ba876af144d8b10a1e4e5fe9c64da?postId=434da84ab63f" data-media-id="4b8ba876af144d8b10a1e4e5fe9c64da" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/how-to-use-tiny-programmable-robots-to-intr
 id: how-to-use-tiny-programmable-robots-to-introduce-kids-to-coding-47dbd7866ee7
 date: 2017-10-23T02:49:05.016Z
 tags: [
-  "Self Improvement",
-  "Tech",
-  "Startup",
-  "Life Lessons",
-  "Education"
+	"Self Improvement",
+	"Tech",
+	"Startup",
+	"Life Lessons",
+	"Education"
 ]
 ---
 # How to use tiny programmable robots to introduce kids to coding
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kGaNI_-s29W0tRpuXONMZQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*kGaNI_-s29W0tRpuXONMZQ.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*kGaNI_-s29W0tRpuXONMZQ.jpeg"&gt;</noscript>
 
 
 
@@ -80,11 +77,8 @@ We had been giving [Scratch](https://scratch.mit.edu) and [Makey-Makey](http://w
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KzSnqWrTeJrq6otN4JfWPQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*KzSnqWrTeJrq6otN4JfWPQ.jpeg"&gt;</noscript>
 
 
 
@@ -110,11 +104,8 @@ There were many times when I thought I couldn’t have come up with their soluti
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VhMjYhZ3dNAwDoyVz2J-UQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*VhMjYhZ3dNAwDoyVz2J-UQ.jpeg"&gt;</noscript>
 
 
 
@@ -154,11 +145,8 @@ The kids could then later observe the logic behind these “magic” spells and 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*F-Sfw3DJpEGWPnBiIduVuA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="61"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*F-Sfw3DJpEGWPnBiIduVuA.jpeg"&gt;</noscript>
 
 
 
@@ -178,11 +166,8 @@ That was the moment [Robotopia](http://robotopia.co/) (at that time it was calle
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VJXBZB4M9i_Zj5BLXYhB0w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*VJXBZB4M9i_Zj5BLXYhB0w.jpeg"&gt;</noscript>
 
 
 
@@ -212,11 +197,8 @@ It was the perfect choice for our project. It was easy to integrate, modular, an
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*eZBiG3kdKhuuKOfi8ISgCA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*eZBiG3kdKhuuKOfi8ISgCA.png"&gt;</noscript>
 
 
 
@@ -251,11 +233,8 @@ The Hackathon weekend, where we spent over 20 hours coding, proved to be valuabl
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YnsSQmrAeoB4ROiNqxhrsQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*YnsSQmrAeoB4ROiNqxhrsQ.png"&gt;</noscript>
 
 
 
@@ -279,11 +258,8 @@ The final version had a nice overview, where people can visit previous levels, t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9OiVbtvOC9uZBgDGX8N-vw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*9OiVbtvOC9uZBgDGX8N-vw.png"&gt;</noscript>
 
 
 
@@ -307,11 +283,8 @@ After selecting a level, you will receive information about the goals for the le
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*42UIG_YOTiVKkevVPCmAXg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*42UIG_YOTiVKkevVPCmAXg.png"&gt;</noscript>
 
 
 
@@ -331,11 +304,8 @@ Once users pass a level, they receive a summary of the goals they have achieved,
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kbtDlqmG1DQQEANeOazy2Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="51"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*kbtDlqmG1DQQEANeOazy2Q.png"&gt;</noscript>
 
 
 
@@ -358,11 +328,8 @@ Users enter their display name and the room they want to join (rooms are the com
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*a5h6wi1PqgzpJWS1Cl0LKQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*a5h6wi1PqgzpJWS1Cl0LKQ.png"&gt;</noscript>
 
 
 
@@ -382,11 +349,8 @@ The [presenter view](http://robotopia.co/#presenter) is shown with a projector t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ai5Q8UjPwyU2-HIP4ykicQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Ai5Q8UjPwyU2-HIP4ykicQ.png"&gt;</noscript>
 
 
 
@@ -410,11 +374,8 @@ After our presentation, we received a lot of positive feedback. This boosted our
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bvwbgzGTd7v5ujGPYpLmZA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*bvwbgzGTd7v5ujGPYpLmZA.jpeg"&gt;</noscript>
 
 
 
@@ -440,11 +401,9 @@ Here’s a really short impression of the event:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9aIa5Etqv5E%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<iframe data-width="854" data-height="480" width="980" height="551" data-src="/media/c7ae5f40a650d90d5bf6557330b64adf?postId=47dbd7866ee7" data-media-id="c7ae5f40a650d90d5bf6557330b64adf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9aIa5Etqv5E%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="980" height="551" data-src="https://medium.freecodecamp.org/media/c7ae5f40a650d90d5bf6557330b64adf?postId=47dbd7866ee7" data-media-id="c7ae5f40a650d90d5bf6557330b64adf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9aIa5Etqv5E%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="854" data-height="480" width="980" height="551" src="/media/c7ae5f40a650d90d5bf6557330b64adf?postId=47dbd7866ee7" data-media-id="c7ae5f40a650d90d5bf6557330b64adf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9aIa5Etqv5E%2Fhqdefault.jpg&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -520,11 +479,8 @@ Here are some features of Blockly:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Quc8cROYUf-kkRogicMucg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Quc8cROYUf-kkRogicMucg.png"&gt;</noscript>
 
 
 
@@ -561,11 +517,8 @@ Here are some features of P2P:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*I-6kCsVhSchBzQPQ8prFWg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*I-6kCsVhSchBzQPQ8prFWg.jpeg"&gt;</noscript>
 
 
 
@@ -587,11 +540,8 @@ If you want to take it to the next level, you can build a fully decentralized, o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4Jua9sz3h5xwVfbu-xwXCw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*4Jua9sz3h5xwVfbu-xwXCw.png"&gt;</noscript>
 
 
 
@@ -644,11 +594,9 @@ The kind of “Hello World” for function programming languages is a “Counter
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F16529337%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/c7e748ca865b9c0f990d9acaea7d3ea7?postId=47dbd7866ee7" data-media-id="c7e748ca865b9c0f990d9acaea7d3ea7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F16529337%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/c7e748ca865b9c0f990d9acaea7d3ea7?postId=47dbd7866ee7" data-media-id="c7e748ca865b9c0f990d9acaea7d3ea7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F16529337%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/c7e748ca865b9c0f990d9acaea7d3ea7?postId=47dbd7866ee7" data-media-id="c7e748ca865b9c0f990d9acaea7d3ea7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F16529337%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -704,11 +652,8 @@ To look at the actual demo, click [here.](http://esper.chessgears.com)
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*zmfgpYLCAE3jwUn-Ae5NIw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*zmfgpYLCAE3jwUn-Ae5NIw.png"&gt;</noscript>
 
 
 
@@ -755,11 +700,8 @@ Here are features of the robot engine:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*W-oQ4VU5Rfdss8iZljifIA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="67"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*W-oQ4VU5Rfdss8iZljifIA.png"&gt;</noscript>
 
 
 
@@ -813,11 +755,8 @@ We love working with children. If you try it, we’re sure you won’t regret it
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AZfK04kDjs6dG_WMFBnCVw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="45"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*AZfK04kDjs6dG_WMFBnCVw.jpeg"&gt;</noscript>
 
 
 

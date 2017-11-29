@@ -1,7 +1,7 @@
 ---
 author: Sanchit Gera
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "An Introduction to Microservices"
 subTitle: "Network architectures based on the micro service pattern have gained quite some popularity in recent years. Micro services have emerged a..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*-_7x5pNS-GeHsa_wsI_snA.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Vaghawan Ojha
 authorTwitter: https://twitter.com/vaghawan
-authorFacebook: false
+authorFacebook: none
 title: "How to build a recommendation engine using Apache’s Prediction IO Machine Learning Server"
 subTitle: "This post will guide you through installing Apache Prediction IO machine learning server. We’ll use one of its templates called Recommend..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*eqxzM8a_IhzgrncLxCkGwA.png

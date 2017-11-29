@@ -1,7 +1,7 @@
 ---
 author: Mariya Yao
 authorTwitter: https://twitter.com/thinkmariya
-authorFacebook: false
+authorFacebook: none
 title: "Chihuahua or muffin? My search for the best computer vision API"
 subTitle: "This popular internet meme demonstrates the alarming resemblance shared between chihuahuas and muffins. These images are commonly shared ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*bt-E2YcPafjiPbZFDMMmNQ.jpeg

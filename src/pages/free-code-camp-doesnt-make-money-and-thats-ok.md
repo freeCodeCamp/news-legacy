@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Free Code Camp Doesn’t Make Money, and That’s OK"
 subTitle: "When people hear that Free Code Camp is completely free, their reflexive question is: “then how does Free Code Camp make money?” If you’v..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*0X7EnnNI0sfAlCDO.jpg

@@ -1,7 +1,7 @@
 ---
 author: Romain Thalineau
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Monitoring the French Presidential Election on Twitter with Python"
 subTitle: "A while ago I read this nice article from Laurent Luce where he explained how he implemented a system that collected the tweets related t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Gm6Q_bRGS6yJWRuESpPx5w.png
@@ -105,7 +105,7 @@ When interacting with a graph database, Object Graph Mapper (OGM) are particular
 
 
 
-<iframe width="700" height="250" src="/media/7906b7c0e733a716edaa283e2b09c137?postId=6a2a9310e6f4" data-media-id="7906b7c0e733a716edaa283e2b09c137" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9165318%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7906b7c0e733a716edaa283e2b09c137?postId=6a2a9310e6f4" data-media-id="7906b7c0e733a716edaa283e2b09c137" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9165318%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -24,7 +24,7 @@ After years of dealing with REST APIs, when I first learned about GraphQL and th
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/a826767102a9f91047a5f8e2d4df5b64?postId=d412e559d8e4" data-media-id="a826767102a9f91047a5f8e2d4df5b64" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2489584954%2Fsyaw8utdaudzc4b00zci_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/a826767102a9f91047a5f8e2d4df5b64?postId=d412e559d8e4" data-media-id="a826767102a9f91047a5f8e2d4df5b64" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2489584954%2Fsyaw8utdaudzc4b00zci_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

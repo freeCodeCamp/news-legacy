@@ -1,7 +1,7 @@
 ---
 author: Jonathan Solórzano-Hamilton
 authorTwitter: https://twitter.com/jhsolor
-authorFacebook: false
+authorFacebook: none
 title: "How to run a successful development process (even if you’re not technical)"
 subTitle: "Laurence Peter formulated the principle that “managers rise to the level of their incompetence” in 1969. In particular, non-technical lea..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*SbbrnjE8bpHcyPXXx-9iKw.png

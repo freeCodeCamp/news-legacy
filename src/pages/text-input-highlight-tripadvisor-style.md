@@ -40,7 +40,7 @@ Here is the finished CodePen:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/4f01ebba9faf28a96ceed780fa46d160?postId=2a44477de1b2" data-media-id="4f01ebba9faf28a96ceed780fa46d160" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F1397317.JyXvzB.small.a50c43f5-4236-4039-aecf-ab7553920e22.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/4f01ebba9faf28a96ceed780fa46d160?postId=2a44477de1b2" data-media-id="4f01ebba9faf28a96ceed780fa46d160" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F1397317.JyXvzB.small.a50c43f5-4236-4039-aecf-ab7553920e22.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

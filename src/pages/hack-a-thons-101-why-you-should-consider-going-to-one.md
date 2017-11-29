@@ -1,7 +1,7 @@
 ---
 author: Gwendolyn Faraday
 authorTwitter: https://twitter.com/gwen_faraday
-authorFacebook: false
+authorFacebook: none
 title: "Hackathons 101 — and why you should consider going to one"
 subTitle: "I just returned home from my 6th hackathon in less than a year. It was a long, tiring, and amazing 24 hours — and totally worth it!..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*DMsqJQ8gXjjoUOuegZb1pg.jpeg

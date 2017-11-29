@@ -24,7 +24,7 @@ You can think of Scalable Vector Graphics (SVG’s) as responsive graphics. SVG 
 
 
 
-<iframe width="700" height="250" src="/media/925a2e1be96b36ba5e4a465f95f64a3f?postId=c5932dadca03" data-media-id="925a2e1be96b36ba5e4a465f95f64a3f" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/925a2e1be96b36ba5e4a465f95f64a3f?postId=c5932dadca03" data-media-id="925a2e1be96b36ba5e4a465f95f64a3f" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -123,7 +123,7 @@ For this example I’ll use a simple online [editor](http://editor.method.ac/) w
 
 
 
-<iframe width="700" height="250" src="/media/49f10eda212fc04ebf5fe67b5f41862d?postId=c5932dadca03" data-media-id="49f10eda212fc04ebf5fe67b5f41862d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/49f10eda212fc04ebf5fe67b5f41862d?postId=c5932dadca03" data-media-id="49f10eda212fc04ebf5fe67b5f41862d" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -135,7 +135,7 @@ For this example I’ll use a simple online [editor](http://editor.method.ac/) w
 
 
 
-<iframe width="700" height="250" src="/media/d6e1c223cf8ddd0747a686fabf2b6224?postId=c5932dadca03" data-media-id="d6e1c223cf8ddd0747a686fabf2b6224" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d6e1c223cf8ddd0747a686fabf2b6224?postId=c5932dadca03" data-media-id="d6e1c223cf8ddd0747a686fabf2b6224" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -149,7 +149,7 @@ SVGs can be animated by adding an id or a class to the SVG path in the code and 
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/121404870d55b848906bd7bf1ed5a3b1?postId=c5932dadca03" data-media-id="121404870d55b848906bd7bf1ed5a3b1" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/121404870d55b848906bd7bf1ed5a3b1?postId=c5932dadca03" data-media-id="121404870d55b848906bd7bf1ed5a3b1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -165,7 +165,7 @@ Notice that each path has a unique id. That is because the delay in the animatio
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/deeac69a24f68b469a0deefd7cee8cac?postId=c5932dadca03" data-media-id="deeac69a24f68b469a0deefd7cee8cac" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/deeac69a24f68b469a0deefd7cee8cac?postId=c5932dadca03" data-media-id="deeac69a24f68b469a0deefd7cee8cac" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -185,7 +185,7 @@ Here’s an example of animating an SVG using the HTML5 animate tag:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/75d8b4dd6252fc3deba74cbec2c8af40?postId=c5932dadca03" data-media-id="75d8b4dd6252fc3deba74cbec2c8af40" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/75d8b4dd6252fc3deba74cbec2c8af40?postId=c5932dadca03" data-media-id="75d8b4dd6252fc3deba74cbec2c8af40" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -203,7 +203,7 @@ In the following example, I have used the Vivus.js library along with jQuery to 
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/294f7e742977404d4620aec4f901044a?postId=c5932dadca03" data-media-id="294f7e742977404d4620aec4f901044a" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/294f7e742977404d4620aec4f901044a?postId=c5932dadca03" data-media-id="294f7e742977404d4620aec4f901044a" allowfullscreen="" frameborder="0"></iframe>
 
 
 

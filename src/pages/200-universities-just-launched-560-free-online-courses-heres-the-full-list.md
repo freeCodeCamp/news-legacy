@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "200 universities just launched 560 free online courses. Here’s the full list."
 subTitle: "If you haven’t heard, universities around the world offering their courses online for free (or at-least partially free). These courses ar..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*dq0fAS8ICjaAFgH2EYElAA.jpeg

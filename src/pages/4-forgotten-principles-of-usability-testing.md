@@ -1,7 +1,7 @@
 ---
 author: David Travis
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "4 forgotten principles of usability testing"
 subTitle: "Over the years, I’ve sat through dozens of usability tests run by design agencies. Clients have asked me to oversee the tests to make sur..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*AyAVlK5LNFnMlZQxAHmyaQ.jpeg

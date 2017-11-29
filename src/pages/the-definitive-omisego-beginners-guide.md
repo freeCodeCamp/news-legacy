@@ -428,7 +428,7 @@ Omise is a strongly Thailand implanted company, and quite naturally many things 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/498e402cec00243f520531ff06158eac?postId=f95dcdf8635c" data-media-id="498e402cec00243f520531ff06158eac" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDHR19dMUAAEM_Y4.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/498e402cec00243f520531ff06158eac?postId=f95dcdf8635c" data-media-id="498e402cec00243f520531ff06158eac" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDHR19dMUAAEM_Y4.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -440,7 +440,7 @@ And, on a more concrete level, the Thai Ministry of Finance successfully launche
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/7bceb69cf315ff10f42dfe3cc7b84e53?postId=f95dcdf8635c" data-media-id="7bceb69cf315ff10f42dfe3cc7b84e53" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDHgZ9ZSUwAEPSCd.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/7bceb69cf315ff10f42dfe3cc7b84e53?postId=f95dcdf8635c" data-media-id="7bceb69cf315ff10f42dfe3cc7b84e53" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDHgZ9ZSUwAEPSCd.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -452,7 +452,7 @@ And, on a more concrete level, the Thai Ministry of Finance successfully launche
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/1984090421e9eff68d58575cf11bebd9?postId=f95dcdf8635c" data-media-id="1984090421e9eff68d58575cf11bebd9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F752500236040318976%2FekbXPi5f_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/1984090421e9eff68d58575cf11bebd9?postId=f95dcdf8635c" data-media-id="1984090421e9eff68d58575cf11bebd9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F752500236040318976%2FekbXPi5f_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -508,7 +508,7 @@ OmiseGO’s Crowdsale document reads: “By integrating with OmiseGO, the TrueMo
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/3cbc927012b5b8a0e66c2b4ad80cdf7c?postId=f95dcdf8635c" data-media-id="3cbc927012b5b8a0e66c2b4ad80cdf7c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F752500236040318976%2FekbXPi5f_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/3cbc927012b5b8a0e66c2b4ad80cdf7c?postId=f95dcdf8635c" data-media-id="3cbc927012b5b8a0e66c2b4ad80cdf7c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F752500236040318976%2FekbXPi5f_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -540,7 +540,7 @@ OmiseGO has announced a formal relationship with Mac Donald’s Thailand. No fur
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/c809943c9f35272280fabbfb0e0e21f8?postId=f95dcdf8635c" data-media-id="c809943c9f35272280fabbfb0e0e21f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDIeME3mUEAAM150.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/c809943c9f35272280fabbfb0e0e21f8?postId=f95dcdf8635c" data-media-id="c809943c9f35272280fabbfb0e0e21f8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDIeME3mUEAAM150.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -554,7 +554,7 @@ OmiseGO is collaborating with Toppan Printing to start offering a new type of ad
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/17f4ebc27aa3d22319487fbf9a4a34e9?postId=f95dcdf8635c" data-media-id="17f4ebc27aa3d22319487fbf9a4a34e9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F752500236040318976%2FekbXPi5f_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/17f4ebc27aa3d22319487fbf9a4a34e9?postId=f95dcdf8635c" data-media-id="17f4ebc27aa3d22319487fbf9a4a34e9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F752500236040318976%2FekbXPi5f_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -596,7 +596,7 @@ As explained all above, OmiseGO is not a single application or service but a who
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/12542395a474268650463fd3b0696f6b?postId=f95dcdf8635c" data-media-id="12542395a474268650463fd3b0696f6b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDNUjalhVQAAtp4Q.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/12542395a474268650463fd3b0696f6b?postId=f95dcdf8635c" data-media-id="12542395a474268650463fd3b0696f6b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDNUjalhVQAAtp4Q.jpg%3Alarge&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

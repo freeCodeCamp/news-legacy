@@ -1,7 +1,7 @@
 ---
 author: Amber Thomas
 authorTwitter: https://twitter.com/ProQuesAsker
-authorFacebook: false
+authorFacebook: none
 title: "Women only said 27% of the words in 2016’s biggest movies."
 subTitle: "Movie trailers in 2016 promised viewers so many strong female characters. Jyn Erso. Dory. Harley Quinn. Judy Hopps. Wonder Woman. I felt ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*92SrZzQkJAqwJoHu1xPneQ.jpeg
@@ -91,7 +91,7 @@ Once I had all of the transcripts, I just needed to read the .txt files into [R
 
 
 
-<iframe width="700" height="250" src="/media/f0b0abf710a22cdf2836cff8e396278a?postId=955cb480c3c4" data-media-id="f0b0abf710a22cdf2836cff8e396278a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f0b0abf710a22cdf2836cff8e396278a?postId=955cb480c3c4" data-media-id="f0b0abf710a22cdf2836cff8e396278a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ So now I just needed to count the number of words spoken by each character. Agai
 
 
 
-<iframe width="700" height="250" src="/media/dd6fe3efd2f63f9b45b863d5ff8d344e?postId=955cb480c3c4" data-media-id="dd6fe3efd2f63f9b45b863d5ff8d344e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dd6fe3efd2f63f9b45b863d5ff8d344e?postId=955cb480c3c4" data-media-id="dd6fe3efd2f63f9b45b863d5ff8d344e" allowfullscreen="" frameborder="0"></iframe>
 
 
 

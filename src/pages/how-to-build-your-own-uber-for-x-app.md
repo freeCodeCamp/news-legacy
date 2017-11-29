@@ -252,7 +252,7 @@ Let’s see how this looks like when you write your code:
 
 
 
-<iframe width="700" height="250" src="/media/7aac330a275677ef4171cccf4ad7a46e?postId=33237955e253" data-media-id="7aac330a275677ef4171cccf4ad7a46e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8454658%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7aac330a275677ef4171cccf4ad7a46e?postId=33237955e253" data-media-id="7aac330a275677ef4171cccf4ad7a46e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8454658%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

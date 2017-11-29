@@ -1,7 +1,7 @@
 ---
 author: Felipe Hoffa
 authorTwitter: https://twitter.com/felipehoffa
-authorFacebook: false
+authorFacebook: none
 title: "Visualizing reddit’s activity and uptime over the past 8 years"
 subTitle: "How hard would it be to visualize reddit’s uptime from 2008 to 2016? Let’s do it here, while going through most of its history...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*MMexVh-UJB1Pj16uTmFA9g.png
@@ -235,7 +235,7 @@ Get the full picture at [http://imgur.com/a/qejIw](http://imgur.com/a/qejIw).
 
 
 
-<iframe data-width="550" data-height="550" width="550" height="550" src="/media/1b563bf9e9543dbf22ea8ae7ea453c57?postId=b3d7b11046e0" data-media-id="1b563bf9e9543dbf22ea8ae7ea453c57" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="550" data-height="550" width="550" height="550" src="https://medium.freecodecamp.org/media/1b563bf9e9543dbf22ea8ae7ea453c57?postId=b3d7b11046e0" data-media-id="1b563bf9e9543dbf22ea8ae7ea453c57" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -304,7 +304,7 @@ _After having a lot of fun with reddit’s data on BigQuery(collected by @jasonb
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f10a870a54f6b381b6cfb822bc800b0c?postId=b3d7b11046e0" data-media-id="f10a870a54f6b381b6cfb822bc800b0c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f10a870a54f6b381b6cfb822bc800b0c?postId=b3d7b11046e0" data-media-id="f10a870a54f6b381b6cfb822bc800b0c" allowfullscreen="" frameborder="0"></iframe>
 
 
 

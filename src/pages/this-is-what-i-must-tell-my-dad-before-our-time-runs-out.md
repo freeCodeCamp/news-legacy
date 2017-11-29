@@ -1,7 +1,7 @@
 ---
 author: Bram Bos
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "This is what I must tell my dad — before our time runs out"
 subTitle: "I was a young boy in the 1980s. Like the typical Generation-X kid, I grew up in the days of the home computer: the Commodore 64, the ZX S..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*AHsDrm_ft-hBxogEW1yPNw.jpeg

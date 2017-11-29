@@ -72,7 +72,7 @@ In this article, I’m going to explain two approaches, first with built-in func
 
 
 
-<iframe width="700" height="250" src="/media/92010722a099d01f115c910a86d7d0fa?postId=64fea8191fd7" data-media-id="92010722a099d01f115c910a86d7d0fa" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/92010722a099d01f115c910a86d7d0fa?postId=64fea8191fd7" data-media-id="92010722a099d01f115c910a86d7d0fa" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -180,7 +180,7 @@ For this solution, we will use several methods:
 
 
 
-<iframe width="700" height="250" src="/media/35e9a76020ef7148ba7860c499062ae5?postId=64fea8191fd7" data-media-id="35e9a76020ef7148ba7860c499062ae5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/35e9a76020ef7148ba7860c499062ae5?postId=64fea8191fd7" data-media-id="35e9a76020ef7148ba7860c499062ae5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -192,7 +192,7 @@ For this solution, we will use several methods:
 
 
 
-<iframe width="700" height="250" src="/media/1c341b0f9d46fb97fb500944ff611b7e?postId=64fea8191fd7" data-media-id="1c341b0f9d46fb97fb500944ff611b7e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1c341b0f9d46fb97fb500944ff611b7e?postId=64fea8191fd7" data-media-id="1c341b0f9d46fb97fb500944ff611b7e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -224,7 +224,7 @@ Half-indexing (len/2) has benefits when processing large strings. We check the e
 
 
 
-<iframe width="700" height="250" src="/media/4ee99dbaaa358bcf42e2b8c1a96f6265?postId=64fea8191fd7" data-media-id="4ee99dbaaa358bcf42e2b8c1a96f6265" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4ee99dbaaa358bcf42e2b8c1a96f6265?postId=64fea8191fd7" data-media-id="4ee99dbaaa358bcf42e2b8c1a96f6265" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -236,7 +236,7 @@ Half-indexing (len/2) has benefits when processing large strings. We check the e
 
 
 
-<iframe width="700" height="250" src="/media/6bfefde65da4f872fcf1d3763728de6b?postId=64fea8191fd7" data-media-id="6bfefde65da4f872fcf1d3763728de6b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6bfefde65da4f872fcf1d3763728de6b?postId=64fea8191fd7" data-media-id="6bfefde65da4f872fcf1d3763728de6b" allowfullscreen="" frameborder="0"></iframe>
 
 
 

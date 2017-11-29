@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Everyone at Free Code Camp now has a Portfolio"
 subTitle: "Note: we originally published this on our now-defunct blog in January of 2015...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*LUMvz8MnN0Iz0t-d.jpg

@@ -1,7 +1,7 @@
 ---
 author: Radu Raicea
 authorTwitter: https://twitter.com/radu_raicea
-authorFacebook: false
+authorFacebook: none
 title: "How open source licenses work and how to add them to your projects"
 subTitle: "Recently, there was some exciting news for developers around the world. Facebook changed the license of multiple libraries they develop. ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*FFYtzf28XKPFBdknfXf-jg.jpeg
@@ -40,7 +40,7 @@ Recently, there was some exciting news for developers around the world. Facebook
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/4bced36118b0ff8efe3b3c6f1afa39ad?postId=34310c3cf94" data-media-id="4bced36118b0ff8efe3b3c6f1afa39ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F446356636710363136%2FOYIaJ1KK_400x400.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/4bced36118b0ff8efe3b3c6f1afa39ad?postId=34310c3cf94" data-media-id="4bced36118b0ff8efe3b3c6f1afa39ad" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F446356636710363136%2FOYIaJ1KK_400x400.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

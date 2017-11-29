@@ -1,7 +1,7 @@
 ---
 author: Felipe Hoffa
 authorTwitter: https://twitter.com/felipehoffa
-authorFacebook: false
+authorFacebook: none
 title: "Counting uniques faster in BigQuery with HyperLogLog++"
 subTitle: "As a data exploration task, counting unique users is usually slow and resource intensive. This is because your database needs to keep tra..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*O9YyYvp_YIUgniaG.png

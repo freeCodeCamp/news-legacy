@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels on: Scala"
 subTitle: "Scala is an object-oriented functional language that has gained wide acceptance in developer communities for many of its merits. These in..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*szjsvmPGvyqmzZSzPYIXfw.png

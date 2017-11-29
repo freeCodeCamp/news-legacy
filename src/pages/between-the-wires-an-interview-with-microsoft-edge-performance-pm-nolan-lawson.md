@@ -1,7 +1,7 @@
 ---
 author: Vivian Cromwell
 authorTwitter: https://twitter.com/viviancromwell
-authorFacebook: false
+authorFacebook: none
 title: "Between the Wires: An interview with Microsoft Edge performance PM Nolan Lawson"
 subTitle: "I interviewed Nolan Lawson, Web Performance PM at Microsoft Edge. He also maintains the popular open source library PouchDB together with..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*ozpkWNHda_nU62_3VGakQA.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/between-the-wires-an-interview-with-microso
 id: between-the-wires-an-interview-with-microsoft-edge-performance-pm-nolan-lawson-ca3240dec2eb
 date: 2017-06-20T13:01:37.566Z
 tags: [
-  "Open Source",
-  "Web Development",
-  "Technology",
-  "Microsoft",
-  "Tech"
+	"Open Source",
+	"Web Development",
+	"Technology",
+	"Microsoft",
+	"Tech"
 ]
 ---
 # Between the Wires: An interview with Microsoft Edge performance PM Nolan Lawson
@@ -22,13 +22,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ozpkWNHda_nU62_3VGakQA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="70" height="75"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*ozpkWNHda_nU62_3VGakQA.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ozpkWNHda_nU62_3VGakQA.png"&gt;</noscript>
 
 
 
@@ -50,11 +47,8 @@ I have a great appreciation for the outdoors thanks to an early experience in th
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YoEiL43xZiShoVaJCclg-w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*YoEiL43xZiShoVaJCclg-w.png"&gt;</noscript>
 
 
 
@@ -74,11 +68,8 @@ When I was six or seven, my uncle gave me a hand-me-down MS-DOS machine with a 5
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*1VZqyAg_y3tMz-7geNB91A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*1VZqyAg_y3tMz-7geNB91A.png"&gt;</noscript>
 
 
 
@@ -92,11 +83,8 @@ When I was six or seven, my uncle gave me a hand-me-down MS-DOS machine with a 5
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sLdr1wkK7MZDA7EtHpKHHw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sLdr1wkK7MZDA7EtHpKHHw.png"&gt;</noscript>
 
 
 
@@ -126,11 +114,8 @@ Around 2012, I was working for an NGO in Geneva. We were building a web app for 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Cj0cw5r3Zq1qtF6k-XyWeQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="26"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Cj0cw5r3Zq1qtF6k-XyWeQ.png"&gt;</noscript>
 
 
 
@@ -148,11 +133,8 @@ The story of how PouchDB got started is pretty interesting. Back in 2010, [Mikea
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*sQU5YCeu2D-KPzkFh2lAkg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="62"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*sQU5YCeu2D-KPzkFh2lAkg.png"&gt;</noscript>
 
 
 
@@ -180,11 +162,8 @@ Today, PouchDB has grown to [over 200 contributors](https://github.com/pouchdb/p
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*L5UT-7DP1MRG7KT5XFr2Kw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*L5UT-7DP1MRG7KT5XFr2Kw.png"&gt;</noscript>
 
 
 
@@ -216,11 +195,8 @@ In the beginning, even just talking to Dale Harvey on IRC was intimidating. He w
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gazE00oeUqwbzeCFrHlLtw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="38"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*gazE00oeUqwbzeCFrHlLtw.png"&gt;</noscript>
 
 
 
@@ -248,11 +224,8 @@ User experience is another big problem that hasn’t really been solved yet in o
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gXSlEgEIWxcraQeW8oBDRA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*gXSlEgEIWxcraQeW8oBDRA.png"&gt;</noscript>
 
 
 
@@ -282,11 +255,8 @@ I’m on the performance team, so most of my job centers around identifying perf
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*PcwG1Yp3WtNcQrJ0MK6AHA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*PcwG1Yp3WtNcQrJ0MK6AHA.png"&gt;</noscript>
 
 
 
@@ -340,11 +310,8 @@ If you look at SQLite source code, you’ll also find my favorite open source li
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*C0YiAa1WwUJhf5nxGBqOvQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*C0YiAa1WwUJhf5nxGBqOvQ.png"&gt;</noscript>
 
 
 

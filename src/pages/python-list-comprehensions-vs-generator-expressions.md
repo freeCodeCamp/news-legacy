@@ -1,7 +1,7 @@
 ---
 author: Roman Gaponov
 authorTwitter: https://twitter.com/djangostars
-authorFacebook: false
+authorFacebook: none
 title: "Python List Comprehensions VS Generator Expressions"
 subTitle: "Do you know the difference between the following syntax?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*jAHtog6Bg1U7J78fRgMrHg.png
@@ -156,7 +156,7 @@ There are always different ways to solve the same task. Take it as one more tool
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/892180a4a6e17efcebba6b88430bb493?postId=cef70ccb49db" data-media-id="892180a4a6e17efcebba6b88430bb493" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/892180a4a6e17efcebba6b88430bb493?postId=cef70ccb49db" data-media-id="892180a4a6e17efcebba6b88430bb493" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

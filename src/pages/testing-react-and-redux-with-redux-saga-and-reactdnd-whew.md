@@ -79,7 +79,7 @@ Here is the list of imports we’ll need:
 
 
 
-<iframe width="700" height="250" src="/media/29fc894cb0fc05d6ddbe270f5021b2d2?postId=dedebcbd78dd" data-media-id="29fc894cb0fc05d6ddbe270f5021b2d2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/29fc894cb0fc05d6ddbe270f5021b2d2?postId=dedebcbd78dd" data-media-id="29fc894cb0fc05d6ddbe270f5021b2d2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -111,7 +111,7 @@ So, we begin with a simple renderComponent function which we will use to render 
 
 
 
-<iframe width="700" height="250" src="/media/b703dd79856446523ab8e742ed0ffb2b?postId=dedebcbd78dd" data-media-id="b703dd79856446523ab8e742ed0ffb2b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b703dd79856446523ab8e742ed0ffb2b?postId=dedebcbd78dd" data-media-id="b703dd79856446523ab8e742ed0ffb2b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -125,7 +125,7 @@ Next, we need to wire up Redux so we can handle state:
 
 
 
-<iframe width="700" height="250" src="/media/6654875fccf5e3116c7e6056809df7eb?postId=dedebcbd78dd" data-media-id="6654875fccf5e3116c7e6056809df7eb" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6654875fccf5e3116c7e6056809df7eb?postId=dedebcbd78dd" data-media-id="6654875fccf5e3116c7e6056809df7eb" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -137,7 +137,7 @@ Now we can write tests to ensure properties are being used in our components:
 
 
 
-<iframe width="700" height="250" src="/media/e5cde3397461a6224a188ad0cb140700?postId=dedebcbd78dd" data-media-id="e5cde3397461a6224a188ad0cb140700" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e5cde3397461a6224a188ad0cb140700?postId=dedebcbd78dd" data-media-id="e5cde3397461a6224a188ad0cb140700" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -151,7 +151,7 @@ Soon, you will need to test changing a property. Unfortunately, this is difficul
 
 
 
-<iframe width="700" height="250" src="/media/09d6c81e2653bed58401ffc918bef2ab?postId=dedebcbd78dd" data-media-id="09d6c81e2653bed58401ffc918bef2ab" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/09d6c81e2653bed58401ffc918bef2ab?postId=dedebcbd78dd" data-media-id="09d6c81e2653bed58401ffc918bef2ab" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -171,7 +171,7 @@ The most decoupled method is to check to see if the correct action was sent. To 
 
 
 
-<iframe width="700" height="250" src="/media/179b707898a5a8e91370c443dba69d6d?postId=dedebcbd78dd" data-media-id="179b707898a5a8e91370c443dba69d6d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/179b707898a5a8e91370c443dba69d6d?postId=dedebcbd78dd" data-media-id="179b707898a5a8e91370c443dba69d6d" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -185,7 +185,7 @@ The last portion of the test helper is quite simple, and just adds support for R
 
 
 
-<iframe width="700" height="250" src="/media/e3ffce8fed4930a7f5de8cb3758683d2?postId=dedebcbd78dd" data-media-id="e3ffce8fed4930a7f5de8cb3758683d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F98250%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e3ffce8fed4930a7f5de8cb3758683d2?postId=dedebcbd78dd" data-media-id="e3ffce8fed4930a7f5de8cb3758683d2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F98250%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -209,7 +209,7 @@ Here is an example of a component being tested that has both properties and acti
 
 
 
-<iframe width="700" height="250" src="/media/e88acebcb601c8f28acaca50d79bd7b6?postId=dedebcbd78dd" data-media-id="e88acebcb601c8f28acaca50d79bd7b6" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e88acebcb601c8f28acaca50d79bd7b6?postId=dedebcbd78dd" data-media-id="e88acebcb601c8f28acaca50d79bd7b6" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -235,7 +235,7 @@ The most important thing a redux component does is transform state into properti
 
 
 
-<iframe width="700" height="250" src="/media/3ba226231e1d1ad7649ec9ca8b6c0ff8?postId=dedebcbd78dd" data-media-id="3ba226231e1d1ad7649ec9ca8b6c0ff8" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/3ba226231e1d1ad7649ec9ca8b6c0ff8?postId=dedebcbd78dd" data-media-id="3ba226231e1d1ad7649ec9ca8b6c0ff8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -271,7 +271,7 @@ The only gotcha I found is that it is not intuitive how to mock dragging and dro
 
 
 
-<iframe width="700" height="250" src="/media/abadc3783444bb6606157b5ce87a22ca?postId=dedebcbd78dd" data-media-id="abadc3783444bb6606157b5ce87a22ca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F98250%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/abadc3783444bb6606157b5ce87a22ca?postId=dedebcbd78dd" data-media-id="abadc3783444bb6606157b5ce87a22ca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F98250%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -287,7 +287,7 @@ Here is a sample wallaby.js I use for my project, with support for CSS modules i
 
 
 
-<iframe width="700" height="250" src="/media/ee302797f2b647d50c0716c160b6c923?postId=dedebcbd78dd" data-media-id="ee302797f2b647d50c0716c160b6c923" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ee302797f2b647d50c0716c160b6c923?postId=dedebcbd78dd" data-media-id="ee302797f2b647d50c0716c160b6c923" allowfullscreen="" frameborder="0"></iframe>
 
 
 

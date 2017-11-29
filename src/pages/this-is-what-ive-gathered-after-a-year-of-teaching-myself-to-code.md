@@ -1,7 +1,7 @@
 ---
 author: Corey Slaven
 authorTwitter: https://twitter.com/salsaflocka
-authorFacebook: false
+authorFacebook: none
 title: "The hardest part of learning to code is also the funnest part"
 subTitle: "My coding journey started with an app on my phone called Learn HTML. Whenever I got the urge, I’d mess with it for a bit and complete a f..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*C1iDhpo9YUtZqdXt0C2WVg.jpeg

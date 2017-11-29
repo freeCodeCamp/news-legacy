@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/how-we-got-a-2-year-old-repo-trending-on-gi
 id: how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b
 date: 2017-01-27T20:24:00.821Z
 tags: [
-  "Open Source",
-  "Python",
-  "Startup",
-  "Web Development",
-  "Tech"
+	"Open Source",
+	"Python",
+	"Startup",
+	"Web Development",
+	"Tech"
 ]
 ---
 # How we got our 2-year-old repo trending on GitHub in just 48 hours
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*D2NgKZ1T7LYXrFPAXnorTg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="22"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*D2NgKZ1T7LYXrFPAXnorTg.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*D2NgKZ1T7LYXrFPAXnorTg.jpeg"&gt;</noscript>
 
 
 
@@ -56,13 +53,10 @@ You can check out our repo [here](http://github.com/hack4impact/flask-base).
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AmBpbInStBZWkuT08qeEbw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*AmBpbInStBZWkuT08qeEbw.gif)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*AmBpbInStBZWkuT08qeEbw.gif"&gt;</noscript>
 
 
 
@@ -92,11 +86,8 @@ Our failed efforts led us to frustration because we felt like other developers a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*16HZud5RR4HJYJslPQtP7A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*16HZud5RR4HJYJslPQtP7A.gif"&gt;</noscript>
 
 
 
@@ -116,11 +107,8 @@ Suddenly, we were getting comments and suggestions from people who were interest
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-7oRl-jQDc49B29yR6Q8Xg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="3"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*-7oRl-jQDc49B29yR6Q8Xg.png"&gt;</noscript>
 
 
 
@@ -151,11 +139,8 @@ We began to look at examples of success. The popular repositories on GitHub tend
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*VTSwSec00eE1pEr1104jQQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*VTSwSec00eE1pEr1104jQQ.png"&gt;</noscript>
 
 
 
@@ -186,11 +171,8 @@ After looking through several dozen repositories and monitoring top-trending for
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*j7zKvHrtYov_yD4K7WXKBA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="58"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*j7zKvHrtYov_yD4K7WXKBA.jpeg"&gt;</noscript>
 
 
 
@@ -227,11 +209,8 @@ Let’s address each of these questions.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*c9oLtxdrHwM9CFztWkEH_Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="15"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*c9oLtxdrHwM9CFztWkEH_Q.png"&gt;</noscript>
 
 
 
@@ -258,11 +237,8 @@ This question is probably the one that a 90% of repositories fail to address. Wh
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*g-M5D9DXrAc2qWCAxdbkOw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="53"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*g-M5D9DXrAc2qWCAxdbkOw.png"&gt;</noscript>
 
 
 
@@ -296,11 +272,8 @@ Support for problems can be solved through a FAQ. But for new projects, people d
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*UQq4Qc5Xe4RzSu9chhnP4A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*UQq4Qc5Xe4RzSu9chhnP4A.png"&gt;</noscript>
 
 
 
@@ -326,11 +299,8 @@ Good documentation will give your users examples of how to use the program and e
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*boGLD98DPa8-27kGQE2fmA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*boGLD98DPa8-27kGQE2fmA.png"&gt;</noscript>
 
 
 
@@ -348,11 +318,8 @@ A features list should not be exhaustive, but should list features that are cent
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7x8No6IQ4rc5TLpFcpRN9Q.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7x8No6IQ4rc5TLpFcpRN9Q.gif"&gt;</noscript>
 
 
 
@@ -376,11 +343,8 @@ If a picture is worth a thousand words, then a .gif is worth a million. Show **
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*mEqlkTVk7mU5BMOzoG6gwA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*mEqlkTVk7mU5BMOzoG6gwA.png"&gt;</noscript>
 
 
 
@@ -412,11 +376,6 @@ There are 3 main outlets that you can use:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*OonHEQHmTDrTXhHWVH-kSA.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="73"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*OonHEQHmTDrTXhHWVH-kSA.png"&gt;</noscript>
 
 
 
@@ -428,11 +387,6 @@ There are 3 main outlets that you can use:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iplDsDMabrVOEE0ye5kZHw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="73"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*iplDsDMabrVOEE0ye5kZHw.png"&gt;</noscript>
 
 
 
@@ -444,11 +398,12 @@ There are 3 main outlets that you can use:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AFrTT10LerT723ZujhS0cA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="54" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*AFrTT10LerT723ZujhS0cA.png"&gt;</noscript>
+
+
+
+
 
 
 
@@ -472,11 +427,8 @@ The key is to get to a community that will care about your project (and will use
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ZQf8S_W4QG7in-HsD4yUyg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ZQf8S_W4QG7in-HsD4yUyg.jpeg"&gt;</noscript>
 
 
 
@@ -500,11 +452,8 @@ We did this at PennApps XV by teaching a workshop on how to make web application
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*00fBovJk9AhPkMkWn4wVqA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*00fBovJk9AhPkMkWn4wVqA.png"&gt;</noscript>
 
 
 
@@ -530,11 +479,8 @@ Once you get an initial growth of 30 to 40 stars in a short period (1–2 hours)
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*47QKRUOlnoLJ0g2JfqAFZg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*47QKRUOlnoLJ0g2JfqAFZg.png"&gt;</noscript>
 
 
 
@@ -566,11 +512,8 @@ As a computer science undergraduate, it’s amazing to see that people are using
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*86_Ogq_T7CW6NjhY_HSOyw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="18"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*86_Ogq_T7CW6NjhY_HSOyw.png"&gt;</noscript>
 
 
 
@@ -584,11 +527,8 @@ A thank you letter I received.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KRNycmJBMDMvumMotZbrEw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="67"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*KRNycmJBMDMvumMotZbrEw.png"&gt;</noscript>
 
 
 

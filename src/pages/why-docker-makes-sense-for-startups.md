@@ -70,7 +70,7 @@ The [declarative nature](https://docs.docker.com/compose/compose-file/#dockerfil
 
 
 
-<iframe width="700" height="250" src="/media/ddaf0c14086e27dd48237a509ffdb758?postId=e9be14a1f662" data-media-id="ddaf0c14086e27dd48237a509ffdb758" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F7302872%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ddaf0c14086e27dd48237a509ffdb758?postId=e9be14a1f662" data-media-id="ddaf0c14086e27dd48237a509ffdb758" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F7302872%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

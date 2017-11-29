@@ -1,7 +1,7 @@
 ---
 author: Déborah Mesquita
 authorTwitter: https://twitter.com/dehhmesquita
-authorFacebook: false
+authorFacebook: none
 title: "How to build a Gantt-like chart by using D3 to visualize a dataset"
 subTitle: "When you finish learning about the basics of D3.js, usually the next step is to build visualizations with your dataset. Because of how D3..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*t1WrOVTnZKGrY2oVjjoUfA.jpeg
@@ -293,7 +293,7 @@ And then we can fill the rectangles with colors from this scale. Putting togethe
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/d6323f48f510eb7078f3bad14e36f522?postId=9c9afa9b8d9d" data-media-id="d6323f48f510eb7078f3bad14e36f522" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/d6323f48f510eb7078f3bad14e36f522?postId=9c9afa9b8d9d" data-media-id="d6323f48f510eb7078f3bad14e36f522" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -365,7 +365,7 @@ Now we just need to fill this template with the code we created before. I also m
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/b9f5765779e9d243090c95c32b6a4329?postId=9c9afa9b8d9d" data-media-id="b9f5765779e9d243090c95c32b6a4329" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F1413899.pWJGNg.small.a53cc243-2351-48d0-ab31-40f440ac38b3.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/b9f5765779e9d243090c95c32b6a4329?postId=9c9afa9b8d9d" data-media-id="b9f5765779e9d243090c95c32b6a4329" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F1413899.pWJGNg.small.a53cc243-2351-48d0-ab31-40f440ac38b3.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Radu Raicea
 authorTwitter: https://twitter.com/radu_raicea
-authorFacebook: false
+authorFacebook: none
 title: "How I used Python to find interesting people to follow on Medium"
 subTitle: "Medium has a large amount of content, a large number of users, and an almost overwhelming number of posts. When you try to find interesti..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*9rLeOFD7rvImTlcXQUe-mw.png

@@ -1,7 +1,7 @@
 ---
 author: Corey Slaven
 authorTwitter: https://twitter.com/salsaflocka
-authorFacebook: false
+authorFacebook: none
 title: "It’s time to get in over your head"
 subTitle: "Sweat dripped down my forehead as I sat in a long line of cars. What would I say? What would I ask? Would they scoff at my lack of knowle..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*azqVVZRdyTp7FAcvFrV5rw.jpeg
@@ -96,7 +96,7 @@ I was brought to a dimly-lit open area. The song “La Femme D’Argent” by th
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/b5c1335b748256c26ec057934708886d?postId=3f719e7a9e46" data-media-id="b5c1335b748256c26ec057934708886d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FU4U19zwFENs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/b5c1335b748256c26ec057934708886d?postId=3f719e7a9e46" data-media-id="b5c1335b748256c26ec057934708886d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FU4U19zwFENs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -128,7 +128,7 @@ Ready to try it out? Skeptical of my 1-hour guarantee? Check out my YouTube tuto
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/a9ad403f2bb4606545557540726305b8?postId=cb3a549b4780" data-media-id="a9ad403f2bb4606545557540726305b8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwmJ02K8LIFk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/a9ad403f2bb4606545557540726305b8?postId=cb3a549b4780" data-media-id="a9ad403f2bb4606545557540726305b8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwmJ02K8LIFk%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ Ready to try it out? Skeptical of my 1-hour guarantee? Check out my YouTube tuto
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/04deeadbec00dc92b37830f1c402d5d6?postId=cb3a549b4780" data-media-id="04deeadbec00dc92b37830f1c402d5d6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAbza9SKoWPs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/04deeadbec00dc92b37830f1c402d5d6?postId=cb3a549b4780" data-media-id="04deeadbec00dc92b37830f1c402d5d6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAbza9SKoWPs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

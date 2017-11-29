@@ -54,7 +54,7 @@ A similar machine, ERNIE, designed by the now-famous Bletchley Park WWII codebre
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/51f109a091b38f746e50476734052a24?postId=9498737f5b6c" data-media-id="51f109a091b38f746e50476734052a24" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrOAfbb5D3Dw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/51f109a091b38f746e50476734052a24?postId=9498737f5b6c" data-media-id="51f109a091b38f746e50476734052a24" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrOAfbb5D3Dw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

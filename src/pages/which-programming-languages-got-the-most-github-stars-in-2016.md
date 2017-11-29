@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Which programming languages got the most GitHub stars in 2016?"
 subTitle: "Here are three links worth your time:..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*MGTSvgiujblMZQYG9Rvchw.png

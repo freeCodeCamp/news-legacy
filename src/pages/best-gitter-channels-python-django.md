@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels: Python &amp; Django"
 subTitle: "Python is a dynamic, object-oriented language that combines combines remarkable power with very clear syntax.Python is relatively easy to..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0TKsy8L4XcSSi5SdBYrffw.png

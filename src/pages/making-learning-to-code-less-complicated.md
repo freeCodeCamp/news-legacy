@@ -1,7 +1,7 @@
 ---
 author: Gareth Wilson
 authorTwitter: https://twitter.com/_gw
-authorFacebook: false
+authorFacebook: none
 title: "Designing Glitch: How we’re tackling web development’s nagging complexity"
 subTitle: "As the analogy goes, a frog placed in boiling water will jump out. But if it’s placed in cold water that’s slowly heated, it won’t percei..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*IpRjQvEIQfdIsStej476rA.jpeg

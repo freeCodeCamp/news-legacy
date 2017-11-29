@@ -1,7 +1,7 @@
 ---
 author: Nash Vail
 authorTwitter: https://twitter.com/NashVail
-authorFacebook: false
+authorFacebook: none
 title: "Understanding Linear Interpolation in UI Animation"
 subTitle: "In traditional (hand-drawn) animation, a senior or key artist draws keyframes that define the motion...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*hSm61aoV3cwZRJQkQirOAA.png
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/understanding-linear-interpolation-in-ui-an
 id: understanding-linear-interpolation-in-ui-animations-74701eb9957c
 date: 2017-05-14T07:06:02.881Z
 tags: [
-  "JavaScript",
-  "Animation",
-  "Html5",
-  "Tech",
-  "UI"
+	"JavaScript",
+	"Animation",
+	"Html5",
+	"Tech",
+	"UI"
 ]
 ---
 # Understanding Linear Interpolation in UI Animation
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*hSm61aoV3cwZRJQkQirOAA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*hSm61aoV3cwZRJQkQirOAA.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*hSm61aoV3cwZRJQkQirOAA.png"&gt;</noscript>
 
 
 
@@ -56,13 +53,10 @@ An assistant, generally an intern or a junior artist, then draws the necessary i
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GI0WbHlZ7uBpOY0Xvkl5Cw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*GI0WbHlZ7uBpOY0Xvkl5Cw.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*GI0WbHlZ7uBpOY0Xvkl5Cw.png"&gt;</noscript>
 
 
 
@@ -80,11 +74,8 @@ Inbetweens are necessary since animations without them appear choppy. Unfortunat
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*xnLjqe-1m6stF9pLUeTXkA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*xnLjqe-1m6stF9pLUeTXkA.gif"&gt;</noscript>
 
 
 
@@ -106,11 +97,8 @@ Our goal is simple, to animate a ball from point A`(startX, startY)` to B `(endX
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*W-Fo7GodNwVwsV_9z33OzQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*W-Fo7GodNwVwsV_9z33OzQ.png"&gt;</noscript>
 
 
 
@@ -124,11 +112,8 @@ If this scene were passed to a studio that does traditional animation, the senio
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*-Kq3EdW2sv_qUPy6skk6qQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*-Kq3EdW2sv_qUPy6skk6qQ.png"&gt;</noscript>
 
 
 
@@ -142,11 +127,8 @@ If this scene were passed to a studio that does traditional animation, the senio
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*99zCw2qgEd2O32tSl_ZU4g.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*99zCw2qgEd2O32tSl_ZU4g.png"&gt;</noscript>
 
 
 
@@ -160,52 +142,7 @@ For our situation, there is no animation studio nor do we have junior artists. A
 
 The HTML code is simple, we only need one line.
 
-<pre name="2733" id="2733" class="graf graf--pre graf-after--p"><canvas id=”canvas”></canvas></pre>
-
-This part of the JavaScript code (shown below) simply grabs `<canvas/>` from the Document Object Model (DOM), gets `[context](https://developer.mozilla.org/en/docs/Web/API/CanvasRenderingContext2D)`, and sets the width and height property of the canvas to match the viewport.
-
-<pre name="c3fa" id="c3fa" class="graf graf--pre graf-after--p">const canvas = document.getElementById(‘canvas’),  
-  context = canvas.getContext(‘2d’),  
-  width = canvas.width = window.innerWidth,  
-  height = canvas.height = window.innerHeight;</pre>
-
-The function below draws a green solid circle of radius `radius` at `x` and `y` coordinates.
-
-<pre name="50e5" id="50e5" class="graf graf--pre graf-after--p">function drawBall(x, y, radius) {  
-  context.beginPath();   
-  context.fillStyle = ‘#66DA79’;  
-  context.arc(x, y, radius, 0, 2 * Math.PI, false);  
-  context.fill();  
-}</pre>
-
-All of the above code is boilerplate to set up our animation, here’s the juicy part.
-
-<pre name="ee28" id="ee28" class="graf graf--pre graf-after--p">// Point A  
-let startX = 50, startY = 50;</pre>
-
-<pre name="167a" id="167a" class="graf graf--pre graf-after--pre">// Point B  
-let endX = 420, endY = 380;</pre>
-
-<pre name="7f80" id="7f80" class="graf graf--pre graf-after--pre">let x = startX, y = startY;</pre>
-
-<pre name="63c7" id="63c7" class="graf graf--pre graf-after--pre">**update();**  
-function update() {  
-  context.clearRect(0, 0, width, height);  
-  drawBall(x, y, 30);  
-  **requestAnimationFrame(update);**  
-}</pre>
-
-First of all, notice the `update` function being called right above its declaration. Second of all, notice `requestAnimationFrame(update)` which calls `update` _repeatedly_.
-
-
-
-
-
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Zw30luTk6Y2yS2rheUF3yw.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*Zw30luTk6Y2yS2rheUF3yw.gif"&gt;</noscript>
+<pre name="2733" id="2733" class="graf graf--pre graf-after--p">
 
 
 
@@ -225,11 +162,8 @@ On each subsequent call of `update`, we expect the function to draw a slightly d
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Gr1EShaIgQcYKCxfp0TzSQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Gr1EShaIgQcYKCxfp0TzSQ.png"&gt;</noscript>
 
 
 
@@ -245,11 +179,8 @@ Our current implementation of `update` draws the ball at the same exact position
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.XRNprQ.small.71c7af3b-074c-45f3-8db1-1d59a0b8ebef.png&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe data-width="800" data-height="600" width="700" height="525" data-src="/media/325278b2a2cc55c822ee182d0e7a47c2?postId=74701eb9957c" data-media-id="325278b2a2cc55c822ee182d0e7a47c2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.XRNprQ.small.71c7af3b-074c-45f3-8db1-1d59a0b8ebef.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
-
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="800" data-height="600" width="700" height="525" src="/media/325278b2a2cc55c822ee182d0e7a47c2?postId=74701eb9957c" data-media-id="325278b2a2cc55c822ee182d0e7a47c2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.XRNprQ.small.71c7af3b-074c-45f3-8db1-1d59a0b8ebef.png&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
+<iframe data-width="800" data-height="600" width="700" height="525" data-src="https://medium.freecodecamp.org/media/325278b2a2cc55c822ee182d0e7a47c2?postId=74701eb9957c" data-media-id="325278b2a2cc55c822ee182d0e7a47c2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.XRNprQ.small.71c7af3b-074c-45f3-8db1-1d59a0b8ebef.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -261,11 +192,9 @@ Our current implementation of `update` draws the ball at the same exact position
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KgTqUC2mKagPNnxxsuWGpQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*KgTqUC2mKagPNnxxsuWGpQ.png"&gt;</noscript>
+
 
 
 
@@ -288,11 +217,8 @@ Each iteration moves the ball forward in both the x and y directions, and repeat
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Iyd6S-yGVdvF5G1TH5hWDA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="55"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Iyd6S-yGVdvF5G1TH5hWDA.gif"&gt;</noscript>
 
 
 
@@ -326,11 +252,8 @@ Using the above approach, you can only reach points lying in a straight line 45 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*HSmtd5gcIYYnAVmU5t3L0w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="58"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*HSmtd5gcIYYnAVmU5t3L0w.png"&gt;</noscript>
 
 
 
@@ -354,11 +277,8 @@ To understand what linear interpolation does, consider a slider with a `min` val
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*G5vGdPXQhec7hnOmBSJZkA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="15"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*G5vGdPXQhec7hnOmBSJZkA.png"&gt;</noscript>
 
 
 
@@ -374,11 +294,8 @@ The next thing we need to choose is `fraction`. `lerp` takes `fraction` and conv
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*DFXftmJxkHo5P_E94ElwMQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*DFXftmJxkHo5P_E94ElwMQ.png"&gt;</noscript>
 
 
 
@@ -396,11 +313,8 @@ Similarly, if we choose another value for `fraction` say `0.85`…
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ytUp7zQTmzwiRmPAIEMyIQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ytUp7zQTmzwiRmPAIEMyIQ.png"&gt;</noscript>
 
 
 
@@ -418,11 +332,8 @@ I chose 0 and 100 as `min` and `max` to keep this example simple, but `lerp` wil
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ik-7ASOSmqFmKNwytsA8qg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Ik-7ASOSmqFmKNwytsA8qg.png"&gt;</noscript>
 
 
 
@@ -454,11 +365,9 @@ Here’s a [pen](http://codepen.io/nashvail/pen/wdjpVZ) of what our program look
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.wdjpVZ.small.797b925d-2a76-419e-9ed4-5db6096f3441.png&key=4fce0568f2ce49e8b54624ef71a8a5bd&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<iframe data-width="800" data-height="600" width="700" height="525" data-src="/media/6422533eb72e100a8684022e73d1cbe5?postId=74701eb9957c" data-media-id="6422533eb72e100a8684022e73d1cbe5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.wdjpVZ.small.797b925d-2a76-419e-9ed4-5db6096f3441.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" data-src="https://medium.freecodecamp.org/media/6422533eb72e100a8684022e73d1cbe5?postId=74701eb9957c" data-media-id="6422533eb72e100a8684022e73d1cbe5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.wdjpVZ.small.797b925d-2a76-419e-9ed4-5db6096f3441.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="800" data-height="600" width="700" height="525" src="/media/6422533eb72e100a8684022e73d1cbe5?postId=74701eb9957c" data-media-id="6422533eb72e100a8684022e73d1cbe5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F296304.wdjpVZ.small.797b925d-2a76-419e-9ed4-5db6096f3441.png&amp;amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -476,11 +385,8 @@ In every frame `x` and `endX` are taken as `min` and `max` and interpolated with
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vUfujdUFficArMFoNqEN7A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*vUfujdUFficArMFoNqEN7A.png"&gt;</noscript>
 
 
 
@@ -494,11 +400,8 @@ The ball is then drawn at the newly calculated`(x, y)` coordinate.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*W1x88vpgSUD7BidIeHG5Eg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*W1x88vpgSUD7BidIeHG5Eg.png"&gt;</noscript>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Collin Ferry
 authorTwitter: https://twitter.com/collinferry
-authorFacebook: false
+authorFacebook: none
 title: "How Long Does Free Code Camp Take?"
 subTitle: "I spent the end of winter in a solar-powered, stove heated cabin in Northern Utah. There was no shower, but we mounted a satellite to the..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*i0igcKxDNrKYDp6gd_s_3g.jpeg
@@ -40,7 +40,7 @@ The short version is this: **smart people seem to agree that knowing how to code
 
 
 
-<iframe width="500" height="250" src="/media/bf2e16cc40c970b0e22a6f11a8c77bcc?postId=f986202346ef" data-media-id="bf2e16cc40c970b0e22a6f11a8c77bcc" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/bf2e16cc40c970b0e22a6f11a8c77bcc?postId=f986202346ef" data-media-id="bf2e16cc40c970b0e22a6f11a8c77bcc" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -54,7 +54,7 @@ So I set a small initial goal of 2 hours/day and installed RescueTime to track m
 
 
 
-<iframe width="500" height="250" src="/media/6fd5bc45c26aae035a0dc63bde1ce846?postId=f986202346ef" data-media-id="6fd5bc45c26aae035a0dc63bde1ce846" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/6fd5bc45c26aae035a0dc63bde1ce846?postId=f986202346ef" data-media-id="6fd5bc45c26aae035a0dc63bde1ce846" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -114,7 +114,7 @@ On day 33 I wrapped up the last of the advanced coding challenges. The next proj
 
 
 
-<iframe width="500" height="250" src="/media/21a6325b720dd2c384e541eb6e2a6dbc?postId=f986202346ef" data-media-id="21a6325b720dd2c384e541eb6e2a6dbc" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/21a6325b720dd2c384e541eb6e2a6dbc?postId=f986202346ef" data-media-id="21a6325b720dd2c384e541eb6e2a6dbc" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ Coding the Tic-Tac-Toe game proved to be (for me) the most exhausting project of
 
 
 
-<iframe width="500" height="250" src="/media/cf9920a077c494b9bfb298edc4b84cd3?postId=f986202346ef" data-media-id="cf9920a077c494b9bfb298edc4b84cd3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/cf9920a077c494b9bfb298edc4b84cd3?postId=f986202346ef" data-media-id="cf9920a077c494b9bfb298edc4b84cd3" allowfullscreen="" frameborder="0"></iframe>
 
 
 

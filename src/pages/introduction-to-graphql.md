@@ -51,7 +51,7 @@ Let’s describe a Person type, using the JavaScript implementation of GraphQL:
 
 
 
-<iframe width="700" height="250" src="/media/adc463a0e5992c0893b2ac84e1f6f318?postId=1d8011b80159" data-media-id="adc463a0e5992c0893b2ac84e1f6f318" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/adc463a0e5992c0893b2ac84e1f6f318?postId=1d8011b80159" data-media-id="adc463a0e5992c0893b2ac84e1f6f318" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -83,7 +83,7 @@ After defining your data models using the type system, you can execute queries o
 
 
 
-<iframe width="700" height="250" src="/media/aac59e8a852e1237c9f1d4b11f9dbbd1?postId=1d8011b80159" data-media-id="aac59e8a852e1237c9f1d4b11f9dbbd1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/aac59e8a852e1237c9f1d4b11f9dbbd1?postId=1d8011b80159" data-media-id="aac59e8a852e1237c9f1d4b11f9dbbd1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ If you want your server to support this query, you have to extend your root quer
 
 
 
-<iframe width="700" height="250" src="/media/c16b5a8b6e97ac917ceefe5aded98992?postId=1d8011b80159" data-media-id="c16b5a8b6e97ac917ceefe5aded98992" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c16b5a8b6e97ac917ceefe5aded98992?postId=1d8011b80159" data-media-id="c16b5a8b6e97ac917ceefe5aded98992" allowfullscreen="" frameborder="0"></iframe>
 
 
 

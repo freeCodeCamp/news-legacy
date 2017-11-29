@@ -4,9 +4,10 @@
   "version": "0.0.0",
   "author": "freeCodeCamp",
   "dependencies": {
+    "axios": "^0.17.1",
     "chalk": "^2.3.0",
     "date-fns": "^1.29.0",
-    "gatsby": "bouncey/temp-gatsby-fork#master",
+    "gatsby": "^1.9.110",
     "gatsby-link": "^1.6.27",
     "gatsby-plugin-less": "^1.0.6",
     "gatsby-plugin-react-helmet": "^1.0.8",
@@ -15,6 +16,11 @@
     "lodash": "^4.17.4",
     "puppeteer": "^0.13.0",
     "react-bootstrap": "^0.31.5",
+    "react-fontawesome": "^1.6.1",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.2.1",
+    "redux-create-types": "^0.0.1",
     "rx": "^4.1.0",
     "slugg": "^1.2.1",
     "to-markdown": "^3.1.0"

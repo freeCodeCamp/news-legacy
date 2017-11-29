@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "25 Mac Tools for Productive Coding"
 subTitle: "Originally published at blog.freecodecamp.com on October 1, 2014...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Q6cDem_ehBiaqnAeM2JInQ.jpeg
@@ -158,7 +158,7 @@ tags: [
 
 
 
-<iframe data-width="952" data-height="648" width="700" height="476" src="/media/36e3447372d757c88f2ca05121b45f1f?postId=8e8de8b3d9bb" data-media-id="36e3447372d757c88f2ca05121b45f1f" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="952" data-height="648" width="700" height="476" src="https://medium.freecodecamp.org/media/36e3447372d757c88f2ca05121b45f1f?postId=8e8de8b3d9bb" data-media-id="36e3447372d757c88f2ca05121b45f1f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

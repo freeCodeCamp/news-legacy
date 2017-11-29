@@ -1,7 +1,7 @@
 ---
 author: Adam Wattis
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "What is MVC, and how is it like a sandwich shop?"
 subTitle: "In today’s Internet, websites tend to be interactive, dynamic, and serve some sort of function. They can be more than a static HTML and C..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*f060_Azpyo--3fiHUjotmg.gif

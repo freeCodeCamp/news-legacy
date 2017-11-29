@@ -1,7 +1,7 @@
 ---
 author: Alex Ewerlöf
 authorTwitter: https://twitter.com/alexewerlof
-authorFacebook: false
+authorFacebook: none
 title: "When should I use TypeScript?"
 subTitle: "This article is now available in Japanese and Chinese...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*IkUwv_lceATY-tP7Pf5TeQ.jpeg

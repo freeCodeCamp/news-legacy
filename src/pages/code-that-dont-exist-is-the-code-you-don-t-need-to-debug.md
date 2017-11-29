@@ -1,7 +1,7 @@
 ---
 author: Fagner Brack
 authorTwitter: https://twitter.com/FagnerBrack
-authorFacebook: false
+authorFacebook: none
 title: "Code That Doesn't Exist Is The Code You Don't Need To Debug"
 subTitle: "As developers, we tend to write more code than necessary"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*wuV2gWnanM8JoG_8CS09tQ.jpeg
@@ -46,7 +46,7 @@ Less code, less complexity.
 
 
 
-<iframe width="500" height="250" src="/media/8296175da96ea71f883c0aae6d17d119?postId=88985ed9604" data-media-id="8296175da96ea71f883c0aae6d17d119" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1824002576%2Fpg-railsconf_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/8296175da96ea71f883c0aae6d17d119?postId=88985ed9604" data-media-id="8296175da96ea71f883c0aae6d17d119" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1824002576%2Fpg-railsconf_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -58,7 +58,7 @@ There are many examples that can illustrate this principle. For the purpose of t
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/225e5735dfbab48de7a269e8cade6f3c?postId=88985ed9604" data-media-id="225e5735dfbab48de7a269e8cade6f3c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F0bc8a8a53f215ebcbdc39479f182c803%2F%3Fdefault%3D%26s%3D80&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/225e5735dfbab48de7a269e8cade6f3c?postId=88985ed9604" data-media-id="225e5735dfbab48de7a269e8cade6f3c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F0bc8a8a53f215ebcbdc39479f182c803%2F%3Fdefault%3D%26s%3D80&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -72,7 +72,7 @@ When testing that function, you want to stub the network request and provide a f
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/6bf33779a53039d39ebd1cecefb8b954?postId=88985ed9604" data-media-id="6bf33779a53039d39ebd1cecefb8b954" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F0bc8a8a53f215ebcbdc39479f182c803%2F%3Fdefault%3D%26s%3D80&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/6bf33779a53039d39ebd1cecefb8b954?postId=88985ed9604" data-media-id="6bf33779a53039d39ebd1cecefb8b954" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F0bc8a8a53f215ebcbdc39479f182c803%2F%3Fdefault%3D%26s%3D80&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -86,7 +86,7 @@ But the original dataset is huge and you don't really care about the rest of it.
 
 
 
-<iframe data-width="600" data-height="400" width="600" height="400" src="/media/38475259d01bf27be5044720872426a0?postId=88985ed9604" data-media-id="38475259d01bf27be5044720872426a0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F0bc8a8a53f215ebcbdc39479f182c803%2F%3Fdefault%3D%26s%3D80&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="600" data-height="400" width="600" height="400" src="https://medium.freecodecamp.org/media/38475259d01bf27be5044720872426a0?postId=88985ed9604" data-media-id="38475259d01bf27be5044720872426a0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F0bc8a8a53f215ebcbdc39479f182c803%2F%3Fdefault%3D%26s%3D80&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

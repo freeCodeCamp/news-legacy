@@ -1,7 +1,7 @@
 ---
 author: Drew
 authorTwitter: https://twitter.com/thecodinghyrax
-authorFacebook: false
+authorFacebook: none
 title: "How my daughter taught me about accessibility"
 subTitle: "As I finally start to grasp the basic but necessary “how” portion of my learning I have begun to ponder the “who and “why” as well. I hav..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*gNo5tKbJlGLI_UFQdwduSg.jpeg

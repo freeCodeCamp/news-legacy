@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "An Overview of Modern Discussion Tools, and Why We Decided to Build Our Own"
 subTitle: "Our chat rooms are a fun place to hang out, make friends, and get fast help. But knew early on that our campers wanted a less synchronous..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*WsjchoXvv2f1TMEt.png

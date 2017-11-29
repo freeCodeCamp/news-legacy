@@ -1,7 +1,7 @@
 ---
 author: Nabeel Yoosuf
 authorTwitter: https://twitter.com/nabeelxy
-authorFacebook: false
+authorFacebook: none
 title: "The many, many ways that cryptographic software can fail"
 subTitle: "When cryptographic software fails, what’s to blame?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*eHaISV7BciMhq8o0AHmftg.png

@@ -1,7 +1,7 @@
 ---
 author: Avi Ashkenazi
 authorTwitter: https://twitter.com/Superavi1
-authorFacebook: false
+authorFacebook: none
 title: "From Augmented Reality to emotion detection: how cameras became the best tool to decipher the world"
 subTitle: "The camera is finally on stage to help solve user experience (UX) design, technology, and communication issues...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*qM8_PS9zyD3TL64lEs8ung.gif
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/facial-recognition-as-aux-driver-8a49dfd477
 id: facial-recognition-as-aux-driver-8a49dfd477ca
 date: 2017-09-14T11:59:53.611Z
 tags: [
-  "Augmented Reality",
-  "Apple",
-  "Design",
-  "Facial Recognition",
-  "UX"
+	"Augmented Reality",
+	"Apple",
+	"Design",
+	"Facial Recognition",
+	"UX"
 ]
 ---
 # From Augmented Reality to emotion detection: how cameras became the best tool to decipher the world
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qM8_PS9zyD3TL64lEs8ung.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="22"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*qM8_PS9zyD3TL64lEs8ung.gif)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*qM8_PS9zyD3TL64lEs8ung.gif"&gt;</noscript>
 
 
 
@@ -54,13 +51,10 @@ It’s not new. It’s commercialized and gives developers access to indispensab
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*SaZceHMxVeG7iDRWLeDn6A.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/1600/1*SaZceHMxVeG7iDRWLeDn6A.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*SaZceHMxVeG7iDRWLeDn6A.jpeg"&gt;</noscript>
 
 
 
@@ -76,11 +70,8 @@ Recently, Mark Zuckerberg mentioned that much of Facebook’s focus will be on t
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ns0oL55qH0Z_dp74uM6UMQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ns0oL55qH0Z_dp74uM6UMQ.jpeg"&gt;</noscript>
 
 
 
@@ -106,11 +97,8 @@ What do you do with a camera? Take pictures and videos, and that’s about it. T
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pEsPDhtiGpEhkFmrU3Ltgg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*pEsPDhtiGpEhkFmrU3Ltgg.png"&gt;</noscript>
 
 
 
@@ -126,11 +114,8 @@ Based on the enormous number of pictures users generate, a new wave of smart gal
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*uuUqRercx3ujo5KdTf4qHg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="47"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*uuUqRercx3ujo5KdTf4qHg.png"&gt;</noscript>
 
 
 
@@ -168,11 +153,8 @@ Let’s evaluate the evolution of a few products created by companies.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*etH1j9DVMF-yCD2tOF_KQg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="15"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*etH1j9DVMF-yCD2tOF_KQg.jpeg"&gt;</noscript>
 
 
 
@@ -192,11 +174,8 @@ In December 2009, Google introduced [Google Goggles](https://en.wikipedia.org/wi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*w3ST67uzJNQ9nZExdthIow.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="52"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*w3ST67uzJNQ9nZExdthIow.jpeg"&gt;</noscript>
 
 
 
@@ -210,11 +189,8 @@ In November 2011, [Samsung Nexus](https://en.wikipedia.org/wiki/Galaxy_Nexus) in
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ws2SJsY1bLcNbwB4WnEClw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="57"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Ws2SJsY1bLcNbwB4WnEClw.jpeg"&gt;</noscript>
 
 
 
@@ -230,11 +206,8 @@ In February 2013, Google released [Google Glass](https://en.wikipedia.org/wiki/G
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6gpcod7R2DKwm5Sm4rxodw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6gpcod7R2DKwm5Sm4rxodw.jpeg"&gt;</noscript>
 
 
 
@@ -252,11 +225,8 @@ When you focus on your phone, you cannot see anything else. Your field of view i
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*xA6ohnZIbLIF0avNx0aHOg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*xA6ohnZIbLIF0avNx0aHOg.jpeg"&gt;</noscript>
 
 
 
@@ -270,11 +240,8 @@ When you focus on your phone, you cannot see anything else. Your field of view i
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IbABwGF8RrT-Zl3M762iog.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*IbABwGF8RrT-Zl3M762iog.jpeg"&gt;</noscript>
 
 
 
@@ -290,11 +257,8 @@ In July 2014, Amazon introduced the [Fire Phone](https://en.wikipedia.org/wiki/F
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*G6ocJhUJC7UEni3iyv-PiA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*G6ocJhUJC7UEni3iyv-PiA.jpeg"&gt;</noscript>
 
 
 
@@ -312,11 +276,8 @@ It is disturbing to hold this huge phone and put it at a 90° angle to your face
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*oVHAEHwUWKk8nYclkuLO2w.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*oVHAEHwUWKk8nYclkuLO2w.jpeg"&gt;</noscript>
 
 
 
@@ -334,11 +295,8 @@ Google took a break, and then in July 2017 released the second version of Google
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*vCnfC4MRi77nEOGKAGn6hw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*vCnfC4MRi77nEOGKAGn6hw.jpeg"&gt;</noscript>
 
 
 
@@ -354,11 +312,8 @@ Now Google is about to release the [Google Lens](https://en.wikipedia.org/wiki/G
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*zv1KWO6hiCe8tDh7mbwdfA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*zv1KWO6hiCe8tDh7mbwdfA.png"&gt;</noscript>
 
 
 
@@ -374,11 +329,8 @@ There are other companies that are exploring visual input as well. For example, 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gJt5bRxZuifUmQ6ONP_zRA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*gJt5bRxZuifUmQ6ONP_zRA.png"&gt;</noscript>
 
 
 
@@ -394,11 +346,8 @@ Pinterest Visual Search
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Ex3aT4I9z8PUgKcyw7lHiQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Ex3aT4I9z8PUgKcyw7lHiQ.jpeg"&gt;</noscript>
 
 
 
@@ -414,11 +363,8 @@ Now facial recognition is also on the Note 8 and [Galaxy 8](http://www.samsung.c
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*5ctmjbD2-2KJ4hIpaT2n0A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*5ctmjbD2-2KJ4hIpaT2n0A.png"&gt;</noscript>
 
 
 
@@ -454,11 +400,8 @@ Apple is slow to adopt new technologies relative to its competitors. But on the 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bNWMc9WU2WzlZX5L_LWxuw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*bNWMc9WU2WzlZX5L_LWxuw.jpeg"&gt;</noscript>
 
 
 
@@ -472,11 +415,8 @@ There is a much bigger reason why Apple chose this technology at this time. It h
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IJqrRjeMZXq_om_4v0Y4Qg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*IJqrRjeMZXq_om_4v0Y4Qg.png"&gt;</noscript>
 
 
 
@@ -490,11 +430,8 @@ Face ID has challenges that include recognizing users who wear the [Niqāb](http
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*7N29meHeKp69OEdGqNeeRg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="68" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7N29meHeKp69OEdGqNeeRg.jpeg"&gt;</noscript>
 
 
 
@@ -510,11 +447,8 @@ In the past, companies used special glasses and devices to perform user testing.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*wPH09IMsCb1k0hKQHEFtTg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*wPH09IMsCb1k0hKQHEFtTg.jpeg"&gt;</noscript>
 
 
 
@@ -544,11 +478,8 @@ Consider the pairing of a remote and center point in virtual reality. The center
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*LryC5rEkpRtGiYgP0t3G9Q.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*LryC5rEkpRtGiYgP0t3G9Q.gif"&gt;</noscript>
 
 
 
@@ -584,11 +515,8 @@ What started as [ARKit](https://developer.apple.com/arkit/) and Google’s [ARCo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KrIvIUeY5cgDode0gzliuw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*KrIvIUeY5cgDode0gzliuw.png"&gt;</noscript>
 
 
 
@@ -602,11 +530,8 @@ While Apple opened the way for facial recognition and triggered reactionary [Ani
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ym7eX1OoRrbFvSCWs2lGzQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ym7eX1OoRrbFvSCWs2lGzQ.gif"&gt;</noscript>
 
 
 
@@ -622,11 +547,8 @@ It is important to say that the front camera doesn’t come alone. It’s the ex
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Xw6u0sKlUzi_lNqUyrvLDA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Xw6u0sKlUzi_lNqUyrvLDA.png"&gt;</noscript>
 
 
 
@@ -640,11 +562,8 @@ Can’t be fooled by a mask — from Apple’s keynote
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*KJO54lnY5x-SAodYUJq3tA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*KJO54lnY5x-SAodYUJq3tA.jpeg"&gt;</noscript>
 
 
 

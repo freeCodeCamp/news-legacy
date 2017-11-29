@@ -60,7 +60,7 @@ To get going, make a new project directory and add [the following three files](h
 
 
 
-<iframe width="700" height="250" src="/media/d0dbebf4e1ad2399383f2ba84f0891de?postId=eaedf53238c4" data-media-id="d0dbebf4e1ad2399383f2ba84f0891de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13612785%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d0dbebf4e1ad2399383f2ba84f0891de?postId=eaedf53238c4" data-media-id="d0dbebf4e1ad2399383f2ba84f0891de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13612785%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

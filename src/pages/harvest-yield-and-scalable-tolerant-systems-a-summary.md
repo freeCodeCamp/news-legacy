@@ -1,7 +1,7 @@
 ---
 author: Shubheksha
 authorTwitter: https://twitter.com/ScribblingOn
-authorFacebook: false
+authorFacebook: none
 title: "Harvest, Yield, and Scalable Tolerant Systems: A Summary"
 subTitle: "This article presents a summary of the paper “Harvest, Yield, and Scalable Tolerant Systems” published by Eric Brewer & Amando Fox in 199..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*PlLhXyx7tBvL4fVm.png

@@ -38,7 +38,7 @@ Our open source community tossed around some ideas for April Fool’s jokes. But
 
 
 
-<iframe width="500" height="250" src="/media/ee99f8f6a8048bc24b1b12e581d06e29?postId=ef0bc1e66950" data-media-id="ee99f8f6a8048bc24b1b12e581d06e29" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/ee99f8f6a8048bc24b1b12e581d06e29?postId=ef0bc1e66950" data-media-id="ee99f8f6a8048bc24b1b12e581d06e29" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -50,7 +50,7 @@ Fortunately, Google and friends did manage to serve up some absurdity, and in so
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/eec69c91cc32a4c9c7e6c4a936cbfc90?postId=ef0bc1e66950" data-media-id="eec69c91cc32a4c9c7e6c4a936cbfc90" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/eec69c91cc32a4c9c7e6c4a936cbfc90?postId=ef0bc1e66950" data-media-id="eec69c91cc32a4c9c7e6c4a936cbfc90" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -62,7 +62,7 @@ They also introduced a useful new way to use Google Image Search:
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/48d80b0cb371adf4d062a16b2032c4d6?postId=ef0bc1e66950" data-media-id="48d80b0cb371adf4d062a16b2032c4d6" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/48d80b0cb371adf4d062a16b2032c4d6?postId=ef0bc1e66950" data-media-id="48d80b0cb371adf4d062a16b2032c4d6" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -104,7 +104,7 @@ Well it turns out that touch screen devices can do a lot more than measure your 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/429f69cf130cbd33303c8884cf85e0a1?postId=ef0bc1e66950" data-media-id="429f69cf130cbd33303c8884cf85e0a1" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/429f69cf130cbd33303c8884cf85e0a1?postId=ef0bc1e66950" data-media-id="429f69cf130cbd33303c8884cf85e0a1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -118,7 +118,7 @@ It will be a few years before self-driving cars are legally allowed on most road
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/984ba877ea3146ca2e7927885747f55e?postId=ef0bc1e66950" data-media-id="984ba877ea3146ca2e7927885747f55e" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/984ba877ea3146ca2e7927885747f55e?postId=ef0bc1e66950" data-media-id="984ba877ea3146ca2e7927885747f55e" allowfullscreen="" frameborder="0"></iframe>
 
 
 

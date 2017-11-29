@@ -91,7 +91,7 @@ And Equifax has done plenty of other sketchy things:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/6cd2751cb3ac4cd690f76082bfe8ec06?postId=a2b5187cb6c0" data-media-id="6cd2751cb3ac4cd690f76082bfe8ec06" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F906247597127499776%2Fpu%2Fimg%2FUKdsqBdw9CL0zOPU.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/6cd2751cb3ac4cd690f76082bfe8ec06?postId=a2b5187cb6c0" data-media-id="6cd2751cb3ac4cd690f76082bfe8ec06" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F906247597127499776%2Fpu%2Fimg%2FUKdsqBdw9CL0zOPU.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -103,7 +103,7 @@ And Equifax has done plenty of other sketchy things:
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/4df5e8468e80fcb4442fab30c0604386?postId=a2b5187cb6c0" data-media-id="4df5e8468e80fcb4442fab30c0604386" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F870308340919934976%2FMAMpbzHB_400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/4df5e8468e80fcb4442fab30c0604386?postId=a2b5187cb6c0" data-media-id="4df5e8468e80fcb4442fab30c0604386" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F870308340919934976%2FMAMpbzHB_400x400.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

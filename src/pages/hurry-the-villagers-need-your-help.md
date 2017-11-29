@@ -1,7 +1,7 @@
 ---
 author: Drew
 authorTwitter: https://twitter.com/thecodinghyrax
-authorFacebook: false
+authorFacebook: none
 title: "Hurry, the villagers need your help!"
 subTitle: "Learning to code takes time. It takes endurance...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*_2rJuLv2OKShcjJFE0M95g.png

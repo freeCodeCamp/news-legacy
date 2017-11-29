@@ -1,7 +1,7 @@
 ---
 author: Mariya Diminsky
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Learn ES6 The Dope Way Part V: Classes, Transpiling ES6 Code &amp; More Resources!"
 subTitle: "Welcome to Part V of Learn ES6 The Dope Way, a series created to help you easily understand ES6 (ECMAScript 6)!..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*RuxaPPPrL6K09eF4pFhISw.jpeg
@@ -71,7 +71,7 @@ So how do we create a _class_? Let us first review how objects are created in ES
 
 
 
-<iframe width="700" height="250" src="/media/79c2eb4a5ffb7b2ace855a1682a55b29?postId=47f62267661" data-media-id="79c2eb4a5ffb7b2ace855a1682a55b29" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/79c2eb4a5ffb7b2ace855a1682a55b29?postId=47f62267661" data-media-id="79c2eb4a5ffb7b2ace855a1682a55b29" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -83,7 +83,7 @@ Now observe the same thing with ES6 _classes_:
 
 
 
-<iframe width="700" height="250" src="/media/ed42154db05efa22beba1d688f6581b6?postId=47f62267661" data-media-id="ed42154db05efa22beba1d688f6581b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ed42154db05efa22beba1d688f6581b6?postId=47f62267661" data-media-id="ed42154db05efa22beba1d688f6581b6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -95,7 +95,7 @@ What are the main differences? Clearly the _class_ syntax looks like an object, 
 
 
 
-<iframe width="700" height="250" src="/media/c4bcc5ffc90ccc1c60e9a6e502c536f2?postId=47f62267661" data-media-id="c4bcc5ffc90ccc1c60e9a6e502c536f2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c4bcc5ffc90ccc1c60e9a6e502c536f2?postId=47f62267661" data-media-id="c4bcc5ffc90ccc1c60e9a6e502c536f2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -111,7 +111,7 @@ Now there are two main ways of defining a _class _— the example above is o
 
 
 
-<iframe width="700" height="250" src="/media/b5edd08016ad09131b4dc38b427d0fdb?postId=47f62267661" data-media-id="b5edd08016ad09131b4dc38b427d0fdb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b5edd08016ad09131b4dc38b427d0fdb?postId=47f62267661" data-media-id="b5edd08016ad09131b4dc38b427d0fdb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -125,7 +125,7 @@ Still, it is possible to store an instance of a _class_ before it is created in 
 
 
 
-<iframe width="700" height="250" src="/media/d07d2a359f0b0389f4fe382bf52bb876?postId=47f62267661" data-media-id="d07d2a359f0b0389f4fe382bf52bb876" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d07d2a359f0b0389f4fe382bf52bb876?postId=47f62267661" data-media-id="d07d2a359f0b0389f4fe382bf52bb876" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -137,7 +137,7 @@ The second way to define a class is a _class_ expression. As with function expre
 
 
 
-<iframe width="700" height="250" src="/media/6ab2c3f713c82042ae8a3994621ab5af?postId=47f62267661" data-media-id="6ab2c3f713c82042ae8a3994621ab5af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6ab2c3f713c82042ae8a3994621ab5af?postId=47f62267661" data-media-id="6ab2c3f713c82042ae8a3994621ab5af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -149,7 +149,7 @@ There are two types of _classes_: The base _class — _or the parent class�
 
 
 
-<iframe width="700" height="250" src="/media/96c7da2bda52ed185642417cdf5442cf?postId=47f62267661" data-media-id="96c7da2bda52ed185642417cdf5442cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/96c7da2bda52ed185642417cdf5442cf?postId=47f62267661" data-media-id="96c7da2bda52ed185642417cdf5442cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F13845602%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

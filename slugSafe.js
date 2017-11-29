@@ -8,9 +8,10 @@ function output(str = '', colour = 'blue') {
 function formatLog(str = '', colour = 'blue') {
   return chalk[colour](str);
 }
+
 const pagesPath = './src/pages';
-const safeNameMap = fse
-  .readdirSync(pagesPath, 'utf8')
+const files = fse.readdirSync(pagesPath, 'utf8');
+const safeNameMap = files
   .filter(name => !(/\.jsx?$/).test(name))
   .reduce(
     (accu, current) => ({

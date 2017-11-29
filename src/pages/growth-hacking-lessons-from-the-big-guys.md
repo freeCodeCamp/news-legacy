@@ -1,7 +1,7 @@
 ---
 author: Serene Chen
 authorTwitter: https://twitter.com/_serenechen
-authorFacebook: false
+authorFacebook: none
 title: "Launch Lessons: How Tinder, Reddit, Airbnb, Etsy and Uber got their first users"
 subTitle: "This summer, I’ve been working on getting pre-launch buzz for a real estate startup called Suuty. This lead to lots of Googling about wha..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*6IMfaPiF_bnykSH_GaSi3Q.jpeg

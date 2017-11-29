@@ -1,7 +1,7 @@
 ---
 author: Björn Hartmann
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How you can use linear regression models to predict quadratic, root, and polynomial functions"
 subTitle: "When reading articles about machine learning, I often suspect that authors misunderstand the term “linear model.” Many authors suggest th..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*lPsG_BLstPpJi6MZekn7-g.png

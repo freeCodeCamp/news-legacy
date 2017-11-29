@@ -56,7 +56,7 @@ We will structure our example project [by feature](https://blog.risingstack.com/
 
 
 
-<iframe width="700" height="250" src="/media/27f4379d950edb00f8bd7c2ff88bc027?postId=98fc423328e1" data-media-id="27f4379d950edb00f8bd7c2ff88bc027" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1322893%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/27f4379d950edb00f8bd7c2ff88bc027?postId=98fc423328e1" data-media-id="27f4379d950edb00f8bd7c2ff88bc027" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1322893%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -74,7 +74,7 @@ Besides that, we are also bound to the **users-repository** in the **users-spec*
 
 
 
-<iframe width="700" height="250" src="/media/2e0a35e2157586e63d1cb0ae88f4a6a8?postId=98fc423328e1" data-media-id="2e0a35e2157586e63d1cb0ae88f4a6a8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1322893%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2e0a35e2157586e63d1cb0ae88f4a6a8?postId=98fc423328e1" data-media-id="2e0a35e2157586e63d1cb0ae88f4a6a8" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1322893%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -98,7 +98,7 @@ You know what would be really awesome? If we were able to use the module without
 
 
 
-<iframe width="700" height="250" src="/media/88bc72fc6f38f137cf0fecb4fedf94a9?postId=98fc423328e1" data-media-id="88bc72fc6f38f137cf0fecb4fedf94a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1322893%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/88bc72fc6f38f137cf0fecb4fedf94a9?postId=98fc423328e1" data-media-id="88bc72fc6f38f137cf0fecb4fedf94a9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1322893%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ GitHub repository with the examples: [here](https://github.com/rikmms/js-default
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/41ffd2fdfd35682ff2c0d862ef64bb3f?postId=98fc423328e1" data-media-id="41ffd2fdfd35682ff2c0d862ef64bb3f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6YBV1cKRqzU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/41ffd2fdfd35682ff2c0d862ef64bb3f?postId=98fc423328e1" data-media-id="41ffd2fdfd35682ff2c0d862ef64bb3f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6YBV1cKRqzU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

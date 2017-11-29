@@ -1,7 +1,7 @@
 ---
 author: Josh Bowen
 authorTwitter: https://twitter.com/_josh
-authorFacebook: false
+authorFacebook: none
 title: "Want to learn something? Research it and present your work."
 subTitle: "When I’m learning about something, I eventually hit a plateau. It’s hard to fight past this feeling. I’ve found that researching and then..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*37cCD5B_EJ7247jSVy_mzA.jpeg

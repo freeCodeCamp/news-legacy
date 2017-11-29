@@ -1,7 +1,7 @@
 ---
 author: Marie Chuatoco
 authorTwitter: https://twitter.com/mariechuatoco
-authorFacebook: false
+authorFacebook: none
 title: "It turns out my neighbors wanted to learn to code, too. They just didn’t realize it was possible."
 subTitle: "We all have different motivations for starting a coffee-and-code. Studying by yourself at home can be lonely, and less productive. The co..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*bTNbnuyZgF9nHC7IaJGuJQ.jpeg

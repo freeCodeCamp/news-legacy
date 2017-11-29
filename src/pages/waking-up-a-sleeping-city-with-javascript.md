@@ -1,7 +1,7 @@
 ---
 author: Koustuv Sinha
 authorTwitter: https://twitter.com/koustuvsinha
-authorFacebook: false
+authorFacebook: none
 title: "Waking up a sleeping city with JavaScript"
 subTitle: "Not once, but twice, our college became a part of an International community of highly productive and engaging people. The most recent in..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*v4Lqx0NQIeTugNA9w_AlLg.jpeg

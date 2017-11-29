@@ -1,7 +1,7 @@
 ---
 author: John McKim
 authorTwitter: https://twitter.com/johncmckim
-authorFacebook: false
+authorFacebook: none
 title: "How you can speed up serverless development by simulating AWS Lambda locally"
 subTitle: "Designing AWS Lambda functions can be a frustrating experience. Each time you make a change, you have to deploy your code to AWS before y..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*E980zTsgOV5Cpc5JdmXs2A.jpeg

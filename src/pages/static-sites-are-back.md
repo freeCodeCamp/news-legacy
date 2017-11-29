@@ -1,7 +1,7 @@
 ---
 author: Stefanos Vardalos
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "The best static website generators, and when you should choose them over a CMS"
 subTitle: "Back in the day, web pages were static sites, with only HTML and CSS (and later some JavaScript). Try to remember what that actually mean..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*-fH92NH9bTNk086efq-K7w.png

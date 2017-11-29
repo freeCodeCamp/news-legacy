@@ -1,7 +1,7 @@
 ---
 author: JS
 authorTwitter: https://twitter.com/j_speda
-authorFacebook: false
+authorFacebook: none
 title: "A practical guide to fetch(), reduce() and formatting data from an external API"
 subTitle: "JavaScript has built-in methods that make it easy to get and manipulate data from an external API. I’ll walk through a practical example ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*nROAmzDLiFCLQ9z7pMx8Wg.jpeg
@@ -107,7 +107,7 @@ This time, instead of reducing an array of four numbers, we want to reduce our J
 
 
 
-<iframe width="700" height="250" src="/media/b1e72921523f47377e20a382c3f7079f?postId=283ddd9bfdcb" data-media-id="b1e72921523f47377e20a382c3f7079f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F19232348%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b1e72921523f47377e20a382c3f7079f?postId=283ddd9bfdcb" data-media-id="b1e72921523f47377e20a382c3f7079f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F19232348%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

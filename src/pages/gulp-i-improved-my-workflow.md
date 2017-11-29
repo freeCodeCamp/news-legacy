@@ -167,7 +167,7 @@ In the **gulpfile** we’ll declare which plugins are we going to use, the tasks
 
 
 
-<iframe width="700" height="250" src="/media/d23159097715d66621058d3ebf655a86?postId=354d31d25655" data-media-id="d23159097715d66621058d3ebf655a86" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d23159097715d66621058d3ebf655a86?postId=354d31d25655" data-media-id="d23159097715d66621058d3ebf655a86" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -227,7 +227,7 @@ This is my approach to organize the folder of a project managed with Gulp
 
 
 
-<iframe width="700" height="250" src="/media/2ff24c0452e43826decd4e322102634a?postId=354d31d25655" data-media-id="2ff24c0452e43826decd4e322102634a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2ff24c0452e43826decd4e322102634a?postId=354d31d25655" data-media-id="2ff24c0452e43826decd4e322102634a" allowfullscreen="" frameborder="0"></iframe>
 
 
 

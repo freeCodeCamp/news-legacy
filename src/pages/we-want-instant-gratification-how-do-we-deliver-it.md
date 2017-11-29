@@ -1,7 +1,7 @@
 ---
 author: Joe Hanson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Your users crave instant gratification. So how do you give it to them?"
 subTitle: "We want it, and we want it 10 minutes ago...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*rs56mlq8ASjz8lgATs8Gdg.png

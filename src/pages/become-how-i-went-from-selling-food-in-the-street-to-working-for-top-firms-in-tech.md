@@ -1,7 +1,7 @@
 ---
 author: Alvaro Videla
 authorTwitter: https://twitter.com/old_sound
-authorFacebook: false
+authorFacebook: none
 title: "How I went from selling food in the street to working for top firms in tech"
 subTitle: "In this series of articles I want to share with you how I got into the world of programming. I never went to university to study IT, but ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*gQ4StAYHw5j5sVAGSNbIKw.jpeg

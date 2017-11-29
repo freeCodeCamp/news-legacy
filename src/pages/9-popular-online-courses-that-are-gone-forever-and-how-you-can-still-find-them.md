@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "9 popular online courses that are gone forever… and how you can still find them"
 subTitle: "Since free online courses first took off back in late 2011, more than 7,000 online courses have been created by over 700 universities wor..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*2DVs3FFw-RbvNVkA.png
@@ -48,7 +48,7 @@ Luckily, Class Central has an almost complete history of all the courses that ha
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/4137a082fcc738f05013ca504f770e00?postId=a716ddf8e1d9" data-media-id="4137a082fcc738f05013ca504f770e00" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FywanX0GL-1U%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/4137a082fcc738f05013ca504f770e00?postId=a716ddf8e1d9" data-media-id="4137a082fcc738f05013ca504f770e00" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FywanX0GL-1U%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -70,7 +70,7 @@ Another Quora user has [backed up the course materials](https://www.quora.com/Wh
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/7cd5d94b5ed15fbd136aadaf9b519512?postId=a716ddf8e1d9" data-media-id="7cd5d94b5ed15fbd136aadaf9b519512" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZevD-DY2eQE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/7cd5d94b5ed15fbd136aadaf9b519512?postId=a716ddf8e1d9" data-media-id="7cd5d94b5ed15fbd136aadaf9b519512" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZevD-DY2eQE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ Just kidding. The professors of the course have made all the course materials av
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/0a3e9157560150a0352f3e8f0284598b?postId=a716ddf8e1d9" data-media-id="0a3e9157560150a0352f3e8f0284598b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8SyZPBywvNs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/0a3e9157560150a0352f3e8f0284598b?postId=a716ddf8e1d9" data-media-id="0a3e9157560150a0352f3e8f0284598b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8SyZPBywvNs%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ An earlier version of the article pointed to a different course uploaded to Acad
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f11f8668b1c2aadf20f97e07861e7c88?postId=a716ddf8e1d9" data-media-id="f11f8668b1c2aadf20f97e07861e7c88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsGdMBqDPB1A%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f11f8668b1c2aadf20f97e07861e7c88?postId=a716ddf8e1d9" data-media-id="f11f8668b1c2aadf20f97e07861e7c88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsGdMBqDPB1A%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -170,7 +170,7 @@ Each of these courses can be found in two places: YouTube and Academic Torrents.
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/3b061d2b9866ddc743be3356ac91f89b?postId=a716ddf8e1d9" data-media-id="3b061d2b9866ddc743be3356ac91f89b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcxiLTIXajeQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/3b061d2b9866ddc743be3356ac91f89b?postId=a716ddf8e1d9" data-media-id="3b061d2b9866ddc743be3356ac91f89b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcxiLTIXajeQ%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

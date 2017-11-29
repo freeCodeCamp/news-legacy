@@ -44,7 +44,7 @@ And here’s my answer:
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/1e6a1f30603aed0afb1f7be9a98df6fd?postId=fbd7d3a7600f" data-media-id="1e6a1f30603aed0afb1f7be9a98df6fd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/1e6a1f30603aed0afb1f7be9a98df6fd?postId=fbd7d3a7600f" data-media-id="1e6a1f30603aed0afb1f7be9a98df6fd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Marco Massenzio
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to publish your own Python Package on PyPi"
 subTitle: "Want to share your Python code with other developers? Want to make your users’ lives easier when installing your package? Then you should..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*OebmlFYpKPFJJ-qT2qSfiA.jpeg

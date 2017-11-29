@@ -1,7 +1,7 @@
 ---
 author: Michael Olorunnisola
 authorTwitter: https://twitter.com/MikeOlor
-authorFacebook: false
+authorFacebook: none
 title: "A Gentle Introduction to Data Structures: How Queues Work"
 subTitle: "Black Friday’s right around the corner, and the new Microsoft Surface Studio out in stores (I’m a loyal windows guy 😄). So let’s talk ab..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vQPzNuz_TAOwQAkBfuaC6A.jpeg

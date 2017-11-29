@@ -1,7 +1,7 @@
 ---
 author: Radu Raicea
 authorTwitter: https://twitter.com/radu_raicea
-authorFacebook: false
+authorFacebook: none
 title: "How Pretty Good Privacy works, and how you can use it for secure communication"
 subTitle: "Sending sensitive information through the internet is always nerve-racking. What if somebody else sees the bank information I’m sending? ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*z52ec1RmWo163zQc_LNIaQ.jpeg

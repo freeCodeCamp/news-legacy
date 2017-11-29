@@ -1,7 +1,7 @@
 ---
 author: Christian Sepulveda
 authorTwitter: https://twitter.com/csepulv
-authorFacebook: false
+authorFacebook: none
 title: "How to build animated microinteractions in React"
 subTitle: "Microinteractions guide a user through your application. They reinforce your user experience and provide delight...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*qCAbHl_L47s5NrPZnlF6Kw.jpeg
@@ -88,7 +88,7 @@ I’ll create a simple search box. It will comprise two elements: a search icon 
 
 
 
-<iframe width="700" height="250" src="/media/f981b50003f9a871711362be898524e4?postId=aab1cb9fe7c8" data-media-id="f981b50003f9a871711362be898524e4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f981b50003f9a871711362be898524e4?postId=aab1cb9fe7c8" data-media-id="f981b50003f9a871711362be898524e4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -120,7 +120,7 @@ Create `expanding-animation.js`
 
 
 
-<iframe width="700" height="250" src="/media/903830b61dac2aa679616669339dbcd0?postId=aab1cb9fe7c8" data-media-id="903830b61dac2aa679616669339dbcd0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/903830b61dac2aa679616669339dbcd0?postId=aab1cb9fe7c8" data-media-id="903830b61dac2aa679616669339dbcd0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -132,7 +132,7 @@ Update `App.js` as follows:
 
 
 
-<iframe width="700" height="250" src="/media/88c7171b37f9803bed6e059452349239?postId=aab1cb9fe7c8" data-media-id="88c7171b37f9803bed6e059452349239" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/88c7171b37f9803bed6e059452349239?postId=aab1cb9fe7c8" data-media-id="88c7171b37f9803bed6e059452349239" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -168,7 +168,7 @@ Change `expanding-animation.js` as follows,
 
 
 
-<iframe width="700" height="250" src="/media/2bf61ce21f82fe823914fb855f9a3140?postId=aab1cb9fe7c8" data-media-id="2bf61ce21f82fe823914fb855f9a3140" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2bf61ce21f82fe823914fb855f9a3140?postId=aab1cb9fe7c8" data-media-id="2bf61ce21f82fe823914fb855f9a3140" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -182,7 +182,7 @@ Update `SearchBox.js`
 
 
 
-<iframe width="700" height="250" src="/media/86774f8cb34e7ce19e678cc4c3d687bc?postId=aab1cb9fe7c8" data-media-id="86774f8cb34e7ce19e678cc4c3d687bc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/86774f8cb34e7ce19e678cc4c3d687bc?postId=aab1cb9fe7c8" data-media-id="86774f8cb34e7ce19e678cc4c3d687bc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -230,7 +230,7 @@ I can move my humble search box with a CSS transition. Create a new HOC, `move-u
 
 
 
-<iframe width="700" height="250" src="/media/2801ee824bec900ab8b40d106730da3e?postId=aab1cb9fe7c8" data-media-id="2801ee824bec900ab8b40d106730da3e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2801ee824bec900ab8b40d106730da3e?postId=aab1cb9fe7c8" data-media-id="2801ee824bec900ab8b40d106730da3e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -244,7 +244,7 @@ Update `App.js`,
 
 
 
-<iframe width="700" height="250" src="/media/e731abf265d75de755737cc7614478cc?postId=aab1cb9fe7c8" data-media-id="e731abf265d75de755737cc7614478cc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e731abf265d75de755737cc7614478cc?postId=aab1cb9fe7c8" data-media-id="e731abf265d75de755737cc7614478cc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -270,7 +270,7 @@ Create `spring-up-animation.js`
 
 
 
-<iframe width="700" height="250" src="/media/bb0722e78e2c631ba606e95f38357439?postId=aab1cb9fe7c8" data-media-id="bb0722e78e2c631ba606e95f38357439" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bb0722e78e2c631ba606e95f38357439?postId=aab1cb9fe7c8" data-media-id="bb0722e78e2c631ba606e95f38357439" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -314,7 +314,7 @@ Create another HOC, `shake-animation.js`
 
 
 
-<iframe width="700" height="250" src="/media/1914e548cbb8229bc21ba7498ce1dac5?postId=aab1cb9fe7c8" data-media-id="1914e548cbb8229bc21ba7498ce1dac5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1914e548cbb8229bc21ba7498ce1dac5?postId=aab1cb9fe7c8" data-media-id="1914e548cbb8229bc21ba7498ce1dac5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -344,7 +344,7 @@ First, you’ll need to make a few changes to`SearchBox`
 
 
 
-<iframe width="700" height="250" src="/media/92330d0053bd7985ff4f4dc7ba590138?postId=aab1cb9fe7c8" data-media-id="92330d0053bd7985ff4f4dc7ba590138" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/92330d0053bd7985ff4f4dc7ba590138?postId=aab1cb9fe7c8" data-media-id="92330d0053bd7985ff4f4dc7ba590138" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -358,7 +358,7 @@ You also need to change `shake-animation.js`. Clicking the search icon should no
 
 
 
-<iframe width="700" height="250" src="/media/9be8f98c0da38a3aedcb5f07ad0bc4d1?postId=aab1cb9fe7c8" data-media-id="9be8f98c0da38a3aedcb5f07ad0bc4d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9be8f98c0da38a3aedcb5f07ad0bc4d1?postId=aab1cb9fe7c8" data-media-id="9be8f98c0da38a3aedcb5f07ad0bc4d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -378,7 +378,7 @@ Create `search-box-controller.js`
 
 
 
-<iframe width="700" height="250" src="/media/e00abcef5149779c5b27e6246a370345?postId=aab1cb9fe7c8" data-media-id="e00abcef5149779c5b27e6246a370345" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e00abcef5149779c5b27e6246a370345?postId=aab1cb9fe7c8" data-media-id="e00abcef5149779c5b27e6246a370345" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -396,7 +396,7 @@ Another small update to`App.js`
 
 
 
-<iframe width="700" height="250" src="/media/bc9271321226d75c283f38f4f3ef95e6?postId=aab1cb9fe7c8" data-media-id="bc9271321226d75c283f38f4f3ef95e6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bc9271321226d75c283f38f4f3ef95e6?postId=aab1cb9fe7c8" data-media-id="bc9271321226d75c283f38f4f3ef95e6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F4239020%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

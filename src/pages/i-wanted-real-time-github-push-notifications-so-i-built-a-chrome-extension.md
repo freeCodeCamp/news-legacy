@@ -1,6 +1,6 @@
 ---
 author: Stacy Goh
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10206668550983315
 title: "I wanted real time GitHub push notifications. So I built a Chrome extension."
 subTitle: "I’ve been using GitHub for more than two years now. A few days ago, I was wondering why there were no push notifications for GitHub. I al..."

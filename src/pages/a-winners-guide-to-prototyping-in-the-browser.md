@@ -1,7 +1,7 @@
 ---
 author: Matt Rothenberg
 authorTwitter: https://twitter.com/mattrothenberg
-authorFacebook: false
+authorFacebook: none
 title: "I wrote a playbook to help designers build prototypes using real code"
 subTitle: "I’ve built a Prototyping Playbook — a blog of short tutorials (or “plays”) that help designers use the browser for their design and proto..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*l8BX0PJFsstO4NtTa6CKUA.png

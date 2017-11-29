@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "7 Reasons to Outlaw React’s Functional Components"
 subTitle: "Are React’s Functional Components Worth The Cost?"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*nywxB5PdmQq8zmB_TnMTbQ.jpeg

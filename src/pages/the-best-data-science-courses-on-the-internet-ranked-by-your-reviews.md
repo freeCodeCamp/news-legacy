@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "The best Data Science courses on the internet, ranked by your reviews"
 subTitle: "A year and a half ago, I dropped out of one of the best computer science programs in Canada. I started creating my own data science maste..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*_XW9Jb0dJeQkJRDe7cz0lw.jpeg
@@ -127,7 +127,7 @@ The courses in the UT Austin’s Foundations of Data Analysis series are two of 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c912508da3f3ad0121fbc83270da9e19?postId=6dc5b910ea40" data-media-id="c912508da3f3ad0121fbc83270da9e19" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fl_RzyzpI8YA%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c912508da3f3ad0121fbc83270da9e19?postId=6dc5b910ea40" data-media-id="c912508da3f3ad0121fbc83270da9e19" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fl_RzyzpI8YA%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -153,7 +153,7 @@ Kirill Eremenko’s Data Science A-Z excels in breadth and depth of coverage of 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/863769024f02081f21e74f9c8955cf0d?postId=6dc5b910ea40" data-media-id="863769024f02081f21e74f9c8955cf0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0hPGFGp0CnU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/863769024f02081f21e74f9c8955cf0d?postId=6dc5b910ea40" data-media-id="863769024f02081f21e74f9c8955cf0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0hPGFGp0CnU%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -199,7 +199,7 @@ Taught by the famous Andrew Ng, Google Brain founder and former chief scientist 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/cb240c78882b7e35705866326891eba4?postId=6dc5b910ea40" data-media-id="cb240c78882b7e35705866326891eba4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe0WKJLovaZg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/cb240c78882b7e35705866326891eba4?postId=6dc5b910ea40" data-media-id="cb240c78882b7e35705866326891eba4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe0WKJLovaZg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -225,7 +225,7 @@ Parag Mital’s Creative Applications of Deep Learning with Tensorflow adds a un
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ac48772806999283de23fe916ed40543?postId=6dc5b910ea40" data-media-id="ac48772806999283de23fe916ed40543" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9YVSZJ3mkic%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ac48772806999283de23fe916ed40543?postId=6dc5b910ea40" data-media-id="ac48772806999283de23fe916ed40543" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9YVSZJ3mkic%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -279,7 +279,7 @@ Stanford University’s Introduction to Databases covers database theory compreh
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/153dd77c8a615eda9a8d7521c3f688fa?postId=6dc5b910ea40" data-media-id="153dd77c8a615eda9a8d7521c3f688fa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FShjrtAQmIVg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/153dd77c8a615eda9a8d7521c3f688fa?postId=6dc5b910ea40" data-media-id="153dd77c8a615eda9a8d7521c3f688fa" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FShjrtAQmIVg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -306,7 +306,7 @@ Udacity’s Data Analysis with R is an enjoyable introduction to exploratory dat
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/793b50dfe869440a91a2e3e9322f5c84?postId=6dc5b910ea40" data-media-id="793b50dfe869440a91a2e3e9322f5c84" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDDNSMG_RltY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/793b50dfe869440a91a2e3e9322f5c84?postId=6dc5b910ea40" data-media-id="793b50dfe869440a91a2e3e9322f5c84" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDDNSMG_RltY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -329,7 +329,7 @@ Frank Kane’s Big Data series teaches all of the most popular big data technolo
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/385bc12c6bc40190aee420e6eda266f6?postId=6dc5b910ea40" data-media-id="385bc12c6bc40190aee420e6eda266f6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTt6NSpb4Gos%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/385bc12c6bc40190aee420e6eda266f6?postId=6dc5b910ea40" data-media-id="385bc12c6bc40190aee420e6eda266f6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTt6NSpb4Gos%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -351,7 +351,7 @@ Software skills are an [oft-overlooked](http://partiallyderivative.com/podcast/2
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/6ed16a5b90add48489b73fcc09cc7617?postId=6dc5b910ea40" data-media-id="6ed16a5b90add48489b73fcc09cc7617" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSBUOhyXcR1Q%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/6ed16a5b90add48489b73fcc09cc7617?postId=6dc5b910ea40" data-media-id="6ed16a5b90add48489b73fcc09cc7617" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSBUOhyXcR1Q%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -375,7 +375,7 @@ Dr. Barbara Oakley’s Learning How to Learn and Mindshift aren’t data science
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/7460ca44a93612b9fb3badbb2af8862c?postId=6dc5b910ea40" data-media-id="7460ca44a93612b9fb3badbb2af8862c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnT5Afh6V6i4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/7460ca44a93612b9fb3badbb2af8862c?postId=6dc5b910ea40" data-media-id="7460ca44a93612b9fb3badbb2af8862c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnT5Afh6V6i4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -399,7 +399,7 @@ I’m joining Udacity because I believe they are creating the best education pro
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/9d83d439ba8ed9874a2f9d407d9a9413?postId=6dc5b910ea40" data-media-id="9d83d439ba8ed9874a2f9d407d9a9413" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiC3eZwI4Lt8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/9d83d439ba8ed9874a2f9d407d9a9413?postId=6dc5b910ea40" data-media-id="9d83d439ba8ed9874a2f9d407d9a9413" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiC3eZwI4Lt8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,6 +1,6 @@
 ---
 author: Justin Lynn Reid
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/100008312972063
 title: "Coding from a Meteorologist’s Perspective"
 subTitle: "Aside from researchers and TV weather people, few people are versed in the technical side of meteorology and atmospheric science...."

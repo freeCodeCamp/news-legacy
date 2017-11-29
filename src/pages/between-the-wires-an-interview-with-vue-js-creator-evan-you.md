@@ -1,7 +1,7 @@
 ---
 author: Vivian Cromwell
 authorTwitter: https://twitter.com/viviancromwell
-authorFacebook: false
+authorFacebook: none
 title: "Between the Wires: An interview with Vue.js creator Evan You"
 subTitle: "I interviewed Evan You, the creator of vuejs.org which is a popular progressive JavaScript framework. Evan works on Vue full time with th..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*xkJgg-6HskYrQ3N7.jpeg
@@ -206,7 +206,7 @@ Obviously [TJ Holowaychuck](https://twitter.com/tjholowaychuk) and [Guillermo Ra
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/b3df5dcd0dc099c1ca67ceeaee248475?postId=e383cbf57cc4" data-media-id="b3df5dcd0dc099c1ca67ceeaee248475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/b3df5dcd0dc099c1ca67ceeaee248475?postId=e383cbf57cc4" data-media-id="b3df5dcd0dc099c1ca67ceeaee248475" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

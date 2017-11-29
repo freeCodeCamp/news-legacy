@@ -1,7 +1,7 @@
 ---
 author: Dhawal Shah
 authorTwitter: https://twitter.com/dhawalhshah
-authorFacebook: false
+authorFacebook: none
 title: "The 50 best free online university courses according to data"
 subTitle: "When I launched Class Central back in November 2011, there were around 18 or so free online courses, and almost all of them were from Sta..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*wlKcolcP3qEGIUij.png
@@ -70,7 +70,7 @@ _Vanderbilt University, via Coursera_ This course teaches computer programming t
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/cb240c78882b7e35705866326891eba4?postId=b2d9a64edfac" data-media-id="cb240c78882b7e35705866326891eba4" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/cb240c78882b7e35705866326891eba4?postId=b2d9a64edfac" data-media-id="cb240c78882b7e35705866326891eba4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ _University of Waikato, via Independent_ Everybody talks about Data Mining and B
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/db07c5541bd42a36679ec447dbd23f2a?postId=b2d9a64edfac" data-media-id="db07c5541bd42a36679ec447dbd23f2a" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/db07c5541bd42a36679ec447dbd23f2a?postId=b2d9a64edfac" data-media-id="db07c5541bd42a36679ec447dbd23f2a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ _University of Urbino, via EMMA_ Questo corso è ambizioso e semplicissimo. Ha l
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/7460ca44a93612b9fb3badbb2af8862c?postId=b2d9a64edfac" data-media-id="7460ca44a93612b9fb3badbb2af8862c" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/7460ca44a93612b9fb3badbb2af8862c?postId=b2d9a64edfac" data-media-id="7460ca44a93612b9fb3badbb2af8862c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -195,7 +195,7 @@ _University of Minnesota, via Coursera_ This course provides a foundation for de
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c952a892ebb43568e689a918917ae117?postId=b2d9a64edfac" data-media-id="c952a892ebb43568e689a918917ae117" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c952a892ebb43568e689a918917ae117?postId=b2d9a64edfac" data-media-id="c952a892ebb43568e689a918917ae117" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -227,7 +227,7 @@ _Massachusetts Institute of Technology, via edX_ Explore the secret of life thro
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/b98836c428928d93965170eda532b46e?postId=b2d9a64edfac" data-media-id="b98836c428928d93965170eda532b46e" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/b98836c428928d93965170eda532b46e?postId=b2d9a64edfac" data-media-id="b98836c428928d93965170eda532b46e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -251,7 +251,7 @@ _Massachusetts Institute of Technology, via edX_ Learn techniques that are found
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/468cf364669f998f3489a4838ef9c89b?postId=b2d9a64edfac" data-media-id="468cf364669f998f3489a4838ef9c89b" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/468cf364669f998f3489a4838ef9c89b?postId=b2d9a64edfac" data-media-id="468cf364669f998f3489a4838ef9c89b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -289,7 +289,7 @@ _University of Pennsylvania, via Coursera_ ModPo is a fast-paced introduction to
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/f69cd5f8f9025502b9a5fd46519327f2?postId=b2d9a64edfac" data-media-id="f69cd5f8f9025502b9a5fd46519327f2" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/f69cd5f8f9025502b9a5fd46519327f2?postId=b2d9a64edfac" data-media-id="f69cd5f8f9025502b9a5fd46519327f2" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -321,7 +321,7 @@ _Yale University, via Coursera_ How can we explain kindness and cruelty? Where d
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/611e633bfa62ac54e9379b7c87ff71a1?postId=b2d9a64edfac" data-media-id="611e633bfa62ac54e9379b7c87ff71a1" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/611e633bfa62ac54e9379b7c87ff71a1?postId=b2d9a64edfac" data-media-id="611e633bfa62ac54e9379b7c87ff71a1" allowfullscreen="" frameborder="0"></iframe>
 
 
 

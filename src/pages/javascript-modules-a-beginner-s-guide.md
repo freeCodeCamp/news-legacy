@@ -86,7 +86,7 @@ There are several ways to accomplish the module pattern. In this first example, 
 
 
 
-<iframe width="700" height="250" src="/media/91ec63d351fff778ad269a5d37d5c29b?postId=783f7d7a5fcc" data-media-id="91ec63d351fff778ad269a5d37d5c29b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/91ec63d351fff778ad269a5d37d5c29b?postId=783f7d7a5fcc" data-media-id="91ec63d351fff778ad269a5d37d5c29b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -100,7 +100,7 @@ What’s nice about this approach is that is that you can use local variables in
 
 
 
-<iframe width="700" height="250" src="/media/334a76472694d457f71d4ed82886f072?postId=783f7d7a5fcc" data-media-id="334a76472694d457f71d4ed82886f072" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/334a76472694d457f71d4ed82886f072?postId=783f7d7a5fcc" data-media-id="334a76472694d457f71d4ed82886f072" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -115,7 +115,7 @@ Another popular approach used by libraries like [jQuery](https://github.com/jque
 
 
 
-<iframe width="700" height="250" src="/media/ef109435f6c16971615242337dba0943?postId=783f7d7a5fcc" data-media-id="ef109435f6c16971615242337dba0943" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ef109435f6c16971615242337dba0943?postId=783f7d7a5fcc" data-media-id="ef109435f6c16971615242337dba0943" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -130,7 +130,7 @@ Yet another approach is to create modules using a self-contained object interfac
 
 
 
-<iframe width="700" height="250" src="/media/bd806b82369bb1c6b72855693c323114?postId=783f7d7a5fcc" data-media-id="bd806b82369bb1c6b72855693c323114" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bd806b82369bb1c6b72855693c323114?postId=783f7d7a5fcc" data-media-id="bd806b82369bb1c6b72855693c323114" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -145,7 +145,7 @@ This is very similar to the above approach, except that it ensures all methods a
 
 
 
-<iframe width="700" height="250" src="/media/c36d6b3741a839cb9ea6d678799cb5b5?postId=783f7d7a5fcc" data-media-id="c36d6b3741a839cb9ea6d678799cb5b5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c36d6b3741a839cb9ea6d678799cb5b5?postId=783f7d7a5fcc" data-media-id="c36d6b3741a839cb9ea6d678799cb5b5" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -191,7 +191,7 @@ When you’re defining a CommonJS module, it might look something like this:
 
 
 
-<iframe width="700" height="250" src="/media/d110861a2de49aed296278241d70c4c1?postId=783f7d7a5fcc" data-media-id="d110861a2de49aed296278241d70c4c1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d110861a2de49aed296278241d70c4c1?postId=783f7d7a5fcc" data-media-id="d110861a2de49aed296278241d70c4c1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -205,7 +205,7 @@ Then when someone wants to use _myModule_, they can require it in their file, li
 
 
 
-<iframe width="700" height="250" src="/media/08f51e76255dce6ef2af1577c9923eaa?postId=783f7d7a5fcc" data-media-id="08f51e76255dce6ef2af1577c9923eaa" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/08f51e76255dce6ef2af1577c9923eaa?postId=783f7d7a5fcc" data-media-id="08f51e76255dce6ef2af1577c9923eaa" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -232,7 +232,7 @@ Loading modules using AMD looks something like this:
 
 
 
-<iframe width="700" height="250" src="/media/65ff1afea5c79a074fc95ae1782bb59c?postId=783f7d7a5fcc" data-media-id="65ff1afea5c79a074fc95ae1782bb59c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/65ff1afea5c79a074fc95ae1782bb59c?postId=783f7d7a5fcc" data-media-id="65ff1afea5c79a074fc95ae1782bb59c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -248,7 +248,7 @@ For example, **_myModule_** might look like this:
 
 
 
-<iframe width="700" height="250" src="/media/8e31c62d80c0aa92e58e61705557f08b?postId=783f7d7a5fcc" data-media-id="8e31c62d80c0aa92e58e61705557f08b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8e31c62d80c0aa92e58e61705557f08b?postId=783f7d7a5fcc" data-media-id="8e31c62d80c0aa92e58e61705557f08b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -272,7 +272,7 @@ Here’s a quick taste of how UMD goes about its business:
 
 
 
-<iframe width="700" height="250" src="/media/8d40efea354b706b0650d6fa1c5568e7?postId=783f7d7a5fcc" data-media-id="8d40efea354b706b0650d6fa1c5568e7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8d40efea354b706b0650d6fa1c5568e7?postId=783f7d7a5fcc" data-media-id="8d40efea354b706b0650d6fa1c5568e7" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -303,7 +303,7 @@ Here’s an example of how that works:
 
 
 
-<iframe width="700" height="250" src="/media/ed292d4ebb82672ecc9ce56a3d919a88?postId=783f7d7a5fcc" data-media-id="ed292d4ebb82672ecc9ce56a3d919a88" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ed292d4ebb82672ecc9ce56a3d919a88?postId=783f7d7a5fcc" data-media-id="ed292d4ebb82672ecc9ce56a3d919a88" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -319,7 +319,7 @@ So, incrementing the counter will increment it in the module, but won’t increm
 
 
 
-<iframe width="700" height="250" src="/media/a133d17e8d7d0b06b85b5a89ff206352?postId=783f7d7a5fcc" data-media-id="a133d17e8d7d0b06b85b5a89ff206352" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a133d17e8d7d0b06b85b5a89ff206352?postId=783f7d7a5fcc" data-media-id="a133d17e8d7d0b06b85b5a89ff206352" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -331,7 +331,7 @@ On the other hand, ES6 creates a live read-only view of the modules we import:
 
 
 
-<iframe width="700" height="250" src="/media/c2bd1f56872c9037099cc81d60b6fd78?postId=783f7d7a5fcc" data-media-id="c2bd1f56872c9037099cc81d60b6fd78" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c2bd1f56872c9037099cc81d60b6fd78?postId=783f7d7a5fcc" data-media-id="c2bd1f56872c9037099cc81d60b6fd78" allowfullscreen="" frameborder="0"></iframe>
 
 
 

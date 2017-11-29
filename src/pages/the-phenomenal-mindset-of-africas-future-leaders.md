@@ -60,7 +60,7 @@ Last year the hashtag #theAfricaTheMediaNeverShowsYou went viral. African youth 
 
 
 
-<iframe width="500" height="250" src="/media/c5bc02de7a6435a40fe574b82301b7c7?postId=6045176bb54b" data-media-id="c5bc02de7a6435a40fe574b82301b7c7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/c5bc02de7a6435a40fe574b82301b7c7?postId=6045176bb54b" data-media-id="c5bc02de7a6435a40fe574b82301b7c7" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -228,7 +228,7 @@ And if you have a moment, watch my full TED talk here:
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/fc0b9864ef3dd20d16269ef4b6718521?postId=6045176bb54b" data-media-id="fc0b9864ef3dd20d16269ef4b6718521" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/fc0b9864ef3dd20d16269ef4b6718521?postId=6045176bb54b" data-media-id="fc0b9864ef3dd20d16269ef4b6718521" allowfullscreen="" frameborder="0"></iframe>
 
 
 

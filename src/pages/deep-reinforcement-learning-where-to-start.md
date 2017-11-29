@@ -1,6 +1,6 @@
 ---
 author: Jannes Klaas
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/985657368122537
 title: "Deep reinforcement learning: where to start"
 subTitle: "Last year, DeepMind’s AlphaGo beat Go world champion Lee Sedol 4–1. More than 200 million people watched as reinforcement learning (RL) t..."
@@ -142,7 +142,7 @@ During gameplay, all the experiences are stored in a **replay memory**. This act
 
 
 
-<iframe width="700" height="250" src="/media/69f950d0b34cbd71362aac009bae5653?postId=291fb0058c01" data-media-id="69f950d0b34cbd71362aac009bae5653" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/69f950d0b34cbd71362aac009bae5653?postId=291fb0058c01" data-media-id="69f950d0b34cbd71362aac009bae5653" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ Already, this model performs quite well on this simple version of Catch. Head ov
 
 
 
-<iframe width="700" height="250" src="/media/68b7ff5d5ddfb7fb783b6b6d299a280a?postId=291fb0058c01" data-media-id="68b7ff5d5ddfb7fb783b6b6d299a280a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16643917%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/68b7ff5d5ddfb7fb783b6b6d299a280a?postId=291fb0058c01" data-media-id="68b7ff5d5ddfb7fb783b6b6d299a280a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16643917%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -180,7 +180,7 @@ Now we can define the training method:
 
 
 
-<iframe width="700" height="250" src="/media/465c39e1f78d2591d0492a57ad39da57?postId=291fb0058c01" data-media-id="465c39e1f78d2591d0492a57ad39da57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16643917%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/465c39e1f78d2591d0492a57ad39da57?postId=291fb0058c01" data-media-id="465c39e1f78d2591d0492a57ad39da57" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F16643917%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

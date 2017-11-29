@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "I ranked every Intro to Data Science course on the internet, based on thousands of data points"
 subTitle: "A year ago, I dropped out of one of the best computer science programs in Canada. I started creating my own data science master’s program..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*s4RqFZgSAluZq2lcWhp5JA.png
@@ -150,7 +150,7 @@ One prominent reviewer noted the following:
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/863769024f02081f21e74f9c8955cf0d?postId=db5dc7e3eb8e" data-media-id="863769024f02081f21e74f9c8955cf0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0hPGFGp0CnU%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/863769024f02081f21e74f9c8955cf0d?postId=db5dc7e3eb8e" data-media-id="863769024f02081f21e74f9c8955cf0d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0hPGFGp0CnU%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -176,7 +176,7 @@ The videos are well-produced and the instructor (Caroline Buckey) is clear and p
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c99537ec7d94d0731d3c414169a67447?postId=db5dc7e3eb8e" data-media-id="c99537ec7d94d0731d3c414169a67447" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcAceF0h4vpI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c99537ec7d94d0731d3c414169a67447?postId=db5dc7e3eb8e" data-media-id="c99537ec7d94d0731d3c414169a67447" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcAceF0h4vpI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -202,7 +202,7 @@ It covers the full data science process and introduces Python, R, and several ot
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/145ec3153b866a3d57efbcdbe19edc3b?postId=db5dc7e3eb8e" data-media-id="145ec3153b866a3d57efbcdbe19edc3b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fz1kPKBdYks4%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/145ec3153b866a3d57efbcdbe19edc3b?postId=db5dc7e3eb8e" data-media-id="145ec3153b866a3d57efbcdbe19edc3b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fz1kPKBdYks4%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

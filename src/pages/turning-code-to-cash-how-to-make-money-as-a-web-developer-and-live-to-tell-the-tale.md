@@ -1,7 +1,7 @@
 ---
 author: Kurt
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Turning code to cash — How to make money as a Web Developer and live to tell the tale."
 subTitle: "So you just learnt to code. You’re eager and anyone who can’t code thinks you’re a genius, word gets out and all of a sudden every guy yo..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vXjx4Y7EgQBwALkaeZJ0Cg.jpeg

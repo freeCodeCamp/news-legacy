@@ -1,7 +1,7 @@
 ---
 author: Googley as Heck
 authorTwitter: https://twitter.com/googleyasheck
-authorFacebook: false
+authorFacebook: none
 title: "Why I studied full-time for 8 months for a Google interview"
 subTitle: "It’s true. I’ve spent thousands of hours reading books, writing code, and watching computer science lectures, all to prepare for the Goog..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*_xiC6icpxVB09SO6d4VsgQ.jpeg

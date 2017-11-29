@@ -1,7 +1,7 @@
 ---
 author: Pablo E. Cortez
 authorTwitter: https://twitter.com/pabscortez
-authorFacebook: false
+authorFacebook: none
 title: "Binary Search Algorithms Explained using C++"
 subTitle: "Binary search is one of those algorithms that you’ll come across on every (good) introductory computer science class. It’s an efficient a..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*j1pc-U3OlcABlHUk9FAB0w.jpeg
@@ -137,7 +137,7 @@ Here’s a solution, written in C++:
 
 
 
-<iframe width="700" height="250" src="/media/a01ba9f368ab0e974a4a65a3511ab581?postId=d4b554418ac4" data-media-id="a01ba9f368ab0e974a4a65a3511ab581" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9813882%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a01ba9f368ab0e974a4a65a3511ab581?postId=d4b554418ac4" data-media-id="a01ba9f368ab0e974a4a65a3511ab581" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F9813882%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

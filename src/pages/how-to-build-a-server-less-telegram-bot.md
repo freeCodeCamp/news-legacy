@@ -1,7 +1,7 @@
 ---
 author: Moses Soh
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "I built a serverless Telegram bot over the weekend. Here’s what I learned."
 subTitle: "I built a Telegram chatbot that sends out a SOS to rescuers when someone is stranded in the rain. It’s written in Python using AWS Lambda..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*IU6691dCvEaCl46zvhZMrg.jpeg
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/how-to-build-a-server-less-telegram-bot-227
 id: how-to-build-a-server-less-telegram-bot-227f842f4706
 date: 2017-09-25T06:40:30.642Z
 tags: [
-  "Serverless",
-  "Telegram",
-  "Python",
-  "Chatbots",
-  "Startup"
+	"Serverless",
+	"Telegram",
+	"Python",
+	"Chatbots",
+	"Startup"
 ]
 ---
 # I built a serverless Telegram bot over the weekend. Here’s what I learned.
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IU6691dCvEaCl46zvhZMrg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*IU6691dCvEaCl46zvhZMrg.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*IU6691dCvEaCl46zvhZMrg.jpeg"&gt;</noscript>
 
 
 
@@ -58,11 +55,9 @@ Imagine my surprise this weekend when she asked me — pretty much out of th
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl4FGni1RBAR2OWsGk%2Fgiphy.gif&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<iframe data-width="435" data-height="246" width="435" height="246" data-src="/media/d86879fd098964acfcb8c713abcb8022?postId=227f842f4706" data-media-id="d86879fd098964acfcb8c713abcb8022" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl4FGni1RBAR2OWsGk%2Fgiphy.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="246" width="435" height="246" data-src="https://medium.freecodecamp.org/media/d86879fd098964acfcb8c713abcb8022?postId=227f842f4706" data-media-id="d86879fd098964acfcb8c713abcb8022" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl4FGni1RBAR2OWsGk%2Fgiphy.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME data-width="435" data-height="246" width="435" height="246" src="/media/d86879fd098964acfcb8c713abcb8022?postId=227f842f4706" data-media-id="d86879fd098964acfcb8c713abcb8022" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl4FGni1RBAR2OWsGk%2Fgiphy.gif&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -92,11 +87,8 @@ I started working on this on Saturday afternoon and went to bed at 2am on Sunday
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8fRnEXxnziTXq0_eCPFaJw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*8fRnEXxnziTXq0_eCPFaJw.gif"&gt;</noscript>
 
 
 
@@ -112,11 +104,8 @@ This is what the chatbot does when you request an umbrella
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*OTwyQWY2fa8j2-UbRNoR7A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*OTwyQWY2fa8j2-UbRNoR7A.gif"&gt;</noscript>
 
 
 
@@ -132,11 +121,8 @@ This is how someone becomes a rescuer
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*HMzdeOZzu7wwGzunxn5rOg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*HMzdeOZzu7wwGzunxn5rOg.gif"&gt;</noscript>
 
 
 
@@ -178,11 +164,8 @@ Visit the [Botfather](https://t.me/botfather). Type `/newbot` and follow his ins
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*j6lJlDAPADGvjhFlhrOQGA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="11"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*j6lJlDAPADGvjhFlhrOQGA.png"&gt;</noscript>
 
 
 
@@ -213,11 +196,9 @@ After flask is installed, we’ll set up a basic server to test our bot. Copy th
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/02f998f5769f7474a601ee96ac5449d9?postId=227f842f4706" data-media-id="02f998f5769f7474a601ee96ac5449d9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/02f998f5769f7474a601ee96ac5449d9?postId=227f842f4706" data-media-id="02f998f5769f7474a601ee96ac5449d9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/02f998f5769f7474a601ee96ac5449d9?postId=227f842f4706" data-media-id="02f998f5769f7474a601ee96ac5449d9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -237,11 +218,9 @@ Let’s break down what this is doing. Telegram’s API works this way. Firstly,
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/f9d6e84ceed0f2cd3bdc87630076596a?postId=227f842f4706" data-media-id="f9d6e84ceed0f2cd3bdc87630076596a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/f9d6e84ceed0f2cd3bdc87630076596a?postId=227f842f4706" data-media-id="f9d6e84ceed0f2cd3bdc87630076596a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/f9d6e84ceed0f2cd3bdc87630076596a?postId=227f842f4706" data-media-id="f9d6e84ceed0f2cd3bdc87630076596a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -259,11 +238,9 @@ The function `process_update()` and the decorator above it says that when anyone
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/e178e465134a9e7d01f2a56a505af392?postId=227f842f4706" data-media-id="e178e465134a9e7d01f2a56a505af392" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/e178e465134a9e7d01f2a56a505af392?postId=227f842f4706" data-media-id="e178e465134a9e7d01f2a56a505af392" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/e178e465134a9e7d01f2a56a505af392?postId=227f842f4706" data-media-id="e178e465134a9e7d01f2a56a505af392" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 
@@ -302,11 +279,8 @@ You’ll see something similar in your command prompt. Now whatever server you�
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ajbuzROMpw1Tpkqhj1BPfQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ajbuzROMpw1Tpkqhj1BPfQ.png"&gt;</noscript>
 
 
 
@@ -326,11 +300,9 @@ Create a file called `webhook.py` with the following content:
 
 ![](https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&key=a19fcc184b9711e1b4764040d3dc5c07&width=40)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas>
 
-<iframe width="700" height="250" data-src="/media/8ce78f8e50c444e8b2bef667e6cddba0?postId=227f842f4706" data-media-id="8ce78f8e50c444e8b2bef667e6cddba0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" data-src="https://medium.freecodecamp.org/media/8ce78f8e50c444e8b2bef667e6cddba0?postId=227f842f4706" data-media-id="8ce78f8e50c444e8b2bef667e6cddba0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" frameborder="0"></iframe>
 
-<noscript class="js-progressiveMedia-inner">&lt;div class="iframeContainer"&gt;&lt;IFRAME width="700" height="250" src="/media/8ce78f8e50c444e8b2bef667e6cddba0?postId=227f842f4706" data-media-id="8ce78f8e50c444e8b2bef667e6cddba0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8145610%3Fv%3D4%26s%3D400&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen frameborder="0"&gt;&lt;/IFRAME&gt;&lt;/div&gt;</noscript>
 
 
 

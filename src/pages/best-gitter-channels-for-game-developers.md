@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Best Gitter channels for: Game Developers"
 subTitle: "Today we have probably the most fun collection of Gitter communities — those for game developers. No matter if you’ve already spent hours..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*NEcmXRZYM4RIJgOYsSfmUg.png

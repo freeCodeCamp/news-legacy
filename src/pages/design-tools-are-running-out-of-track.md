@@ -1,7 +1,7 @@
 ---
 author: Colm Tuite
 authorTwitter: https://twitter.com/colmtuite
-authorFacebook: false
+authorFacebook: none
 title: "Design tools are running out of track. Here’s how we can fix them."
 subTitle: "Rarely a day goes by where I don’t spend at least some time thinking about design tools. A few years ago, I built a design tool which was..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*_VWdbAYvJcC4A8_uHGj_jQ.jpeg
@@ -40,7 +40,7 @@ Recently, I tweeted about design tools — a thing which has been known to h
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/6d66836e15a7f54a9e2290cb665365de?postId=94f21b6ae939" data-media-id="6d66836e15a7f54a9e2290cb665365de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F864164353771229187%2FCatw6Nmh_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/6d66836e15a7f54a9e2290cb665365de?postId=94f21b6ae939" data-media-id="6d66836e15a7f54a9e2290cb665365de" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F864164353771229187%2FCatw6Nmh_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -52,7 +52,7 @@ I wasn’t the only one to speak my mind that day, others chimed in too.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/e1bf7a989e77962a2649e49b7e1dcae7?postId=94f21b6ae939" data-media-id="e1bf7a989e77962a2649e49b7e1dcae7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F885265825099161600%2FVggScmJW_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/e1bf7a989e77962a2649e49b7e1dcae7?postId=94f21b6ae939" data-media-id="e1bf7a989e77962a2649e49b7e1dcae7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F885265825099161600%2FVggScmJW_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -64,7 +64,7 @@ July 28, 2017 was not a good day for design tools.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/3848a621c300188590503ea480d0562d?postId=94f21b6ae939" data-media-id="3848a621c300188590503ea480d0562d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F833785170285178881%2FloBb32g3_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/3848a621c300188590503ea480d0562d?postId=94f21b6ae939" data-media-id="3848a621c300188590503ea480d0562d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F833785170285178881%2FloBb32g3_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

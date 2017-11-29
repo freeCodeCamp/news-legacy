@@ -1,7 +1,7 @@
 ---
 author: Jedidiah Yueh
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Where to find top talent: the systems map of Silicon Valley"
 subTitle: "When I started my second software company, one of my venture capitalists asked if I really planned to build another technology company in..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*Yb9ZYTTGkgUD5smMEWaFxA.png
@@ -180,7 +180,7 @@ Sign up below to get periodic updates, notes on innovation, and a little frivoli
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/abd8b47cb5088d2cebccc6f8cae3ea8c?postId=4bb14b98da4a" data-media-id="abd8b47cb5088d2cebccc6f8cae3ea8c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fe.enpose.co%2F%3Fkey%3DdRXnS9Gplk%26w%3D700%26h%3D425%26url%3Dhttps%253A%252F%252Fupscri.be%252Fc75446%252F%253Fenpose&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/abd8b47cb5088d2cebccc6f8cae3ea8c?postId=4bb14b98da4a" data-media-id="abd8b47cb5088d2cebccc6f8cae3ea8c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fe.enpose.co%2F%3Fkey%3DdRXnS9Gplk%26w%3D700%26h%3D425%26url%3Dhttps%253A%252F%252Fupscri.be%252Fc75446%252F%253Fenpose&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Jonathan Z. White
 authorTwitter: https://twitter.com/JonathanZWhite
-authorFacebook: false
+authorFacebook: none
 title: "From Zero to Front-end Hero (Part 1)"
 subTitle: "I remember when I first started learning front-end development. I encountered so many articles, and was so overwhelmed by how much materi..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vcUBRwST9B4bJcVCbailhw.png

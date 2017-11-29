@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
 authorTwitter: https://twitter.com/freeCodeCamp
-authorFacebook: false
+authorFacebook: none
 title: "Powering up with GitHub"
 subTitle: "Originally published on our now-defunct blog on August 5, 2015...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*-EgxXHHeg5ZLijuz.jpeg

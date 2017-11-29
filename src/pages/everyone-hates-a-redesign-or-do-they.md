@@ -1,7 +1,7 @@
 ---
 author: Mike Frederick Ziethlow
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Haters gonna hate: what we can learn from Facebook’s 2006 news feed redesign"
 subTitle: "Imagine you’re a software developer. You get put on a team to redesign a core feature of your company’s application. You spend months col..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*FL6_VFo_IoZIGr0sA-vVOQ.jpeg

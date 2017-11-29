@@ -1,7 +1,7 @@
 ---
 author: benjamin bannister
 authorTwitter: https://twitter.com/mrbenbannister
-authorFacebook: false
+authorFacebook: none
 title: "SEO Secrets: Reverse-Engineering Google’s Algorithm"
 subTitle: "What have I learned from creating content for the internet? One thing is crystal clear: if you want people to discover your work, you nee..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*534CcgVNnmTtKNiqphMk-w.gif

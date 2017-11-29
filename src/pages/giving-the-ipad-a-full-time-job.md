@@ -1,7 +1,7 @@
 ---
 author: Justin Searls
 authorTwitter: https://twitter.com/searls
-authorFacebook: false
+authorFacebook: none
 title: "Giving the iPad a full-time job"
 subTitle: "[A translation of this post is available in Chinese]..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*z8lajn_1giEmcc-y6IZyBQ@2x.jpeg

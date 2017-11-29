@@ -1,7 +1,7 @@
 ---
 author: Julia Geist
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "The Trie Data Structure (Prefix Tree)"
 subTitle: "A trie (pronounced try) gets its name from retrieval — its structure makes it a stellar matching algorithm...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vuZ47z2Ff_EyAuRi087ICQ.gif
@@ -208,7 +208,7 @@ Did you gain value by reading this article? [Click here](http://ctt.ec/X041V) to
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/3e2714046a76a3932d10982175eeeb01?postId=ee7ab3fe3413" data-media-id="3e2714046a76a3932d10982175eeeb01" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/3e2714046a76a3932d10982175eeeb01?postId=ee7ab3fe3413" data-media-id="3e2714046a76a3932d10982175eeeb01" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

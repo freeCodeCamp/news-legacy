@@ -50,7 +50,7 @@ There are the three approaches I’ll cover:
 
 
 
-<iframe width="700" height="250" src="/media/a67c031e154ef023833e9d89c3684e92?postId=5d977baa80a1" data-media-id="a67c031e154ef023833e9d89c3684e92" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a67c031e154ef023833e9d89c3684e92?postId=5d977baa80a1" data-media-id="a67c031e154ef023833e9d89c3684e92" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -72,7 +72,7 @@ Here’s my solution, with embedded comments to help you understand it:
 
 
 
-<iframe width="700" height="250" src="/media/2b2dd1e7c996a53d7c0e29e8bef62af4?postId=5d977baa80a1" data-media-id="2b2dd1e7c996a53d7c0e29e8bef62af4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2b2dd1e7c996a53d7c0e29e8bef62af4?postId=5d977baa80a1" data-media-id="2b2dd1e7c996a53d7c0e29e8bef62af4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -84,7 +84,7 @@ And here it is without my comments:
 
 
 
-<iframe width="700" height="250" src="/media/b2bf96e01d604d737dcb9b2682e7f207?postId=5d977baa80a1" data-media-id="b2bf96e01d604d737dcb9b2682e7f207" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b2bf96e01d604d737dcb9b2682e7f207?postId=5d977baa80a1" data-media-id="b2bf96e01d604d737dcb9b2682e7f207" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -133,7 +133,7 @@ Here’s my solution, with embedded comments:
 
 
 
-<iframe width="700" height="250" src="/media/a803b3e7840f490e26df873c29df29c0?postId=5d977baa80a1" data-media-id="a803b3e7840f490e26df873c29df29c0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a803b3e7840f490e26df873c29df29c0?postId=5d977baa80a1" data-media-id="a803b3e7840f490e26df873c29df29c0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -145,7 +145,7 @@ And here it is without comments:
 
 
 
-<iframe width="700" height="250" src="/media/a4433c01190a5e8a3a6c26f6891c3db9?postId=5d977baa80a1" data-media-id="a4433c01190a5e8a3a6c26f6891c3db9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a4433c01190a5e8a3a6c26f6891c3db9?postId=5d977baa80a1" data-media-id="a4433c01190a5e8a3a6c26f6891c3db9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -203,7 +203,7 @@ Here’s my solution, with embedded comments:
 
 
 
-<iframe width="700" height="250" src="/media/e14534ed240b4ed30f693b5a78353bbf?postId=5d977baa80a1" data-media-id="e14534ed240b4ed30f693b5a78353bbf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e14534ed240b4ed30f693b5a78353bbf?postId=5d977baa80a1" data-media-id="e14534ed240b4ed30f693b5a78353bbf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -215,7 +215,7 @@ And without comments:
 
 
 
-<iframe width="700" height="250" src="/media/737f51aee5690dbb3c052f90415421a5?postId=5d977baa80a1" data-media-id="737f51aee5690dbb3c052f90415421a5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/737f51aee5690dbb3c052f90415421a5?postId=5d977baa80a1" data-media-id="737f51aee5690dbb3c052f90415421a5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F13507232%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -89,7 +89,7 @@ The result:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/14e7b94c84cda3eac03d33dfdc9615cc?postId=1592687f898c" data-media-id="14e7b94c84cda3eac03d33dfdc9615cc" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/14e7b94c84cda3eac03d33dfdc9615cc?postId=1592687f898c" data-media-id="14e7b94c84cda3eac03d33dfdc9615cc" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -111,7 +111,7 @@ Here’s an example of this in use:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/5804c7f9cd44ba22002764092b3617aa?postId=1592687f898c" data-media-id="5804c7f9cd44ba22002764092b3617aa" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/5804c7f9cd44ba22002764092b3617aa?postId=1592687f898c" data-media-id="5804c7f9cd44ba22002764092b3617aa" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -134,7 +134,7 @@ Now we should be able to hit those rapid fire snares like the next 9th Wonder:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/f0a6665375785177955ad903cec210bb?postId=1592687f898c" data-media-id="f0a6665375785177955ad903cec210bb" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/f0a6665375785177955ad903cec210bb?postId=1592687f898c" data-media-id="f0a6665375785177955ad903cec210bb" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -194,7 +194,7 @@ Using Web Audio instead of HTML Audio, we can create a button click sound that l
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/b333257058a84f16f3668d96d4f07cfd?postId=1592687f898c" data-media-id="b333257058a84f16f3668d96d4f07cfd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/b333257058a84f16f3668d96d4f07cfd?postId=1592687f898c" data-media-id="b333257058a84f16f3668d96d4f07cfd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -220,7 +220,7 @@ Try it out and listen to the difference (and sonic improvement):
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/2831e5f0cf122f8a053ee359b5950671?postId=1592687f898c" data-media-id="2831e5f0cf122f8a053ee359b5950671" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/2831e5f0cf122f8a053ee359b5950671?postId=1592687f898c" data-media-id="2831e5f0cf122f8a053ee359b5950671" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -281,7 +281,7 @@ It turns out that SoundJS makes this, too, relatively easy (although tweaking th
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/80d3a97c2ca6a26b46cd1d7e8e731662?postId=1592687f898c" data-media-id="80d3a97c2ca6a26b46cd1d7e8e731662" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/80d3a97c2ca6a26b46cd1d7e8e731662?postId=1592687f898c" data-media-id="80d3a97c2ca6a26b46cd1d7e8e731662" allowfullscreen="" frameborder="0"></iframe>
 
 
 

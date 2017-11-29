@@ -1,7 +1,7 @@
 ---
 author: Anthony Ng
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Deliberate Practice: What I learned from reading docco"
 subTitle: "I was browsing through open source projects, trying to find the next one I would study. I came upon underscore and its annotated source c..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*azMxh52KWiwS_hDt17PRMw.jpeg
@@ -44,7 +44,7 @@ I have an amazing function that I want to create documentation for. I included d
 
 
 
-<iframe width="700" height="250" src="/media/337bd6c1d048aa68142023e4e6e3d178?postId=7884b5979c6c" data-media-id="337bd6c1d048aa68142023e4e6e3d178" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/337bd6c1d048aa68142023e4e6e3d178?postId=7884b5979c6c" data-media-id="337bd6c1d048aa68142023e4e6e3d178" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -122,7 +122,7 @@ Beautiful chalk output
 
 
 
-<iframe width="700" height="250" src="/media/484c2e5d0aa0c76ab6f16e30c159205d?postId=7884b5979c6c" data-media-id="484c2e5d0aa0c76ab6f16e30c159205d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/484c2e5d0aa0c76ab6f16e30c159205d?postId=7884b5979c6c" data-media-id="484c2e5d0aa0c76ab6f16e30c159205d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -142,7 +142,7 @@ If you want to include JavaScript in your template, use `<% %>`.
 
 
 
-<iframe width="700" height="250" src="/media/4556d78d020d9ecc2afb8e4fdc023acb?postId=7884b5979c6c" data-media-id="4556d78d020d9ecc2afb8e4fdc023acb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4556d78d020d9ecc2afb8e4fdc023acb?postId=7884b5979c6c" data-media-id="4556d78d020d9ecc2afb8e4fdc023acb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ If you want the JavaScript to render as text, use `<%= %>` (note the equal (=) s
 
 
 
-<iframe width="700" height="250" src="/media/4cd18effa84cba08afe529743c37d085?postId=7884b5979c6c" data-media-id="4cd18effa84cba08afe529743c37d085" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4cd18effa84cba08afe529743c37d085?postId=7884b5979c6c" data-media-id="4cd18effa84cba08afe529743c37d085" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -170,7 +170,7 @@ You can even get fancy and use for-loops with JavaScript templates.
 
 
 
-<iframe width="700" height="250" src="/media/c1760690c8fa30ecc8580e964c9988c1?postId=7884b5979c6c" data-media-id="c1760690c8fa30ecc8580e964c9988c1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c1760690c8fa30ecc8580e964c9988c1?postId=7884b5979c6c" data-media-id="c1760690c8fa30ecc8580e964c9988c1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -184,7 +184,7 @@ Now let’s put it all together using `underscore`'s `template` method.
 
 
 
-<iframe width="700" height="250" src="/media/9ac3a464c3b7157648f6a86aca703960?postId=7884b5979c6c" data-media-id="9ac3a464c3b7157648f6a86aca703960" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9ac3a464c3b7157648f6a86aca703960?postId=7884b5979c6c" data-media-id="9ac3a464c3b7157648f6a86aca703960" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F14035529%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

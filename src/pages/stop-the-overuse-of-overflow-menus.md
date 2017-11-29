@@ -1,7 +1,7 @@
 ---
 author: Daniel Burka
 authorTwitter: https://twitter.com/dburka
-authorFacebook: false
+authorFacebook: none
 title: "Stop the overuse of overflow menus"
 subTitle: "You know those obscure menu buttons on apps and websites that reveal even more menu options? They usually have an ellipsis “…” or an arro..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*k1W39Q1VAKgU9rm2F3aLMw.jpeg

@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/the-principles-of-ux-choreography-69c91c2cb
 id: the-principles-of-ux-choreography-69c91c2cbc2a
 date: 2015-04-08T00:35:17.328Z
 tags: [
-  "Design",
-  "UX",
-  "Animation",
-  "User Experience",
-  "Art"
+	"Design",
+	"UX",
+	"Animation",
+	"User Experience",
+	"Art"
 ]
 ---
 # The Principles of UX Choreography
@@ -58,11 +58,8 @@ If we’re going to talk about motion and start somewhere, it’s with Disney. D
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*iVWINSa_xrQ13oLckXOCyQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*iVWINSa_xrQ13oLckXOCyQ.png"&gt;</noscript>
 
 
 
@@ -86,11 +83,8 @@ So, what can Disney teach us here? **Exaggeration**. Glen describes exaggeration
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YctY2u6kWGtQmiNl8gfl5g.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="12"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*YctY2u6kWGtQmiNl8gfl5g.jpeg"&gt;</noscript>
 
 
 
@@ -110,11 +104,6 @@ He illustrated an example of Beast getting frustrated with Belle when she said s
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_lflrcbyVdMzQURlNcD0DQ.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*_lflrcbyVdMzQURlNcD0DQ.gif"&gt;</noscript>
 
 
 
@@ -126,11 +115,10 @@ He illustrated an example of Beast getting frustrated with Belle when she said s
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YB7PwA_y3E2VJCTF8T3v-g.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*YB7PwA_y3E2VJCTF8T3v-g.gif"&gt;</noscript>
+
+
 
 
 
@@ -154,11 +142,8 @@ Disney’s principle of **Anticipation** has a very similar goal: preparing an a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bwwKkgU_aT83UJvFJEpOOw.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*bwwKkgU_aT83UJvFJEpOOw.jpeg"&gt;</noscript>
 
 
 
@@ -176,11 +161,8 @@ In order to convey this principle, Glen first illustrated a very simple sequence
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*GOQj0cN_IacXFrJqDNW_Zw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*GOQj0cN_IacXFrJqDNW_Zw.png"&gt;</noscript>
 
 
 
@@ -198,11 +180,6 @@ Another example of Anticipation that Glen shared was a scene in Duet where Tosh 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*oCXsKtvvbl71b3KniroLNg.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*oCXsKtvvbl71b3KniroLNg.gif"&gt;</noscript>
 
 
 
@@ -214,11 +191,10 @@ Another example of Anticipation that Glen shared was a scene in Duet where Tosh 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IuE9-JIrOjpLDTXWflHkDg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*IuE9-JIrOjpLDTXWflHkDg.gif"&gt;</noscript>
+
+
 
 
 
@@ -246,11 +222,8 @@ Glen often talked about how the placement of a character in a scene can create e
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JzKhmaZ_0KAzz4pTrbfPrQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="7"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*JzKhmaZ_0KAzz4pTrbfPrQ.png"&gt;</noscript>
 
 
 
@@ -274,11 +247,6 @@ There is a beautiful sequence in Duet where Mia jumps into a pond, swims and fli
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*bwqcE-mGNpy7A4OnCqda6Q.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*bwqcE-mGNpy7A4OnCqda6Q.gif"&gt;</noscript>
 
 
 
@@ -290,11 +258,10 @@ There is a beautiful sequence in Duet where Mia jumps into a pond, swims and fli
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*d99NROjEWxxNxQgdEc_APA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*d99NROjEWxxNxQgdEc_APA.gif"&gt;</noscript>
+
+
 
 
 
@@ -318,11 +285,8 @@ User Focus helps bring Clarity to every objective in your experience. **Clarity*
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*r9rpW_WuNOb4opZhulL1qQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="56"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/800/1*r9rpW_WuNOb4opZhulL1qQ.gif"&gt;</noscript>
 
 
 
@@ -344,11 +308,6 @@ A scene from Little Whirlwind, animated by Freddie Moore.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*CF-B3m4bJVyni1Gx5YeGjQ.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*CF-B3m4bJVyni1Gx5YeGjQ.gif"&gt;</noscript>
 
 
 
@@ -360,11 +319,10 @@ A scene from Little Whirlwind, animated by Freddie Moore.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pTvUEhSK0rdSHwFAwTpf7w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*pTvUEhSK0rdSHwFAwTpf7w.gif"&gt;</noscript>
+
+
 
 
 
@@ -390,7 +348,7 @@ Think about all of the apps, sites, and experiences you use day to day and why y
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/383d1efe7207f9621259d814c84dd111?postId=69c91c2cbc2a" data-media-id="383d1efe7207f9621259d814c84dd111" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/383d1efe7207f9621259d814c84dd111?postId=69c91c2cbc2a" data-media-id="383d1efe7207f9621259d814c84dd111" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -410,11 +368,6 @@ Freddie Moore was an animator at Disney who was really responsible for creating 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BMBuPw2_9q5uT5YSUnTTfQ.gif?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*BMBuPw2_9q5uT5YSUnTTfQ.gif"&gt;</noscript>
 
 
 
@@ -426,11 +379,10 @@ Freddie Moore was an animator at Disney who was really responsible for creating 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*TMzdQO_JbPjjCGP5mEOpEA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="65"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*TMzdQO_JbPjjCGP5mEOpEA.gif"&gt;</noscript>
+
+
 
 
 
@@ -470,7 +422,7 @@ Designing for motion may be something new and unfamiliar, but we’ve all experi
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/9a3415aeec590f53a81098675b54cac3?postId=69c91c2cbc2a" data-media-id="9a3415aeec590f53a81098675b54cac3" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/9a3415aeec590f53a81098675b54cac3?postId=69c91c2cbc2a" data-media-id="9a3415aeec590f53a81098675b54cac3" allowfullscreen="" frameborder="0"></iframe>
 
 
 

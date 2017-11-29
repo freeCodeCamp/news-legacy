@@ -1,7 +1,7 @@
 ---
 author: Gilbert
 authorTwitter: https://twitter.com/gilbertginsberg
-authorFacebook: false
+authorFacebook: none
 title: "Cybersecurity has never been more important. Here’s how you can keep up."
 subTitle: "The past few months have been some of the most substantial in cybersecurity history:..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*m5okRj8xJtZdWDtyA5_Dwg.jpeg

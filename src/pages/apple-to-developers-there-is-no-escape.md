@@ -60,7 +60,7 @@ Of course, it will be used for a lot of other things, too:
 
 
 
-<iframe width="500" height="250" src="/media/6ccc957caa21ca206920834d6a9fa6ea?postId=298b63c2a1d8" data-media-id="6ccc957caa21ca206920834d6a9fa6ea" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCvyzK4gUsAACJWa.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/6ccc957caa21ca206920834d6a9fa6ea?postId=298b63c2a1d8" data-media-id="6ccc957caa21ca206920834d6a9fa6ea" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCvyzK4gUsAACJWa.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -74,7 +74,7 @@ But they did get rid of pretty much every other type of port.
 
 
 
-<iframe width="500" height="250" src="/media/d734b70ab3cbdb4f6656f382c367ecd6?postId=298b63c2a1d8" data-media-id="d734b70ab3cbdb4f6656f382c367ecd6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB_wHRhgWcAEy3O_.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/d734b70ab3cbdb4f6656f382c367ecd6?postId=298b63c2a1d8" data-media-id="d734b70ab3cbdb4f6656f382c367ecd6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB_wHRhgWcAEy3O_.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -90,7 +90,7 @@ Funny coincidence, eh?
 
 
 
-<iframe width="500" height="250" src="/media/515defdf06e27c33dc48663959212a68?postId=298b63c2a1d8" data-media-id="515defdf06e27c33dc48663959212a68" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F459455847165218816%2FI_sH-zvU_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/515defdf06e27c33dc48663959212a68?postId=298b63c2a1d8" data-media-id="515defdf06e27c33dc48663959212a68" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F459455847165218816%2FI_sH-zvU_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ MacBook Pros have offered up to 16 gigabytes of RAM since 2010\. Guess where the
 
 
 
-<iframe width="500" height="250" src="/media/83a7faea7c5946cfc89640f771a44ee7?postId=298b63c2a1d8" data-media-id="83a7faea7c5946cfc89640f771a44ee7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F757910701805625344%2FE0uV5Ndl_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/83a7faea7c5946cfc89640f771a44ee7?postId=298b63c2a1d8" data-media-id="83a7faea7c5946cfc89640f771a44ee7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F757910701805625344%2FE0uV5Ndl_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -122,7 +122,7 @@ When you buy a brand new 2016 MacBook Pro, you’re paying $2,000 for what amoun
 
 
 
-<iframe width="500" height="250" src="/media/25c7e4604519d6319a62f46f9ba1fddf?postId=298b63c2a1d8" data-media-id="25c7e4604519d6319a62f46f9ba1fddf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F747869815457579008%2FdJ7gSwDt_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/25c7e4604519d6319a62f46f9ba1fddf?postId=298b63c2a1d8" data-media-id="25c7e4604519d6319a62f46f9ba1fddf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F747869815457579008%2FdJ7gSwDt_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -146,7 +146,7 @@ Linux is nowhere near as user-friendly as MacOS. But with more resources from la
 
 
 
-<iframe width="500" height="250" src="/media/0a123f545b8022987168d406d9ac19bf?postId=298b63c2a1d8" data-media-id="0a123f545b8022987168d406d9ac19bf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCvy8UaSWAAE4jLi.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/0a123f545b8022987168d406d9ac19bf?postId=298b63c2a1d8" data-media-id="0a123f545b8022987168d406d9ac19bf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCvy8UaSWAAE4jLi.jpg%3Athumb&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

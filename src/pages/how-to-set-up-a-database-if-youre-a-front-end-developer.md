@@ -1,7 +1,7 @@
 ---
 author: Andrea Zanin
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to set up a database if you’re a front-end developer"
 subTitle: "Someone recently asked me what’s the easiest way for a front-end developer to save users’ data. So I am going to explain how to do just t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*d_hx4BxGZ9qYODhnTn-Bjg.jpeg
@@ -58,7 +58,7 @@ Have a look at the starting `server.js` file I provided:
 
 
 
-<iframe width="700" height="250" src="/media/120d9320e89c873b4b437272779ff401?postId=3ed945221219" data-media-id="120d9320e89c873b4b437272779ff401" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/120d9320e89c873b4b437272779ff401?postId=3ed945221219" data-media-id="120d9320e89c873b4b437272779ff401" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -104,7 +104,7 @@ We can then retrieve the value of `user` in the variable `request.params.user`
 
 
 
-<iframe width="700" height="250" src="/media/8b97d9444e45cb9268a1ead513b92c99?postId=3ed945221219" data-media-id="8b97d9444e45cb9268a1ead513b92c99" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8b97d9444e45cb9268a1ead513b92c99?postId=3ed945221219" data-media-id="8b97d9444e45cb9268a1ead513b92c99" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ Let’s load the library and store the MongoDB URI in a variable:
 
 
 
-<iframe width="700" height="250" src="/media/c1954f5271a615f37c5b371aa39c0e43?postId=3ed945221219" data-media-id="c1954f5271a615f37c5b371aa39c0e43" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c1954f5271a615f37c5b371aa39c0e43?postId=3ed945221219" data-media-id="c1954f5271a615f37c5b371aa39c0e43" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -140,7 +140,7 @@ The URI is very sensitive information — it’s all that’s needed to acce
 
 
 
-<iframe width="700" height="250" src="/media/dca964c777c480c62d9259f163d62992?postId=3ed945221219" data-media-id="dca964c777c480c62d9259f163d62992" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dca964c777c480c62d9259f163d62992?postId=3ed945221219" data-media-id="dca964c777c480c62d9259f163d62992" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -154,7 +154,7 @@ The connection to the database is an asynchronous operation, so we need to wrap 
 
 
 
-<iframe width="700" height="250" src="/media/5ae0dcf93db2b861b7a99a9b5dee0d9b?postId=3ed945221219" data-media-id="5ae0dcf93db2b861b7a99a9b5dee0d9b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5ae0dcf93db2b861b7a99a9b5dee0d9b?postId=3ed945221219" data-media-id="5ae0dcf93db2b861b7a99a9b5dee0d9b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -166,7 +166,7 @@ Databases are organized in collections, and collections contain documents (basic
 
 
 
-<iframe width="700" height="250" src="/media/57ab931c9b8f5397e1fec0f5a4de3666?postId=3ed945221219" data-media-id="57ab931c9b8f5397e1fec0f5a4de3666" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/57ab931c9b8f5397e1fec0f5a4de3666?postId=3ed945221219" data-media-id="57ab931c9b8f5397e1fec0f5a4de3666" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -178,7 +178,7 @@ First, we are going to handle the `POST` route. That is the one we will use when
 
 
 
-<iframe width="700" height="250" src="/media/451c93ca71ffa687cc408ce874853205?postId=3ed945221219" data-media-id="451c93ca71ffa687cc408ce874853205" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/451c93ca71ffa687cc408ce874853205?postId=3ed945221219" data-media-id="451c93ca71ffa687cc408ce874853205" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ Now that we have some data on the server, we want to be able to read it. We use 
 
 
 
-<iframe width="700" height="250" src="/media/4fef8ec644420ba1a05bbf7eca5a46d3?postId=3ed945221219" data-media-id="4fef8ec644420ba1a05bbf7eca5a46d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4fef8ec644420ba1a05bbf7eca5a46d3?postId=3ed945221219" data-media-id="4fef8ec644420ba1a05bbf7eca5a46d3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -218,7 +218,7 @@ Last but not least is the `PUT` method that we use to update an already existing
 
 
 
-<iframe width="700" height="250" src="/media/f39819a0415e2ca51cae2f282027893d?postId=3ed945221219" data-media-id="f39819a0415e2ca51cae2f282027893d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f39819a0415e2ca51cae2f282027893d?postId=3ed945221219" data-media-id="f39819a0415e2ca51cae2f282027893d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F22430306%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

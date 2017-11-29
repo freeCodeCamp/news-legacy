@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/25-new-android-libraries-which-you-definite
 id: 25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0
 date: 2017-02-14T08:21:07.153Z
 tags: [
-  "Android",
-  "Productivity",
-  "Android App Development",
-  "Programming",
-  "Mobile"
+	"Android",
+	"Productivity",
+	"Android App Development",
+	"Programming",
+	"Mobile"
 ]
 ---
 # 25 Android libraries you definitely want to try out in early 2017
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3oNgt5C2JC5FucjUm2SPxg.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*3oNgt5C2JC5FucjUm2SPxg.jpeg)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*3oNgt5C2JC5FucjUm2SPxg.jpeg"&gt;</noscript>
 
 
 
@@ -55,11 +52,8 @@ This is a list of 25 best Android libraries **released in January and February 2
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BtxcP1FXbunIiVvwMkxllA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*BtxcP1FXbunIiVvwMkxllA.gif"&gt;</noscript>
 
 
 
@@ -80,11 +74,8 @@ You can find screenshots and the link to the library below.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0UpU79_JFKrcJxzOpJI3rg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="43"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0UpU79_JFKrcJxzOpJI3rg.png"&gt;</noscript>
 
 
 
@@ -103,11 +94,6 @@ _Toasty - The usual Toast, but with steroids 💪_github.com](https://github.com
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*cX9aL9ZeRC6ZjXhvD7WmtQ.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="20"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*cX9aL9ZeRC6ZjXhvD7WmtQ.png"&gt;</noscript>
 
 
 
@@ -119,11 +105,10 @@ _Toasty - The usual Toast, but with steroids 💪_github.com](https://github.com
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*8XcNG15wqnLMVJ5GVvwtbQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*8XcNG15wqnLMVJ5GVvwtbQ.gif"&gt;</noscript>
+
+
 
 
 
@@ -149,11 +134,8 @@ _Store - Android Library for Async Data Loading and Caching_github.com](https://
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Yyw97qbvsqb0Rhh2bX7Uhw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Yyw97qbvsqb0Rhh2bX7Uhw.gif"&gt;</noscript>
 
 
 
@@ -170,11 +152,8 @@ _PreviewSeekBar - A SeekBar suited for showing a preview of something. As seen i
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9dpDTuOLFpbuw7O_zt1hzA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="45" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*9dpDTuOLFpbuw7O_zt1hzA.gif"&gt;</noscript>
 
 
 
@@ -193,11 +172,8 @@ You can check how it works on the gif below:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*uHE7zqPMPUvTd9i1EYL7Tw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*uHE7zqPMPUvTd9i1EYL7Tw.gif"&gt;</noscript>
 
 
 
@@ -220,11 +196,8 @@ It also supports gifs, video selection, image compression and custom UI as shown
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*pamXbyETXPniNqiHZQKrVw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="55"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*pamXbyETXPniNqiHZQKrVw.png"&gt;</noscript>
 
 
 
@@ -241,11 +214,8 @@ _boxing - Android multi-media selector based on MVP mode._github.com](https://gi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*IvwPIReHiDplGUHbUO9aDw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="45" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*IvwPIReHiDplGUHbUO9aDw.gif"&gt;</noscript>
 
 
 
@@ -263,11 +233,8 @@ Another implementation for `RecyclerView` is dedicated to show Material horizont
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YgcIftq-jlF8Ief8Yeeqpg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="46" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*YgcIftq-jlF8Ief8Yeeqpg.gif"&gt;</noscript>
 
 
 
@@ -286,11 +253,8 @@ _HorizontalCalendar - A material horizontal calendar view for Android based on R
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BeRxyDw0U9Bah3QP58kPPg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*BeRxyDw0U9Bah3QP58kPPg.gif"&gt;</noscript>
 
 
 
@@ -307,11 +271,8 @@ _CameraFragment - A simple easy-to-integrate Camera Fragment for Android_github.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*_f0B7c2NBj8IZWp7POwsSg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*_f0B7c2NBj8IZWp7POwsSg.gif"&gt;</noscript>
 
 
 
@@ -329,11 +290,8 @@ This is an implementation of `NavigationView` from Android Design Support Librar
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*wd7BSmOzHfIUM-vm3QUdog.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="68"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*wd7BSmOzHfIUM-vm3QUdog.png"&gt;</noscript>
 
 
 
@@ -350,11 +308,8 @@ _ArcNavigationView - Another approach to create NavigationDrawer with Material c
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*xdapq2CQF6gz0EB27qI9Wg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*xdapq2CQF6gz0EB27qI9Wg.gif"&gt;</noscript>
 
 
 
@@ -375,11 +330,8 @@ This library extends `AppCompatImageView` and allows you to set any icon (vector
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4bG5o6kN9UZxhIrWmlDJ7A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4bG5o6kN9UZxhIrWmlDJ7A.gif"&gt;</noscript>
 
 
 
@@ -397,11 +349,8 @@ This library is a `FloatingActionButton` subclass that shows a counter badge in 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*c1H8N1YmunHBQGqK9Ula0Q.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="37"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*c1H8N1YmunHBQGqK9Ula0Q.gif"&gt;</noscript>
 
 
 
@@ -418,11 +367,8 @@ _CounterFab - A FloatingActionButton subclass that shows a counter badge on righ
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kRUhiEjzAcFGFoGl8K-qNQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*kRUhiEjzAcFGFoGl8K-qNQ.gif"&gt;</noscript>
 
 
 
@@ -460,11 +406,8 @@ _ason - JSON in Java made easy!_github.com](https://github.com/afollestad/ason "
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*NEWXcSFLd67R2nTQ9PUuLQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="15"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*NEWXcSFLd67R2nTQ9PUuLQ.png"&gt;</noscript>
 
 
 
@@ -487,11 +430,8 @@ This library:
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*3uXU95gxWRlrc3Lfh72z3A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="63"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*3uXU95gxWRlrc3Lfh72z3A.png"&gt;</noscript>
 
 
 
@@ -520,11 +460,8 @@ _Google-Actions-Java-SDK - Unofficial Google Actions Java SDK - for Android engi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*dMmc9IyHKRxIAnKpaEE1AQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="36"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*dMmc9IyHKRxIAnKpaEE1AQ.png"&gt;</noscript>
 
 
 
@@ -545,11 +482,8 @@ Currently, it’s at version 1.0.0.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*b8BkQF6mO3pi8Znrv198SQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="59" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*b8BkQF6mO3pi8Znrv198SQ.png"&gt;</noscript>
 
 
 
@@ -566,11 +500,8 @@ _shortbread - Android library that generates app shortcuts from Shortcut annotat
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*xYX5FxgBFnbOUe8AgmuWsA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="62"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*xYX5FxgBFnbOUe8AgmuWsA.png"&gt;</noscript>
 
 
 

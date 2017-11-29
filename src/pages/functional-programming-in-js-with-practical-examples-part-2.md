@@ -1,7 +1,7 @@
 ---
 author: rajaraodv
 authorTwitter: https://twitter.com/rajaraodv
-authorFacebook: false
+authorFacebook: none
 title: "Functional Programming In JavaScript — With Practical Examples (Part 2)"
 subTitle: "In Part 1, we talked through: Functional Programming basics, Currying, Pure Functions, “Fantasy-land” specs, “Functors”, “Monads”, “Maybe..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*U1TQD4tsM3JLZ-MfBH-vJA.jpeg
@@ -118,7 +118,7 @@ That’s why we need a different interface to deal with this scenario. It turns 
 
 
 
-<iframe width="700" height="250" src="/media/adee80a237fbaf7e1f72d9455ebc865a?postId=429d2e8ccc9e" data-media-id="adee80a237fbaf7e1f72d9455ebc865a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/adee80a237fbaf7e1f72d9455ebc865a?postId=429d2e8ccc9e" data-media-id="adee80a237fbaf7e1f72d9455ebc865a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -306,7 +306,7 @@ Putting it all together:
 
 
 
-<iframe width="700" height="250" src="/media/22da21e848fe11194131f263ed452378?postId=429d2e8ccc9e" data-media-id="22da21e848fe11194131f263ed452378" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/22da21e848fe11194131f263ed452378?postId=429d2e8ccc9e" data-media-id="22da21e848fe11194131f263ed452378" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F626337%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

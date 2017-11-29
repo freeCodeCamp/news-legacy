@@ -1,6 +1,6 @@
 ---
 author: Artem Stepanenko
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/1085472598199888
 title: "How to become a better Stack Overflow user in five simple steps"
 subTitle: "Software developers cannot imagine their lives without Stack Overflow...."

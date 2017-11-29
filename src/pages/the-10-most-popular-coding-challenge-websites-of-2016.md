@@ -1,7 +1,7 @@
 ---
 author: Daniel Borowski
 authorTwitter: https://twitter.com/borowskidaniel
-authorFacebook: false
+authorFacebook: none
 title: "The 10 most popular coding challenge websites for 2017"
 subTitle: "A great way to improve your skills when learning to code is by solving coding challenges. Solving different types of challenges and puzzl..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vmGJG77e-nLnKlv-tUgf5w.jpeg

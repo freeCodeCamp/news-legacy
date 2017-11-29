@@ -1,6 +1,6 @@
 ---
 author: Howon Song
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10206356106044766
 title: "How to use GraphQL in your Redux app"
 subTitle: "Fetching and managing data in Redux requires too much work. As Sashko Stubailo points out:..."

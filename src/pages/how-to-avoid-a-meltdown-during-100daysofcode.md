@@ -1,7 +1,7 @@
 ---
 author: Danielle Ormshaw
 authorTwitter: https://twitter.com/SchnucklePi
-authorFacebook: false
+authorFacebook: none
 title: "How to Avoid a Meltdown During #100DaysOfCode"
 subTitle: "I failed my first round of #100DaysOfCode in less than 10 days...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*3MJCDkYLZJYJMvbdr0Qc6Q.jpeg

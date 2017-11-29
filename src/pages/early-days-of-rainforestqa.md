@@ -1,7 +1,7 @@
 ---
 author: Rodrigo Martinez
 authorTwitter: https://twitter.com/DecodingVC
-authorFacebook: false
+authorFacebook: none
 title: "The Early Days of… RainforestQA"
 subTitle: "The market for developer tools is a deceptively large one. More and more great companies being built in this space — and Point Nine is pr..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*2Z76nz2Q5j0d9QU4.

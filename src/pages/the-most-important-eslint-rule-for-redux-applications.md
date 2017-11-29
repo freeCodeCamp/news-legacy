@@ -32,7 +32,7 @@ If you’re developing an application using [React](https://facebook.github.io/r
 
 
 
-<iframe width="700" height="250" src="/media/29da73819a3a7ddad6023094b4e305d0?postId=c10f6aeff61d" data-media-id="29da73819a3a7ddad6023094b4e305d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F2061159%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/29da73819a3a7ddad6023094b4e305d0?postId=c10f6aeff61d" data-media-id="29da73819a3a7ddad6023094b4e305d0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F2061159%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

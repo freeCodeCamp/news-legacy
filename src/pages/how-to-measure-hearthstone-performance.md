@@ -1,7 +1,7 @@
 ---
 author: Alan Wilson
 authorTwitter: https://twitter.com/alangwilson
-authorFacebook: false
+authorFacebook: none
 title: "I visualized the data from every single game of Hearthstone I played. All 4,700 of them."
 subTitle: "I’ve been playing Hearthstone since the beta. I’m a fairly casual player, but I have aspirations of eventually reaching the prestigious “..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*xDEs78svOKwkhRxvo5fqJQ.png

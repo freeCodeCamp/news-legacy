@@ -1,7 +1,7 @@
 ---
 author: Dennis Bruijn / @0x1ad2
 authorTwitter: https://twitter.com/0x1ad2
-authorFacebook: false
+authorFacebook: none
 title: "Atom treasures"
 subTitle: "a list of Atom plugins I can’t live without"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9J_ThYFo9O3jUELY1RiEjQ.jpeg
@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/atom-treasures-82a64ac391c
 id: atom-treasures-82a64ac391c
 date: 2016-07-06T22:02:21.885Z
 tags: [
-  "Web Development",
-  "Productivity",
-  "Tech",
-  "Coding",
-  "Programming"
+	"Web Development",
+	"Productivity",
+	"Tech",
+	"Coding",
+	"Programming"
 ]
 ---
 # Atom treasures
@@ -30,11 +30,8 @@ I recently switched from [Sublime Text 3](https://www.sublimetext.com/) to [Atom
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*AolPK_ccJu8QLseu.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*AolPK_ccJu8QLseu.png"&gt;</noscript>
 
 
 
@@ -56,11 +53,8 @@ It’s also inspectable by the chrome inspector because it’s made with [Electr
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*4wWdYv8inTLvzgy5cgjdGA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*4wWdYv8inTLvzgy5cgjdGA.gif"&gt;</noscript>
 
 
 
@@ -78,11 +72,8 @@ Minimap provides you with a preview of the full source code; this is nice to gai
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*_C6p0vFkHb0o5Pyy.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="70"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*_C6p0vFkHb0o5Pyy."&gt;</noscript>
 
 
 
@@ -98,11 +89,8 @@ It’s good to know where you are in your file, cursor line allows you to see wh
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ezA7qDQOqjpgfVX-XcKcQg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="42"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ezA7qDQOqjpgfVX-XcKcQg.gif"&gt;</noscript>
 
 
 
@@ -118,11 +106,8 @@ Pigments will scan source files in your project directories looking for colors a
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Du80uhVr7vhL9aTrVxDFBQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Du80uhVr7vhL9aTrVxDFBQ.gif"&gt;</noscript>
 
 
 
@@ -138,11 +123,8 @@ Emmet allows you to easily generate HTML based on the Emmet syntax. For example 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*T6E95lVoglux0DiX6CaV-w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*T6E95lVoglux0DiX6CaV-w.gif"&gt;</noscript>
 
 
 
@@ -158,11 +140,8 @@ Double tag allows you to edit both the start and end HTML tags at the same time.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gL91gsmGfXQs5rKMfKNrmw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*gL91gsmGfXQs5rKMfKNrmw.gif"&gt;</noscript>
 
 
 
@@ -178,11 +157,8 @@ Linter allows you to lint your code, linters will generate warnings and errors b
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*LwenlBkVgnPcMocOamjpGA.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*LwenlBkVgnPcMocOamjpGA.gif"&gt;</noscript>
 
 
 
@@ -198,11 +174,8 @@ Beautify allows you to beautify your HTML, CSS, JavaScript, PHP, Python, Ruby, J
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0kuzaAMAkWSXN05Y6d3_Pw.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="33"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0kuzaAMAkWSXN05Y6d3_Pw.gif"&gt;</noscript>
 
 
 
@@ -220,11 +193,8 @@ Auto close gives you the ability to auto close your HTML tags. This will also co
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*P4SGrPQ5nt0ezw3oSrYlSg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="31"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*P4SGrPQ5nt0ezw3oSrYlSg.gif"&gt;</noscript>
 
 
 
@@ -240,11 +210,8 @@ Fuzzy finder allows you to find and open files quickly with one shortcut**Ctrl-T
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*ay5HpVdofzXC0qP1HkJ6og.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*ay5HpVdofzXC0qP1HkJ6og.png"&gt;</noscript>
 
 
 
@@ -262,11 +229,8 @@ Color picker allows you to pick colors within your SCSS, LESS and CSS It current
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*APMdiExaA_YO2icfsSUigQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="68" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*APMdiExaA_YO2icfsSUigQ.gif"&gt;</noscript>
 
 
 
@@ -282,11 +246,8 @@ Highlight selected allows you to highlight your selected words throughout the fi
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*XjiD7_ZafEAH8N2UCnlMpg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="27"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*XjiD7_ZafEAH8N2UCnlMpg.gif"&gt;</noscript>
 
 
 
@@ -302,11 +263,8 @@ GIT diff marks lines in the editor gutter that have been added, edited, or delet
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*6Tg1FNJBjfUbDH1leEuCDA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6Tg1FNJBjfUbDH1leEuCDA.png"&gt;</noscript>
 
 
 
@@ -324,11 +282,8 @@ Sort your lines in alphabetic order
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*szc9Hf6mV6jlaDd59RaTJQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*szc9Hf6mV6jlaDd59RaTJQ.gif"&gt;</noscript>
 
 
 
@@ -344,11 +299,8 @@ Last cursor positions keeps a history of past cursor position to travel back to 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*WPTO4IIBDkuR7A9fJl562w.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*WPTO4IIBDkuR7A9fJl562w.gif"&gt;</noscript>
 
 
 
@@ -364,11 +316,8 @@ Code peek allows you to quickly peek and edit functions contained in other files
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*x-JVL8vMRaT7PAkp_U3oLQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*x-JVL8vMRaT7PAkp_U3oLQ.png"&gt;</noscript>
 
 
 
@@ -384,11 +333,8 @@ Package sync lets you synchronize packages installed between computers. This com
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*EAU0fpbKClWkRL7L-0eTpw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="54" height="75"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*EAU0fpbKClWkRL7L-0eTpw.png"&gt;</noscript>
 
 
 
@@ -418,11 +364,8 @@ WakaTime allows you to track your time per project, your programming languages u
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/0*51PODl56gV4k5YPm.?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="66"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/0*51PODl56gV4k5YPm."&gt;</noscript>
 
 
 
@@ -453,11 +396,8 @@ TernJS provides JavaScript code intelligence for atom with Tern. Adds support fo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*JsHKZ-Qla_UpN7CmUt8qww.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="35"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*JsHKZ-Qla_UpN7CmUt8qww.png"&gt;</noscript>
 
 
 
@@ -477,11 +417,8 @@ Activate **POWER MODE** to write your code in style.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*r65vKSRu_TZpsUt-FecwQg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*r65vKSRu_TZpsUt-FecwQg.gif"&gt;</noscript>
 
 
 
@@ -497,11 +434,6 @@ A dark colored UI theme for Atom with custom file icons. I ❤ seti!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Eh5hwSe9yq62RPKuVZ75qw.png?q=20)
-
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="48"></canvas>
-
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Eh5hwSe9yq62RPKuVZ75qw.png"&gt;</noscript>
 
 
 
@@ -513,11 +445,10 @@ A dark colored UI theme for Atom with custom file icons. I ❤ seti!
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*OqfSprdOeYoFViDSjboGyA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="17"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*OqfSprdOeYoFViDSjboGyA.png"&gt;</noscript>
+
+
 
 
 
@@ -533,11 +464,8 @@ Naive linter for English prose for developers who can’t write good and wanna l
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*BPKajRyXCBjk1Sl9PK1n3w.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="30"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*BPKajRyXCBjk1Sl9PK1n3w.png"&gt;</noscript>
 
 
 

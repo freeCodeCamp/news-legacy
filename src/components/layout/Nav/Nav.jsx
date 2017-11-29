@@ -109,8 +109,8 @@ class NewsNav extends Component {
         </Navbar.Collapse>
       </Navbar>
       <Navbar id='searchNav'>
-        <div className="row">
-        <div className="col-xs-12">
+        <div className='row'>
+        <div className='col-xs-12'>
       <SearchBar handleChange={this.handleChange} handleSubmit={this.handleSubmit} value={searchText} />
       </div>
       </div>

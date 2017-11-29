@@ -1,7 +1,7 @@
 ---
 author: Valerie Rickert
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Nasa, IBM, Mommyhood and Back"
 subTitle: "Women in Tech? There are not many of us around. In a world of engineers and other STEM (Science, Technology, Engineering, and Math) profe..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*YmEuNVVQaHyyETUETD4R6Q.jpeg

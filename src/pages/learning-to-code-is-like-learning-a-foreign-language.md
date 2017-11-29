@@ -1,7 +1,7 @@
 ---
 author: Jessica Oei
 authorTwitter: https://twitter.com/thecodercoder
-authorFacebook: false
+authorFacebook: none
 title: "Learning to code is like learning a foreign language"
 subTitle: "I know that sounds strange. The thing is, there are so many resources for learning to code that it can get easy to feel lost and overwhel..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*85p5zT1Nzs_oI-0aI66UXg.jpeg

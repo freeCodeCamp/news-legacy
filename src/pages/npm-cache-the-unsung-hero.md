@@ -1,7 +1,7 @@
 ---
 author: Siddharth Kshetrapal
 authorTwitter: https://twitter.com/siddharthkp
-authorFacebook: false
+authorFacebook: none
 title: "npm cache: the unsung hero"
 subTitle: "I love npm and believe that this package manager is the single biggest reason for JavaScript’s massive success these past few years...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*UmRnW6YyI9ygq81OaL8Y-Q.png

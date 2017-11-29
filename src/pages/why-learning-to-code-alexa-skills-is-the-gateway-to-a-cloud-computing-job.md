@@ -1,7 +1,7 @@
 ---
 author: Drew Firment
 authorTwitter: https://twitter.com/drewfirment
-authorFacebook: false
+authorFacebook: none
 title: "Why learning to code Alexa Skills is the gateway to a cloud computing job"
 subTitle: "There are radical economic shifts underway. Society is moving from commodity-based capital toward intellectual capital. Not only will rep..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Fx1wvG-_8Oefheew7VryOA.png
@@ -94,7 +94,7 @@ A simple and engaging way to explore cloud computing services and the new concep
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/40324639c314875e8ab96d978b3e9eea?postId=fa13c1c0c853" data-media-id="40324639c314875e8ab96d978b3e9eea" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC5C6egIWEAAmfZY.png%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/40324639c314875e8ab96d978b3e9eea?postId=fa13c1c0c853" data-media-id="40324639c314875e8ab96d978b3e9eea" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC5C6egIWEAAmfZY.png%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -127,7 +127,7 @@ After publishing your skill, just fill out a simple form to get a [free Alexa de
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/1d88716c49b3e3fb54fe4fd5cc354076?postId=fa13c1c0c853" data-media-id="1d88716c49b3e3fb54fe4fd5cc354076" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCuikOgGXgAIdNkS.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/1d88716c49b3e3fb54fe4fd5cc354076?postId=fa13c1c0c853" data-media-id="1d88716c49b3e3fb54fe4fd5cc354076" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCuikOgGXgAIdNkS.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

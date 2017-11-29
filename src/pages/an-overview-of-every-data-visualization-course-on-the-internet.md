@@ -1,7 +1,7 @@
 ---
 author: David Venturi
 authorTwitter: https://twitter.com/venturidb
-authorFacebook: false
+authorFacebook: none
 title: "An overview of every Data Visualization course on the internet"
 subTitle: "A year ago, I dropped out of one of the best computer science programs in Canada. I started creating my own data science master’s program..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*vO0jTmv7GDDO94ps1D2lkg.png
@@ -237,7 +237,7 @@ DataCamp’s logo.
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ebcd5008fe6e2bd5735d127aebec32bc?postId=9ccf24ea9c9b" data-media-id="ebcd5008fe6e2bd5735d127aebec32bc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FYxKr2a-Y1WE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ebcd5008fe6e2bd5735d127aebec32bc?postId=9ccf24ea9c9b" data-media-id="ebcd5008fe6e2bd5735d127aebec32bc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FYxKr2a-Y1WE%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -272,7 +272,7 @@ _Kirill is a tremendous teacher and students taking this course will clearly see
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/fe033bac4d24f160908b10184f8d6e7f?postId=9ccf24ea9c9b" data-media-id="fe033bac4d24f160908b10184f8d6e7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fqb4kbND45SE%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/fe033bac4d24f160908b10184f8d6e7f?postId=9ccf24ea9c9b" data-media-id="fe033bac4d24f160908b10184f8d6e7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fqb4kbND45SE%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -360,7 +360,7 @@ The following courses had no reviews as of March 2017.
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/5e0f576080e8930b0367562ca10f47a2?postId=9ccf24ea9c9b" data-media-id="5e0f576080e8930b0367562ca10f47a2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMUZXLvBI2sw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/5e0f576080e8930b0367562ca10f47a2?postId=9ccf24ea9c9b" data-media-id="5e0f576080e8930b0367562ca10f47a2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMUZXLvBI2sw%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

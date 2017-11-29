@@ -1,7 +1,7 @@
 ---
 author: Codemzy
 authorTwitter: https://twitter.com/codemzy
-authorFacebook: false
+authorFacebook: none
 title: "Client-side web scraping with JavaScript using jQuery and Regex"
 subTitle: "When I was building my first open-source project, codeBadges, I thought it would be easy to get user profile data from all the main code ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*osMYA6WEFDoZdZOUTRJXkQ.jpeg

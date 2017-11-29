@@ -1,7 +1,7 @@
 ---
 author: freeCodeCamp
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "25 Tools Every New Coder Needs"
 subTitle: "By clapping more or less, you can signal to us which stories really stand out...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Q6cDem_ehBiaqnAeM2JInQ.jpeg
@@ -356,7 +356,7 @@ tags: [
 
 
 
-<iframe data-width="952" data-height="648" width="700" height="476" src="/media/36e3447372d757c88f2ca05121b45f1f?postId=61f375e3d41e" data-media-id="36e3447372d757c88f2ca05121b45f1f" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="952" data-height="648" width="700" height="476" src="https://medium.freecodecamp.org/media/36e3447372d757c88f2ca05121b45f1f?postId=61f375e3d41e" data-media-id="36e3447372d757c88f2ca05121b45f1f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

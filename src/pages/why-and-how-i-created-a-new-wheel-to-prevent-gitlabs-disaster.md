@@ -1,7 +1,7 @@
 ---
 author: Alan Chen
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "A new tool to prevent catastrophic deletions like GitLab’s"
 subTitle: "Basically: I found most of the existing tools not very helpful and made a new open source tool called rm-protection, which you can downlo..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*IutJzMkTq_6yyv2HTy2KJw.jpeg
@@ -42,7 +42,7 @@ My head bumped into the seat in front of me. I couldn’t feel the pain but felt
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/878d69bad55310e603595e70ce3f475b?postId=b8cd5bea6e1" data-media-id="878d69bad55310e603595e70ce3f475b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F757993008461742080%2F9pAwHBR0_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/878d69bad55310e603595e70ce3f475b?postId=b8cd5bea6e1" data-media-id="878d69bad55310e603595e70ce3f475b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F757993008461742080%2F9pAwHBR0_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

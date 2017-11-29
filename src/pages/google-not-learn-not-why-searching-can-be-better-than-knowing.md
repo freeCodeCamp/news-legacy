@@ -1,6 +1,6 @@
 ---
 author: Jeremy Gunter
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10100895283606732
 title: "Google not, learn not: why searching can sometimes be better than knowing"
 subTitle: "A few months ago, I was reading through some of the posts in my home town’s freeCodeCamp study group. I came across an intriguing post...."

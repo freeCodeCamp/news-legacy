@@ -104,7 +104,7 @@ Given that Ethan wrote some nifty code to auto-connect the devices to the neares
 
 
 
-<iframe data-width="720" data-height="1280" width="700" height="1244" src="/media/100064d9fce35507b392ab5035e3bfab?postId=e736a507ddbf" data-media-id="100064d9fce35507b392ab5035e3bfab" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F643850913_640.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="720" data-height="1280" width="700" height="1244" src="https://medium.freecodecamp.org/media/100064d9fce35507b392ab5035e3bfab?postId=e736a507ddbf" data-media-id="100064d9fce35507b392ab5035e3bfab" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F643850913_640.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Nick Harley
 authorTwitter: https://twitter.com/NickHarleyNZ
-authorFacebook: false
+authorFacebook: none
 title: "Why relying on your users to report errors is the dumbest thing you’ll ever do"
 subTitle: "We all love to code...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*BwpQjOGjV2HhN-s3EGfhUA.jpeg

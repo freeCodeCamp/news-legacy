@@ -48,7 +48,7 @@ That’s also how I stumbled upon hackathons: open-plan workspaces packed with s
 
 
 
-<iframe width="500" height="250" src="/media/7d1090c3d2175d6c3bec73139f0f49ac?postId=b8724c1549e1" data-media-id="7d1090c3d2175d6c3bec73139f0f49ac" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/7d1090c3d2175d6c3bec73139f0f49ac?postId=b8724c1549e1" data-media-id="7d1090c3d2175d6c3bec73139f0f49ac" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -70,7 +70,7 @@ After that initial experience, I resolved to keep traveling. Wherever I went �
 
 
 
-<iframe width="500" height="250" src="/media/23cbdef3fc03ead3ed31a565d9b00ab3?postId=b8724c1549e1" data-media-id="23cbdef3fc03ead3ed31a565d9b00ab3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/23cbdef3fc03ead3ed31a565d9b00ab3?postId=b8724c1549e1" data-media-id="23cbdef3fc03ead3ed31a565d9b00ab3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -96,7 +96,7 @@ I improved my own skills by helping others improve theirs.
 
 
 
-<iframe width="500" height="250" src="/media/3766c38d14340740f4c3886cce73c312?postId=b8724c1549e1" data-media-id="3766c38d14340740f4c3886cce73c312" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/3766c38d14340740f4c3886cce73c312?postId=b8724c1549e1" data-media-id="3766c38d14340740f4c3886cce73c312" allowfullscreen="" frameborder="0"></iframe>
 
 
 

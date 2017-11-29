@@ -87,7 +87,7 @@ The first step will be to create a database of all ice cream, topping, and syrup
 
 
 
-<iframe width="700" height="250" src="/media/f04bf3f7fb09f9cf0a48644fa2490d2d?postId=ed808b48e5dd" data-media-id="f04bf3f7fb09f9cf0a48644fa2490d2d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f04bf3f7fb09f9cf0a48644fa2490d2d?postId=ed808b48e5dd" data-media-id="f04bf3f7fb09f9cf0a48644fa2490d2d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -110,7 +110,7 @@ Once the combinations of ice cream, toppings, and syrups are determined, all tha
 
 
 
-<iframe width="700" height="250" src="/media/898269f090cd4409fa1f44e9cc289719?postId=ed808b48e5dd" data-media-id="898269f090cd4409fa1f44e9cc289719" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/898269f090cd4409fa1f44e9cc289719?postId=ed808b48e5dd" data-media-id="898269f090cd4409fa1f44e9cc289719" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -149,7 +149,7 @@ Now, each choice is posted to the choices database:
 
 
 
-<iframe width="700" height="250" src="/media/bd12bd50982d0fff477890f4d5ec04d8?postId=ed808b48e5dd" data-media-id="bd12bd50982d0fff477890f4d5ec04d8" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/bd12bd50982d0fff477890f4d5ec04d8?postId=ed808b48e5dd" data-media-id="bd12bd50982d0fff477890f4d5ec04d8" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -184,7 +184,7 @@ Next was to add a running count of documents stored and post requests in process
 
 
 
-<iframe width="700" height="250" src="/media/17bc2dfd6ed2abdb3b692d5f3376a918?postId=ed808b48e5dd" data-media-id="17bc2dfd6ed2abdb3b692d5f3376a918" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/17bc2dfd6ed2abdb3b692d5f3376a918?postId=ed808b48e5dd" data-media-id="17bc2dfd6ed2abdb3b692d5f3376a918" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -204,7 +204,7 @@ With all possible menu choices in place, we can now have the AI determine the pa
 
 
 
-<iframe width="700" height="250" src="/media/e03d6151e496ddacc2b83865d7156e77?postId=ed808b48e5dd" data-media-id="e03d6151e496ddacc2b83865d7156e77" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e03d6151e496ddacc2b83865d7156e77?postId=ed808b48e5dd" data-media-id="e03d6151e496ddacc2b83865d7156e77" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -249,7 +249,7 @@ If more choices are added in the future, though, the key length might be over th
 
 
 
-<iframe width="700" height="250" src="/media/2b03f81f031e6301523b3f6f4c6dd53d?postId=ed808b48e5dd" data-media-id="2b03f81f031e6301523b3f6f4c6dd53d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2b03f81f031e6301523b3f6f4c6dd53d?postId=ed808b48e5dd" data-media-id="2b03f81f031e6301523b3f6f4c6dd53d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -261,7 +261,7 @@ Adding the hash to our existing documents is a simple matter of iterating throug
 
 
 
-<iframe width="700" height="250" src="/media/7171335d67d3312576ca1a2099e5038e?postId=ed808b48e5dd" data-media-id="7171335d67d3312576ca1a2099e5038e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7171335d67d3312576ca1a2099e5038e?postId=ed808b48e5dd" data-media-id="7171335d67d3312576ca1a2099e5038e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -273,7 +273,7 @@ Next, a database view is built using the document key field as an index; I’ll 
 
 
 
-<iframe width="700" height="250" src="/media/4bf74ba896eeede60b66c1644d4d0888?postId=ed808b48e5dd" data-media-id="4bf74ba896eeede60b66c1644d4d0888" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4bf74ba896eeede60b66c1644d4d0888?postId=ed808b48e5dd" data-media-id="4bf74ba896eeede60b66c1644d4d0888" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -285,7 +285,7 @@ For any document key (hash of choice array), I can find its taste via the view *
 
 
 
-<iframe width="700" height="250" src="/media/308122e1cf1068c107c95ff12a280be9?postId=ed808b48e5dd" data-media-id="308122e1cf1068c107c95ff12a280be9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/308122e1cf1068c107c95ff12a280be9?postId=ed808b48e5dd" data-media-id="308122e1cf1068c107c95ff12a280be9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F3497069%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Beau Carnes
 authorTwitter: https://twitter.com/CarnesBeau
-authorFacebook: false
+authorFacebook: none
 title: "Haters gonna hate… and help you land a job"
 subTitle: "When you’re trying to do something great — or even something just a little above average — you’ll always face haters...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*lczk5cwMcnRm-MrIUp9trg.png

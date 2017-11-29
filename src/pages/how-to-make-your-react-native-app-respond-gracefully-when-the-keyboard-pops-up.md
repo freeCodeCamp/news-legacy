@@ -1,7 +1,7 @@
 ---
 author: Spencer Carli
 authorTwitter: https://twitter.com/spencer_carli
-authorFacebook: false
+authorFacebook: none
 title: "How to make your React Native app respond gracefully when the keyboard pops up"
 subTitle: "When you’re working with React Native apps, a common problem is that the keyboard will pop up and hide text inputs when you focus on them..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*gQEm5r-73VpwmSrHYRi0AQ.jpeg
@@ -54,7 +54,7 @@ You can take the [base code](https://gist.github.com/spencercarli/8acb7208090f75
 
 
 
-<iframe width="700" height="250" src="/media/f43b12ec148ba5ee0101fb475d256d71?postId=7442c1535580" data-media-id="f43b12ec148ba5ee0101fb475d256d71" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f43b12ec148ba5ee0101fb475d256d71?postId=7442c1535580" data-media-id="f43b12ec148ba5ee0101fb475d256d71" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -84,7 +84,7 @@ Usage is also very easy — you just need to swap out the container `View`, 
 
 
 
-<iframe width="700" height="250" src="/media/0f79d3fbeae95986b5a974b225a22f6c?postId=7442c1535580" data-media-id="0f79d3fbeae95986b5a974b225a22f6c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0f79d3fbeae95986b5a974b225a22f6c?postId=7442c1535580" data-media-id="0f79d3fbeae95986b5a974b225a22f6c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -132,7 +132,7 @@ I want to fix that image this time. To do so you’ll use an animated value to m
 
 
 
-<iframe width="700" height="250" src="/media/d04adf9b7619100894c5ec5bfdc8a559?postId=7442c1535580" data-media-id="d04adf9b7619100894c5ec5bfdc8a559" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d04adf9b7619100894c5ec5bfdc8a559?postId=7442c1535580" data-media-id="d04adf9b7619100894c5ec5bfdc8a559" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ The code isn’t much less than the source of option 3 but as a UI grows in comp
 
 
 
-<iframe width="700" height="250" src="/media/0ae717e40f7d9faf9397ac9fc8c9109d?postId=7442c1535580" data-media-id="0ae717e40f7d9faf9397ac9fc8c9109d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0ae717e40f7d9faf9397ac9fc8c9109d?postId=7442c1535580" data-media-id="0ae717e40f7d9faf9397ac9fc8c9109d" allowfullscreen="" frameborder="0"></iframe>
 
 
 

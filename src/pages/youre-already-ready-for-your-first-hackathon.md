@@ -1,7 +1,7 @@
 ---
 author: Collin Ferry
 authorTwitter: https://twitter.com/collinferry
-authorFacebook: false
+authorFacebook: none
 title: "You’re Already Ready for Your First Hackathon"
 subTitle: "I’ve always envisioned hackathons as being highly technical, events where just walking in the door implied serious knowledge of all types..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*feuHwMepPlxOTVMCYb-gyA.png
@@ -44,7 +44,7 @@ And, months later, I felt that I had finally crossed the valley of misunderstand
 
 
 
-<iframe width="500" height="250" src="/media/039ed03db5ff031a2d6f9ba99407b386?postId=b585aca54b93" data-media-id="039ed03db5ff031a2d6f9ba99407b386" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/039ed03db5ff031a2d6f9ba99407b386?postId=b585aca54b93" data-media-id="039ed03db5ff031a2d6f9ba99407b386" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -86,7 +86,7 @@ There will hopefully be more to this story, but for now, the SF StartupBus has r
 
 
 
-<iframe width="500" height="250" src="/media/0b7a2fba4fc5525a762076a7ef4dd8b2?postId=b585aca54b93" data-media-id="0b7a2fba4fc5525a762076a7ef4dd8b2" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/0b7a2fba4fc5525a762076a7ef4dd8b2?postId=b585aca54b93" data-media-id="0b7a2fba4fc5525a762076a7ef4dd8b2" allowfullscreen="" frameborder="0"></iframe>
 
 
 

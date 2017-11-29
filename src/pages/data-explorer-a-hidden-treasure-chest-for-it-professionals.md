@@ -80,7 +80,7 @@ So let’s write one:
 
 
 
-<iframe width="700" height="250" src="/media/33a3195f500ec156d509e557a3d265cb?postId=cd85bcf4795a" data-media-id="33a3195f500ec156d509e557a3d265cb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/33a3195f500ec156d509e557a3d265cb?postId=cd85bcf4795a" data-media-id="33a3195f500ec156d509e557a3d265cb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ As shown in this query, to refer to a parameter, surround its name with double p
 
 
 
-<iframe width="700" height="250" src="/media/6766ddb5a74e2412cc28ff3124bf1e7f?postId=cd85bcf4795a" data-media-id="6766ddb5a74e2412cc28ff3124bf1e7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/6766ddb5a74e2412cc28ff3124bf1e7f?postId=cd85bcf4795a" data-media-id="6766ddb5a74e2412cc28ff3124bf1e7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -108,7 +108,7 @@ Now SEDE comes with another useful feature: it can enter links into the results.
 
 
 
-<iframe width="700" height="250" src="/media/c68b394de8d1c6781055ca8f0c2d659e?postId=cd85bcf4795a" data-media-id="c68b394de8d1c6781055ca8f0c2d659e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c68b394de8d1c6781055ca8f0c2d659e?postId=cd85bcf4795a" data-media-id="c68b394de8d1c6781055ca8f0c2d659e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -126,7 +126,7 @@ It is easy to add this to our existing query:
 
 
 
-<iframe width="700" height="250" src="/media/51be20fa3a56b50793f9f919be01e9dc?postId=cd85bcf4795a" data-media-id="51be20fa3a56b50793f9f919be01e9dc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/51be20fa3a56b50793f9f919be01e9dc?postId=cd85bcf4795a" data-media-id="51be20fa3a56b50793f9f919be01e9dc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -142,7 +142,7 @@ We can also apply filters so that we are searching for users who:
 
 
 
-<iframe width="700" height="250" src="/media/a12b3040e741ee1acc7d97b6d1540070?postId=cd85bcf4795a" data-media-id="a12b3040e741ee1acc7d97b6d1540070" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a12b3040e741ee1acc7d97b6d1540070?postId=cd85bcf4795a" data-media-id="a12b3040e741ee1acc7d97b6d1540070" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ Users on Stack Overflow have **Posts,** and **Posts** can have **Tags.** Let’s
 
 
 
-<iframe width="700" height="250" src="/media/7fcb36d115ce4e9dd5d56b1ee8312cf1?postId=cd85bcf4795a" data-media-id="7fcb36d115ce4e9dd5d56b1ee8312cf1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7fcb36d115ce4e9dd5d56b1ee8312cf1?postId=cd85bcf4795a" data-media-id="7fcb36d115ce4e9dd5d56b1ee8312cf1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F1253248%3Fs%3D400%26v%3D4&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

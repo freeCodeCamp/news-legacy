@@ -1,7 +1,7 @@
 ---
 author: Lauren Stephanian
 authorTwitter: https://twitter.com/lstephanian
-authorFacebook: false
+authorFacebook: none
 title: "From “What is Blockchain?” to building a blockchain in less than an hour"
 subTitle: "A blockchain is a digital ledger of records that’s arranged in chunks of data called blocks. These blocks then link with one another thro..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*6d-HZ7Z2_m2vOZvxOLJvOg.jpeg

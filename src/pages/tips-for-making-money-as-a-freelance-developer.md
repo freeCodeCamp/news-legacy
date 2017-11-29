@@ -1,7 +1,7 @@
 ---
 author: Luke Ciciliano
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to Make Money as a Freelance Developer: Business Tips from an Expert"
 subTitle: "One common question people ask me is whether they should go the “freelance” route as opposed to getting a job or starting their own compa..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*yYKGkhaIV2uT-FYqDL_Uyw.jpeg
@@ -30,7 +30,7 @@ One common question people ask me is whether they should go the “freelance” 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/c21d5cad2dd05a1c6f05df977b22e6f4?postId=39fae6b76972" data-media-id="c21d5cad2dd05a1c6f05df977b22e6f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfsTzLgra5dQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/c21d5cad2dd05a1c6f05df977b22e6f4?postId=39fae6b76972" data-media-id="c21d5cad2dd05a1c6f05df977b22e6f4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfsTzLgra5dQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

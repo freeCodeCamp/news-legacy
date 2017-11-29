@@ -1,7 +1,7 @@
 ---
 author: Bruno Krebs
 authorTwitter: https://twitter.com/brunoskrebs
-authorFacebook: false
+authorFacebook: none
 title: "Let’s Build a Serverless REST API with Angular, Persistence, and Security"
 subTitle: "In this post I’ll show you how you can quickly build a serverless full stack app with static file hosting, a secure REST API, and a robus..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*A3cp3Q48OLI3FxfafhbbvQ.png
@@ -60,7 +60,7 @@ Here is a list of a few commands that we will have to issue to install Angular C
 
 
 
-<iframe width="700" height="250" src="/media/33e799079eca37311dfe05e5fd3a7893?postId=ff274f04e3d0" data-media-id="33e799079eca37311dfe05e5fd3a7893" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/33e799079eca37311dfe05e5fd3a7893?postId=ff274f04e3d0" data-media-id="33e799079eca37311dfe05e5fd3a7893" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -94,7 +94,7 @@ To use Lock, we must install two libraries in our application: `auth0-lock` and 
 
 
 
-<iframe width="700" height="250" src="/media/e48dc1301711a34ba96d36a8c0234fe7?postId=ff274f04e3d0" data-media-id="e48dc1301711a34ba96d36a8c0234fe7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e48dc1301711a34ba96d36a8c0234fe7?postId=ff274f04e3d0" data-media-id="e48dc1301711a34ba96d36a8c0234fe7" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -106,7 +106,7 @@ Let’s use Angular CLI to create a `NavBarComponent`. This component will have 
 
 
 
-<iframe width="700" height="250" src="/media/18f4a2a3b71748e476c9ba79083d6e8e?postId=ff274f04e3d0" data-media-id="18f4a2a3b71748e476c9ba79083d6e8e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/18f4a2a3b71748e476c9ba79083d6e8e?postId=ff274f04e3d0" data-media-id="18f4a2a3b71748e476c9ba79083d6e8e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ To integrate with Lock, let’s first implement `src/app/auth.service.ts` with t
 
 
 
-<iframe width="700" height="250" src="/media/03e6b7c0c63ef8179557869e145ac0d1?postId=ff274f04e3d0" data-media-id="03e6b7c0c63ef8179557869e145ac0d1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/03e6b7c0c63ef8179557869e145ac0d1?postId=ff274f04e3d0" data-media-id="03e6b7c0c63ef8179557869e145ac0d1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -138,7 +138,7 @@ Our `AuthService` class is good to go, but unlike `components`, Angular CLI does
 
 
 
-<iframe width="700" height="250" src="/media/ab412454d9e00ac64d97f005915a0e6b?postId=ff274f04e3d0" data-media-id="ab412454d9e00ac64d97f005915a0e6b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ab412454d9e00ac64d97f005915a0e6b?postId=ff274f04e3d0" data-media-id="ab412454d9e00ac64d97f005915a0e6b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -152,7 +152,7 @@ Let’s open the `src/app/nav-bar/nav-bar.component.ts` file and implement the f
 
 
 
-<iframe width="700" height="250" src="/media/76bd91fef01c7e689a350b4fcb5fe598?postId=ff274f04e3d0" data-media-id="76bd91fef01c7e689a350b4fcb5fe598" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/76bd91fef01c7e689a350b4fcb5fe598?postId=ff274f04e3d0" data-media-id="76bd91fef01c7e689a350b4fcb5fe598" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ This component simply gets `AuthService` injected and nothing else. Injecting a 
 
 
 
-<iframe width="700" height="250" src="/media/dfdbcb487288869963a74a8390a82f05?postId=ff274f04e3d0" data-media-id="dfdbcb487288869963a74a8390a82f05" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dfdbcb487288869963a74a8390a82f05?postId=ff274f04e3d0" data-media-id="dfdbcb487288869963a74a8390a82f05" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -176,7 +176,7 @@ Our `NavBar` exposes our application's title along with two buttons. At any give
 
 
 
-<iframe width="700" height="250" src="/media/e800118f0297de5902fe8a2ac2d4feb6?postId=ff274f04e3d0" data-media-id="e800118f0297de5902fe8a2ac2d4feb6" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e800118f0297de5902fe8a2ac2d4feb6?postId=ff274f04e3d0" data-media-id="e800118f0297de5902fe8a2ac2d4feb6" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -188,7 +188,7 @@ Good, we now have both the `NavBarComponent` and the `AuthService` fully impleme
 
 
 
-<iframe width="700" height="250" src="/media/967479681f2fe33eef7b6fdd4d0150aa?postId=ff274f04e3d0" data-media-id="967479681f2fe33eef7b6fdd4d0150aa" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/967479681f2fe33eef7b6fdd4d0150aa?postId=ff274f04e3d0" data-media-id="967479681f2fe33eef7b6fdd4d0150aa" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -200,7 +200,7 @@ If we run our application now, it wouldn’t look neat because most major browse
 
 
 
-<iframe width="700" height="250" src="/media/8dcc0f967d5d710320c249dd9cd2a181?postId=ff274f04e3d0" data-media-id="8dcc0f967d5d710320c249dd9cd2a181" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8dcc0f967d5d710320c249dd9cd2a181?postId=ff274f04e3d0" data-media-id="8dcc0f967d5d710320c249dd9cd2a181" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -222,7 +222,7 @@ To make our application a friendly place, let’s add a welcoming message. To do
 
 
 
-<iframe width="700" height="250" src="/media/fdd38e691e14f40bd855a86f8ed2542b?postId=ff274f04e3d0" data-media-id="fdd38e691e14f40bd855a86f8ed2542b" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fdd38e691e14f40bd855a86f8ed2542b?postId=ff274f04e3d0" data-media-id="fdd38e691e14f40bd855a86f8ed2542b" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -234,7 +234,7 @@ After that we are going to add the message, as a `md-card` component from [Angul
 
 
 
-<iframe width="700" height="250" src="/media/222eca580a53960b8410b174f670396c?postId=ff274f04e3d0" data-media-id="222eca580a53960b8410b174f670396c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/222eca580a53960b8410b174f670396c?postId=ff274f04e3d0" data-media-id="222eca580a53960b8410b174f670396c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -246,7 +246,7 @@ And last, we are going to make a fix to the interface by adding a rule to `src/a
 
 
 
-<iframe width="700" height="250" src="/media/189e203cdcf205b41cc56802db3abca1?postId=ff274f04e3d0" data-media-id="189e203cdcf205b41cc56802db3abca1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/189e203cdcf205b41cc56802db3abca1?postId=ff274f04e3d0" data-media-id="189e203cdcf205b41cc56802db3abca1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -270,7 +270,7 @@ We will first create a file called `tasks.js` in a new folder called `webtask`, 
 
 
 
-<iframe width="700" height="250" src="/media/338cfb92181c4c9755a697866122d243?postId=ff274f04e3d0" data-media-id="338cfb92181c4c9755a697866122d243" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/338cfb92181c4c9755a697866122d243?postId=ff274f04e3d0" data-media-id="338cfb92181c4c9755a697866122d243" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -308,7 +308,7 @@ After choosing an IdP, we are presented with a succinct, three-step process demo
 
 
 
-<iframe width="700" height="250" src="/media/533c59007de8f0cdf5908c7077986cb7?postId=ff274f04e3d0" data-media-id="533c59007de8f0cdf5908c7077986cb7" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/533c59007de8f0cdf5908c7077986cb7?postId=ff274f04e3d0" data-media-id="533c59007de8f0cdf5908c7077986cb7" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -324,7 +324,7 @@ With mLab and Webtask accounts created and having Webtask CLI tool correctly con
 
 
 
-<iframe width="700" height="250" src="/media/a64ac6015a906c6bf512c665e0bb6fba?postId=ff274f04e3d0" data-media-id="a64ac6015a906c6bf512c665e0bb6fba" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a64ac6015a906c6bf512c665e0bb6fba?postId=ff274f04e3d0" data-media-id="a64ac6015a906c6bf512c665e0bb6fba" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -350,7 +350,7 @@ There are two components that we will need to create to allow users to interact 
 
 
 
-<iframe width="700" height="250" src="/media/9ce1853bbc6e593e5fe5f05feae45698?postId=ff274f04e3d0" data-media-id="9ce1853bbc6e593e5fe5f05feae45698" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9ce1853bbc6e593e5fe5f05feae45698?postId=ff274f04e3d0" data-media-id="9ce1853bbc6e593e5fe5f05feae45698" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -366,7 +366,7 @@ Open the recently created service file, `src/app/task-list/task-list.service.ts`
 
 
 
-<iframe width="700" height="250" src="/media/25bea33dd0a21ca4878e04e19b36b16c?postId=ff274f04e3d0" data-media-id="25bea33dd0a21ca4878e04e19b36b16c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/25bea33dd0a21ca4878e04e19b36b16c?postId=ff274f04e3d0" data-media-id="25bea33dd0a21ca4878e04e19b36b16c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -384,7 +384,7 @@ To inject `TaskListService` in our components, we need to make a few changes in 
 
 
 
-<iframe width="700" height="250" src="/media/543e8c62fe4d8b611d7cad4788ccb6e0?postId=ff274f04e3d0" data-media-id="543e8c62fe4d8b611d7cad4788ccb6e0" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/543e8c62fe4d8b611d7cad4788ccb6e0?postId=ff274f04e3d0" data-media-id="543e8c62fe4d8b611d7cad4788ccb6e0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -402,7 +402,7 @@ Our `TaskListComponent` can now be implemented. We will now open the `src/app/ta
 
 
 
-<iframe width="700" height="250" src="/media/f39cfa952d8d45fefa33acb9d493d509?postId=ff274f04e3d0" data-media-id="f39cfa952d8d45fefa33acb9d493d509" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f39cfa952d8d45fefa33acb9d493d509?postId=ff274f04e3d0" data-media-id="f39cfa952d8d45fefa33acb9d493d509" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -412,7 +412,7 @@ This class gets `TaskListService` injected and add a few callback methods to the
 
 
 
-<iframe width="700" height="250" src="/media/8c7dd5450bd9c27395e7b922bc4fb56a?postId=ff274f04e3d0" data-media-id="8c7dd5450bd9c27395e7b922bc4fb56a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/8c7dd5450bd9c27395e7b922bc4fb56a?postId=ff274f04e3d0" data-media-id="8c7dd5450bd9c27395e7b922bc4fb56a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -426,7 +426,7 @@ To make our interface better, let’s add two CSS rules to the `src/app/task-lis
 
 
 
-<iframe width="700" height="250" src="/media/4ab34e088899933918634762ab63d30c?postId=ff274f04e3d0" data-media-id="4ab34e088899933918634762ab63d30c" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4ab34e088899933918634762ab63d30c?postId=ff274f04e3d0" data-media-id="4ab34e088899933918634762ab63d30c" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -440,7 +440,7 @@ Now our interface is ready to list tasks, so we need to make it visible by addin
 
 
 
-<iframe width="700" height="250" src="/media/4f21f8d0cf256775dd144dc9482aff65?postId=ff274f04e3d0" data-media-id="4f21f8d0cf256775dd144dc9482aff65" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4f21f8d0cf256775dd144dc9482aff65?postId=ff274f04e3d0" data-media-id="4f21f8d0cf256775dd144dc9482aff65" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -464,7 +464,7 @@ To enable a user to add tasks, we need to open the `src/app/task-list/task-form/
 
 
 
-<iframe width="700" height="250" src="/media/21969da0f099f8a9a2eaa40a040b0cb0?postId=ff274f04e3d0" data-media-id="21969da0f099f8a9a2eaa40a040b0cb0" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/21969da0f099f8a9a2eaa40a040b0cb0?postId=ff274f04e3d0" data-media-id="21969da0f099f8a9a2eaa40a040b0cb0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -476,7 +476,7 @@ This component accepts a user’s task input and emits a `taskAdded` event with 
 
 
 
-<iframe width="700" height="250" src="/media/72ecf1bdaa93878b3fe2fac7b752cfb3?postId=ff274f04e3d0" data-media-id="72ecf1bdaa93878b3fe2fac7b752cfb3" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/72ecf1bdaa93878b3fe2fac7b752cfb3?postId=ff274f04e3d0" data-media-id="72ecf1bdaa93878b3fe2fac7b752cfb3" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -490,7 +490,7 @@ To do that, let’s open `src/app/task-list/task-list.component.html` and add th
 
 
 
-<iframe width="700" height="250" src="/media/1572e1f4fbb92399fc67b340680025d1?postId=ff274f04e3d0" data-media-id="1572e1f4fbb92399fc67b340680025d1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1572e1f4fbb92399fc67b340680025d1?postId=ff274f04e3d0" data-media-id="1572e1f4fbb92399fc67b340680025d1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -514,7 +514,7 @@ To solve this issue let’s use a small module called [Angular 2 Slim Loading Ba
 
 
 
-<iframe width="700" height="250" src="/media/0ced5c9ab3995765707ed21f66261997?postId=ff274f04e3d0" data-media-id="0ced5c9ab3995765707ed21f66261997" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0ced5c9ab3995765707ed21f66261997?postId=ff274f04e3d0" data-media-id="0ced5c9ab3995765707ed21f66261997" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -526,7 +526,7 @@ We will also import its CSS rules by adding the following line to the top of our
 
 
 
-<iframe width="700" height="250" src="/media/cfb4a3758c4cb019ff5148ad9b4bbb57?postId=ff274f04e3d0" data-media-id="cfb4a3758c4cb019ff5148ad9b4bbb57" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/cfb4a3758c4cb019ff5148ad9b4bbb57?postId=ff274f04e3d0" data-media-id="cfb4a3758c4cb019ff5148ad9b4bbb57" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -538,7 +538,7 @@ After that we need to make our `AppComponent` use `SlimLoadingBarService`. To do
 
 
 
-<iframe width="700" height="250" src="/media/4ab7814af56f1cd177660e8285b1c677?postId=ff274f04e3d0" data-media-id="4ab7814af56f1cd177660e8285b1c677" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/4ab7814af56f1cd177660e8285b1c677?postId=ff274f04e3d0" data-media-id="4ab7814af56f1cd177660e8285b1c677" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -550,7 +550,7 @@ After that we need to make our `AppComponent` use `SlimLoadingBarService`. To do
 
 
 
-<iframe width="700" height="250" src="/media/dcbcd11722eb8b261ab178579ee65b4e?postId=ff274f04e3d0" data-media-id="dcbcd11722eb8b261ab178579ee65b4e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/dcbcd11722eb8b261ab178579ee65b4e?postId=ff274f04e3d0" data-media-id="dcbcd11722eb8b261ab178579ee65b4e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -562,7 +562,7 @@ The last thing we will have to do is edit the `src/app/task-list/task-list.compo
 
 
 
-<iframe width="700" height="250" src="/media/5798681b918a7c6eae78f844137b3e61?postId=ff274f04e3d0" data-media-id="5798681b918a7c6eae78f844137b3e61" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/5798681b918a7c6eae78f844137b3e61?postId=ff274f04e3d0" data-media-id="5798681b918a7c6eae78f844137b3e61" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -598,7 +598,7 @@ Now we have to add this repository as a remote to our application. When we creat
 
 
 
-<iframe width="700" height="250" src="/media/ad7aa9f6eb990a54e76e25908e3a09cb?postId=ff274f04e3d0" data-media-id="ad7aa9f6eb990a54e76e25908e3a09cb" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ad7aa9f6eb990a54e76e25908e3a09cb?postId=ff274f04e3d0" data-media-id="ad7aa9f6eb990a54e76e25908e3a09cb" allowfullscreen="" frameborder="0"></iframe>
 
 
 

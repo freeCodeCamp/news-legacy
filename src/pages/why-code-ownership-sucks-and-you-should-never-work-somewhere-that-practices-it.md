@@ -1,7 +1,7 @@
 ---
 author: Edd Yerburgh
 authorTwitter: https://twitter.com/EddYerburgh
-authorFacebook: false
+authorFacebook: none
 title: "Why code ownership sucks and you should never work somewhere that practices it"
 subTitle: "Code ownership sucks...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*GxJqp4LNH-JmLv1H_Dyqjg.jpeg

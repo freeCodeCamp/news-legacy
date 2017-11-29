@@ -1,7 +1,7 @@
 ---
 author: Jason Chitla
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "An Embarrassing Tale: Why my server could only handle 10 players"
 subTitle: "What might be even more embarrassing is that at one point I had convinced myself that 10 players per server was normal...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*B_uPwctTHkxK8qK3Ow3bZw.png

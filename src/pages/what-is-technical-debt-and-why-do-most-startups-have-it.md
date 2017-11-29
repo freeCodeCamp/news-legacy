@@ -1,7 +1,7 @@
 ---
 author: Trey Huffine
 authorTwitter: https://twitter.com/TreyHuffine
-authorFacebook: false
+authorFacebook: none
 title: "What is technical debt? And why does almost every startup have it?"
 subTitle: "Technical debt is any code added now that will take more work to fix at a later time — typically with the purpose of achieving rapid gain..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*BefRx92AZqpvYnK8qbQekw.jpeg
@@ -96,7 +96,7 @@ Technical debt multiplies other technical debt. Building on technical debt and/o
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/4614288fcd85ac94ad5b7ac4a49c5b89?postId=9a54458daabf" data-media-id="4614288fcd85ac94ad5b7ac4a49c5b89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1824002576%2Fpg-railsconf_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/4614288fcd85ac94ad5b7ac4a49c5b89?postId=9a54458daabf" data-media-id="4614288fcd85ac94ad5b7ac4a49c5b89" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1824002576%2Fpg-railsconf_400x400.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

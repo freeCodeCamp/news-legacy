@@ -1,7 +1,7 @@
 ---
 author: Joyz
 authorTwitter: https://twitter.com/joyzoursky
-authorFacebook: false
+authorFacebook: none
 title: "Catch bugs systematically: how to build a GitLab CI testing pipeline in 4 steps"
 subTitle: "Your first app is a hit the day it’s launched. But one week later, you realize that it has no retention. You discover that this is becaus..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*A4gQU4Mtnz0YVNrl8pCwXg.png
@@ -87,7 +87,7 @@ Here’s an example on perform a button click on a website in Python.
 
 
 
-<iframe width="700" height="250" src="/media/f483d3b38ed2f5539452966ffded1ee2?postId=24ccab95535e" data-media-id="f483d3b38ed2f5539452966ffded1ee2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12539486%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f483d3b38ed2f5539452966ffded1ee2?postId=24ccab95535e" data-media-id="f483d3b38ed2f5539452966ffded1ee2" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12539486%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -148,7 +148,7 @@ Take a look at this example:
 
 
 
-<iframe width="700" height="250" src="/media/00e10484b2a1b679b8f076921f2c870b?postId=24ccab95535e" data-media-id="00e10484b2a1b679b8f076921f2c870b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12539486%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/00e10484b2a1b679b8f076921f2c870b?postId=24ccab95535e" data-media-id="00e10484b2a1b679b8f076921f2c870b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12539486%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -229,7 +229,7 @@ You may want to have your tests run periodically. You can achieve this by settin
 
 
 
-<iframe width="700" height="250" src="/media/d27e0a28e6aba04e4a6ff4b695601ec4?postId=24ccab95535e" data-media-id="d27e0a28e6aba04e4a6ff4b695601ec4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12539486%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d27e0a28e6aba04e4a6ff4b695601ec4?postId=24ccab95535e" data-media-id="d27e0a28e6aba04e4a6ff4b695601ec4" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12539486%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

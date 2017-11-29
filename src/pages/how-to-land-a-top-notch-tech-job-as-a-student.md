@@ -690,7 +690,7 @@ _Thanks to Victoria Sun, Sophie He, Ritika Pai, and Calvin Lui for editing._
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/9eca8669ca93ea4c58e42f351b50f8af?postId=5c97fec82f3d" data-media-id="9eca8669ca93ea4c58e42f351b50f8af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/9eca8669ca93ea4c58e42f351b50f8af?postId=5c97fec82f3d" data-media-id="9eca8669ca93ea4c58e42f351b50f8af" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

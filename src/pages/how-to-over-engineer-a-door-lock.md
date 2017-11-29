@@ -1,6 +1,6 @@
 ---
 author: Steven Chan
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10212315072376826
 title: "How to over-engineer a door lock"
 subTitle: "My company’s Internet of Things (IoT) side project began when we couldn’t reset the door lock that we inherited from a previous tenant. I..."
@@ -90,7 +90,7 @@ Two things happen in the cloud server. The first is that a record is saved to ou
 
 
 
-<iframe width="700" height="250" src="/media/c12ba42b8333b58d93a971bb85af8b35?postId=863b5d58dd0d" data-media-id="c12ba42b8333b58d93a971bb85af8b35" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c12ba42b8333b58d93a971bb85af8b35?postId=863b5d58dd0d" data-media-id="c12ba42b8333b58d93a971bb85af8b35" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -104,7 +104,7 @@ The `after_save` function is triggered after a record is saved. `def after_open_
 
 
 
-<iframe width="700" height="250" src="/media/15fd7de354cc524d5d5af59c4b7ab4e7?postId=863b5d58dd0d" data-media-id="15fd7de354cc524d5d5af59c4b7ab4e7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/15fd7de354cc524d5d5af59c4b7ab4e7?postId=863b5d58dd0d" data-media-id="15fd7de354cc524d5d5af59c4b7ab4e7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -120,7 +120,7 @@ Here is the script for the Node client, which includes code related to our speci
 
 
 
-<iframe width="700" height="250" src="/media/56f4742aac19c6e92ccc8eb5f3602789?postId=863b5d58dd0d" data-media-id="56f4742aac19c6e92ccc8eb5f3602789" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/56f4742aac19c6e92ccc8eb5f3602789?postId=863b5d58dd0d" data-media-id="56f4742aac19c6e92ccc8eb5f3602789" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -140,7 +140,7 @@ Here is the Clojure code showing how the Raspberry Pi opens the door. Once the C
 
 
 
-<iframe width="700" height="250" src="/media/f89be1484ea652ca8bfb7512647398ca?postId=863b5d58dd0d" data-media-id="f89be1484ea652ca8bfb7512647398ca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f89be1484ea652ca8bfb7512647398ca?postId=863b5d58dd0d" data-media-id="f89be1484ea652ca8bfb7512647398ca" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F7130966%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

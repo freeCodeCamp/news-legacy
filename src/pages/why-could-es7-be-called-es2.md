@@ -1,7 +1,7 @@
 ---
 author: Tiago Lopes Ferreira
 authorTwitter: https://twitter.com/ferreiratiago_
-authorFacebook: false
+authorFacebook: none
 title: "The newest version of JavaScript only has 2 new features. Here’s how they work."
 subTitle: "Let’s talk about the latest version of JavaScript: ECMAScript 2016 (more commonly known as ES7). ES7 brings two new features: Array.proto..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ZxRdFZUQT6YcUVQFhTTNKQ.png
@@ -42,7 +42,7 @@ Gone are the days where we used `.indexOf()` to know if an element **existed** 
 
 
 
-<iframe width="700" height="250" src="/media/80f749bede88fb14fc58ad28e57d0691?postId=4c5f094ccef7" data-media-id="80f749bede88fb14fc58ad28e57d0691" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/80f749bede88fb14fc58ad28e57d0691?postId=4c5f094ccef7" data-media-id="80f749bede88fb14fc58ad28e57d0691" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -60,7 +60,7 @@ But if our goal is to know if a given element **exists** in an array, then `.in
 
 
 
-<iframe width="700" height="250" src="/media/ce14c573b80a2f2a50f7e882a4113302?postId=4c5f094ccef7" data-media-id="ce14c573b80a2f2a50f7e882a4113302" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ce14c573b80a2f2a50f7e882a4113302?postId=4c5f094ccef7" data-media-id="ce14c573b80a2f2a50f7e882a4113302" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -89,7 +89,7 @@ Let’s go step-by-step and try to understand the specification with examples.
 
 
 
-<iframe width="700" height="250" src="/media/d716d2b25a1f1f85424128f091e649c6?postId=4c5f094ccef7" data-media-id="d716d2b25a1f1f85424128f091e649c6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d716d2b25a1f1f85424128f091e649c6?postId=4c5f094ccef7" data-media-id="d716d2b25a1f1f85424128f091e649c6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ Let’s check the specification:
 
 
 
-<iframe width="700" height="250" src="/media/f4c2f2783914e75ae5520b55e7fa8801?postId=4c5f094ccef7" data-media-id="f4c2f2783914e75ae5520b55e7fa8801" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f4c2f2783914e75ae5520b55e7fa8801?postId=4c5f094ccef7" data-media-id="f4c2f2783914e75ae5520b55e7fa8801" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -137,7 +137,7 @@ The operator `**` behaves exactly the same way as `Math.pow()`. It returns the r
 
 
 
-<iframe width="700" height="250" src="/media/d7e71c665a570eec90f7cf3f17b62a41?postId=4c5f094ccef7" data-media-id="d7e71c665a570eec90f7cf3f17b62a41" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d7e71c665a570eec90f7cf3f17b62a41?postId=4c5f094ccef7" data-media-id="d7e71c665a570eec90f7cf3f17b62a41" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F3806676%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

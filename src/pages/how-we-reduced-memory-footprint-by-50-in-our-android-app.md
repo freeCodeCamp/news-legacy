@@ -96,7 +96,7 @@ We had to solve this problem before we could move any further with product devel
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/b02f51adc34252dbdbf9e5c7521e214b?postId=49efa5c93ad8" data-media-id="b02f51adc34252dbdbf9e5c7521e214b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_ioFW3cyRV0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/b02f51adc34252dbdbf9e5c7521e214b?postId=49efa5c93ad8" data-media-id="b02f51adc34252dbdbf9e5c7521e214b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_ioFW3cyRV0%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

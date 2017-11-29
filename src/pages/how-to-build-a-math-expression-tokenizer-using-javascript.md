@@ -281,7 +281,7 @@ Putting it all together, your tokenize function should look like this now:
 
 
 
-<iframe width="700" height="250" src="/media/a915539eda0879267f4dc1a0149278d1?postId=3638d4e5fbe9" data-media-id="a915539eda0879267f4dc1a0149278d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F14361073%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a915539eda0879267f4dc1a0149278d1?postId=3638d4e5fbe9" data-media-id="a915539eda0879267f4dc1a0149278d1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F14361073%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

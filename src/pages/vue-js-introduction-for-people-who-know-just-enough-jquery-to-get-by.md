@@ -1,7 +1,7 @@
 ---
 author: Matt Rothenberg
 authorTwitter: https://twitter.com/mattrothenberg
-authorFacebook: false
+authorFacebook: none
 title: "A Vue.js introduction for people who know just enough jQuery to get by"
 subTitle: "I’ve had a love-hate relationship with JavaScript for years...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*-8AAdexfOAK9R-AIha_PBQ.png
@@ -46,7 +46,7 @@ All jokes aside, I have greatly enjoyed honing my JavaScript chops through build
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/389f1de783e622ff4953bc8c0f01db80?postId=eab5aa193d77" data-media-id="389f1de783e622ff4953bc8c0f01db80" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCE0Jp9_WMAI6eZB.png%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/389f1de783e622ff4953bc8c0f01db80?postId=eab5aa193d77" data-media-id="389f1de783e622ff4953bc8c0f01db80" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCE0Jp9_WMAI6eZB.png%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -95,7 +95,7 @@ Today, we will be using [CodePen](https://codepen.io) to build our “Compose Tw
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/6b401fcace352cbb308f14f80814bf1a?postId=eab5aa193d77" data-media-id="6b401fcace352cbb308f14f80814bf1a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.GmKKog.small.d2acefc5-f64d-4c4d-9a09-40663197353d.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/6b401fcace352cbb308f14f80814bf1a?postId=eab5aa193d77" data-media-id="6b401fcace352cbb308f14f80814bf1a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.GmKKog.small.d2acefc5-f64d-4c4d-9a09-40663197353d.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -115,7 +115,7 @@ With everything in place, let us get started on some feature work.
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/dfe4798234c13ead8ca831afe3859af6?postId=eab5aa193d77" data-media-id="dfe4798234c13ead8ca831afe3859af6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.PmYYbZ.small.01a112d9-bb25-437e-88ec-b360058cb3d8.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/dfe4798234c13ead8ca831afe3859af6?postId=eab5aa193d77" data-media-id="dfe4798234c13ead8ca831afe3859af6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.PmYYbZ.small.01a112d9-bb25-437e-88ec-b360058cb3d8.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -178,7 +178,7 @@ Admittedly, this felt like smoke and mirrors when I first got started with Vue. 
 
 
 
-<iframe data-width="582" data-height="278" width="582" height="278" src="/media/aaa753c6b7cb3485cac5f99aa0f8669e?postId=eab5aa193d77" data-media-id="aaa753c6b7cb3485cac5f99aa0f8669e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FFlimsyWindyAndeancat-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="582" data-height="278" width="582" height="278" src="https://medium.freecodecamp.org/media/aaa753c6b7cb3485cac5f99aa0f8669e?postId=eab5aa193d77" data-media-id="aaa753c6b7cb3485cac5f99aa0f8669e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FFlimsyWindyAndeancat-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -194,7 +194,7 @@ Please feel free to repeat this step if anything along the way was confusing (ei
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/3f8e871f5917d67feaa8bcb4ad6c5994?postId=eab5aa193d77" data-media-id="3f8e871f5917d67feaa8bcb4ad6c5994" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.OmLxLJ.small.ecad92ba-d1ed-4419-823f-b6c104494cba.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/3f8e871f5917d67feaa8bcb4ad6c5994?postId=eab5aa193d77" data-media-id="3f8e871f5917d67feaa8bcb4ad6c5994" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.OmLxLJ.small.ecad92ba-d1ed-4419-823f-b6c104494cba.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -240,7 +240,7 @@ For the visual learners out there, watch the magic:
 
 
 
-<iframe data-width="1156" data-height="684" width="700" height="414" src="/media/70cb43b559fdb6e7be4fc5f975743d52?postId=eab5aa193d77" data-media-id="70cb43b559fdb6e7be4fc5f975743d52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FReliablePlainAruanas-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1156" data-height="684" width="700" height="414" src="https://medium.freecodecamp.org/media/70cb43b559fdb6e7be4fc5f975743d52?postId=eab5aa193d77" data-media-id="70cb43b559fdb6e7be4fc5f975743d52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FReliablePlainAruanas-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -252,7 +252,7 @@ For the visual learners out there, watch the magic:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/8ca745a897998a8fd72d0d69f0871508?postId=eab5aa193d77" data-media-id="8ca745a897998a8fd72d0d69f0871508" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.JNPpOx.small.7ac66ebc-9cd3-4e55-95d3-8b03d0188719.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/8ca745a897998a8fd72d0d69f0871508?postId=eab5aa193d77" data-media-id="8ca745a897998a8fd72d0d69f0871508" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.JNPpOx.small.7ac66ebc-9cd3-4e55-95d3-8b03d0188719.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -264,7 +264,7 @@ For the visual learners out there, watch the magic:
 
 
 
-<iframe data-width="588" data-height="162" width="588" height="162" src="/media/203b32b94b8d564426c9e2e909eca402?postId=eab5aa193d77" data-media-id="203b32b94b8d564426c9e2e909eca402" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FPertinentKindheartedGoral-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="588" data-height="162" width="588" height="162" src="https://medium.freecodecamp.org/media/203b32b94b8d564426c9e2e909eca402?postId=eab5aa193d77" data-media-id="203b32b94b8d564426c9e2e909eca402" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FPertinentKindheartedGoral-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -303,7 +303,7 @@ Under the hood, and thanks to two-way data binding, Vue will handle the addition
 
 
 
-<iframe data-width="764" data-height="188" width="700" height="172" src="/media/7cb9dce8458385c07de95a4a5a1453ac?postId=eab5aa193d77" data-media-id="7cb9dce8458385c07de95a4a5a1453ac" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FOptimisticGorgeousAmericanindianhorse-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="764" data-height="188" width="700" height="172" src="https://medium.freecodecamp.org/media/7cb9dce8458385c07de95a4a5a1453ac?postId=eab5aa193d77" data-media-id="7cb9dce8458385c07de95a4a5a1453ac" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FOptimisticGorgeousAmericanindianhorse-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -317,7 +317,7 @@ Goodbye, `addClass()` and `removeClass()`
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/29cbd6616d9a815b96f0b08a058d92a3?postId=eab5aa193d77" data-media-id="29cbd6616d9a815b96f0b08a058d92a3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.vmBRjZ.small.e618a234-0af6-4bb8-808d-a57808a7bb9e.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/29cbd6616d9a815b96f0b08a058d92a3?postId=eab5aa193d77" data-media-id="29cbd6616d9a815b96f0b08a058d92a3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.vmBRjZ.small.e618a234-0af6-4bb8-808d-a57808a7bb9e.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -359,7 +359,7 @@ Before diving into our feature work, some rapid-fire practice.
 
 
 
-<iframe data-width="822" data-height="668" width="700" height="569" src="/media/9dfcbd67e1489d2cb56d4de199c226ef?postId=eab5aa193d77" data-media-id="9dfcbd67e1489d2cb56d4de199c226ef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FWarlikeObeseAzurevasesponge-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="822" data-height="668" width="700" height="569" src="https://medium.freecodecamp.org/media/9dfcbd67e1489d2cb56d4de199c226ef?postId=eab5aa193d77" data-media-id="9dfcbd67e1489d2cb56d4de199c226ef" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FWarlikeObeseAzurevasesponge-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -371,7 +371,7 @@ I did it for the lulz
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/5688d8b0852195209c629c764cb83ba0?postId=eab5aa193d77" data-media-id="5688d8b0852195209c629c764cb83ba0" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/5688d8b0852195209c629c764cb83ba0?postId=eab5aa193d77" data-media-id="5688d8b0852195209c629c764cb83ba0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -450,7 +450,7 @@ In our markup, we’ve added one such `input` and hidden it with a special `hide
 
 
 
-<iframe data-width="884" data-height="716" width="700" height="567" src="/media/ca4fec7edcd9ac0fb01e439b9f4d312d?postId=eab5aa193d77" data-media-id="ca4fec7edcd9ac0fb01e439b9f4d312d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FAgedIdolizedJerboa-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="884" data-height="716" width="700" height="567" src="https://medium.freecodecamp.org/media/ca4fec7edcd9ac0fb01e439b9f4d312d?postId=eab5aa193d77" data-media-id="ca4fec7edcd9ac0fb01e439b9f4d312d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fthumbs.gfycat.com%2FAgedIdolizedJerboa-size_restricted.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -499,7 +499,7 @@ So, we can effectively handle a user attaching _one_ photo to the Tweet, but wha
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/c783b11dc8c035258e74e1b8fc0db98f?postId=eab5aa193d77" data-media-id="c783b11dc8c035258e74e1b8fc0db98f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.JNjGWN.small.0c058e79-3683-4603-98a8-9f743488ff15.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/c783b11dc8c035258e74e1b8fc0db98f?postId=eab5aa193d77" data-media-id="c783b11dc8c035258e74e1b8fc0db98f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F135907.JNjGWN.small.0c058e79-3683-4603-98a8-9f743488ff15.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -554,7 +554,7 @@ A prototypical example might look like this:
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/258080a8c7d62cc416e7fac48c1a023e?postId=eab5aa193d77" data-media-id="258080a8c7d62cc416e7fac48c1a023e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fm.cdpn.io%2Fscreenshot-coming-soon-small.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/258080a8c7d62cc416e7fac48c1a023e?postId=eab5aa193d77" data-media-id="258080a8c7d62cc416e7fac48c1a023e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fm.cdpn.io%2Fscreenshot-coming-soon-small.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -583,7 +583,7 @@ The one change that we need to make revolves around the `removePhoto` method whi
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/716d19470f636cee2ac72b081d566a7b?postId=eab5aa193d77" data-media-id="716d19470f636cee2ac72b081d566a7b" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/716d19470f636cee2ac72b081d566a7b?postId=eab5aa193d77" data-media-id="716d19470f636cee2ac72b081d566a7b" allowfullscreen="" frameborder="0"></iframe>
 
 
 

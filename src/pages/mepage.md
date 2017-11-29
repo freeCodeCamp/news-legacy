@@ -1,7 +1,7 @@
 ---
 author: Divya Mistry
 authorTwitter: https://twitter.com/divyamistry
-authorFacebook: false
+authorFacebook: none
 title: "MePage"
 subTitle: "A Single-page Destination on the Web"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*6z_QTQc5m385kAYhsjlt2w.jpeg

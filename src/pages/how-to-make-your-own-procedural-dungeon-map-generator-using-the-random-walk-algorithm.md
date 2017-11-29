@@ -1,7 +1,7 @@
 ---
 author: ahmad abdolsaheb
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How to code your own procedural dungeon map generator using the Random Walk Algorithm"
 subTitle: "As technology evolves and game contents become more algorithmically generated, it’s not difficult to imagine the creation of a life-like ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*biolx7MiK6OOZYRWeiq1Wg.gif
@@ -62,7 +62,7 @@ To see a demo, open the CodePen project below, click on the map to create a new 
 
 
 
-<iframe data-width="800" data-height="600" width="980" height="735" src="/media/276cdd9bdd7bee1558e924360a0f6eee?postId=e0085c8aa9a" data-media-id="276cdd9bdd7bee1558e924360a0f6eee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F611316.zEKdop.small.57d3626f-6b08-4d57-9bc4-77af9f5ae887.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="980" height="735" src="https://medium.freecodecamp.org/media/276cdd9bdd7bee1558e924360a0f6eee?postId=e0085c8aa9a" data-media-id="276cdd9bdd7bee1558e924360a0f6eee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F611316.zEKdop.small.57d3626f-6b08-4d57-9bc4-77af9f5ae887.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -224,7 +224,7 @@ You can see the complete algorithm in the following snippet:
 
 
 
-<iframe width="700" height="250" src="/media/ace2c07722213b227e771af770470d02?postId=e0085c8aa9a" data-media-id="ace2c07722213b227e771af770470d02" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F4591597%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ace2c07722213b227e771af770470d02?postId=e0085c8aa9a" data-media-id="ace2c07722213b227e771af770470d02" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F4591597%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

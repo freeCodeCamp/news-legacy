@@ -36,7 +36,7 @@ This is a breakdown of every function I tried and tested, including my tests and
 
 
 
-<iframe data-width="435" data-height="399" width="435" height="399" src="/media/87f358cbeb388e68b9aa3a5d373d86ba?postId=b38fd48f0d55" data-media-id="87f358cbeb388e68b9aa3a5d373d86ba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FqhY3EfioLSshO%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="399" width="435" height="399" src="https://medium.freecodecamp.org/media/87f358cbeb388e68b9aa3a5d373d86ba?postId=b38fd48f0d55" data-media-id="87f358cbeb388e68b9aa3a5d373d86ba" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FqhY3EfioLSshO%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -164,7 +164,7 @@ Fastest is arrayPushAndReduce</pre>
 
 
 
-<iframe data-width="435" data-height="244" width="435" height="244" src="/media/72248669eded0a816ef8038b0fc4ef62?postId=b38fd48f0d55" data-media-id="72248669eded0a816ef8038b0fc4ef62" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3oGRFKJ8Ea3hKkLRyE%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="244" width="435" height="244" src="https://medium.freecodecamp.org/media/72248669eded0a816ef8038b0fc4ef62?postId=b38fd48f0d55" data-media-id="72248669eded0a816ef8038b0fc4ef62" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3oGRFKJ8Ea3hKkLRyE%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -255,7 +255,7 @@ I rested on my laurels.
 
 
 
-<iframe data-width="435" data-height="244" width="435" height="244" src="/media/75e0e3c811d3936d80c19c859ed81810?postId=b38fd48f0d55" data-media-id="75e0e3c811d3936d80c19c859ed81810" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FTf4pP3z2EqowM%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="244" width="435" height="244" src="https://medium.freecodecamp.org/media/75e0e3c811d3936d80c19c859ed81810?postId=b38fd48f0d55" data-media-id="75e0e3c811d3936d80c19c859ed81810" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FTf4pP3z2EqowM%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

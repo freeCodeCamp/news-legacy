@@ -68,7 +68,7 @@ Let’s say you’re starting in Seattle, and taking a trip to Boston. That trip
 
 
 
-<iframe width="700" height="250" src="/media/a3ebb75fba9ab7d66c276aede453b38c?postId=1217b69c390e" data-media-id="a3ebb75fba9ab7d66c276aede453b38c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a3ebb75fba9ab7d66c276aede453b38c?postId=1217b69c390e" data-media-id="a3ebb75fba9ab7d66c276aede453b38c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ And, in HTML:
 
 
 
-<iframe width="700" height="250" src="/media/0299d83e34b45e47e95632df0c160d7f?postId=1217b69c390e" data-media-id="0299d83e34b45e47e95632df0c160d7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/0299d83e34b45e47e95632df0c160d7f?postId=1217b69c390e" data-media-id="0299d83e34b45e47e95632df0c160d7f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -152,7 +152,7 @@ Let’s say we’re taking the northern trip, Seattle to Boston. Here’s that H
 
 
 
-<iframe width="700" height="250" src="/media/a3ebb75fba9ab7d66c276aede453b38c?postId=1217b69c390e" data-media-id="a3ebb75fba9ab7d66c276aede453b38c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a3ebb75fba9ab7d66c276aede453b38c?postId=1217b69c390e" data-media-id="a3ebb75fba9ab7d66c276aede453b38c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -174,7 +174,7 @@ Notice — this is now strictly a timeline view, not using the geographic or
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=1217b69c390e" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/49d3eea55442a7cdcaff56ecc0af5a9e?postId=1217b69c390e" data-media-id="49d3eea55442a7cdcaff56ecc0af5a9e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -188,7 +188,7 @@ Time for a little quiz! Here are some sample destinations, in HTML.
 
 
 
-<iframe width="700" height="250" src="/media/d217921cf6e9a713f24414cd7195641f?postId=1217b69c390e" data-media-id="d217921cf6e9a713f24414cd7195641f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/d217921cf6e9a713f24414cd7195641f?postId=1217b69c390e" data-media-id="d217921cf6e9a713f24414cd7195641f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -208,7 +208,7 @@ The answer:
 
 
 
-<iframe width="700" height="250" src="/media/1754e01453e5216c0e0c6cc5de339e56?postId=1217b69c390e" data-media-id="1754e01453e5216c0e0c6cc5de339e56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1754e01453e5216c0e0c6cc5de339e56?postId=1217b69c390e" data-media-id="1754e01453e5216c0e0c6cc5de339e56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8312841%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

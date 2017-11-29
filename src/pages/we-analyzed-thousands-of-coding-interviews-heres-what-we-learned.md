@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "We analyzed thousands of coding interviews. Here’s what we learned."
 subTitle: "Note: I wrote most of the words in this post, but the legendary Dave Holtz did the heavy lifting on the data side. See more of his work o..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*nJCm0Uc5BOq12faK2KR4Dw.jpeg

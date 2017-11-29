@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Building online communities: Numenta"
 subTitle: "We caught up with Matt Taylor from Numenta — an organization whose mission is to lead a new era of machine intelligence and build compute..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*dxRIVyhf8oU4jwe16F12Uw.png

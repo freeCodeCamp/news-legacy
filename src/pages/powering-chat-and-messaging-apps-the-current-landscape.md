@@ -1,7 +1,7 @@
 ---
 author: Joe Hanson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "How much to build and how much to buy: powering chat and messaging apps"
 subTitle: "When you’re building a chat application of any kind — from mobile group messaging and multiplayer in-game chat, to customer support and c..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OXWXXpMEqJja5J21hmD1fw.png

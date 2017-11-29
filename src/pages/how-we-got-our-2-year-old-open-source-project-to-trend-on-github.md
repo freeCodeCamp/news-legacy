@@ -9,18 +9,27 @@ url: https://medium.freecodecamp.org/how-we-got-our-2-year-old-open-source-proje
 id: how-we-got-our-2-year-old-open-source-project-to-trend-on-github-8c25b0a6dfe9
 date: 2017-01-30T15:26:48.393Z
 tags: [
-  "Programming",
-  "Open Source",
-  "Data Science",
-  "Tech",
-  "Startup"
+	"Programming",
+	"Open Source",
+	"Data Science",
+	"Tech",
+	"Startup"
 ]
 ---
 # How we got our 2-year-old open source project to trend on GitHub
 
 
 
+
+
+
+
 ![](https://cdn-images-1.medium.com/max/1600/1*J96tHDkDpYr5bFkneaICfg.png)
+
+
+
+
+
 
 
 
@@ -40,7 +49,14 @@ Bonus: The Founder: a dystopian business-simulator ([playable browser game](http
 
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*wdI5v0AxxUX5jX06aylWzQ.jpeg)
+
+
+
+
+
+
+
+
 
 
 

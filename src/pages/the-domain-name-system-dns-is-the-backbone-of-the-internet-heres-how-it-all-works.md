@@ -1,7 +1,7 @@
 ---
 author: Nikolas O'Donnell
 authorTwitter: https://twitter.com/fullStackPapa
-authorFacebook: false
+authorFacebook: none
 title: "How the Domain Name System (DNS) works and how you can make it better."
 subTitle: "The Domain Name System (DNS) is often referred to as the backbone of the internet. It’s run by many engineers and their organizations, it..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*_aojoKJJSZRCADzj9N06uA.jpeg
@@ -62,7 +62,7 @@ So here’s what happens: (cue the graphics!)
 
 
 
-<iframe data-width="550" data-height="550" width="550" height="550" src="/media/503f1f8785c2313a97d447b67a958d62?postId=5706d0afa0fa" data-media-id="503f1f8785c2313a97d447b67a958d62" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi.imgur.com%2FpSyfxhN.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="550" data-height="550" width="550" height="550" src="https://medium.freecodecamp.org/media/503f1f8785c2313a97d447b67a958d62?postId=5706d0afa0fa" data-media-id="503f1f8785c2313a97d447b67a958d62" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi.imgur.com%2FpSyfxhN.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -85,7 +85,7 @@ Don’t worry too much about trying to read all the text, but just watch the exc
 
 
 
-<iframe data-width="550" data-height="550" width="550" height="550" src="/media/c7af1b17c74f7a334028e8458f888c28?postId=5706d0afa0fa" data-media-id="c7af1b17c74f7a334028e8458f888c28" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi.imgur.com%2FS1v0xrV.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="550" data-height="550" width="550" height="550" src="https://medium.freecodecamp.org/media/c7af1b17c74f7a334028e8458f888c28?postId=5706d0afa0fa" data-media-id="c7af1b17c74f7a334028e8458f888c28" data-thumbnail="https://i.embed.ly/1/image?url=http%3A%2F%2Fi.imgur.com%2FS1v0xrV.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

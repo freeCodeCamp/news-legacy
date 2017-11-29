@@ -1,7 +1,7 @@
 ---
 author: Den McHenry
 authorTwitter: https://twitter.com/DenMcH
-authorFacebook: false
+authorFacebook: none
 title: "Bundle-Up Your Inbox to be a Better Dev"
 subTitle: "Seven of the Best Newsletters for Front End Folks"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*gj7q3eWzfl1Q-8bwo1OFDQ.jpeg

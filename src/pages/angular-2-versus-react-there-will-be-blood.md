@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "Angular 2 versus React: There Will Be Blood"
 subTitle: "Angular 2 has reached Beta and appears poised to become the hot new framework of 2016. It’s time for a showdown. Let’s see how it stacks ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*MRPl_SNuRGJchb6eOAnkSA.jpeg
@@ -189,7 +189,7 @@ JSX’s code completion support, compile-time checks, and rich error messaging a
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/13b373517ecb49243036ffefb9c20f7f?postId=66595faafd51" data-media-id="13b373517ecb49243036ffefb9c20f7f" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/13b373517ecb49243036ffefb9c20f7f?postId=66595faafd51" data-media-id="13b373517ecb49243036ffefb9c20f7f" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -47,7 +47,7 @@ In keeping with theme of this series, the idea of this article is give you some 
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/06c56088a16d82584ae1c233f6735fb9?postId=6ddbb23f46cc" data-media-id="06c56088a16d82584ae1c233f6735fb9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/06c56088a16d82584ae1c233f6735fb9?postId=6ddbb23f46cc" data-media-id="06c56088a16d82584ae1c233f6735fb9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -225,7 +225,7 @@ This is also a great time to use the guerrilla testing techniques I discussed in
 
 
 
-<iframe data-width="750" data-height="1334" width="525" height="934" src="/media/6cd7aadfecf9da28d9c48847313a4d40?postId=6ddbb23f46cc" data-media-id="6cd7aadfecf9da28d9c48847313a4d40" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmarvelapp-live.storage.googleapis.com%2Fserve%2Fc9624505b789472bbdc1b1828cf38c63.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="750" data-height="1334" width="525" height="934" src="https://medium.freecodecamp.org/media/6cd7aadfecf9da28d9c48847313a4d40?postId=6ddbb23f46cc" data-media-id="6cd7aadfecf9da28d9c48847313a4d40" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmarvelapp-live.storage.googleapis.com%2Fserve%2Fc9624505b789472bbdc1b1828cf38c63.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -275,7 +275,7 @@ In the meantime, make sure and check out these books if you’re looking for som
 
 
 
-<iframe data-width="800" data-height="400" width="700" height="350" src="/media/06c56088a16d82584ae1c233f6735fb9?postId=6ddbb23f46cc" data-media-id="06c56088a16d82584ae1c233f6735fb9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="400" width="700" height="350" src="https://medium.freecodecamp.org/media/06c56088a16d82584ae1c233f6735fb9?postId=6ddbb23f46cc" data-media-id="06c56088a16d82584ae1c233f6735fb9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fupscri.be%2Fmedia%2Fform.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

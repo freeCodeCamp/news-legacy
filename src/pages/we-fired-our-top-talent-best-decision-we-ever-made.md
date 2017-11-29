@@ -1,7 +1,7 @@
 ---
 author: Jonathan Solórzano-Hamilton
 authorTwitter: https://twitter.com/jhsolor
-authorFacebook: false
+authorFacebook: none
 title: "We fired our top talent. Best decision we ever made."
 subTitle: "“You will never be able to understand any of what I’ve created. I am Albert F***ing Einstein and you are all monkeys scrabbling in the di..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*4hU3Xn7wunA81I3v17JIrg.jpeg

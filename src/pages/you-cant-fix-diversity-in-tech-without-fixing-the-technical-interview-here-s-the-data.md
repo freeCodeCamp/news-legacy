@@ -1,7 +1,7 @@
 ---
 author: Aline Lerner
 authorTwitter: https://twitter.com/alinelernerLLC
-authorFacebook: false
+authorFacebook: none
 title: "You can’t fix diversity in tech without fixing the technical interview. Here’s the data."
 subTitle: "In the last few months, several large players, including Google and Facebook, have released their latest — and ultimately disappointing —..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*07PZgK9cRFvBlgI0r_Lpsw.png

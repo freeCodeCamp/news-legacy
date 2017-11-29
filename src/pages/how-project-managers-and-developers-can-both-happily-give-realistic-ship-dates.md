@@ -1,6 +1,6 @@
 ---
 author: Roy Yuen
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10158040998555099
 title: "How project managers and developers can both (happily!) give realistic ship dates"
 subTitle: "Project managers (PMs) are deadline chasers. They think clients want the earliest possible ship date to reduce costs. But that’s a common..."

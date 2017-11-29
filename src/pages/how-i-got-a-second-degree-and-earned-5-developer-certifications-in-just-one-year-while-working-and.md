@@ -1,7 +1,7 @@
 ---
 author: Beau Carnes
 authorTwitter: https://twitter.com/CarnesBeau
-authorFacebook: false
+authorFacebook: none
 title: "How I got a second degree and earned 5 developer certifications in just one year, while working and raising two kids"
 subTitle: "Learning to code can be challenging — especially when you also have a job and a family with small kids. Despite those things, I decided t..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*sVCekEMU5bZzM178ATzcqw.jpeg

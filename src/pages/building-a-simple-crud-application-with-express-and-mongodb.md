@@ -1,7 +1,7 @@
 ---
 author: Zell Liew
 authorTwitter: https://twitter.com/zellwk
-authorFacebook: false
+authorFacebook: none
 title: "Building a Simple CRUD Application with Express and MongoDB"
 subTitle: "For a long time, I didn’t dare venture into back end development. I felt intimidated because of my lack of an academic background in prog..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*umzW9eAqELBCuo458Rzdcw.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Mockplus
 authorTwitter: https://twitter.com/Mockplus
-authorFacebook: false
+authorFacebook: none
 title: "The Best Mockup &amp; Wireframing Design Tools &amp; Apps for UI/UX Designers"
 subTitle: "Prototyping/wireframing tools are the best communication method between interaction designers, project manager, and website developers. I..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*7wk-KpPqZiZUxHfQ.jpg

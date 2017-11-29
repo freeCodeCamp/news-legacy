@@ -1,7 +1,7 @@
 ---
 author: Laurence Bradford
 authorTwitter: https://twitter.com/learncodewithme
-authorFacebook: false
+authorFacebook: none
 title: "9 Differences Between Men and Women Learning to Code"
 subTitle: "Technology jobs are primarily the domain of men...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*AWlnD5c5w3Be4j5CWPNHbw.png

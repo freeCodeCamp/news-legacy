@@ -1,7 +1,7 @@
 ---
 author: Naman Kamra
 authorTwitter: https://twitter.com/NamKam5
-authorFacebook: false
+authorFacebook: none
 title: "How to read more efficiently with RSS"
 subTitle: "Rich Site Summary (RSS) was developed way back in 1999 as a way to quickly subscribe to blogs and newspapers, back before tools like Twit..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*HOQAsv5Z1V5KdSF1uGUQIA.jpeg

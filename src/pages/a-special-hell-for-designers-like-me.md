@@ -4,16 +4,16 @@ authorTwitter: https://twitter.com/ade3
 authorFacebook: https://facebook.com/10152954080612456
 title: "A Special Hell for Designers Like Me"
 subTitle: "Part 1: Scratching the Surface"
-coverSrc: 
+coverSrc: https://cdn-images-1.medium.com/max/2000/1*Xv2-XEB7caY1oQ34IhhMyQ.gif
 url: https://medium.freecodecamp.org/a-special-hell-for-designers-like-me-5c55bd855613
 id: a-special-hell-for-designers-like-me-5c55bd855613
 date: 2016-01-23T20:18:10.186Z
 tags: [
-  "Design",
-  "Photography",
-  "Photoshop",
-  "UX",
-  "Tech"
+	"Design",
+	"Photography",
+	"Photoshop",
+	"UX",
+	"Tech"
 ]
 ---
 # A Special Hell for Designers Like Me
@@ -48,11 +48,8 @@ I knew I was going straight to designer hell the summer of hurricane Katrina. I 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*gW5OsV47uoZwG_Hxp3g4WQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*gW5OsV47uoZwG_Hxp3g4WQ.png"&gt;</noscript>
 
 
 
@@ -76,11 +73,8 @@ This was my job, and I would like to think I did it well. The work we created fo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*kfEwKsdQFEQLreXFC-u4xQ.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*kfEwKsdQFEQLreXFC-u4xQ.jpeg"&gt;</noscript>
 
 
 
@@ -96,11 +90,8 @@ First, let me tell you a little bit about the literal surface of the RVs. The ex
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*qnQKC4PG_51mQjhTXK6lEg.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*qnQKC4PG_51mQjhTXK6lEg.gif"&gt;</noscript>
 
 
 
@@ -120,11 +111,8 @@ You can still make a white box with ugly stickers the object of desire. Like any
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AO6n57c0H8GLsAoszauwUQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*AO6n57c0H8GLsAoszauwUQ.gif"&gt;</noscript>
 
 
 
@@ -150,11 +138,8 @@ I don’t know if you have been in an RV, so let me just tell you. They are tiny
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*9OXP4yvxrK7U0z79zAWi_A.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*9OXP4yvxrK7U0z79zAWi_A.gif"&gt;</noscript>
 
 
 
@@ -176,11 +161,8 @@ The third trick is misdirection. If your product can’t rely on its own good lo
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Xv2-XEB7caY1oQ34IhhMyQ.gif?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Xv2-XEB7caY1oQ34IhhMyQ.gif"&gt;</noscript>
 
 
 
@@ -198,11 +180,8 @@ It makes a better trick to include the product in your illusions, but this isn�
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*AAbCO5S8lg0TGswnVSZHmw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*AAbCO5S8lg0TGswnVSZHmw.png"&gt;</noscript>
 
 
 

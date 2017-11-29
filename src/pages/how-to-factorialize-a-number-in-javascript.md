@@ -72,7 +72,7 @@ We have already seen a recursion approach on a String in the previous article, [
 
 
 
-<iframe width="700" height="250" src="/media/c0d2369a84672c17d8c7979cb77fd4d1?postId=9263c89a4b38" data-media-id="c0d2369a84672c17d8c7979cb77fd4d1" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c0d2369a84672c17d8c7979cb77fd4d1?postId=9263c89a4b38" data-media-id="c0d2369a84672c17d8c7979cb77fd4d1" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -144,7 +144,7 @@ The pattern would be:
 
 
 
-<iframe width="700" height="250" src="/media/94d370855eb49f7fb799e14f7eedbd85?postId=9263c89a4b38" data-media-id="94d370855eb49f7fb799e14f7eedbd85" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/94d370855eb49f7fb799e14f7eedbd85?postId=9263c89a4b38" data-media-id="94d370855eb49f7fb799e14f7eedbd85" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -156,7 +156,7 @@ The pattern would be:
 
 
 
-<iframe width="700" height="250" src="/media/983dc29ec0b5a6d0e5c2963b77d91417?postId=9263c89a4b38" data-media-id="983dc29ec0b5a6d0e5c2963b77d91417" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/983dc29ec0b5a6d0e5c2963b77d91417?postId=9263c89a4b38" data-media-id="983dc29ec0b5a6d0e5c2963b77d91417" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -186,7 +186,7 @@ The pattern would be:
 
 
 
-<iframe width="700" height="250" src="/media/51a043979fbc8f223323427c9b41330e?postId=9263c89a4b38" data-media-id="51a043979fbc8f223323427c9b41330e" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/51a043979fbc8f223323427c9b41330e?postId=9263c89a4b38" data-media-id="51a043979fbc8f223323427c9b41330e" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -198,7 +198,7 @@ The pattern would be:
 
 
 
-<iframe width="700" height="250" src="/media/37ac6691b741d5468c386ab161fe3d7a?postId=9263c89a4b38" data-media-id="37ac6691b741d5468c386ab161fe3d7a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/37ac6691b741d5468c386ab161fe3d7a?postId=9263c89a4b38" data-media-id="37ac6691b741d5468c386ab161fe3d7a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -228,7 +228,7 @@ The pattern would be:
 
 
 
-<iframe width="700" height="250" src="/media/303e338c8a9242b4bf64cf5631eef887?postId=9263c89a4b38" data-media-id="303e338c8a9242b4bf64cf5631eef887" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/303e338c8a9242b4bf64cf5631eef887?postId=9263c89a4b38" data-media-id="303e338c8a9242b4bf64cf5631eef887" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -240,7 +240,7 @@ The pattern would be:
 
 
 
-<iframe width="700" height="250" src="/media/fa4c44521618a6dffbda28e8ff3b50d5?postId=9263c89a4b38" data-media-id="fa4c44521618a6dffbda28e8ff3b50d5" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/fa4c44521618a6dffbda28e8ff3b50d5?postId=9263c89a4b38" data-media-id="fa4c44521618a6dffbda28e8ff3b50d5" allowfullscreen="" frameborder="0"></iframe>
 
 
 

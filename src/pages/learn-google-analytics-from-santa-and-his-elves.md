@@ -1,7 +1,7 @@
 ---
 author: Christian-Peter Heimbach
 authorTwitter: https://twitter.com/cpheimbach
-authorFacebook: false
+authorFacebook: none
 title: "Learn Google Analytics from Santa and his Elves"
 subTitle: "The holidays are here! It’s time to grab some egg nog, kick back by a fire place, and toast to all the coding you crammed into 2016...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*ejm2tkSklF3ReBlktCIzIw.jpeg

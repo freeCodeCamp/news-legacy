@@ -1,7 +1,7 @@
 ---
 author: Sanchit Gera
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "RESTful Services Part III : HATEOAS and The Richardson Maturity Model"
 subTitle: "In Part I of this series, you learned the very basics of HTTP. We went over common HTTP constructs such as headers, URLs and the differen..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*aIZeZdKxowEWVX-rNXsmGQ.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Ryan Bigg
 authorTwitter: https://twitter.com/ryanbigg
-authorFacebook: false
+authorFacebook: none
 title: "Stop asking senior developers who aren’t looking. Start mentoring juniors."
 subTitle: "We have a diversity problem in the community, and that’s been talked about quite a lot when it comes to tangible things like gender and r..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*4jqkOFCQqdLHtMDqliqawg.png
@@ -118,7 +118,7 @@ Asim Aslam (@chuhnk) had a good tweet about this too:
 
 
 
-<iframe width="500" height="250" src="/media/aa3892b0ae44ceba16f9eedb1e73150d?postId=52e4aaf9d778" data-media-id="aa3892b0ae44ceba16f9eedb1e73150d" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/aa3892b0ae44ceba16f9eedb1e73150d?postId=52e4aaf9d778" data-media-id="aa3892b0ae44ceba16f9eedb1e73150d" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -150,7 +150,7 @@ What should you pair with your junior on? Well, Lydia Guarino has some good twee
 
 
 
-<iframe width="500" height="250" src="/media/f772f9379b826e27c98723d0278474ed?postId=52e4aaf9d778" data-media-id="f772f9379b826e27c98723d0278474ed" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/f772f9379b826e27c98723d0278474ed?postId=52e4aaf9d778" data-media-id="f772f9379b826e27c98723d0278474ed" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ What should you pair with your junior on? Well, Lydia Guarino has some good twee
 
 
 
-<iframe width="500" height="250" src="/media/7bf8112523fe5f00240386a6269a0b41?postId=52e4aaf9d778" data-media-id="7bf8112523fe5f00240386a6269a0b41" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/7bf8112523fe5f00240386a6269a0b41?postId=52e4aaf9d778" data-media-id="7bf8112523fe5f00240386a6269a0b41" allowfullscreen="" frameborder="0"></iframe>
 
 
 

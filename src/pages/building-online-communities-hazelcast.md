@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Building online communities: Hazelcast"
 subTitle: "Hazelcast is the leading open source in-memory data grid. It offers a small library that provides a clustering and data distribution plat..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*WWs9-w0G2vvEbHwGn-2kyg.png

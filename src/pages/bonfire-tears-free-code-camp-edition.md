@@ -1,7 +1,7 @@
 ---
 author: Tiffany White
 authorTwitter: https://twitter.com/TiffanyW_412
-authorFacebook: false
+authorFacebook: none
 title: "Crying Algorithm Tears"
 subTitle: "There comes a point in every new programmers life when they hit a barrier, a wall, a threshold between understanding and not understandin..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*reQ5pMmpwq1G06h-.jpg

@@ -1,7 +1,7 @@
 ---
 author: Taylor Milliman
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "After building my first React Native app, I’m now convinced it’s the future."
 subTitle: "After a few weeks of playing around with React Native, I just came away with my first real mobile app. It’s fairly simple, but it only to..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*FAZF7OhcN7P53L32co7NDw.png
@@ -46,7 +46,7 @@ Users can also bookmark recipes and easily share them with a friend.
 
 
 
-<iframe data-width="1920" data-height="1080" width="700" height="394" src="/media/983cd85893d00b31ab254046c69e6302?postId=d3c5e74f8fa8" data-media-id="983cd85893d00b31ab254046c69e6302" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F632989985_1280.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="1920" data-height="1080" width="700" height="394" src="https://medium.freecodecamp.org/media/983cd85893d00b31ab254046c69e6302?postId=d3c5e74f8fa8" data-media-id="983cd85893d00b31ab254046c69e6302" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F632989985_1280.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -124,7 +124,7 @@ To get a better feel for how all of this works, take a peek at the code for a si
 
 
 
-<iframe width="700" height="250" src="/media/24a1f4f92217198cff49df6deceb9062?postId=d3c5e74f8fa8" data-media-id="24a1f4f92217198cff49df6deceb9062" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/24a1f4f92217198cff49df6deceb9062?postId=d3c5e74f8fa8" data-media-id="24a1f4f92217198cff49df6deceb9062" allowfullscreen="" frameborder="0"></iframe>
 
 
 

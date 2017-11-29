@@ -1,7 +1,7 @@
 ---
 author: Conor Sheehan
 authorTwitter: https://twitter.com/conorsheez
-authorFacebook: false
+authorFacebook: none
 title: "Stop Making Me Sign Up!"
 subTitle: "Installing a new app can be exciting. When you’ve found one that may be just what you need, opening it is like unboxing a new toy. So why..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*DLamvbVT8WuoWimo-Xn6ow.jpeg

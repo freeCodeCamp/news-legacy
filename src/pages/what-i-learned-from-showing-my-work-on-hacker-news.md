@@ -1,7 +1,7 @@
 ---
 author: Siddharth Kshetrapal
 authorTwitter: https://twitter.com/siddharthkp
-authorFacebook: false
+authorFacebook: none
 title: "What I learned from showing my work on Hacker News"
 subTitle: "When writing JavaScript, I hate it that I have to leave my editor — and my train of thought — just to tab over to my terminal and install..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*7RPC33y9ttY_P2_-i2rPSw.jpeg
@@ -92,7 +92,7 @@ Show HN: Auto install npm dependencies as you codenews.ycombinator.com](https://
 
 
 
-<iframe width="500" height="250" src="/media/c3c93adc89212b01306fe050a754a3eb?postId=48c54d78d5f4" data-media-id="c3c93adc89212b01306fe050a754a3eb" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="500" height="250" src="https://medium.freecodecamp.org/media/c3c93adc89212b01306fe050a754a3eb?postId=48c54d78d5f4" data-media-id="c3c93adc89212b01306fe050a754a3eb" allowfullscreen="" frameborder="0"></iframe>
 
 
 

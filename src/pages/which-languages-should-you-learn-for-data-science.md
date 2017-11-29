@@ -1,7 +1,7 @@
 ---
 author: Peter Gleeson
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Which Languages Should You Learn For Data Science?"
 subTitle: "Data Science is an exciting field to work in, combining advanced statistical and quantitative skills with real-world programming ability...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*gSxUa9oNaBk1QJf6eqQYeg.jpeg

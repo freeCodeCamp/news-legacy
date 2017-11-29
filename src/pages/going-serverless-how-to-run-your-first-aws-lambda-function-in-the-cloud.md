@@ -1,7 +1,7 @@
 ---
 author: Adam Watt
 authorTwitter: https://twitter.com/InTechMansTerms
-authorFacebook: false
+authorFacebook: none
 title: "Going Serverless: how to run your first AWS Lambda function in the cloud"
 subTitle: "A decade ago, cloud servers abstracted away physical servers. And now, “Serverless” is abstracting away cloud servers...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*PxgWkgtWcOBFUyPHiwv96w.jpeg
@@ -44,7 +44,7 @@ We’ll be writing the function isPalindrome, which checks whether a passed stri
 
 
 
-<iframe width="700" height="250" src="/media/7d0021c5bb2001be25429efe9407ec22?postId=d866a9b51536" data-media-id="7d0021c5bb2001be25429efe9407ec22" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7d0021c5bb2001be25429efe9407ec22?postId=d866a9b51536" data-media-id="7d0021c5bb2001be25429efe9407ec22" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -104,7 +104,7 @@ For Name type in isPalindrome, for description type in a description of your new
 
 
 
-<iframe width="700" height="250" src="/media/1ada6a83976d127f9a9baf16ae1404df?postId=d866a9b51536" data-media-id="1ada6a83976d127f9a9baf16ae1404df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/1ada6a83976d127f9a9baf16ae1404df?postId=d866a9b51536" data-media-id="1ada6a83976d127f9a9baf16ae1404df" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -198,7 +198,7 @@ In the next steps, I’ll show you how to trigger it and pass it a string argume
 
 
 
-<iframe width="700" height="250" src="/media/aecd9dd76744e8a6ff0f4cb7c98f9274?postId=d866a9b51536" data-media-id="aecd9dd76744e8a6ff0f4cb7c98f9274" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/aecd9dd76744e8a6ff0f4cb7c98f9274?postId=d866a9b51536" data-media-id="aecd9dd76744e8a6ff0f4cb7c98f9274" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F20860228%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

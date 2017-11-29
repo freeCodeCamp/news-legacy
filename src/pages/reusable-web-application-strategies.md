@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "Reusable Web Application Strategies"
 subTitle: "Three patterns for running the same app in multiple spots"
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*0uyfg5ldLO2nfH7wZqJnfw.png

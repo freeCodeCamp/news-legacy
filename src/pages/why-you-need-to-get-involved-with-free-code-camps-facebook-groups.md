@@ -1,7 +1,7 @@
 ---
 author: Frederick Ige
 authorTwitter: https://twitter.com/CluelessFred
-authorFacebook: false
+authorFacebook: none
 title: "Why you should definitely get involved with one of freeCodeCamp’s study groups"
 subTitle: "I’m writing this article in hopes of convincing you to take advantage of an amazing opportunity that freeCodeCamp provides — one that can..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*MGpE8-kNygjx9Hto3r7CuA.jpeg
@@ -48,7 +48,7 @@ I’m an admin for my local group and I host weekly code meetups at our local bu
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/d75378e8097306d3415e76949a0684fd?postId=6b573bcf1b39" data-media-id="d75378e8097306d3415e76949a0684fd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4leNFsfq7CU%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/d75378e8097306d3415e76949a0684fd?postId=6b573bcf1b39" data-media-id="d75378e8097306d3415e76949a0684fd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4leNFsfq7CU%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

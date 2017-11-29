@@ -9,11 +9,11 @@ url: https://medium.freecodecamp.org/an-introduction-to-the-redux-first-routing-
 id: an-introduction-to-the-redux-first-routing-model-98926ebf53cb
 date: 2017-06-21T18:11:26.114Z
 tags: [
-  "React",
-  "Redux",
-  "React Router",
-  "JavaScript",
-  "Web Development"
+	"React",
+	"Redux",
+	"React Router",
+	"JavaScript",
+	"Web Development"
 ]
 ---
 # An Introduction to the Redux-First Routing Model
@@ -26,13 +26,10 @@ tags: [
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YjH6ffLqFDSht8owkh27Vg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
 ![](https://cdn-images-1.medium.com/max/2000/1*YjH6ffLqFDSht8owkh27Vg.png)
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*YjH6ffLqFDSht8owkh27Vg.png"&gt;</noscript>
 
 
 
@@ -74,11 +71,8 @@ Today, I want to bring your attention to the subject of routing in Redux. I’ll
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jVqKdcmriLFAHJyK_-UdyA.jpeg?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jVqKdcmriLFAHJyK_-UdyA.jpeg"&gt;</noscript>
 
 
 
@@ -114,11 +108,8 @@ _Manage session history with JavaScript_github.com](https://github.com/ReactTrai
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*0_bJSPoqNM4boebbLLE7KQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*0_bJSPoqNM4boebbLLE7KQ.png"&gt;</noscript>
 
 
 
@@ -166,11 +157,8 @@ We absolutely can, and it’s called _Redux-first routing_.
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*lfeB8kAUdreesG2bz23dWQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*lfeB8kAUdreesG2bz23dWQ.png"&gt;</noscript>
 
 
 
@@ -211,11 +199,8 @@ We can start by creating a conceptual model, by merging the foundational element
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*wWXqEGh4e4Jif4nhrb83AA.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="25"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*wWXqEGh4e4Jif4nhrb83AA.png"&gt;</noscript>
 
 
 
@@ -242,11 +227,8 @@ Some libraries, like React Router and [Vue Router](https://github.com/vuejs/vue-
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*wOIVe6JpubuZn7tJBpscDQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="28"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*wOIVe6JpubuZn7tJBpscDQ.png"&gt;</noscript>
 
 
 
@@ -266,11 +248,8 @@ Routing libraries may have different scopes of responsibility. (Click to enlarg
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*R_d_jeLBUp3hdjLeWRnz4Q.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="22"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*R_d_jeLBUp3hdjLeWRnz4Q.png"&gt;</noscript>
 
 
 
@@ -300,11 +279,8 @@ Redux boasts a one-way data flow/lifecycle model that likely needs no introducti
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*YjH6ffLqFDSht8owkh27Vg.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="21"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*YjH6ffLqFDSht8owkh27Vg.png"&gt;</noscript>
 
 
 
@@ -335,11 +311,8 @@ Note that this isn’t the _only_ way to accomplish Redux-first routing — 
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*DJxA_JAy2uAVaEEOa4dinw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="41"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*DJxA_JAy2uAVaEEOa4dinw.png"&gt;</noscript>
 
 
 
@@ -557,11 +530,8 @@ You may have noticed that `redux-first-routing` is only concerned with the navig
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*Xz7dcpPzdflqj9h68Gvgsw.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="25"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*Xz7dcpPzdflqj9h68Gvgsw.png"&gt;</noscript>
 
 
 
@@ -577,11 +547,8 @@ You can therefore pair it with a library like Universal Router to create a compl
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*jmse9v1kLbXb4kXk_BuJeQ.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="23"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*jmse9v1kLbXb4kXk_BuJeQ.png"&gt;</noscript>
 
 
 
@@ -599,11 +566,8 @@ Or, you could build opinionated bindings for your framework of choice — an
 
 
 
-![](https://cdn-images-1.medium.com/freeze/max/60/1*zlMQEODGNrKX6Cv3nxqP9A.png?q=20)
 
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas>
 
-<noscript class="js-progressiveMedia-inner">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*zlMQEODGNrKX6Cv3nxqP9A.png"&gt;</noscript>
 
 
 

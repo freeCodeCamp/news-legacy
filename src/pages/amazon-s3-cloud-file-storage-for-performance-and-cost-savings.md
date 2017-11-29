@@ -1,7 +1,7 @@
 ---
 author: Kangze Huang
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Amazon S3 — Cloud File Storage for Performance and Cost Savings"
 subTitle: "The Complete AWS Web Boilerplate — Tutorial 2"
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*Q6O661l2bPf6piXpVH6-ag.png

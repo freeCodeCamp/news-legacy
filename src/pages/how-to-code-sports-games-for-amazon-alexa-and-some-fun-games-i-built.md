@@ -50,7 +50,7 @@ Here is a sample of my new football game called _End Zone Football_. This shows 
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/9d466e3385ab9273fe0bcb393f18739a?postId=8179d2142f02" data-media-id="9d466e3385ab9273fe0bcb393f18739a" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/9d466e3385ab9273fe0bcb393f18739a?postId=8179d2142f02" data-media-id="9d466e3385ab9273fe0bcb393f18739a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -161,7 +161,7 @@ All skills must be certified before publication on the Amazon Store. When your s
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/ba15550fda81c51250b042ef4428548c?postId=8179d2142f02" data-media-id="ba15550fda81c51250b042ef4428548c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUIusNd9XkSE%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/ba15550fda81c51250b042ef4428548c?postId=8179d2142f02" data-media-id="ba15550fda81c51250b042ef4428548c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUIusNd9XkSE%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

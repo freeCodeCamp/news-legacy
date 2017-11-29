@@ -1,6 +1,6 @@
 ---
 author: Kaye Mao
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10155034576417268
 title: "5 Principles for Designing Delightful Digital Experiences for Seniors"
 subTitle: "When we got my grandfather his first smart phone, he was thrilled. He had heard all about the wonders of video calling, smart phone photo..."

@@ -1,7 +1,7 @@
 ---
 author: Adam Naor
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Why I quit Google and built an app that teaches personal finance to kids"
 subTitle: "Many of my friends thought I was crazy to leave a great position at Google to help parents and kids learn about money. Maybe they’re righ..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*lx-gHe0f2Z6FDTYscJbcnQ.jpeg

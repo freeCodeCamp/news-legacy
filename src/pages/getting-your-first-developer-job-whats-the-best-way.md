@@ -1,7 +1,7 @@
 ---
 author: Rick West
 authorTwitter: https://twitter.com/rick_west8
-authorFacebook: false
+authorFacebook: none
 title: "How I convinced an employer to take a chance on me and pay me to learn to code."
 subTitle: "I was a 29-year-old plumber with a wife, kids, and a mortgage. I enjoyed plumbing, but I wanted more. I wanted a job of the future...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*IWLSoJKIEA6MgCJfqmaKSw.jpeg

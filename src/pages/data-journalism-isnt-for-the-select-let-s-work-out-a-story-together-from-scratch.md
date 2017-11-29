@@ -1,7 +1,7 @@
 ---
 author: Mina Demian
 authorTwitter: https://twitter.com/minademjan
-authorFacebook: false
+authorFacebook: none
 title: "A Beginner’s Guide to Data Journalism: Let’s Build a Story From Scratch"
 subTitle: "This is an introductory guide on how to produce the beginnings of a piece of data journalism. We’re going to walk through it together, as..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*07n6A78xm2DwOM0mbeGvVA.jpeg

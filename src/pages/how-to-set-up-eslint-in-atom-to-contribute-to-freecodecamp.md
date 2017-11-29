@@ -1,7 +1,7 @@
 ---
 author: Gilbert
 authorTwitter: https://twitter.com/gilbertginsberg
-authorFacebook: false
+authorFacebook: none
 title: "How to set up ESLint in Atom so you can contribute to Open Source"
 subTitle: "If you want to contribute to open source projects like Free Code Camp, first you’ll need to set up linting...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9VCSFevPWwOvEfQV8HqnOg.jpeg

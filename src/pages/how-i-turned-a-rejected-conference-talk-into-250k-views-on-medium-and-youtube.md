@@ -1,7 +1,7 @@
 ---
 author: Beau Carnes
 authorTwitter: https://twitter.com/CarnesBeau
-authorFacebook: false
+authorFacebook: none
 title: "How I turned a rejected conference talk into 300K views on Medium and YouTube"
 subTitle: "I’ve failed at so many things...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*43iKsmU9DXMzbOUxyMf2fA.png

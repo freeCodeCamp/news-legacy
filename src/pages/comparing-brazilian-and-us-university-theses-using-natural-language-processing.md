@@ -1,7 +1,7 @@
 ---
 author: Déborah Mesquita
 authorTwitter: https://twitter.com/dehhmesquita
-authorFacebook: false
+authorFacebook: none
 title: "Comparing Brazilian and US university theses using natural language processing"
 subTitle: "People are more likely to consider a thesis that’s written by a student at a top-ranked University as better than a thesis produced by a ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*2I6E0Pox85Gnlp-pgjm99g.jpeg

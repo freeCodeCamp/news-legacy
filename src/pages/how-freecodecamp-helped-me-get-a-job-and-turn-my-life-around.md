@@ -1,7 +1,7 @@
 ---
 author: Adham El Banhawy
 authorTwitter: https://twitter.com/adham_benhawy
-authorFacebook: false
+authorFacebook: none
 title: "How freeCodeCamp helped me get a job and turn my life around"
 subTitle: "I was a just another happy college student, double majoring in Computer Science and Economics at a university in Egypt...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*eK0V4PvMLOIRDhuT9INiVw.png

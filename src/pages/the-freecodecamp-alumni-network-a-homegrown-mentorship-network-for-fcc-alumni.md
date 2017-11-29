@@ -1,7 +1,7 @@
 ---
 author: peterWeinberg
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "The freeCodeCamp Alumni Network: A homegrown mentorship network for FCC alumni"
 subTitle: "For the last year, I’ve been spending nearly all my free time learning to code. I’ve been a regular freeCodeCamp contributor, working on ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*uzAGnPWq3n77VgIY8yujAQ.png
@@ -67,7 +67,7 @@ There’s always room for improvement, but we’re pretty happy with the MVP tha
 
 
 
-<iframe data-width="640" data-height="480" width="980" height="735" src="/media/610dc5329d55c7d4048103c339f258a1?postId=529e4531c34f" data-media-id="610dc5329d55c7d4048103c339f258a1" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="980" height="735" src="https://medium.freecodecamp.org/media/610dc5329d55c7d4048103c339f258a1?postId=529e4531c34f" data-media-id="610dc5329d55c7d4048103c339f258a1" allowfullscreen="" frameborder="0"></iframe>
 
 
 

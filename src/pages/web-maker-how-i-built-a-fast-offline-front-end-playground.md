@@ -1,7 +1,7 @@
 ---
 author: kushagra gour
 authorTwitter: https://twitter.com/chinchang457
-authorFacebook: false
+authorFacebook: none
 title: "Web Maker — How I built a fast, offline front-end playground"
 subTitle: "Web Maker is a Chrome extension that gives you a blazing fast and offline front-end playground — right inside your browser...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*V5SvqQu7FekmKtIa0r4ZiQ.png

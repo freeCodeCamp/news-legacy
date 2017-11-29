@@ -111,7 +111,7 @@ How do you write a function that will choose the optimal set of activities from 
 
 
 
-<iframe width="700" height="250" src="/media/162e2f84b53436783bcfef29baced7da?postId=b4eb0605b4f3" data-media-id="162e2f84b53436783bcfef29baced7da" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/162e2f84b53436783bcfef29baced7da?postId=b4eb0605b4f3" data-media-id="162e2f84b53436783bcfef29baced7da" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -132,7 +132,7 @@ Here is the code for this algorithm:
 
 
 
-<iframe width="700" height="250" src="/media/38ec4bd487a3b85fa2a7bef7a464f6e6?postId=b4eb0605b4f3" data-media-id="38ec4bd487a3b85fa2a7bef7a464f6e6" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/38ec4bd487a3b85fa2a7bef7a464f6e6?postId=b4eb0605b4f3" data-media-id="38ec4bd487a3b85fa2a7bef7a464f6e6" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -227,7 +227,7 @@ Here is the code:
 
 
 
-<iframe width="700" height="250" src="/media/7363aa3df688d4922b712e3721156d35?postId=b4eb0605b4f3" data-media-id="7363aa3df688d4922b712e3721156d35" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7363aa3df688d4922b712e3721156d35?postId=b4eb0605b4f3" data-media-id="7363aa3df688d4922b712e3721156d35" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -319,7 +319,7 @@ Below is the code:
 
 
 
-<iframe width="700" height="250" src="/media/a30eece7ec06fbc59390e334268ce274?postId=b4eb0605b4f3" data-media-id="a30eece7ec06fbc59390e334268ce274" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/a30eece7ec06fbc59390e334268ce274?postId=b4eb0605b4f3" data-media-id="a30eece7ec06fbc59390e334268ce274" allowfullscreen="" frameborder="0"></iframe>
 
 
 

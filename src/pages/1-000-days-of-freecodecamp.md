@@ -71,7 +71,7 @@ Here’s to another exciting 1,000 days!
 
 
 
-<iframe data-width="640" data-height="480" width="980" height="735" src="/media/0b3b0d1ec5e9ba645dc82c428a3d4e21?postId=e44dba492748" data-media-id="0b3b0d1ec5e9ba645dc82c428a3d4e21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fg1aj9nFfac4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="980" height="735" src="https://medium.freecodecamp.org/media/0b3b0d1ec5e9ba645dc82c428a3d4e21?postId=e44dba492748" data-media-id="0b3b0d1ec5e9ba645dc82c428a3d4e21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fg1aj9nFfac4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

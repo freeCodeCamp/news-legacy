@@ -1,7 +1,7 @@
 ---
 author: Mariya Yao
 authorTwitter: https://twitter.com/thinkmariya
-authorFacebook: false
+authorFacebook: none
 title: "4 Approaches To Natural Language Processing &amp; Understanding"
 subTitle: "In 1971, Terry Winograd wrote the SHRDLU program while completing his PhD at MIT...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*DwKde6rZ8qMjtvJmmEzUjw.jpeg
@@ -56,7 +56,7 @@ OpenAI recently leveraged reinforcement learning to [teach to agents to design t
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/234d339c69d7de072e82affcd0fcadd3?postId=a077a4de04d4" data-media-id="234d339c69d7de072e82affcd0fcadd3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FliVFy7ZO4OA%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/234d339c69d7de072e82affcd0fcadd3?postId=a077a4de04d4" data-media-id="234d339c69d7de072e82affcd0fcadd3" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FliVFy7ZO4OA%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -239,7 +239,7 @@ If you have a spare hour and a half, I highly recommend you watch Percy Liang’
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/b6c0ae3994350b55095f3205a61f4850?postId=a077a4de04d4" data-media-id="b6c0ae3994350b55095f3205a61f4850" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmhHfnhh-pB4%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/b6c0ae3994350b55095f3205a61f4850?postId=a077a4de04d4" data-media-id="b6c0ae3994350b55095f3205a61f4850" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmhHfnhh-pB4%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

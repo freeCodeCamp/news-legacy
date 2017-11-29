@@ -1,7 +1,7 @@
 ---
 author: Gitter
 authorTwitter: https://twitter.com/gitchat
-authorFacebook: false
+authorFacebook: none
 title: "Building Online Communities: GitHub Teacher"
 subTitle: "We talked to the GitHub Training team about the free GitHub courses they offer to both developers and non-developers, as well as about th..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*SmXFsylaToQViickiQWpRg.png

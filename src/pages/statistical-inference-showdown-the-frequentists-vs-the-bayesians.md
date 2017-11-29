@@ -168,7 +168,7 @@ So, here is the derivation of ourintuitive formula 😏_._ You may now play with
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/2b9b219761629e3cbc1b6d99641f1ebb?postId=4c1c986f25de" data-media-id="2b9b219761629e3cbc1b6d99641f1ebb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fm.cdpn.io%2Fscreenshot-coming-soon-small.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/2b9b219761629e3cbc1b6d99641f1ebb?postId=4c1c986f25de" data-media-id="2b9b219761629e3cbc1b6d99641f1ebb" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fm.cdpn.io%2Fscreenshot-coming-soon-small.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Suz Hinton
 authorTwitter: https://twitter.com/noopkat
-authorFacebook: false
+authorFacebook: none
 title: "Lessons from my first year of live coding on Twitch"
 subTitle: "I gave streaming a go for the first time last July. Instead of gaming, which the majority of streamers on Twitch do, I wanted to stream t..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*tm8xC8CJV9ZimCCI.png
@@ -42,7 +42,7 @@ We have a lot of fun, and I like to call the live coding parts “massively mult
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/92434b6cdfcf80eec9b5f3bfef12680b?postId=41a32e2f41c1" data-media-id="92434b6cdfcf80eec9b5f3bfef12680b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhiHr3elQIrY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/92434b6cdfcf80eec9b5f3bfef12680b?postId=41a32e2f41c1" data-media-id="92434b6cdfcf80eec9b5f3bfef12680b" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhiHr3elQIrY%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

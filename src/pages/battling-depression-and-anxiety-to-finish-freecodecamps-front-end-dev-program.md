@@ -1,6 +1,6 @@
 ---
 author: Emily Aamodt
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10100728944476354
 title: "How I fought through anxiety and depression to finish freeCodeCamp’s front end dev program"
 subTitle: "I recently completed freeCodeCamp’s front end development program. Woohoo! It took me two and a half years, which initially made me cring..."

@@ -1,7 +1,7 @@
 ---
 author: Jonathan Solórzano-Hamilton
 authorTwitter: https://twitter.com/jhsolor
-authorFacebook: false
+authorFacebook: none
 title: "Your code stinks. Here’s what you can do about it."
 subTitle: "Humans stink. It’s nothing to be ashamed of: it is the inevitable consequence of our animal nature...."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*BZSZytmK-78-xGeK-P0_fw.jpeg

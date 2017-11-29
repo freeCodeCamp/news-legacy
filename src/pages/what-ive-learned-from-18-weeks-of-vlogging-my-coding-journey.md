@@ -1,7 +1,7 @@
 ---
 author: Ewa Mitulska-Wójcik
 authorTwitter: https://twitter.com/thedoerdoes
-authorFacebook: false
+authorFacebook: none
 title: "What I’ve learned from 18 weeks of vlogging my coding journey"
 subTitle: "I’m learning to code and I’m vlogging about it...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*RoOyNW7RSqa5Ld1wbQSAzA.jpeg
@@ -40,7 +40,7 @@ In 2016, I shot 18 weekly code vlogs (video blogs). I’m slowly publishing all 
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/8c0efcd9ac0f3bc87531eb8992344ad7?postId=4005a1e71b7d" data-media-id="8c0efcd9ac0f3bc87531eb8992344ad7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTWFNnbAylHI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/8c0efcd9ac0f3bc87531eb8992344ad7?postId=4005a1e71b7d" data-media-id="8c0efcd9ac0f3bc87531eb8992344ad7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTWFNnbAylHI%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -72,7 +72,7 @@ Here are some practical tips that will make vlogging easier. I wish I knew these
 
 
 
-<iframe data-width="435" data-height="226" width="435" height="226" src="/media/85e35b7cc27931b5dd65723dc0a369a7?postId=4005a1e71b7d" data-media-id="85e35b7cc27931b5dd65723dc0a369a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3o72EX5QZ9N9d51dqo%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="226" width="435" height="226" src="https://medium.freecodecamp.org/media/85e35b7cc27931b5dd65723dc0a369a7?postId=4005a1e71b7d" data-media-id="85e35b7cc27931b5dd65723dc0a369a7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3o72EX5QZ9N9d51dqo%2Fgiphy.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -146,7 +146,7 @@ I’ve found that by imagining that I’m talking to a friend who is also learni
 
 
 
-<iframe data-width="435" data-height="178" width="435" height="178" src="/media/f4f9bed047eb9d606b2f3df1b0287eee?postId=4005a1e71b7d" data-media-id="f4f9bed047eb9d606b2f3df1b0287eee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3o72EXwxMhN72EAO7C%2F200.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="435" data-height="178" width="435" height="178" src="https://medium.freecodecamp.org/media/f4f9bed047eb9d606b2f3df1b0287eee?postId=4005a1e71b7d" data-media-id="f4f9bed047eb9d606b2f3df1b0287eee" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3o72EXwxMhN72EAO7C%2F200.gif&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -232,7 +232,7 @@ In order to edit my vlogs, I use [Premiere Pro](http://www.adobe.com/products/pr
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/8c8db63268875cd1d888ef114ce66348?postId=4005a1e71b7d" data-media-id="8c8db63268875cd1d888ef114ce66348" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOO3QUSY6Xu8%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/8c8db63268875cd1d888ef114ce66348?postId=4005a1e71b7d" data-media-id="8c8db63268875cd1d888ef114ce66348" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOO3QUSY6Xu8%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

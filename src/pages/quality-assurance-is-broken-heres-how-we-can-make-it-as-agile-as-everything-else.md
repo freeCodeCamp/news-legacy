@@ -1,7 +1,7 @@
 ---
 author: Derwin
 authorTwitter: https://twitter.com/derwindevera
-authorFacebook: false
+authorFacebook: none
 title: "Quality Assurance is broken. Here’s how we can make it as agile as everything else."
 subTitle: "Process is the key to great software...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/0*13Pw6ew6bhXzg5wp.

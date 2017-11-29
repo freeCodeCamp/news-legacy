@@ -62,7 +62,7 @@ Since this is your first step, you also need to think of a meaningful name for y
 
 
 
-<iframe width="700" height="250" src="/media/c258bb4cd67b954b6b19323ddae3b5f4?postId=2ccfb58147db" data-media-id="c258bb4cd67b954b6b19323ddae3b5f4" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c258bb4cd67b954b6b19323ddae3b5f4?postId=2ccfb58147db" data-media-id="c258bb4cd67b954b6b19323ddae3b5f4" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -80,7 +80,7 @@ Once again, you can look at the problem statement for clarification. “Returns 
 
 
 
-<iframe width="700" height="250" src="/media/58081db23b460a339e4ecdfa48bca5a0?postId=2ccfb58147db" data-media-id="58081db23b460a339e4ecdfa48bca5a0" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/58081db23b460a339e4ecdfa48bca5a0?postId=2ccfb58147db" data-media-id="58081db23b460a339e4ecdfa48bca5a0" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -96,7 +96,7 @@ You know that if your function accepts the sentence, “I saw a hippopotamus,”
 
 
 
-<iframe width="700" height="250" src="/media/7b64d4f80041c044a7653dd41d077e46?postId=2ccfb58147db" data-media-id="7b64d4f80041c044a7653dd41d077e46" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7b64d4f80041c044a7653dd41d077e46?postId=2ccfb58147db" data-media-id="7b64d4f80041c044a7653dd41d077e46" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ Pseudocode is a series of precise statements written in spoken language comments
 
 
 
-<iframe width="700" height="250" src="/media/2ab3df7be5d12f9ca1669e74f5a4da3a?postId=2ccfb58147db" data-media-id="2ab3df7be5d12f9ca1669e74f5a4da3a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2ab3df7be5d12f9ca1669e74f5a4da3a?postId=2ccfb58147db" data-media-id="2ab3df7be5d12f9ca1669e74f5a4da3a" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -128,7 +128,7 @@ You know you’ve got a working solution when you can run your code and see the 
 
 
 
-<iframe width="700" height="250" src="/media/e1242b9cfd4ac83f3f1cea583201ce9a?postId=2ccfb58147db" data-media-id="e1242b9cfd4ac83f3f1cea583201ce9a" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/e1242b9cfd4ac83f3f1cea583201ce9a?postId=2ccfb58147db" data-media-id="e1242b9cfd4ac83f3f1cea583201ce9a" allowfullscreen="" frameborder="0"></iframe>
 
 
 

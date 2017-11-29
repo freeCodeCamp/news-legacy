@@ -1,7 +1,7 @@
 ---
 author: Ryan McDermott
 authorTwitter: https://twitter.com/ryconoclast
-authorFacebook: false
+authorFacebook: none
 title: "Programming Language Limericks"
 subTitle: "There once was a time bygone,
 Way back in computing’s dawn.

@@ -1,7 +1,7 @@
 ---
 author: Cory House
 authorTwitter: https://twitter.com/housecor
-authorFacebook: false
+authorFacebook: none
 title: "Handling State in React: Four Immutable Approaches to Consider"
 subTitle: "Perhaps the most common point of confusion in React today: state...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*OEjZQSVvWnGgUF-dTrTS_w.jpeg
@@ -42,7 +42,7 @@ Imagine you have a form for editing a user. It’s common to create a single cha
 
 
 
-<iframe width="700" height="250" src="/media/70b84d49e8d5ad2f862f979d2167d149?postId=d1f5c00249d5" data-media-id="70b84d49e8d5ad2f862f979d2167d149" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/70b84d49e8d5ad2f862f979d2167d149?postId=d1f5c00249d5" data-media-id="70b84d49e8d5ad2f862f979d2167d149" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -73,7 +73,7 @@ Here are four ways to treat state as immutable:
 
 
 
-<iframe width="700" height="250" src="/media/f5ddaa68eb17e0e8db81269f436494e7?postId=d1f5c00249d5" data-media-id="f5ddaa68eb17e0e8db81269f436494e7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/f5ddaa68eb17e0e8db81269f436494e7?postId=d1f5c00249d5" data-media-id="f5ddaa68eb17e0e8db81269f436494e7" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -96,7 +96,7 @@ Object spread is currently a [stage 3 feature](https://github.com/tc39/proposal-
 
 
 
-<iframe width="700" height="250" src="/media/ce78b1da0e46938bc508a836941c0c60?postId=d1f5c00249d5" data-media-id="ce78b1da0e46938bc508a836941c0c60" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/ce78b1da0e46938bc508a836941c0c60?postId=d1f5c00249d5" data-media-id="ce78b1da0e46938bc508a836941c0c60" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -113,7 +113,7 @@ You can even use destructuring and inlining to make this a one-liner:
 
 
 
-<iframe width="700" height="250" src="/media/202d91f41123d6bb535d337acab2f8d5?postId=d1f5c00249d5" data-media-id="202d91f41123d6bb535d337acab2f8d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/202d91f41123d6bb535d337acab2f8d5?postId=d1f5c00249d5" data-media-id="202d91f41123d6bb535d337acab2f8d5" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -131,7 +131,7 @@ These two approaches above are the most common and straightforward ways to handl
 
 
 
-<iframe width="700" height="250" src="/media/b69b1ed6d206d1024ac158e307a2258a?postId=d1f5c00249d5" data-media-id="b69b1ed6d206d1024ac158e307a2258a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b69b1ed6d206d1024ac158e307a2258a?postId=d1f5c00249d5" data-media-id="b69b1ed6d206d1024ac158e307a2258a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -151,7 +151,7 @@ Here’s an example, using an immutable map:
 
 
 
-<iframe width="700" height="250" src="/media/379c6a33451807f4d9ae73cfb8647c75?postId=d1f5c00249d5" data-media-id="379c6a33451807f4d9ae73cfb8647c75" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/379c6a33451807f4d9ae73cfb8647c75?postId=d1f5c00249d5" data-media-id="379c6a33451807f4d9ae73cfb8647c75" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -183,7 +183,7 @@ Since setState calls are batched, code like this leads to a bug:
 
 
 
-<iframe width="700" height="250" src="/media/2965a1e6c5581b5b8b33ff3ffccd7876?postId=d1f5c00249d5" data-media-id="2965a1e6c5581b5b8b33ff3ffccd7876" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2965a1e6c5581b5b8b33ff3ffccd7876?postId=d1f5c00249d5" data-media-id="2965a1e6c5581b5b8b33ff3ffccd7876" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -195,7 +195,7 @@ If you want to run code after a setState call has completed, use the callback fo
 
 
 
-<iframe width="700" height="250" src="/media/9f937bdbc41b9522430511f73bd70b88?postId=d1f5c00249d5" data-media-id="9f937bdbc41b9522430511f73bd70b88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9f937bdbc41b9522430511f73bd70b88?postId=d1f5c00249d5" data-media-id="9f937bdbc41b9522430511f73bd70b88" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1688997%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

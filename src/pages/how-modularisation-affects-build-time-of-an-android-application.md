@@ -1,7 +1,7 @@
 ---
 author: Nikita Kozlov
 authorTwitter: https://twitter.com/Nikita_E_Kozlov
-authorFacebook: false
+authorFacebook: none
 title: "How modularization can speed up your Android app’s built time"
 subTitle: "Developers will continue to add new features throughout an application’s lifetime. More code means not only longer build times — it means..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*J-1MC3QGbIuwq4tb-yr-iA.png

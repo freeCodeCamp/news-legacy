@@ -1,7 +1,7 @@
 ---
 author: Evaristo Caraballo
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "English, Population, Connectivity and Campsites"
 subTitle: "Free Code Camp offers a coding education that’s open source, free, and accessible. Sounds ideal, right?..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*wOQNiJVfv1weV_KLotsnyA.jpeg

@@ -1,7 +1,7 @@
 ---
 author: Sanket Meghani
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Introducing the new features that ECMAScript 2016 (ES7) adds to JavaScript"
 subTitle: "Since ECMAScript 2015 (also known as ES6) was released, it has introduced a huge set of new features. They include arrow functions, sets,..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*UdGS7qrmIMueYfILnJJ6QA.png

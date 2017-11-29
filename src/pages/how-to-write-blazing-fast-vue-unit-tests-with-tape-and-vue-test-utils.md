@@ -1,7 +1,7 @@
 ---
 author: Edd Yerburgh
 authorTwitter: https://twitter.com/EddYerburgh
-authorFacebook: false
+authorFacebook: none
 title: "Write blazing fast Vue unit tests with Tape and Vue Test Utils"
 subTitle: "Tape is the fastest framework for unit testing Vue components...."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*XgAqbm90jYFUxWA-8Z0zOw.png
@@ -98,7 +98,7 @@ Let’s make that setup file I spoke about earlier. Create a `test` directory, a
 
 
 
-<iframe width="700" height="250" src="/media/28d1dd4a6f3cc77c94fe9cae2dadab21?postId=be069ccd4acf" data-media-id="28d1dd4a6f3cc77c94fe9cae2dadab21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/28d1dd4a6f3cc77c94fe9cae2dadab21?postId=be069ccd4acf" data-media-id="28d1dd4a6f3cc77c94fe9cae2dadab21" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -112,7 +112,7 @@ Let’s write a smoke test in Tape. Create a new file called `List.spec.js` in t
 
 
 
-<iframe width="700" height="250" src="/media/7428a28b4031a63269bf1fcf82ccddc0?postId=be069ccd4acf" data-media-id="7428a28b4031a63269bf1fcf82ccddc0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7428a28b4031a63269bf1fcf82ccddc0?postId=be069ccd4acf" data-media-id="7428a28b4031a63269bf1fcf82ccddc0" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -160,7 +160,7 @@ Copy the test from below into `test/specs/List.spec.js`.
 
 
 
-<iframe width="700" height="250" src="/media/59b87883b93392ce0e13d9c8e6a61b31?postId=be069ccd4acf" data-media-id="59b87883b93392ce0e13d9c8e6a61b31" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/59b87883b93392ce0e13d9c8e6a61b31?postId=be069ccd4acf" data-media-id="59b87883b93392ce0e13d9c8e6a61b31" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -180,7 +180,7 @@ Copy the code below into `test/specs/MessageToggle.spec.js`:
 
 
 
-<iframe width="700" height="250" src="/media/9b66f6ecebecbe5ec25a38b65e68a1cf?postId=be069ccd4acf" data-media-id="9b66f6ecebecbe5ec25a38b65e68a1cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/9b66f6ecebecbe5ec25a38b65e68a1cf?postId=be069ccd4acf" data-media-id="9b66f6ecebecbe5ec25a38b65e68a1cf" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F13196123%3Fv%3D4%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

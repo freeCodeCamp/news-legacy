@@ -1,7 +1,7 @@
 ---
 author: David Rajnoch
 authorTwitter: https://twitter.com/DavidRajnoch
-authorFacebook: false
+authorFacebook: none
 title: "Why most startups should outsource their Machine Learning work."
 subTitle: "People say that machine learning is going to change the way the internet works. It will make businesses smarter, more effective, and more..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*60Rh2d12uWpz1cpZB3MOvA.jpeg

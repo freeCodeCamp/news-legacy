@@ -1,7 +1,7 @@
 ---
 author: Jaime J. Rios
 authorTwitter: https://twitter.com/jaimejrivers
-authorFacebook: false
+authorFacebook: none
 title: "Clobber imposter syndrome using your mental searchlight"
 subTitle: "“Stop that imposter! Seize them!”..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*gxEHN6WU6eyeKLVuQSJfNA.jpeg

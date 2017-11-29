@@ -1,7 +1,7 @@
 ---
 author: lars verspohl
 authorTwitter: https://twitter.com/lars_vers
-authorFacebook: false
+authorFacebook: none
 title: "Introducing the Data Visualization Community Survey 2017"
 subTitle: "Data visualization is a funny fish. It sort of stands on its own feet (or fins), but is also intimately entangled with other disciplines ..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*WjQFbFd4TbWOmO0wdiO7Eg.png
@@ -48,7 +48,7 @@ Whether you produce data visualizations as just one part of your job, or you spe
 
 
 
-<iframe data-width="760" data-height="500" width="700" height="461" src="/media/94dbad8046814eb4147cc0b948119524?postId=7c41e2b3ca9c" data-media-id="94dbad8046814eb4147cc0b948119524" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Flh6.googleusercontent.com%2F4SA_VWT163xCqtUeOrDxYDsdiawP6OC-1pTx6093HkANRd9ghIKo3Ocln1H1dRvH3lE%3Dw1200-h630-p&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="760" data-height="500" width="700" height="461" src="https://medium.freecodecamp.org/media/94dbad8046814eb4147cc0b948119524?postId=7c41e2b3ca9c" data-media-id="94dbad8046814eb4147cc0b948119524" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Flh6.googleusercontent.com%2F4SA_VWT163xCqtUeOrDxYDsdiawP6OC-1pTx6093HkANRd9ghIKo3Ocln1H1dRvH3lE%3Dw1200-h630-p&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

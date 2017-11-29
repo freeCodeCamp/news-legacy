@@ -1,7 +1,7 @@
 ---
 author: Rick West
 authorTwitter: https://twitter.com/rick_west8
-authorFacebook: false
+authorFacebook: none
 title: "How I transformed from a 30-year-old plumber into a 32-year-old web developer"
 subTitle: "Friends often ask me why I decided to give up a solid, well-paying job like plumbing in my 30s, then learn to code and become a web devel..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9I1CM_ZrPSSDMKl2WL5Lig.jpeg

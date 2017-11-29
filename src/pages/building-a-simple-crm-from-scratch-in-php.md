@@ -1,7 +1,7 @@
 ---
 author: Richard
 authorTwitter: https://twitter.com/chensformers
-authorFacebook: false
+authorFacebook: none
 title: "Build yourself a simple CRM from scratch in PHP and MySQL"
 subTitle: "Customer Relationship Management (CRM) is a system that manages customer interactions and data throughout the customer life-cycle between..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*9ZxDtBiAUyVo6anPUJxkcg.jpeg
@@ -144,7 +144,7 @@ Before we begin coding, we must specify the database information in `conf.php`, 
 
 
 
-<iframe width="700" height="250" src="/media/b7b1df99dcc02e755ba5463004a160e9?postId=58fef061b075" data-media-id="b7b1df99dcc02e755ba5463004a160e9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/b7b1df99dcc02e755ba5463004a160e9?postId=58fef061b075" data-media-id="b7b1df99dcc02e755ba5463004a160e9" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -179,7 +179,7 @@ This is a basic HTML5 template header. It includes a link to a custom stylesheet
 
 
 
-<iframe width="700" height="250" src="/media/05516c8efaac96cbb968c632ed0d1bf1?postId=58fef061b075" data-media-id="05516c8efaac96cbb968c632ed0d1bf1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/05516c8efaac96cbb968c632ed0d1bf1?postId=58fef061b075" data-media-id="05516c8efaac96cbb968c632ed0d1bf1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -197,7 +197,7 @@ This is a basic HTML5 template header. It includes a link to a custom stylesheet
 
 
 
-<iframe width="700" height="250" src="/media/245f34cbb9ba8a9c42aee52de5467e2d?postId=58fef061b075" data-media-id="245f34cbb9ba8a9c42aee52de5467e2d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/245f34cbb9ba8a9c42aee52de5467e2d?postId=58fef061b075" data-media-id="245f34cbb9ba8a9c42aee52de5467e2d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -211,7 +211,7 @@ Include the following code in style.css for menu styling (minified). It will tra
 
 
 
-<iframe width="700" height="250" src="/media/c0a2a72449ec397fc71b4c416217becd?postId=58fef061b075" data-media-id="c0a2a72449ec397fc71b4c416217becd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c0a2a72449ec397fc71b4c416217becd?postId=58fef061b075" data-media-id="c0a2a72449ec397fc71b4c416217becd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -225,7 +225,7 @@ Simple closing body and html tags.
 
 
 
-<iframe width="700" height="250" src="/media/2d2f81a3f979e5c7433a8c8edecdcd52?postId=58fef061b075" data-media-id="2d2f81a3f979e5c7433a8c8edecdcd52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2d2f81a3f979e5c7433a8c8edecdcd52?postId=58fef061b075" data-media-id="2d2f81a3f979e5c7433a8c8edecdcd52" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -239,7 +239,7 @@ This is the complete page template. The main content will go after `Section Titl
 
 
 
-<iframe width="700" height="250" src="/media/04e04b4c791c9e047274dfa5bf7bf374?postId=58fef061b075" data-media-id="04e04b4c791c9e047274dfa5bf7bf374" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/04e04b4c791c9e047274dfa5bf7bf374?postId=58fef061b075" data-media-id="04e04b4c791c9e047274dfa5bf7bf374" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -286,7 +286,7 @@ The Tasks page main content is a datagrid. The following two lines will give us 
 
 
 
-<iframe width="700" height="250" src="/media/7eb0c6d08bc91019688df259a0432b91?postId=58fef061b075" data-media-id="7eb0c6d08bc91019688df259a0432b91" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/7eb0c6d08bc91019688df259a0432b91?postId=58fef061b075" data-media-id="7eb0c6d08bc91019688df259a0432b91" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -313,7 +313,7 @@ We also need to use [set_query_filter](http://phpgrid.com/documentation/set_quer
 
 
 
-<iframe width="700" height="250" src="/media/054a75a2ffb029a8982d4f198218def1?postId=58fef061b075" data-media-id="054a75a2ffb029a8982d4f198218def1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/054a75a2ffb029a8982d4f198218def1?postId=58fef061b075" data-media-id="054a75a2ffb029a8982d4f198218def1" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -327,7 +327,7 @@ A Lead becomes an Opportunity once it is qualified. The Opportunities page is si
 
 
 
-<iframe width="700" height="250" src="/media/00ff29dc829807d0646e623b6b51479f?postId=58fef061b075" data-media-id="00ff29dc829807d0646e623b6b51479f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/00ff29dc829807d0646e623b6b51479f?postId=58fef061b075" data-media-id="00ff29dc829807d0646e623b6b51479f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -341,7 +341,7 @@ Customers/Won has the `Status = 3`. Similar to Leads and Opportunities, Customer
 
 
 
-<iframe width="700" height="250" src="/media/2734e061ef5a5427e1bc895c1f97b722?postId=58fef061b075" data-media-id="2734e061ef5a5427e1bc895c1f97b722" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/2734e061ef5a5427e1bc895c1f97b722?postId=58fef061b075" data-media-id="2734e061ef5a5427e1bc895c1f97b722" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -381,7 +381,7 @@ Each tab represents a table in the CRM database. `$_GET['gn']` will store the ta
 
 
 
-<iframe width="700" height="250" src="/media/c1135898e18ac15174a983dd7cbfdb4c?postId=58fef061b075" data-media-id="c1135898e18ac15174a983dd7cbfdb4c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/c1135898e18ac15174a983dd7cbfdb4c?postId=58fef061b075" data-media-id="c1135898e18ac15174a983dd7cbfdb4c" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -397,7 +397,7 @@ Since a sales manager needs to quickly find out whom a sale person is working wi
 
 
 
-<iframe width="700" height="250" src="/media/eab6a0c378cf85707ca28cfe2a419056?postId=58fef061b075" data-media-id="eab6a0c378cf85707ca28cfe2a419056" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="700" height="250" src="https://medium.freecodecamp.org/media/eab6a0c378cf85707ca28cfe2a419056?postId=58fef061b075" data-media-id="eab6a0c378cf85707ca28cfe2a419056" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24869808%3Fv%3D3%26s%3D400&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 

@@ -1,7 +1,7 @@
 ---
 author: Fatos Morina
 authorTwitter: https://twitter.com/FatosMorina
-authorFacebook: false
+authorFacebook: none
 title: "Why developers avoid writing tests… until it’s too late"
 subTitle: "Writing tests represents one of those few stages of software development that is usually overlooked, even though it may be one of the mos..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/0*UH-V4A_C066itlUL.jpg

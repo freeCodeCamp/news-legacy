@@ -1,7 +1,7 @@
 ---
 author: Andrew Burmistrov
-authorTwitter: false
-authorFacebook: false
+authorTwitter: none
+authorFacebook: none
 title: "Why you should never ask a developer to fix your bike"
 subTitle: "I used to work as a system administrator. I spent my days repairing PCs, doing backups, and restoring deleted emails that had suddenly be..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*Pl320OpAF3mO0Ln_KaBqmA.jpeg

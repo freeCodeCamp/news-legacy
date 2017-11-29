@@ -231,7 +231,7 @@ I also asked people on Twitter which VPNs they were using and got a variety of a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/02f972240f1b4663e1675bf69687efcc?postId=d5cdba361907" data-media-id="02f972240f1b4663e1675bf69687efcc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F619441903533031424%2F97EcZe3j_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/02f972240f1b4663e1675bf69687efcc?postId=d5cdba361907" data-media-id="02f972240f1b4663e1675bf69687efcc" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F619441903533031424%2F97EcZe3j_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -241,7 +241,7 @@ I also asked people on Twitter which VPNs they were using and got a variety of a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/d61ae8135356d941b08e7326f692cae6?postId=d5cdba361907" data-media-id="d61ae8135356d941b08e7326f692cae6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F835222955592413185%2FPD15eKVL_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/d61ae8135356d941b08e7326f692cae6?postId=d5cdba361907" data-media-id="d61ae8135356d941b08e7326f692cae6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F835222955592413185%2FPD15eKVL_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -251,7 +251,7 @@ I also asked people on Twitter which VPNs they were using and got a variety of a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/61587336b13b169de7de883dd293b07f?postId=d5cdba361907" data-media-id="61587336b13b169de7de883dd293b07f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F845193361719934976%2FTCsSd6wH_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/61587336b13b169de7de883dd293b07f?postId=d5cdba361907" data-media-id="61587336b13b169de7de883dd293b07f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F845193361719934976%2FTCsSd6wH_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -261,7 +261,7 @@ I also asked people on Twitter which VPNs they were using and got a variety of a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/281a82333b2bf50fb4752193bf798eb6?postId=d5cdba361907" data-media-id="281a82333b2bf50fb4752193bf798eb6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F644240889846501376%2FDhUW_jKO_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/281a82333b2bf50fb4752193bf798eb6?postId=d5cdba361907" data-media-id="281a82333b2bf50fb4752193bf798eb6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F644240889846501376%2FDhUW_jKO_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -271,7 +271,7 @@ I also asked people on Twitter which VPNs they were using and got a variety of a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/3b7b95a58cbabef1e965bf25c10e5e93?postId=d5cdba361907" data-media-id="3b7b95a58cbabef1e965bf25c10e5e93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F661180643007668224%2FWI5QZffY_bigger.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/3b7b95a58cbabef1e965bf25c10e5e93?postId=d5cdba361907" data-media-id="3b7b95a58cbabef1e965bf25c10e5e93" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F661180643007668224%2FWI5QZffY_bigger.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -281,7 +281,7 @@ I also asked people on Twitter which VPNs they were using and got a variety of a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/c158298f6459551343115847f3af0b19?postId=d5cdba361907" data-media-id="c158298f6459551343115847f3af0b19" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F665401204982325248%2Fs26iHO2Q_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/c158298f6459551343115847f3af0b19?postId=d5cdba361907" data-media-id="c158298f6459551343115847f3af0b19" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F665401204982325248%2Fs26iHO2Q_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -291,7 +291,7 @@ I also asked people on Twitter which VPNs they were using and got a variety of a
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/37b9d90ef382a7ee94f3f96fb91f355f?postId=d5cdba361907" data-media-id="37b9d90ef382a7ee94f3f96fb91f355f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F831874683985395712%2FLcTUk8Sd_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/37b9d90ef382a7ee94f3f96fb91f355f?postId=d5cdba361907" data-media-id="37b9d90ef382a7ee94f3f96fb91f355f" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F831874683985395712%2FLcTUk8Sd_bigger.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

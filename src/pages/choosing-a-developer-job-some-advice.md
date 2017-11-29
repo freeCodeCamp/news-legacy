@@ -1,7 +1,7 @@
 ---
 author: Gwendolyn Faraday
 authorTwitter: https://twitter.com/gwen_faraday
-authorFacebook: false
+authorFacebook: none
 title: "Choosing a Developer Job — Some Advice"
 subTitle: "I want to preface this article by saying that it came out of a recent personal experience that I had. I learned some invaluable lessons a..."
 coverSrc: https://cdn-images-1.medium.com/max/1600/1*lUt_r5AuCdVWCUYGwyMRyQ.jpeg

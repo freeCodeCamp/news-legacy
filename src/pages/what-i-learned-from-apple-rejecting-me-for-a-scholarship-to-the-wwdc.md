@@ -1,6 +1,6 @@
 ---
 author: Jonata Correa
-authorTwitter: false
+authorTwitter: none
 authorFacebook: https://facebook.com/10202437722859970
 title: "What I learned from Apple rejecting me for a scholarship to the WWDC"
 subTitle: "Every year, the Apple Worldwide Developers Conference (WWDC) takes place in San Jose, California. The conference is a showcase for Apple’..."
@@ -113,7 +113,7 @@ My final result is the following:
 
 
 
-<iframe data-width="640" data-height="480" width="640" height="480" src="/media/611fd6ea75a1897c79a59e2e207de528?postId=952e756ba586" data-media-id="611fd6ea75a1897c79a59e2e207de528" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUd2p2_BaJ7Q%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="640" data-height="480" width="640" height="480" src="https://medium.freecodecamp.org/media/611fd6ea75a1897c79a59e2e207de528?postId=952e756ba586" data-media-id="611fd6ea75a1897c79a59e2e207de528" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUd2p2_BaJ7Q%2Fhqdefault.jpg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 

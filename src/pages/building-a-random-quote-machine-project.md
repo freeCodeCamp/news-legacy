@@ -1,7 +1,7 @@
 ---
 author: Ayo Isaiah
 authorTwitter: https://twitter.com/AyIsaiah
-authorFacebook: false
+authorFacebook: none
 title: "Building a Random Quote Machine"
 subTitle: "I really wasn’t entirely satisfied with my first attempt at building a Random Quote Generator on Free Code Camp. It was ugly, and the quo..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*KB1NWVn6GX5hV0eq2W1mFg.jpeg

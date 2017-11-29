@@ -1,7 +1,7 @@
 ---
 author: Colt McAnlis
 authorTwitter: https://twitter.com/duhroach
-authorFacebook: false
+authorFacebook: none
 title: "Does Data Compression matter on a Quantum Internet?"
 subTitle: "Disclaimer: This is a hypothetical think piece. It is a personal opinion and doesn’t represent the opinion of any of the companies (or se..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*lpUAKGzSA_mCy3v7Z85iIA.jpeg

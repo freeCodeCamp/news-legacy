@@ -1,7 +1,7 @@
 ---
 author: Justice Mba
 authorTwitter: https://twitter.com/Daajust
-authorFacebook: false
+authorFacebook: none
 title: "Functional setState is the future of React"
 subTitle: "Update: I gave a follow up talk on this topic at React Rally. While this post is more about the “functional setState” pattern, the talk i..."
 coverSrc: https://cdn-images-1.medium.com/max/2000/1*K8A3aXts5rTCHYRcdHIR6g.jpeg
@@ -38,7 +38,7 @@ Update: I gave a follow up talk on this topic at React Rally. While this post is
 
 
 
-<iframe data-width="854" data-height="480" width="700" height="393" src="/media/28250583913bc649202d1967fce84740?postId=374f30401b6b" data-media-id="28250583913bc649202d1967fce84740" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ff4iiyy28VL4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="854" data-height="480" width="700" height="393" src="https://medium.freecodecamp.org/media/28250583913bc649202d1967fce84740?postId=374f30401b6b" data-media-id="28250583913bc649202d1967fce84740" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ff4iiyy28VL4%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -52,7 +52,7 @@ React has popularized functional programming in JavaScript. This has led to gian
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/fae8a74efae8754b2209b0e45a975dc6?postId=374f30401b6b" data-media-id="fae8a74efae8754b2209b0e45a975dc6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F568183848706379776%2F-WvGr4jS_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/fae8a74efae8754b2209b0e45a975dc6?postId=374f30401b6b" data-media-id="fae8a74efae8754b2209b0e45a975dc6" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F568183848706379776%2F-WvGr4jS_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -197,7 +197,7 @@ Here is a pen by [Sophia Shoemaker](https://medium.com/@shopsifter) that demos t
 
 
 
-<iframe data-width="800" data-height="600" width="700" height="525" src="/media/ead563dd6a4455dd58e698f9b9b55e56?postId=374f30401b6b" data-media-id="ead563dd6a4455dd58e698f9b9b55e56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F1007453.JEoEgN.small.67d79bc2-7865-4ca4-b746-3b31bf5467de.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="800" data-height="600" width="700" height="525" src="https://medium.freecodecamp.org/media/ead563dd6a4455dd58e698f9b9b55e56?postId=374f30401b6b" data-media-id="ead563dd6a4455dd58e698f9b9b55e56" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F1007453.JEoEgN.small.67d79bc2-7865-4ca4-b746-3b31bf5467de.png&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -217,7 +217,7 @@ Let’s consult the Oprah of React — Dan.
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/14415fdfa30d81fb774b9519692fbe8a?postId=374f30401b6b" data-media-id="14415fdfa30d81fb774b9519692fbe8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3CIuXYWIAActNI.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/14415fdfa30d81fb774b9519692fbe8a?postId=374f30401b6b" data-media-id="14415fdfa30d81fb774b9519692fbe8a" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3CIuXYWIAActNI.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -303,7 +303,7 @@ Well today, I present you with newly unearthed treasure — the **best-kept 
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/1c4129e6d55a4cee7d1883e97f2d207e?postId=374f30401b6b" data-media-id="1c4129e6d55a4cee7d1883e97f2d207e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3CH9gYXEAUKYyA.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/1c4129e6d55a4cee7d1883e97f2d207e?postId=374f30401b6b" data-media-id="1c4129e6d55a4cee7d1883e97f2d207e" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3CH9gYXEAUKYyA.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -356,7 +356,7 @@ Make testing easy!
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/a88652e93be61b95a4398076abb67134?postId=374f30401b6b" data-media-id="a88652e93be61b95a4398076abb67134" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3CJywQXgAQ-LRI.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/a88652e93be61b95a4398076abb67134?postId=374f30401b6b" data-media-id="a88652e93be61b95a4398076abb67134" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3CJywQXgAQ-LRI.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -368,7 +368,7 @@ You can also pass **extra** arguments to calculate the next state (this one blew
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/9d1a990f5b196684d044bc0a945aaa27?postId=374f30401b6b" data-media-id="9d1a990f5b196684d044bc0a945aaa27" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3CNX49XAAA8wJZ.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/9d1a990f5b196684d044bc0a945aaa27?postId=374f30401b6b" data-media-id="9d1a990f5b196684d044bc0a945aaa27" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3CNX49XAAA8wJZ.jpg%3Alarge&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
@@ -394,7 +394,7 @@ Hey, Dan! Any last words?
 
 
 
-<iframe data-width="500" data-height="185" width="500" height="185" src="/media/20b56059c49b2f1a2c4fbd0460758700?postId=374f30401b6b" data-media-id="20b56059c49b2f1a2c4fbd0460758700" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F553711083064541184%2F9VsY9i09_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
+<iframe data-width="500" data-height="185" width="500" height="185" src="https://medium.freecodecamp.org/media/20b56059c49b2f1a2c4fbd0460758700?postId=374f30401b6b" data-media-id="20b56059c49b2f1a2c4fbd0460758700" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F553711083064541184%2F9VsY9i09_bigger.jpeg&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen="" frameborder="0"></iframe>
 
 
 
