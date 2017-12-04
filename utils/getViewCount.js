@@ -1,7 +1,7 @@
 const axios = require('axios');
 const chalk = require('chalk');
 
-const url = 'http://localhost:7000/news/v1/get-views';
+const url = 'https://search.freecodecamp.org/news/v1/get-views';
 
 let viewIdMap = {};
 
