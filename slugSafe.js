@@ -44,7 +44,8 @@ Please enusre to commit these changes as they could break the build.
 If you feel this slug is safe, please raise an in issue at:
 
 https://github.com/freecodecamp/news
-`, 'yellow'
+`,
+      'yellow'
     );
     fse.rename(oldName, newName);
   }

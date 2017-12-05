@@ -67,7 +67,7 @@ class Results extends PureComponent {
 
   renderResultItems() {
     const { results } = this.props;
-    return results.map((result) => {
+    return results.map(result => {
       const { _index, _source: { description, title, url } } = result;
       return (
         <MediaWrapper key={url} url={url}>

@@ -11,11 +11,7 @@ import {
   types
 } from './';
 
-const {
-  foundStoredViews,
-  trackResourceView,
-  updateOnlineStatus
-} = types;
+const { foundStoredViews, trackResourceView, updateOnlineStatus } = types;
 
 const url = 'https://search.freecodecamp.org/news/v1/increment-views';
 
@@ -27,13 +23,11 @@ export function trackViewsEpic(action$) {
         .map(resp => ObsOf(resp))
         .catch(() => ObsOf({ status: 'fail', id: payload }))
     ),
-    mergeMap(({value: { status, id }}) => {
+    mergeMap(({ value: { status, id } }) => {
       return ObsOf(
-      status === 'success' ?
-      trackViewSuccess(id) :
-      trackViewFail(id)
-        );
-      })
+        status === 'success' ? trackViewSuccess(id) : trackViewFail(id)
+      );
+    })
   );
 }
 

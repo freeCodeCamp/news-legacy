@@ -58,4 +58,6 @@ export function retrieveCountsEpic(action$) {
 
 export default combineEpics(
   storeCountsEpic,
-  removeCountEpic, retrieveCountsEpic);
+  removeCountEpic,
+  retrieveCountsEpic
+);

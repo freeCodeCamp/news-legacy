@@ -64,7 +64,7 @@ export const reducer = handleActions(
     }),
     [types.updatePendingViewCounts]: (state, { payload }) => ({
       ...state,
-      pendingViewCounts: union(state.pendingViewCounts, [ payload ])
+      pendingViewCounts: union(state.pendingViewCounts, [payload])
     }),
     [types.updateOnlineStatus]: (state, { payload }) => ({
       ...state,

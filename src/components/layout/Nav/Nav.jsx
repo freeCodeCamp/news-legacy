@@ -22,10 +22,13 @@ function mapStateToProps(state) {
 }
 
 function mapDispatchToProps(dispatch) {
-  return bindActionCreators({
-    fetchSearchResults,
-    updateSearchTerm
-  }, dispatch);
+  return bindActionCreators(
+    {
+      fetchSearchResults,
+      updateSearchTerm
+    },
+    dispatch
+  );
 }
 
 class NewsNav extends Component {

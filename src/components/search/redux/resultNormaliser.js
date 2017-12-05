@@ -39,12 +39,11 @@ function newsNormaliser(doc) {
 function guideNormaliser(doc) {
   return {
     ...doc,
-  _source: {
-    ...doc._source,
-    description: formatExMdownFile(doc._source.body),
-    url: `https://guide.freecodecamp.org${doc._source.url}`
-
-  }
+    _source: {
+      ...doc._source,
+      description: formatExMdownFile(doc._source.body),
+      url: `https://guide.freecodecamp.org${doc._source.url}`
+    }
   };
 }
 

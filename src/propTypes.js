@@ -71,4 +71,3 @@ export const TilesPropTypes = {
 export const TimeAfterPublishPropTypes = {
   date: PropTypes.string.isRequired
 };
-
