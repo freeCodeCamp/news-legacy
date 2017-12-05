@@ -15,7 +15,7 @@ import {
 
 const { foundStoredViews, trackResourceView, updateOnlineStatus } = types;
 
-const url = 'http://localhost:7000/news/v1/increment-views';
+const url = 'https://search.freecodecamp.org/news/v1/increment-views';
 
 export function trackViewsEpic(action$) {
   return action$.pipe(
