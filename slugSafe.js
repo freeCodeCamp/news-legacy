@@ -9,7 +9,7 @@ function formatLog(str = '', colour = 'blue') {
   return chalk[colour](str);
 }
 
-const pagesPath = './src/pages';
+const pagesPath = './src/resource/text';
 const files = fse.readdirSync(pagesPath, 'utf8');
 const safeNameMap = files.filter(name => !(/\.jsx?$/).test(name)).reduce(
   (accu, current) => ({
@@ -41,10 +41,11 @@ It is now - ${formatLog(newName, 'green')}
 
 Please enusre to commit these changes as they could break the build.
 
-If you feel this slug is safe, please raise an in issue at
+If you feel this slug is safe, please raise an in issue at:
+
 https://github.com/freecodecamp/news
 `, 'yellow'
     );
+    fse.rename(oldName, newName);
   }
-  fse.rename(oldName, newName);
 });
