@@ -1,4 +1,3 @@
-import 'rxjs';
 import { combineEpics } from 'redux-observable';
 
 import searchEpic from '../components/search/redux/searchEpic';
