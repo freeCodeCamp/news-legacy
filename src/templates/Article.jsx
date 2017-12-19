@@ -50,6 +50,15 @@ class Article extends PureComponent {
       <article>
         <Helmet>
           <title>{title} | freeCodeCamp News</title>
+          <meta name="description" content={title} />
+
+          <meta name="twitter:card" value={title} />
+
+          <meta property="og:title" content={title} />
+          <meta property="og:type" content="article" />
+          <meta property="og:url" content={window.location.href} />
+          <meta property="og:image" content="http://example.com/image.jpg" />
+          <meta property="og:description" content={title} />
         </Helmet>
         <header>
           <ArticleMeta
