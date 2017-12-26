@@ -3,21 +3,30 @@ import React, { PureComponent } from 'react';
 import Helmet from 'react-helmet';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
+import openSocket from 'socket.io-client';
 
 import ArticleMeta from '../components/ArticleMeta.jsx';
 import { articlePropTypes as propTypes } from '../propTypes';
 import './article.less';
 
-import { trackResourceView } from '../redux';
+import {
+  trackResourceView,
+  getCurrentLiveViews,
+  setCurrentLiveViews } from '../redux';
 
-function mapStateToProps() {
-  return {};
+const socket = openSocket('https://freecodecamp-realtime.herokuapp.com');
+
+function mapStateToProps(state) {
+  const currentLiveViews = state.app.currentLiveViews;
+  return { currentLiveViews };
 }
 
 function mapDispatchToProps(dispatch) {
   return bindActionCreators(
     {
-      trackResourceView
+      trackResourceView,
+      getCurrentLiveViews,
+      setCurrentLiveViews
     },
     dispatch
   );
@@ -29,15 +38,32 @@ class Article extends PureComponent {
   }
 
   componentDidMount() {
-    const { id } = this.props.data.markdownRemark.frontmatter;
-    const { trackResourceView } = this.props;
-    trackResourceView(id);
+    const { id, title } = this.props.data.markdownRemark.frontmatter;
+    const { trackResourceView, getCurrentLiveViews, setCurrentLiveViews } = this.props;
+    // trackResourceView(id);
+    getCurrentLiveViews(title);
+    socket.emit('addViewer', id);
+    socket.on('addViewer', (newCount) => {
+      setCurrentLiveViews(newCount);
+    });
+    socket.on('removeViewer', (newCount) => {
+      setCurrentLiveViews(newCount);
+    });
   }
+
   componentDidUpdate() {
     const { id } = this.props.data.markdownRemark.frontmatter;
     const { trackResourceView } = this.props;
-    trackResourceView(id);
+    // trackResourceView(id);
   }
+
+  componentWillUnmount() {
+    const { id } = this.props.data.markdownRemark.frontmatter;
+    socket.emit('removeViewer', id);
+    socket.off('addViewer');
+    socket.off('removeViewer');
+  }
+
   render() {
     const {
       frontmatter,
@@ -46,6 +72,8 @@ class Article extends PureComponent {
       timeToRead
     } = this.props.data.markdownRemark;
     const { author, authorTwitter, authorFacebook, date, title } = frontmatter;
+    const { currentLiveViews = 0 } = this.props;
+
     return (
       <article>
         <Helmet>
@@ -57,6 +85,7 @@ class Article extends PureComponent {
             authorFacebook={authorFacebook}
             authorTwitter={authorTwitter}
             date={date}
+            liveViews={currentLiveViews}
             showSocial={true}
             time={timeToRead}
             views={viewCount}

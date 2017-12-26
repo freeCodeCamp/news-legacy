@@ -13,6 +13,7 @@ const isOnline =
 const initialState = {
   failedViewCounts: [],
   pendingViewCounts: [],
+  currentLiveViews: 0,
   isOnline
 };
 
@@ -21,6 +22,10 @@ export const types = createTypes(
     'clearFailedCounts',
     'foundStoredViews',
     'getStoredViews',
+
+    'getCurrentLiveViews',
+    'setCurrentLiveViews',
+
     'trackResourceView',
     'trackViewFail',
     'trackViewSuccess',
@@ -34,6 +39,10 @@ export const types = createTypes(
 export const clearFailedCounts = createAction(types.clearFailedCounts);
 export const foundStoredViews = createAction(types.foundStoredViews);
 export const getStoredViews = createAction(types.getStoredViews);
+
+export const getCurrentLiveViews = createAction(types.getCurrentLiveViews);
+export const setCurrentLiveViews = createAction(types.setCurrentLiveViews);
+
 export const nullAction = createAction('NULL_ACTION');
 export const trackResourceView = createAction(types.trackResourceView);
 export const trackViewSuccess = createAction(types.trackViewSuccess);
@@ -69,7 +78,13 @@ export const reducer = handleActions(
     [types.updateOnlineStatus]: (state, { payload }) => ({
       ...state,
       isOnline: payload
-    })
+    }),
+    [types.setCurrentLiveViews]: (state, { payload }) => {
+      return ({
+        ...state,
+        currentLiveViews: payload
+      });
+    }
   },
   initialState
 );

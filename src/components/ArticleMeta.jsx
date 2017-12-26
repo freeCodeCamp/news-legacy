@@ -38,10 +38,17 @@ function ArticleMeta(props) {
     authorFacebook,
     authorTwitter,
     date,
+    liveViews,
     showSocial,
     time,
     views
   } = props;
+
+  const liveViewCount = liveViews ? (
+    <span className='fire' title='views'>
+      <strong>Viewers</strong> {liveViews}
+    </span>) : null;
+
   return (
     <div className='author-block'>
       <div className='author-name'>
@@ -58,6 +65,7 @@ function ArticleMeta(props) {
         <span className='fire' title='views'>
           <FontAwesome name={'free-code-camp'} /> {views}
         </span>
+        {liveViewCount}
       </span>
     </div>
   );
