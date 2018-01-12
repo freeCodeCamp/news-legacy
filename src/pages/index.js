@@ -42,12 +42,12 @@ class IndexPage extends PureComponent {
     const { allArticles, articlesToRender } = this.state;
     const showLoadMore = allArticles.length > articlesToRender.length;
     return (
-      <div>
+      <div className='content'>
         <Helmet>
           <title>freeCodeCamp News | What do you like to know today?</title>
         </Helmet>
-        <h2>Latest news...</h2>
         <div className='article-container'>
+          <h2>Latest news...</h2>
           <Tiles articles={articlesToRender} />
           <div className='load-wrapper'>
             <button
@@ -58,6 +58,9 @@ class IndexPage extends PureComponent {
               Load More
             </button>
           </div>
+        </div>
+        <div className='sidebar'>
+          <h3>Recommended For You</h3>
         </div>
       </div>
     );

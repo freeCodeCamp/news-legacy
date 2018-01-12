@@ -44,14 +44,14 @@ function ArticleMeta(props) {
   } = props;
   return (
     <div className='author-block'>
-      <div className='author-name'>
-        <h4>
+      <span className='author-name'>
+        <strong>
           {author}
           {showSocial ? (
             <Social facebook={authorFacebook} twitter={authorTwitter} />
           ) : null}
-        </h4>
-      </div>
+        </strong>
+      </span>
       <span className='article-meta'>
         <TimeAfterPublish date={date} /> -{' '}
         <span title='Time to read'>{time} min</span>

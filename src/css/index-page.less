@@ -1,5 +1,33 @@
 @import (less) './globals.less';
 
+@media all and (max-width: 960px) {
+  .content {
+    display: flex;
+    flex-flow: column;
+  }
+}
+
+.content {
+  display: flex;
+	flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.article-container {
+  flex-grow: 1;
+	flex-shrink: 0;
+	flex-basis: 66.6666%;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.sidebar {
+  flex-grow: 1;
+	flex-shrink: 0;
+	flex-basis: 33.3333%;
+  padding-left: 1em;
+}
+
 .load-wrapper {
   display: flex;
   justify-content: space-around;
